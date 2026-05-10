@@ -1,0 +1,5384 @@
+[
+    {
+        "wikidata_id": "Q1987362",
+        "name": "Mitoc",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2kf3"
+    },
+    {
+        "wikidata_id": "Q1987061",
+        "name": "Secăreni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06wbr_b"
+    },
+    {
+        "wikidata_id": "Q1991577",
+        "name": "Văsieni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w6m9z"
+    },
+    {
+        "wikidata_id": "Q1992267",
+        "name": "Semionovca",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/06w49vv"
+    },
+    {
+        "wikidata_id": "Q1987732",
+        "name": "Step-Soci",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2kq1"
+    },
+    {
+        "wikidata_id": "Q1991193",
+        "name": "Poiana",
+        "description": "village in Soldănești district, Republic of Moldova",
+        "freebase_id": "/m/06wbl7q"
+    },
+    {
+        "wikidata_id": "Q1987780",
+        "name": "Brăviceni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w3hvh"
+    },
+    {
+        "wikidata_id": "Q1987789",
+        "name": "Clișova",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w7wq4"
+    },
+    {
+        "wikidata_id": "Q1987802",
+        "name": "Neculăieuca",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2lly"
+    },
+    {
+        "wikidata_id": "Q1988167",
+        "name": "Puțintei",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w9nqx"
+    },
+    {
+        "wikidata_id": "Q1988177",
+        "name": "Pohorniceni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2t_4"
+    },
+    {
+        "wikidata_id": "Q1988197",
+        "name": "Sămănanca",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w6b97"
+    },
+    {
+        "wikidata_id": "Q1988204",
+        "name": "Vîșcăuți",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w7flc"
+    },
+    {
+        "wikidata_id": "Q1988264",
+        "name": "Susleni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w1vjk"
+    },
+    {
+        "wikidata_id": "Q1989064",
+        "name": "Hiliuți",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0807qrn"
+    },
+    {
+        "wikidata_id": "Q1989253",
+        "name": "Dubna",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080d189"
+    },
+    {
+        "wikidata_id": "Q1987872",
+        "name": "Pelivan",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w4pnm"
+    },
+    {
+        "wikidata_id": "Q1986314",
+        "name": "Cioara",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w64_s"
+    },
+    {
+        "wikidata_id": "Q1990787",
+        "name": "Găuzeni",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w55j7"
+    },
+    {
+        "wikidata_id": "Q1990754",
+        "name": "Mihuleni",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/064m6bz"
+    },
+    {
+        "wikidata_id": "Q1990699",
+        "name": "Vadul-Rașcov",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/0464bwq"
+    },
+    {
+        "wikidata_id": "Q1990771",
+        "name": "Pohoarna",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w67yf"
+    },
+    {
+        "wikidata_id": "Q1991015",
+        "name": "Chipeșca",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w2xnr"
+    },
+    {
+        "wikidata_id": "Q1991085",
+        "name": "Cușmirca",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w6kn9"
+    },
+    {
+        "wikidata_id": "Q1991166",
+        "name": "Fuzăuca",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w50fj"
+    },
+    {
+        "wikidata_id": "Q1991107",
+        "name": "Răspopeni",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w8v8f"
+    },
+    {
+        "wikidata_id": "Q1991127",
+        "name": "Sămășcani",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w9712"
+    },
+    {
+        "wikidata_id": "Q1991175",
+        "name": "Șestaci",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w3r_8"
+    },
+    {
+        "wikidata_id": "Q1994060",
+        "name": "Crasnîi Octeabri",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9w3n"
+    },
+    {
+        "wikidata_id": "Q1994067",
+        "name": "Cuzmin",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czcyv_"
+    },
+    {
+        "wikidata_id": "Q1994278",
+        "name": "Korotnoye",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czd_14"
+    },
+    {
+        "wikidata_id": "Q1991158",
+        "name": "Parcani",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w1x3s"
+    },
+    {
+        "wikidata_id": "Q1991116",
+        "name": "Căplani",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080j61p"
+    },
+    {
+        "wikidata_id": "Q1991628",
+        "name": "Feștelița",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/0805243"
+    },
+    {
+        "wikidata_id": "Q1991651",
+        "name": "Ermoclia",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080pv4z"
+    },
+    {
+        "wikidata_id": "Q1994412",
+        "name": "Medeleni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/07xl7td"
+    },
+    {
+        "wikidata_id": "Q1986324",
+        "name": "Stolniceni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w5gd8"
+    },
+    {
+        "wikidata_id": "Q1993490",
+        "name": "Chioselia Rusă",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05sxwwh"
+    },
+    {
+        "wikidata_id": "Q1992285",
+        "name": "Copceac",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080mw6l"
+    },
+    {
+        "wikidata_id": "Q1991149",
+        "name": "Cobîlea",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w2shq"
+    },
+    {
+        "wikidata_id": "Q1992257",
+        "name": "Slobozia",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080dw91"
+    },
+    {
+        "wikidata_id": "Q1991137",
+        "name": "Antonești",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080lnhj"
+    },
+    {
+        "wikidata_id": "Q1987773",
+        "name": "Mateuți",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080c9_x"
+    },
+    {
+        "wikidata_id": "Q1987818",
+        "name": "Peciște",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080896j"
+    },
+    {
+        "wikidata_id": "Q1988189",
+        "name": "Cogîlniceni",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0805dfx"
+    },
+    {
+        "wikidata_id": "Q1988254",
+        "name": "Lipceni",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/064r8mq"
+    },
+    {
+        "wikidata_id": "Q1988247",
+        "name": "Păpăuți",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0809f0x"
+    },
+    {
+        "wikidata_id": "Q1988272",
+        "name": "Otac",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080k7zm"
+    },
+    {
+        "wikidata_id": "Q1994075",
+        "name": "Rotari",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czddth"
+    },
+    {
+        "wikidata_id": "Q1985915",
+        "name": "Călmățui",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w6grt"
+    },
+    {
+        "wikidata_id": "Q1986341",
+        "name": "Dancu",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w3ytk"
+    },
+    {
+        "wikidata_id": "Q1989049",
+        "name": "Mincenii de Jos",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/08082kp"
+    },
+    {
+        "wikidata_id": "Q1989073",
+        "name": "Solonceni",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080f5lc"
+    },
+    {
+        "wikidata_id": "Q1990712",
+        "name": "Brezoaia",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080gvwr"
+    },
+    {
+        "wikidata_id": "Q1989272",
+        "name": "Egoreni",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/0805d8z"
+    },
+    {
+        "wikidata_id": "Q1991678",
+        "name": "Ștefănești",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080mf43"
+    },
+    {
+        "wikidata_id": "Q1989653",
+        "name": "Oclanda",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/064mhr6"
+    },
+    {
+        "wikidata_id": "Q1989670",
+        "name": "Redi-Cereșnovăț",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080gs3_"
+    },
+    {
+        "wikidata_id": "Q1991202",
+        "name": "Glinjeni",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w5krt"
+    },
+    {
+        "wikidata_id": "Q1988241",
+        "name": "Gordinești",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080gzk6"
+    },
+    {
+        "wikidata_id": "Q1983268",
+        "name": "Climăuți",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080b158"
+    },
+    {
+        "wikidata_id": "Q1975093",
+        "name": "Bușăuca",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0806x3m"
+    },
+    {
+        "wikidata_id": "Q1982758",
+        "name": "Lipoveni",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/080j8v8"
+    },
+    {
+        "wikidata_id": "Q1985013",
+        "name": "Prajila",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czf7lq"
+    },
+    {
+        "wikidata_id": "Q1982778",
+        "name": "Valea Perjei",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz83cy"
+    },
+    {
+        "wikidata_id": "Q1975098",
+        "name": "Trifești",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080bbkj"
+    },
+    {
+        "wikidata_id": "Q1982568",
+        "name": "Cenac",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/064nbw5"
+    },
+    {
+        "wikidata_id": "Q1982177",
+        "name": "Sălcuța",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w909j"
+    },
+    {
+        "wikidata_id": "Q1984705",
+        "name": "Lunga",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czbj2t"
+    },
+    {
+        "wikidata_id": "Q1984329",
+        "name": "Gordinești",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064ljs1"
+    },
+    {
+        "wikidata_id": "Q1973590",
+        "name": "Naslavcea",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/064l32z"
+    },
+    {
+        "wikidata_id": "Q1975122",
+        "name": "Mereșeuca",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zn4_r"
+    },
+    {
+        "wikidata_id": "Q1975117",
+        "name": "Podgoreni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/064m81s"
+    },
+    {
+        "wikidata_id": "Q1982160",
+        "name": "Ursoaia",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w9kr4"
+    },
+    {
+        "wikidata_id": "Q1976447",
+        "name": "Bîrnova",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zjs84"
+    },
+    {
+        "wikidata_id": "Q1983138",
+        "name": "Corbu",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080hlzt"
+    },
+    {
+        "wikidata_id": "Q1982134",
+        "name": "Ciuflești",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w32j1"
+    },
+    {
+        "wikidata_id": "Q1982140",
+        "name": "Tocuz",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w4pg2"
+    },
+    {
+        "wikidata_id": "Q1984050",
+        "name": "Napadova",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czdk5c"
+    },
+    {
+        "wikidata_id": "Q1984314",
+        "name": "Cunicea",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cz8psg"
+    },
+    {
+        "wikidata_id": "Q1984403",
+        "name": "Ciripcău",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czd_yq"
+    },
+    {
+        "wikidata_id": "Q1984312",
+        "name": "Rădulenii Vechi",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cz8d2m"
+    },
+    {
+        "wikidata_id": "Q1984321",
+        "name": "Putinești",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czdtkk"
+    },
+    {
+        "wikidata_id": "Q1984511",
+        "name": "Cernița",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czc0zw"
+    },
+    {
+        "wikidata_id": "Q1984394",
+        "name": "Temeleuți",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czc8xz"
+    },
+    {
+        "wikidata_id": "Q1984779",
+        "name": "Cașunca",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czcb0p"
+    },
+    {
+        "wikidata_id": "Q1984752",
+        "name": "Domulgeni",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/064m3h7"
+    },
+    {
+        "wikidata_id": "Q1984695",
+        "name": "Sănătăuca",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czb8k1"
+    },
+    {
+        "wikidata_id": "Q1982766",
+        "name": "Sagaidac",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/09gbfm3"
+    },
+    {
+        "wikidata_id": "Q1982540",
+        "name": "Chircăiești",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w28mw"
+    },
+    {
+        "wikidata_id": "Q1982517",
+        "name": "Plop-Știubei",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w3r6s"
+    },
+    {
+        "wikidata_id": "Q1982525",
+        "name": "Taraclia",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06wb6j0"
+    },
+    {
+        "wikidata_id": "Q1984343",
+        "name": "Horești",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cp0wp1"
+    },
+    {
+        "wikidata_id": "Q1984761",
+        "name": "Glinjeni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/09gjj8q"
+    },
+    {
+        "wikidata_id": "Q1984995",
+        "name": "Sevirova",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cnzk1x"
+    },
+    {
+        "wikidata_id": "Q1983994",
+        "name": "Stolniceni",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064ptrq"
+    },
+    {
+        "wikidata_id": "Q1983962",
+        "name": "Rotunda",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064kbl2"
+    },
+    {
+        "wikidata_id": "Q1982925",
+        "name": "Topala",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz7y3j"
+    },
+    {
+        "wikidata_id": "Q1982751",
+        "name": "Porumbrei",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz9q9n"
+    },
+    {
+        "wikidata_id": "Q1982805",
+        "name": "Mihailovca",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0czckk2"
+    },
+    {
+        "wikidata_id": "Q1982788",
+        "name": "Suric",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0czdk4n"
+    },
+    {
+        "wikidata_id": "Q1982796",
+        "name": "Troițcoe",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz7_7m"
+    },
+    {
+        "wikidata_id": "Q1982920",
+        "name": "Satul Nou",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0czdbkg"
+    },
+    {
+        "wikidata_id": "Q1984026",
+        "name": "Fetești",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064krt6"
+    },
+    {
+        "wikidata_id": "Q1983166",
+        "name": "Cernoleuca",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080hlzb"
+    },
+    {
+        "wikidata_id": "Q1983150",
+        "name": "Sudarca",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080dhf3"
+    },
+    {
+        "wikidata_id": "Q1983176",
+        "name": "Pivniceni",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/0809nv0"
+    },
+    {
+        "wikidata_id": "Q1983211",
+        "name": "Teleșeuca",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/0809nvc"
+    },
+    {
+        "wikidata_id": "Q1983254",
+        "name": "Crișcăuți",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/064klzv"
+    },
+    {
+        "wikidata_id": "Q1983305",
+        "name": "Moșana",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/0806scd"
+    },
+    {
+        "wikidata_id": "Q1983956",
+        "name": "Alexeevca",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064kn49"
+    },
+    {
+        "wikidata_id": "Q1983964",
+        "name": "Brînzeni",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064mk5n"
+    },
+    {
+        "wikidata_id": "Q1983950",
+        "name": "Hancăuți",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064l24c"
+    },
+    {
+        "wikidata_id": "Q1983261",
+        "name": "Dondușeni",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/0809w8w"
+    },
+    {
+        "wikidata_id": "Q1983184",
+        "name": "Frasin",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080935y"
+    },
+    {
+        "wikidata_id": "Q1983983",
+        "name": "Bădragii Noi",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064k8ll"
+    },
+    {
+        "wikidata_id": "Q1984037",
+        "name": "Chetroșica Nouă",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064qlpq"
+    },
+    {
+        "wikidata_id": "Q1984014",
+        "name": "Terebna",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064n_wl"
+    },
+    {
+        "wikidata_id": "Q1984304",
+        "name": "Hincăuți",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064mwwf"
+    },
+    {
+        "wikidata_id": "Q1984353",
+        "name": "Trinca",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064pbtm"
+    },
+    {
+        "wikidata_id": "Q1981954",
+        "name": "Tartaul",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/064q1g9"
+    },
+    {
+        "wikidata_id": "Q1983201",
+        "name": "Corjova",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gm6nk"
+    },
+    {
+        "wikidata_id": "Q1983226",
+        "name": "Hrușova",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gq875"
+    },
+    {
+        "wikidata_id": "Q1984006",
+        "name": "Corpaci",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064kr0s"
+    },
+    {
+        "wikidata_id": "Q1983219",
+        "name": "Rîșcova",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09ghc25"
+    },
+    {
+        "wikidata_id": "Q1984336",
+        "name": "Gașpar",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064m5w4"
+    },
+    {
+        "wikidata_id": "Q1982151",
+        "name": "Batîr",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz8g71"
+    },
+    {
+        "wikidata_id": "Q1983241",
+        "name": "Plop",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080pgg4"
+    },
+    {
+        "wikidata_id": "Q1985020",
+        "name": "Cajba",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w8985"
+    },
+    {
+        "wikidata_id": "Q1984988",
+        "name": "Ciuciulea",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w5xxp"
+    },
+    {
+        "wikidata_id": "Q1985005",
+        "name": "Limbenii Noi",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w75b3"
+    },
+    {
+        "wikidata_id": "Q1985083",
+        "name": "Petrunea",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/064m5l6"
+    },
+    {
+        "wikidata_id": "Q1985096",
+        "name": "Sturzovca",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w1k9x"
+    },
+    {
+        "wikidata_id": "Q1983286",
+        "name": "Cimișeni",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09g9jyk"
+    },
+    {
+        "wikidata_id": "Q1983294",
+        "name": "Măgdăcești",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/04jnblt"
+    },
+    {
+        "wikidata_id": "Q1983565",
+        "name": "Hîrtopul Mare",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gglr8"
+    },
+    {
+        "wikidata_id": "Q1994814",
+        "name": "Mihailovka",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdtqk"
+    },
+    {
+        "wikidata_id": "Q554379",
+        "name": "Drăgănești",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09g9j2h"
+    },
+    {
+        "wikidata_id": "Q931268",
+        "name": "Balabanu",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/06w8x1x"
+    },
+    {
+        "wikidata_id": "Q1985529",
+        "name": "Bujor",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w39lt"
+    },
+    {
+        "wikidata_id": "Q1774904",
+        "name": "Corjeuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w7_64"
+    },
+    {
+        "wikidata_id": "Q1775921",
+        "name": "Cociulia",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080p_wn"
+    },
+    {
+        "wikidata_id": "Q1119342",
+        "name": "Dumbrăvița",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gnzlq"
+    },
+    {
+        "wikidata_id": "Q1121408",
+        "name": "Ialpujeni",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0czc314"
+    },
+    {
+        "wikidata_id": "Q1994867",
+        "name": "Dzerjinscoe",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdrr9"
+    },
+    {
+        "wikidata_id": "Q2021260",
+        "name": "Camenca",
+        "description": "town in Transnistria, Moldova",
+        "freebase_id": "/m/05y3jt"
+    },
+    {
+        "wikidata_id": "Q785757",
+        "name": "Pistruieni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w9g04"
+    },
+    {
+        "wikidata_id": "Q773754",
+        "name": "Pitușca",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch1msv"
+    },
+    {
+        "wikidata_id": "Q607663",
+        "name": "Crihana Veche",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp1g44"
+    },
+    {
+        "wikidata_id": "Q922098",
+        "name": "Mașcăuți",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gbsz0"
+    },
+    {
+        "wikidata_id": "Q772155",
+        "name": "Popeștii de Jos",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w2x9r"
+    },
+    {
+        "wikidata_id": "Q266957",
+        "name": "Tîrnauca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz49h"
+    },
+    {
+        "wikidata_id": "Q766502",
+        "name": "Vinogradnoe",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czc357"
+    },
+    {
+        "wikidata_id": "Q1994874",
+        "name": "Frunze",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czchgg"
+    },
+    {
+        "wikidata_id": "Q965055",
+        "name": "Meleșeni",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch5v64"
+    },
+    {
+        "wikidata_id": "Q939632",
+        "name": "Trușeni",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w3qb7"
+    },
+    {
+        "wikidata_id": "Q554337",
+        "name": "Sadovoe",
+        "description": "village in Bălți Municipality, Moldova",
+        "freebase_id": "/m/03cg4jw"
+    },
+    {
+        "wikidata_id": "Q1985824",
+        "name": "Caracui",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06wb7ml"
+    },
+    {
+        "wikidata_id": "Q768989",
+        "name": "Zubrești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/08078pj"
+    },
+    {
+        "wikidata_id": "Q1962859",
+        "name": "Rudi",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080gkdl"
+    },
+    {
+        "wikidata_id": "Q1998908",
+        "name": "Tîrnova",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080q5kd"
+    },
+    {
+        "wikidata_id": "Q1774926",
+        "name": "Borceag",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp1wgb"
+    },
+    {
+        "wikidata_id": "Q1774938",
+        "name": "Lopățica",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnyxjy"
+    },
+    {
+        "wikidata_id": "Q1775354",
+        "name": "Alexanderfeld",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cn_7cq"
+    },
+    {
+        "wikidata_id": "Q1775385",
+        "name": "Brînza",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/08q3cb"
+    },
+    {
+        "wikidata_id": "Q1775376",
+        "name": "Lucești",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cn_01q"
+    },
+    {
+        "wikidata_id": "Q894628",
+        "name": "Sectorul Botanica",
+        "description": "sector of Chișinău, Moldova",
+        "freebase_id": "/m/0273fdf"
+    },
+    {
+        "wikidata_id": "Q1267101",
+        "name": "Crocmaz",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080pndb"
+    },
+    {
+        "wikidata_id": "Q1994775",
+        "name": "Lenin",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz8lln"
+    },
+    {
+        "wikidata_id": "Q1985883",
+        "name": "Bălceana",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w5zh6"
+    },
+    {
+        "wikidata_id": "Q1985890",
+        "name": "Buțeni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w51hk"
+    },
+    {
+        "wikidata_id": "Q1985855",
+        "name": "Cățeleni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w5r2k"
+    },
+    {
+        "wikidata_id": "Q1116161",
+        "name": "Copanca",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w5s_h"
+    },
+    {
+        "wikidata_id": "Q1985849",
+        "name": "Obileni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/064klcy"
+    },
+    {
+        "wikidata_id": "Q1994768",
+        "name": "Hîrtop",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czbz1x"
+    },
+    {
+        "wikidata_id": "Q674870",
+        "name": "Sărata Nouă",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080jz7r"
+    },
+    {
+        "wikidata_id": "Q1994793",
+        "name": "Vărăncău",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/02qz6h5"
+    },
+    {
+        "wikidata_id": "Q212077",
+        "name": "Parkany",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/04q9_rp"
+    },
+    {
+        "wikidata_id": "Q4222553",
+        "name": "Noul Neamț Monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/0cq4d3"
+    },
+    {
+        "wikidata_id": "Q1985187",
+        "name": "Iabloana",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w6h8c"
+    },
+    {
+        "wikidata_id": "Q1985502",
+        "name": "Cobani",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w96nc"
+    },
+    {
+        "wikidata_id": "Q1985523",
+        "name": "Limbenii Vechi",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w9150"
+    },
+    {
+        "wikidata_id": "Q1774916",
+        "name": "Pelinei",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnzg_y"
+    },
+    {
+        "wikidata_id": "Q1775331",
+        "name": "Lebedenco",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp1bkv"
+    },
+    {
+        "wikidata_id": "Q676167",
+        "name": "Malaeshty",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cq84q"
+    },
+    {
+        "wikidata_id": "Q953060",
+        "name": "Blijnii Hutor",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czb062"
+    },
+    {
+        "wikidata_id": "Q378207",
+        "name": "Negurenii Vechi",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0809hr9"
+    },
+    {
+        "wikidata_id": "Q975671",
+        "name": "Lozova",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080k7t_"
+    },
+    {
+        "wikidata_id": "Q786580",
+        "name": "Racovăț",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080gby0"
+    },
+    {
+        "wikidata_id": "Q768278",
+        "name": "Horodca",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/06w6zw0"
+    },
+    {
+        "wikidata_id": "Q384974",
+        "name": "Colicăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06wbdrm"
+    },
+    {
+        "wikidata_id": "Q675184",
+        "name": "Saharna Monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/0c03g86"
+    },
+    {
+        "wikidata_id": "Q253311",
+        "name": "Tețcani",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w9qrc"
+    },
+    {
+        "wikidata_id": "Q267569",
+        "name": "Tănătari",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w8l1n"
+    },
+    {
+        "wikidata_id": "Q370804",
+        "name": "Ofatinți",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/02qz5t4"
+    },
+    {
+        "wikidata_id": "Q339778",
+        "name": "Gălășeni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0808bg1"
+    },
+    {
+        "wikidata_id": "Q369527",
+        "name": "Dereneu",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch524g"
+    },
+    {
+        "wikidata_id": "Q1692322",
+        "name": "Căpriana monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/02ryvh7"
+    },
+    {
+        "wikidata_id": "Q902720",
+        "name": "Șerpeni",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w17tl"
+    },
+    {
+        "wikidata_id": "Q537928",
+        "name": "Berlinți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w3jv6"
+    },
+    {
+        "wikidata_id": "Q1994829",
+        "name": "Dubovo",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czcnmn"
+    },
+    {
+        "wikidata_id": "Q748856",
+        "name": "Șirăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06wb1qv"
+    },
+    {
+        "wikidata_id": "Q1091723",
+        "name": "Negrea",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w69w4"
+    },
+    {
+        "wikidata_id": "Q782782",
+        "name": "Mîndîc",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w1scz"
+    },
+    {
+        "wikidata_id": "Q615562",
+        "name": "Cărbuna",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/0809h2_"
+    },
+    {
+        "wikidata_id": "Q1020448",
+        "name": "Lăpușna",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w37kz"
+    },
+    {
+        "wikidata_id": "Q1110932",
+        "name": "Cîrnățeni",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w1_bm"
+    },
+    {
+        "wikidata_id": "Q1465488",
+        "name": "Hâncu monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/025zvgf"
+    },
+    {
+        "wikidata_id": "Q1147711",
+        "name": "Coșernița",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/012dv9wx"
+    },
+    {
+        "wikidata_id": "Q8273147",
+        "name": "Japca Monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/0c00_tt"
+    },
+    {
+        "wikidata_id": "Q975903",
+        "name": "Ochiul Roș",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w39_j"
+    },
+    {
+        "wikidata_id": "Q1985833",
+        "name": "Fîrlădeni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w8q30"
+    },
+    {
+        "wikidata_id": "Q949622",
+        "name": "Talmaza",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080jqx9"
+    },
+    {
+        "wikidata_id": "Q385012",
+        "name": "Stroiești (Transnistria)",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/02qz5z_"
+    },
+    {
+        "wikidata_id": "Q1994835",
+        "name": "Plopi",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czf6rm"
+    },
+    {
+        "wikidata_id": "Q7376959",
+        "name": "Rudi Monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/0c01b0k"
+    },
+    {
+        "wikidata_id": "Q545313",
+        "name": "Vadul Turcului",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czp0r"
+    },
+    {
+        "wikidata_id": "Q1985863",
+        "name": "Voinescu",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w2h8p"
+    },
+    {
+        "wikidata_id": "Q726843",
+        "name": "Sîrma",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/0806zwt"
+    },
+    {
+        "wikidata_id": "Q748226",
+        "name": "Beșalma",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05s_c27"
+    },
+    {
+        "wikidata_id": "Q672969",
+        "name": "Chobruchi",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czcxvm"
+    },
+    {
+        "wikidata_id": "Q1994802",
+        "name": "Andreevca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/06w1ykh"
+    },
+    {
+        "wikidata_id": "Q1994821",
+        "name": "Bîcioc",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdl88"
+    },
+    {
+        "wikidata_id": "Q1994761",
+        "name": "Harmațca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz89xn"
+    },
+    {
+        "wikidata_id": "Q1994841",
+        "name": "Colosova",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czf8q3"
+    },
+    {
+        "wikidata_id": "Q1994854",
+        "name": "Comisarovca Nouă",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9473"
+    },
+    {
+        "wikidata_id": "Q1994785",
+        "name": "Molochișul Mare",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz8r1k"
+    },
+    {
+        "wikidata_id": "Q1994880",
+        "name": "Doibani I",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9m18"
+    },
+    {
+        "wikidata_id": "Q1994786",
+        "name": "Teya",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cmdbv_"
+    },
+    {
+        "wikidata_id": "Q1994861",
+        "name": "Mocra",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cnynq8"
+    },
+    {
+        "wikidata_id": "Q1994810",
+        "name": "Șipca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdpd3"
+    },
+    {
+        "wikidata_id": "Q1994846",
+        "name": "Țîbuleuca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czb6nm"
+    },
+    {
+        "wikidata_id": "Q568801",
+        "name": "Taraclia de Salcie",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cn_zm6"
+    },
+    {
+        "wikidata_id": "Q902615",
+        "name": "Bravicea",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4tny"
+    },
+    {
+        "wikidata_id": "Q1775900",
+        "name": "Haragîș",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080h_s8"
+    },
+    {
+        "wikidata_id": "Q1775910",
+        "name": "Pleșeni",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080cc_d"
+    },
+    {
+        "wikidata_id": "Q1775951",
+        "name": "Lărguța",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080bdyh"
+    },
+    {
+        "wikidata_id": "Q1776379",
+        "name": "Coștangalia",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/08058pb"
+    },
+    {
+        "wikidata_id": "Q1776404",
+        "name": "Cîrpești",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080kjdl"
+    },
+    {
+        "wikidata_id": "Q31227",
+        "name": "Tătărești",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp1v67"
+    },
+    {
+        "wikidata_id": "Q1995314",
+        "name": "Belochi",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz8hdc"
+    },
+    {
+        "wikidata_id": "Q1995287",
+        "name": "Delacău",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9jt4"
+    },
+    {
+        "wikidata_id": "Q739639",
+        "name": "Fundurii Noi",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w272_"
+    },
+    {
+        "wikidata_id": "Q784778",
+        "name": "Lingura",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080h_sn"
+    },
+    {
+        "wikidata_id": "Q693764",
+        "name": "Speia",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w2xsw"
+    },
+    {
+        "wikidata_id": "Q2038449",
+        "name": "Sectorul Rîșcani",
+        "description": "sector of Chișinău, Moldova",
+        "freebase_id": "/m/0273fds"
+    },
+    {
+        "wikidata_id": "Q585914",
+        "name": "Boghenii Noi",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080nhrs"
+    },
+    {
+        "wikidata_id": "Q768639",
+        "name": "Haraba",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdpdh"
+    },
+    {
+        "wikidata_id": "Q2002075",
+        "name": "Porumbești",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080c596"
+    },
+    {
+        "wikidata_id": "Q1995639",
+        "name": "Crasnogorca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czf192"
+    },
+    {
+        "wikidata_id": "Q733988",
+        "name": "Sărătenii Vechi",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w53d1"
+    },
+    {
+        "wikidata_id": "Q1995647",
+        "name": "Nezavertaylovka",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czf2gw"
+    },
+    {
+        "wikidata_id": "Q1995737",
+        "name": "Crasnencoe",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czd4g4"
+    },
+    {
+        "wikidata_id": "Q1995728",
+        "name": "Popencu",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/02qz59b"
+    },
+    {
+        "wikidata_id": "Q1995751",
+        "name": "Yerzhovo",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9_5d"
+    },
+    {
+        "wikidata_id": "Q1995768",
+        "name": "Speya",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czd14r"
+    },
+    {
+        "wikidata_id": "Q732065",
+        "name": "Cruglic",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/064lw_x"
+    },
+    {
+        "wikidata_id": "Q527946",
+        "name": "Olănești",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080b78l"
+    },
+    {
+        "wikidata_id": "Q674335",
+        "name": "Soltănești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w7vv_"
+    },
+    {
+        "wikidata_id": "Q781575",
+        "name": "Pererîta",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w5twr"
+    },
+    {
+        "wikidata_id": "Q959957",
+        "name": "Pervomaiscoe",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w84k5"
+    },
+    {
+        "wikidata_id": "Q932440",
+        "name": "Volintiri",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/0806sk4"
+    },
+    {
+        "wikidata_id": "Q383584",
+        "name": "Recea",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080gkjy"
+    },
+    {
+        "wikidata_id": "Q278456",
+        "name": "Tochile-Răducani",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080npn_"
+    },
+    {
+        "wikidata_id": "Q1092642",
+        "name": "Sectorul Ciocana",
+        "description": "sector of Chișinău, Moldova",
+        "freebase_id": "/m/0273fg4"
+    },
+    {
+        "wikidata_id": "Q1003159",
+        "name": "Sectorul Buiucani",
+        "description": "sector of Chișinău, Moldova",
+        "freebase_id": "/m/0273fgv"
+    },
+    {
+        "wikidata_id": "Q1778880",
+        "name": "Capaclia",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080jcx_"
+    },
+    {
+        "wikidata_id": "Q597381",
+        "name": "Valea-Trestieni",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w7bvc"
+    },
+    {
+        "wikidata_id": "Q508132",
+        "name": "Marianca de Jos",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080p_p1"
+    },
+    {
+        "wikidata_id": "Q1995623",
+        "name": "Butor",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czb4jq"
+    },
+    {
+        "wikidata_id": "Q1528087",
+        "name": "Giurgiulești",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0268d76"
+    },
+    {
+        "wikidata_id": "Q1985533",
+        "name": "Vărvăreuca",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czd38y"
+    },
+    {
+        "wikidata_id": "Q1961669",
+        "name": "Pocrovca",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080kj5p"
+    },
+    {
+        "wikidata_id": "Q607169",
+        "name": "Nișcani",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch1hsg"
+    },
+    {
+        "wikidata_id": "Q527832",
+        "name": "Băiuș",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080pnvx"
+    },
+    {
+        "wikidata_id": "Q1995338",
+        "name": "Ulmu",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czf7p5"
+    },
+    {
+        "wikidata_id": "Q1999757",
+        "name": "Elizaveta",
+        "description": "village in Bălți Municipality, Moldova",
+        "freebase_id": "/m/03cg4hh"
+    },
+    {
+        "wikidata_id": "Q305532",
+        "name": "Fîntînița",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w936h"
+    },
+    {
+        "wikidata_id": "Q1985430",
+        "name": "Sofia",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w70fz"
+    },
+    {
+        "wikidata_id": "Q1054385",
+        "name": "Sectorul Centru",
+        "description": "sector of Chișinău, Moldova",
+        "freebase_id": "/m/0273ffg"
+    },
+    {
+        "wikidata_id": "Q2708449",
+        "name": "New Tiraspol",
+        "description": "district in Tiraspol city, Transnistria / Moldova",
+        "freebase_id": "/m/06wbn80"
+    },
+    {
+        "wikidata_id": "Q585994",
+        "name": "Pîrîta",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/06w5krg"
+    },
+    {
+        "wikidata_id": "Q19315589",
+        "name": "Ciuflea Monastery",
+        "description": "architectural monument of national importance in Moldova",
+        "freebase_id": "/m/012wj6q7"
+    },
+    {
+        "wikidata_id": "Q773611",
+        "name": "Iliciovca",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/06w4ckl"
+    },
+    {
+        "wikidata_id": "Q2437972",
+        "name": "Roșu",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp0nj6"
+    },
+    {
+        "wikidata_id": "Q2437990",
+        "name": "Baimaclia",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w5wkb"
+    },
+    {
+        "wikidata_id": "Q2437657",
+        "name": "Ivanovca Nouă",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0czbbjd"
+    },
+    {
+        "wikidata_id": "Q2437686",
+        "name": "Gura Galbenei",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz9hlw"
+    },
+    {
+        "wikidata_id": "Q2438708",
+        "name": "Slobozia Mare",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp1t1c"
+    },
+    {
+        "wikidata_id": "Q2439162",
+        "name": "Maramonovca",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w3krv"
+    },
+    {
+        "wikidata_id": "Q2439149",
+        "name": "Pelinia",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w4r8r"
+    },
+    {
+        "wikidata_id": "Q2436879",
+        "name": "Calfa",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w5js5"
+    },
+    {
+        "wikidata_id": "Q2438168",
+        "name": "Ciucur-Mingir",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cnxyjv"
+    },
+    {
+        "wikidata_id": "Q2439047",
+        "name": "Huluboaia",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnylt_"
+    },
+    {
+        "wikidata_id": "Q2437513",
+        "name": "Botnărești",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w92h3"
+    },
+    {
+        "wikidata_id": "Q2437526",
+        "name": "Ciobanovca",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w91bj"
+    },
+    {
+        "wikidata_id": "Q2437419",
+        "name": "Zolotievca",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w3wcy"
+    },
+    {
+        "wikidata_id": "Q2438011",
+        "name": "Toceni",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080cz7t"
+    },
+    {
+        "wikidata_id": "Q2438652",
+        "name": "Găvănoasa",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnxj70"
+    },
+    {
+        "wikidata_id": "Q2439154",
+        "name": "Selemet",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0czdj01"
+    },
+    {
+        "wikidata_id": "Q2439042",
+        "name": "Molovata Nouă",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/03qcrk0"
+    },
+    {
+        "wikidata_id": "Q2437637",
+        "name": "Alexandru Ioan Cuza",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp13t9"
+    },
+    {
+        "wikidata_id": "Q2439132",
+        "name": "Ișnovăț",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gp542"
+    },
+    {
+        "wikidata_id": "Q2439140",
+        "name": "Goleni",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064m5nm"
+    },
+    {
+        "wikidata_id": "Q2438048",
+        "name": "Chioselia Mare",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp1nhz"
+    },
+    {
+        "wikidata_id": "Q2438640",
+        "name": "Pașcani",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gks01"
+    },
+    {
+        "wikidata_id": "Q2437649",
+        "name": "Medveja",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w1fqm"
+    },
+    {
+        "wikidata_id": "Q2438677",
+        "name": "Marcăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w6zzt"
+    },
+    {
+        "wikidata_id": "Q2438741",
+        "name": "Halahora de Sus",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w7m39"
+    },
+    {
+        "wikidata_id": "Q2438650",
+        "name": "Zăicana",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09glnql"
+    },
+    {
+        "wikidata_id": "Q2436887",
+        "name": "Roșcani",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w36k9"
+    },
+    {
+        "wikidata_id": "Q2439097",
+        "name": "Ustia",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/06w9vxr"
+    },
+    {
+        "wikidata_id": "Q2437556",
+        "name": "Hlina",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w92nz"
+    },
+    {
+        "wikidata_id": "Q2436897",
+        "name": "Delacău",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w3ktx"
+    },
+    {
+        "wikidata_id": "Q2439123",
+        "name": "Dubăsarii Vechi",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gpxfz"
+    },
+    {
+        "wikidata_id": "Q2439139",
+        "name": "Izbiște",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09ghxst"
+    },
+    {
+        "wikidata_id": "Q2436797",
+        "name": "Cobusca Veche",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w8vgz"
+    },
+    {
+        "wikidata_id": "Q2437550",
+        "name": "Telița",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w94fp"
+    },
+    {
+        "wikidata_id": "Q2437433",
+        "name": "Țînțăreni",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06wb21v"
+    },
+    {
+        "wikidata_id": "Q2437507",
+        "name": "Șamalia",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080pnkr"
+    },
+    {
+        "wikidata_id": "Q2436921",
+        "name": "Mereni",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w6qvt"
+    },
+    {
+        "wikidata_id": "Q2437444",
+        "name": "Tănătarii Noi",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w4nr1"
+    },
+    {
+        "wikidata_id": "Q2438002",
+        "name": "Grădinița",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w64rj"
+    },
+    {
+        "wikidata_id": "Q2437415",
+        "name": "Zaim",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/027m9pk"
+    },
+    {
+        "wikidata_id": "Q2437665",
+        "name": "Ucrainca",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w52x7"
+    },
+    {
+        "wikidata_id": "Q2437523",
+        "name": "Bahmut",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch0vm_"
+    },
+    {
+        "wikidata_id": "Q2439060",
+        "name": "Hăsnășenii Noi",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w43b4"
+    },
+    {
+        "wikidata_id": "Q2439129",
+        "name": "Cotova",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w4djc"
+    },
+    {
+        "wikidata_id": "Q2439088",
+        "name": "Horodiște",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/076vdxn"
+    },
+    {
+        "wikidata_id": "Q2438669",
+        "name": "Vișniovca",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/0803jvd"
+    },
+    {
+        "wikidata_id": "Q2439177",
+        "name": "Jevreni",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09ghc2k"
+    },
+    {
+        "wikidata_id": "Q2438037",
+        "name": "Larga",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w47wm"
+    },
+    {
+        "wikidata_id": "Q2436788",
+        "name": "Floreni",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w6vqn"
+    },
+    {
+        "wikidata_id": "Q2438661",
+        "name": "Gradiște",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0crjlxw"
+    },
+    {
+        "wikidata_id": "Q2436854",
+        "name": "Bulboaca",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/080plrh"
+    },
+    {
+        "wikidata_id": "Q2438721",
+        "name": "Javgur",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cz88v9"
+    },
+    {
+        "wikidata_id": "Q2436932",
+        "name": "Bogdănești",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w4hnn"
+    },
+    {
+        "wikidata_id": "Q2436781",
+        "name": "Bulboaca",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w7h_q"
+    },
+    {
+        "wikidata_id": "Q2437490",
+        "name": "Zîrnești",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnzk38"
+    },
+    {
+        "wikidata_id": "Q2438255",
+        "name": "Larga Nouă",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cn_m_d"
+    },
+    {
+        "wikidata_id": "Q2437192",
+        "name": "Văleni",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cmc80g"
+    },
+    {
+        "wikidata_id": "Q2438200",
+        "name": "Bucuria",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cny35p"
+    },
+    {
+        "wikidata_id": "Q2436906",
+        "name": "Chirca",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w5344"
+    },
+    {
+        "wikidata_id": "Q2436823",
+        "name": "Cobusca Nouă",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06wb77k"
+    },
+    {
+        "wikidata_id": "Q2436840",
+        "name": "Maximovca",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w2ss9"
+    },
+    {
+        "wikidata_id": "Q2436864",
+        "name": "Puhăceni",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w2vc5"
+    },
+    {
+        "wikidata_id": "Q2436813",
+        "name": "Beleavinți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w1ccd"
+    },
+    {
+        "wikidata_id": "Q2436834",
+        "name": "Coteala",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w2lfs"
+    },
+    {
+        "wikidata_id": "Q2439075",
+        "name": "Sofia",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w95bk"
+    },
+    {
+        "wikidata_id": "Q2437562",
+        "name": "Hîrbovăț",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w4h_d"
+    },
+    {
+        "wikidata_id": "Q2438696",
+        "name": "Codreni",
+        "description": "village in Cimișlia District, Moldova",
+        "freebase_id": "/m/0cnyvch"
+    },
+    {
+        "wikidata_id": "Q2438231",
+        "name": "Mihăileni",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w3xyr"
+    },
+    {
+        "wikidata_id": "Q2439116",
+        "name": "Oxentea",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/06w3d49"
+    },
+    {
+        "wikidata_id": "Q2438836",
+        "name": "Briceni",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/06w4p21"
+    },
+    {
+        "wikidata_id": "Q2437130",
+        "name": "Trebisăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w1rnr"
+    },
+    {
+        "wikidata_id": "Q2437181",
+        "name": "Slobozia-Șirăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w5jt6"
+    },
+    {
+        "wikidata_id": "Q2439147",
+        "name": "Drăsliceni",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gn_dm"
+    },
+    {
+        "wikidata_id": "Q2437452",
+        "name": "Caracușenii Vechi",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w9rjw"
+    },
+    {
+        "wikidata_id": "Q2437487",
+        "name": "Balasinești",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06wb57s"
+    },
+    {
+        "wikidata_id": "Q2437499",
+        "name": "Cotiujeni",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w41w2"
+    },
+    {
+        "wikidata_id": "Q2437676",
+        "name": "Drepcăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w3lzc"
+    },
+    {
+        "wikidata_id": "Q2437696",
+        "name": "Grimăncăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w4pyx"
+    },
+    {
+        "wikidata_id": "Q2437442",
+        "name": "Bălcăuți",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w5z9c"
+    },
+    {
+        "wikidata_id": "Q2437119",
+        "name": "Chetrosu",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w6sv3"
+    },
+    {
+        "wikidata_id": "Q2438687",
+        "name": "Gotești",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080m70t"
+    },
+    {
+        "wikidata_id": "Q2437164",
+        "name": "Hagimus",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/07l7ld"
+    },
+    {
+        "wikidata_id": "Q2437666",
+        "name": "Grigorievca",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w6t5t"
+    },
+    {
+        "wikidata_id": "Q2438731",
+        "name": "Manta",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnx4rm"
+    },
+    {
+        "wikidata_id": "Q2438065",
+        "name": "Kremenchug",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w31g9"
+    },
+    {
+        "wikidata_id": "Q2437568",
+        "name": "Țiganca",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080k3tv"
+    },
+    {
+        "wikidata_id": "Q2438075",
+        "name": "Ciobalaccia",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080mfbz"
+    },
+    {
+        "wikidata_id": "Q2438184",
+        "name": "Enichioi",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080mwdj"
+    },
+    {
+        "wikidata_id": "Q2438023",
+        "name": "Opaci",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w2cyt"
+    },
+    {
+        "wikidata_id": "Q2438089",
+        "name": "Săiți",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/06w6z94"
+    },
+    {
+        "wikidata_id": "Q2437102",
+        "name": "Vadul lui Isac",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/064kmmg"
+    },
+    {
+        "wikidata_id": "Q2437459",
+        "name": "Badicul Moldovenesc",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cn_bpb"
+    },
+    {
+        "wikidata_id": "Q2437538",
+        "name": "Andrușul de Sus",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnyfcn"
+    },
+    {
+        "wikidata_id": "Q2437428",
+        "name": "Tartaul de Salcie",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/076tp2l"
+    },
+    {
+        "wikidata_id": "Q2437950",
+        "name": "Baurci-Moldoveni",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cp0j_5"
+    },
+    {
+        "wikidata_id": "Q2437962",
+        "name": "Andrușul de Jos",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnx0yd"
+    },
+    {
+        "wikidata_id": "Q2437980",
+        "name": "Iujnoe",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnyrrg"
+    },
+    {
+        "wikidata_id": "Q2438100",
+        "name": "Cîșlița-Prut",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnxh25"
+    },
+    {
+        "wikidata_id": "Q2440333",
+        "name": "Bocani",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz8t2p"
+    },
+    {
+        "wikidata_id": "Q2440343",
+        "name": "Mărăndeni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czdy_4"
+    },
+    {
+        "wikidata_id": "Q2441241",
+        "name": "Tîrgul Vertiujeni",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cz7z6c"
+    },
+    {
+        "wikidata_id": "Q2439648",
+        "name": "Tîrnova",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064k0nh"
+    },
+    {
+        "wikidata_id": "Q2439519",
+        "name": "Baroncea",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w21lm"
+    },
+    {
+        "wikidata_id": "Q2441161",
+        "name": "Hiliuți",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz936g"
+    },
+    {
+        "wikidata_id": "Q2439308",
+        "name": "Antoneuca",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w3qpl"
+    },
+    {
+        "wikidata_id": "Q2439350",
+        "name": "Țarigrad",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w9n9w"
+    },
+    {
+        "wikidata_id": "Q2441203",
+        "name": "Catranîc",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz8mlw"
+    },
+    {
+        "wikidata_id": "Q2442438",
+        "name": "Răzeni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/0807ztt"
+    },
+    {
+        "wikidata_id": "Q2439849",
+        "name": "Chetrosu",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w7669"
+    },
+    {
+        "wikidata_id": "Q2439590",
+        "name": "Nicoreni",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/064nmv_"
+    },
+    {
+        "wikidata_id": "Q2439599",
+        "name": "Moara de Piatră",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w33sm"
+    },
+    {
+        "wikidata_id": "Q2439621",
+        "name": "Ochiul Alb",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06wb1zd"
+    },
+    {
+        "wikidata_id": "Q2439578",
+        "name": "Zgurița",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/03g_lkj"
+    },
+    {
+        "wikidata_id": "Q2439834",
+        "name": "Dominteni",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w50vl"
+    },
+    {
+        "wikidata_id": "Q2439871",
+        "name": "Hăsnășenii Mari",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w31ls"
+    },
+    {
+        "wikidata_id": "Q2439659",
+        "name": "Ciuciulea",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/0cz7y5m"
+    },
+    {
+        "wikidata_id": "Q2440217",
+        "name": "Pîrlița",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cnzvd_"
+    },
+    {
+        "wikidata_id": "Q2439502",
+        "name": "Coșnița",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/03qcrn3"
+    },
+    {
+        "wikidata_id": "Q2440094",
+        "name": "Lopatnic",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064q2wk"
+    },
+    {
+        "wikidata_id": "Q2439319",
+        "name": "Baraboi",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/0w50449"
+    },
+    {
+        "wikidata_id": "Q2439539",
+        "name": "Marcăuți",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/06w8jhb"
+    },
+    {
+        "wikidata_id": "Q2440758",
+        "name": "Mărculești",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/06w38nx"
+    },
+    {
+        "wikidata_id": "Q2439511",
+        "name": "Țaul",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080pnbc"
+    },
+    {
+        "wikidata_id": "Q2439628",
+        "name": "Rediul Mare",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/06zt1n7"
+    },
+    {
+        "wikidata_id": "Q2439824",
+        "name": "Popeștii de Sus",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w317s"
+    },
+    {
+        "wikidata_id": "Q2439862",
+        "name": "Bădragii Vechi",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064mdwf"
+    },
+    {
+        "wikidata_id": "Q2440142",
+        "name": "Hlinaia",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064n00_"
+    },
+    {
+        "wikidata_id": "Q2440115",
+        "name": "Șofrîncani",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064n5zp"
+    },
+    {
+        "wikidata_id": "Q2440083",
+        "name": "Viișoara",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064nyh5"
+    },
+    {
+        "wikidata_id": "Q2441814",
+        "name": "Cuhureștii de Jos",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cz7ypj"
+    },
+    {
+        "wikidata_id": "Q2441896",
+        "name": "Văscăuți",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czb8kf"
+    },
+    {
+        "wikidata_id": "Q2442301",
+        "name": "Ciutulești",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cnylys"
+    },
+    {
+        "wikidata_id": "Q2442270",
+        "name": "Ghindești",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czdzyf"
+    },
+    {
+        "wikidata_id": "Q2442276",
+        "name": "Gura Camencii",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czcwkk"
+    },
+    {
+        "wikidata_id": "Q2442309",
+        "name": "Japca",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czb4f0"
+    },
+    {
+        "wikidata_id": "Q2442336",
+        "name": "Roșietici",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czcjfj"
+    },
+    {
+        "wikidata_id": "Q2442362",
+        "name": "Trifănești",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/09glt_d"
+    },
+    {
+        "wikidata_id": "Q2439813",
+        "name": "Gribova",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06wbfd8"
+    },
+    {
+        "wikidata_id": "Q2440326",
+        "name": "Zăbriceni",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064p723"
+    },
+    {
+        "wikidata_id": "Q2440155",
+        "name": "Drochia",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w5nst"
+    },
+    {
+        "wikidata_id": "Q2440305",
+        "name": "Albinețul Vechi",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz86kj"
+    },
+    {
+        "wikidata_id": "Q2440250",
+        "name": "Egorovca",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz9lyd"
+    },
+    {
+        "wikidata_id": "Q2440266",
+        "name": "Ișcălău",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czc907"
+    },
+    {
+        "wikidata_id": "Q2440234",
+        "name": "Obreja Veche",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cp0t03"
+    },
+    {
+        "wikidata_id": "Q2440727",
+        "name": "Făleștii Noi",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czdk7t"
+    },
+    {
+        "wikidata_id": "Q2440647",
+        "name": "Risipeni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cnxlh8"
+    },
+    {
+        "wikidata_id": "Q2440683",
+        "name": "Natalievca",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz9pdp"
+    },
+    {
+        "wikidata_id": "Q2440685",
+        "name": "Pruteni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz8hb5"
+    },
+    {
+        "wikidata_id": "Q2441230",
+        "name": "Ciolacu Nou",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz9n5c"
+    },
+    {
+        "wikidata_id": "Q2441126",
+        "name": "Pînzăreni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0crgbxy"
+    },
+    {
+        "wikidata_id": "Q2441188",
+        "name": "Logofteni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz9lyz"
+    },
+    {
+        "wikidata_id": "Q2441133",
+        "name": "Taxobeni",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/04zyk55"
+    },
+    {
+        "wikidata_id": "Q2441167",
+        "name": "Scumpia",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czdm77"
+    },
+    {
+        "wikidata_id": "Q2441177",
+        "name": "Sărata Veche",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czchd_"
+    },
+    {
+        "wikidata_id": "Q2441197",
+        "name": "Pompa",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czcnjv"
+    },
+    {
+        "wikidata_id": "Q2441848",
+        "name": "Tătărăuca Veche",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/0807p9d"
+    },
+    {
+        "wikidata_id": "Q2441831",
+        "name": "Logănești",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w20xz"
+    },
+    {
+        "wikidata_id": "Q2442400",
+        "name": "Boghiceni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w2q_l"
+    },
+    {
+        "wikidata_id": "Q2442387",
+        "name": "Fundul Galbenei",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06wb8db"
+    },
+    {
+        "wikidata_id": "Q2442316",
+        "name": "Nemțeni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w7v5b"
+    },
+    {
+        "wikidata_id": "Q2439548",
+        "name": "Petreni",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w5wch"
+    },
+    {
+        "wikidata_id": "Q2439366",
+        "name": "Palanca",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w45_n"
+    },
+    {
+        "wikidata_id": "Q2439299",
+        "name": "Șalvirii Vechi",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w6nj3"
+    },
+    {
+        "wikidata_id": "Q2440060",
+        "name": "Șuri",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w5bqq"
+    },
+    {
+        "wikidata_id": "Q2440694",
+        "name": "Izvoare",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czb23p"
+    },
+    {
+        "wikidata_id": "Q2441141",
+        "name": "Hîncești",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz943z"
+    },
+    {
+        "wikidata_id": "Q2442327",
+        "name": "Hîjdieni",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w88s0"
+    },
+    {
+        "wikidata_id": "Q2442377",
+        "name": "Funduri Vechi",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/02q8mkr"
+    },
+    {
+        "wikidata_id": "Q2442409",
+        "name": "Dușmani",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06wbcp7"
+    },
+    {
+        "wikidata_id": "Q2440105",
+        "name": "Ruseni",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064p_js"
+    },
+    {
+        "wikidata_id": "Q2439298",
+        "name": "Stoianovca",
+        "description": "village in Cantemir District, Moldova",
+        "freebase_id": "/m/080jysg"
+    },
+    {
+        "wikidata_id": "Q2439318",
+        "name": "Elizavetovca",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080knp6"
+    },
+    {
+        "wikidata_id": "Q2439632",
+        "name": "Cepeleuți",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064lbnf"
+    },
+    {
+        "wikidata_id": "Q2440363",
+        "name": "Cuconeștii Noi",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064nsmv"
+    },
+    {
+        "wikidata_id": "Q2440353",
+        "name": "Parcova",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064lsct"
+    },
+    {
+        "wikidata_id": "Q2441867",
+        "name": "Balatina",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w4vvm"
+    },
+    {
+        "wikidata_id": "Q2442349",
+        "name": "Camenca",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w5590"
+    },
+    {
+        "wikidata_id": "Q2439877",
+        "name": "Scăieni",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/08074k2"
+    },
+    {
+        "wikidata_id": "Q2440691",
+        "name": "Pietrosu",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czb4hy"
+    },
+    {
+        "wikidata_id": "Q2439208",
+        "name": "Boșcana",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09g7wmf"
+    },
+    {
+        "wikidata_id": "Q2441150",
+        "name": "Călugăr",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cny10v"
+    },
+    {
+        "wikidata_id": "Q2439494",
+        "name": "Miciurin",
+        "description": "village in Drochia District, Moldova",
+        "freebase_id": "/m/06w5t49"
+    },
+    {
+        "wikidata_id": "Q2439530",
+        "name": "Doroțcaia",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/0269c5n"
+    },
+    {
+        "wikidata_id": "Q2439609",
+        "name": "Holercani",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/026s3_j"
+    },
+    {
+        "wikidata_id": "Q2439566",
+        "name": "Molovata",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/06w37c2"
+    },
+    {
+        "wikidata_id": "Q2442086",
+        "name": "Bardar",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080q01p"
+    },
+    {
+        "wikidata_id": "Q2442070",
+        "name": "Hansca",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/0803k0g"
+    },
+    {
+        "wikidata_id": "Q2440743",
+        "name": "Coșernița",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0cmb5ym"
+    },
+    {
+        "wikidata_id": "Q2442416",
+        "name": "Ustia",
+        "description": "village in Glodeni District, Moldova",
+        "freebase_id": "/m/06w8xyd"
+    },
+    {
+        "wikidata_id": "Q2440074",
+        "name": "Constantinovca",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064m21t"
+    },
+    {
+        "wikidata_id": "Q2440671",
+        "name": "Chetriș",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0cz7z9b"
+    },
+    {
+        "wikidata_id": "Q2439579",
+        "name": "Musteața",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czc_wf"
+    },
+    {
+        "wikidata_id": "Q2440129",
+        "name": "Ilenuța",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czf5rj"
+    },
+    {
+        "wikidata_id": "Q2440052",
+        "name": "Răuțel",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/064p3rh"
+    },
+    {
+        "wikidata_id": "Q2440121",
+        "name": "Năvîrneț",
+        "description": "village in Fălești District, Moldova",
+        "freebase_id": "/m/0czc24d"
+    },
+    {
+        "wikidata_id": "Q2440772",
+        "name": "Băhrinești",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czb6hr"
+    },
+    {
+        "wikidata_id": "Q2440660",
+        "name": "Vertiujeni",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/09rvmmj"
+    },
+    {
+        "wikidata_id": "Q2450726",
+        "name": "Coropceni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w1pm2"
+    },
+    {
+        "wikidata_id": "Q2452302",
+        "name": "Bănești",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w1rhy"
+    },
+    {
+        "wikidata_id": "Q2449728",
+        "name": "Cubolta",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gnzky"
+    },
+    {
+        "wikidata_id": "Q2452920",
+        "name": "Cornești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/06w24vv"
+    },
+    {
+        "wikidata_id": "Q2449656",
+        "name": "Bursuceni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09ggky0"
+    },
+    {
+        "wikidata_id": "Q2450511",
+        "name": "Crăsnășeni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w9386"
+    },
+    {
+        "wikidata_id": "Q2448227",
+        "name": "Recea",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080656l"
+    },
+    {
+        "wikidata_id": "Q2452952",
+        "name": "Măcărești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080mp8s"
+    },
+    {
+        "wikidata_id": "Q2448422",
+        "name": "Mihăileni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080jjmc"
+    },
+    {
+        "wikidata_id": "Q2452085",
+        "name": "Valea Perjei",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/06w9k4k"
+    },
+    {
+        "wikidata_id": "Q2452786",
+        "name": "Negureni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w2qs0"
+    },
+    {
+        "wikidata_id": "Q2449154",
+        "name": "Șaptebani",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080f73j"
+    },
+    {
+        "wikidata_id": "Q2448347",
+        "name": "Grinăuți",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080brmj"
+    },
+    {
+        "wikidata_id": "Q2448412",
+        "name": "Braniște",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080pfrw"
+    },
+    {
+        "wikidata_id": "Q2450096",
+        "name": "Onești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080llfj"
+    },
+    {
+        "wikidata_id": "Q2448306",
+        "name": "Pripiceni-Răzeși",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0807pfv"
+    },
+    {
+        "wikidata_id": "Q2452276",
+        "name": "Brînzenii Noi",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w1w0c"
+    },
+    {
+        "wikidata_id": "Q2449770",
+        "name": "Rădeni",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080gkk9"
+    },
+    {
+        "wikidata_id": "Q2452349",
+        "name": "Zgărdești",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w30jv"
+    },
+    {
+        "wikidata_id": "Q2452833",
+        "name": "Chițcanii Vechi",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w6z0k"
+    },
+    {
+        "wikidata_id": "Q2452776",
+        "name": "Ratuș",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w3bzt"
+    },
+    {
+        "wikidata_id": "Q2452857",
+        "name": "Ghiliceni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w2nwj"
+    },
+    {
+        "wikidata_id": "Q2452821",
+        "name": "Suhuluceni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w5y8c"
+    },
+    {
+        "wikidata_id": "Q2452877",
+        "name": "Mîndrești",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w5m5w"
+    },
+    {
+        "wikidata_id": "Q2452868",
+        "name": "Tîrșiței",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w4j92"
+    },
+    {
+        "wikidata_id": "Q2449927",
+        "name": "Micleușeni",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080jp3g"
+    },
+    {
+        "wikidata_id": "Q2448236",
+        "name": "Alexăndreni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gc35x"
+    },
+    {
+        "wikidata_id": "Q2450647",
+        "name": "Ghelăuza",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080kv8b"
+    },
+    {
+        "wikidata_id": "Q2450680",
+        "name": "Pănășești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/0805659"
+    },
+    {
+        "wikidata_id": "Q2452939",
+        "name": "Condrătești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080hf_t"
+    },
+    {
+        "wikidata_id": "Q2452338",
+        "name": "Micăuți",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080bykq"
+    },
+    {
+        "wikidata_id": "Q2450660",
+        "name": "Roșcani",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080m_0v"
+    },
+    {
+        "wikidata_id": "Q2449137",
+        "name": "Corlăteni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080hl7q"
+    },
+    {
+        "wikidata_id": "Q2449966",
+        "name": "Codrul Nou",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w67ys"
+    },
+    {
+        "wikidata_id": "Q2449947",
+        "name": "Ordășei",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w79hk"
+    },
+    {
+        "wikidata_id": "Q2449915",
+        "name": "Verejeni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w4bxj"
+    },
+    {
+        "wikidata_id": "Q2450465",
+        "name": "Inești",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w9b2q"
+    },
+    {
+        "wikidata_id": "Q2450535",
+        "name": "Ciulucani",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/064ljc3"
+    },
+    {
+        "wikidata_id": "Q2450438",
+        "name": "Cîșla",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w8gtz"
+    },
+    {
+        "wikidata_id": "Q2450501",
+        "name": "Nucăreni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w1wfs"
+    },
+    {
+        "wikidata_id": "Q2450494",
+        "name": "Chirianca",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080bjfy"
+    },
+    {
+        "wikidata_id": "Q2451032",
+        "name": "Hirișeni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w8cyv"
+    },
+    {
+        "wikidata_id": "Q2450672",
+        "name": "Romănești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080d7jt"
+    },
+    {
+        "wikidata_id": "Q2450716",
+        "name": "Scoreni",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/051ynmk"
+    },
+    {
+        "wikidata_id": "Q2451576",
+        "name": "Cairaclia",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/06w6mhg"
+    },
+    {
+        "wikidata_id": "Q2448298",
+        "name": "Horodiște",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080g619"
+    },
+    {
+        "wikidata_id": "Q2448592",
+        "name": "Văratic",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080k96y"
+    },
+    {
+        "wikidata_id": "Q2449754",
+        "name": "Țînțăreni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w4p0b"
+    },
+    {
+        "wikidata_id": "Q2449788",
+        "name": "Codreanca",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080nlt7"
+    },
+    {
+        "wikidata_id": "Q2448288",
+        "name": "Bilicenii Vechi",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gkkd5"
+    },
+    {
+        "wikidata_id": "Q2448364",
+        "name": "Coșcodeni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gc9zr"
+    },
+    {
+        "wikidata_id": "Q2449223",
+        "name": "Iezărenii Vechi",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gf3_5"
+    },
+    {
+        "wikidata_id": "Q2449208",
+        "name": "Prepelița",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gdyzh"
+    },
+    {
+        "wikidata_id": "Q2449702",
+        "name": "Bălășești",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09ghx2m"
+    },
+    {
+        "wikidata_id": "Q2449679",
+        "name": "Grigorăuca",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/0805rz9"
+    },
+    {
+        "wikidata_id": "Q2449740",
+        "name": "Dobrogea Veche",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09ggdb5"
+    },
+    {
+        "wikidata_id": "Q2449690",
+        "name": "Pepeni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09g80nh"
+    },
+    {
+        "wikidata_id": "Q2449790",
+        "name": "Heciul Nou",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gphql"
+    },
+    {
+        "wikidata_id": "Q2449764",
+        "name": "Tăura Veche",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09glg6v"
+    },
+    {
+        "wikidata_id": "Q2449777",
+        "name": "Sîngereii Noi",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09g80n3"
+    },
+    {
+        "wikidata_id": "Q2449797",
+        "name": "Țambula",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gnzm5"
+    },
+    {
+        "wikidata_id": "Q2451621",
+        "name": "Novosiolovca",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/06w4c4w"
+    },
+    {
+        "wikidata_id": "Q2452122",
+        "name": "Corten",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/06w23r2"
+    },
+    {
+        "wikidata_id": "Q2449753",
+        "name": "Rădoaia",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gl86t"
+    },
+    {
+        "wikidata_id": "Q2452361",
+        "name": "Aluatu",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/06w9l4j"
+    },
+    {
+        "wikidata_id": "Q2452806",
+        "name": "Chiștelnița",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w7jg5"
+    },
+    {
+        "wikidata_id": "Q2452795",
+        "name": "Bușila",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0804y4k"
+    },
+    {
+        "wikidata_id": "Q2450759",
+        "name": "Bogzești",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w2ybt"
+    },
+    {
+        "wikidata_id": "Q2452962",
+        "name": "Cornova",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080k4xz"
+    },
+    {
+        "wikidata_id": "Q2452290",
+        "name": "Țigănești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080nlsw"
+    },
+    {
+        "wikidata_id": "Q2452930",
+        "name": "Teșcureni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0805w2t"
+    },
+    {
+        "wikidata_id": "Q2450695",
+        "name": "Gălești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080m4pw"
+    },
+    {
+        "wikidata_id": "Q2448314",
+        "name": "Alexăndrești",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080cy1s"
+    },
+    {
+        "wikidata_id": "Q2448215",
+        "name": "Malinovscoe",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080m044"
+    },
+    {
+        "wikidata_id": "Q2448338",
+        "name": "Șumna",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080lfcd"
+    },
+    {
+        "wikidata_id": "Q2448395",
+        "name": "Răcăria",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080mty2"
+    },
+    {
+        "wikidata_id": "Q2449808",
+        "name": "Izvoare",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09g7h71"
+    },
+    {
+        "wikidata_id": "Q2449170",
+        "name": "Pociumbeni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0808bfh"
+    },
+    {
+        "wikidata_id": "Q2449668",
+        "name": "Duruitoarea Nouă",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080ml_q"
+    },
+    {
+        "wikidata_id": "Q2450737",
+        "name": "Scorțeni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w71hn"
+    },
+    {
+        "wikidata_id": "Q2452845",
+        "name": "Bumbăta",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/08086b6"
+    },
+    {
+        "wikidata_id": "Q2450480",
+        "name": "Tătărești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080gkjk"
+    },
+    {
+        "wikidata_id": "Q2449267",
+        "name": "Geamăna",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w5y1h"
+    },
+    {
+        "wikidata_id": "Q2449721",
+        "name": "Negrești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/0809dy6"
+    },
+    {
+        "wikidata_id": "Q2448328",
+        "name": "Sturzeni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080lmkf"
+    },
+    {
+        "wikidata_id": "Q2448373",
+        "name": "Singureni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0808xl4"
+    },
+    {
+        "wikidata_id": "Q2448384",
+        "name": "Petrușeni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0806c8s"
+    },
+    {
+        "wikidata_id": "Q2448555",
+        "name": "Borosenii Noi",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0808429"
+    },
+    {
+        "wikidata_id": "Q2448565",
+        "name": "Pociumbăuți",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/08079_z"
+    },
+    {
+        "wikidata_id": "Q2449739",
+        "name": "Greblești",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080fzs7"
+    },
+    {
+        "wikidata_id": "Q2450635",
+        "name": "Sireți",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080jp31"
+    },
+    {
+        "wikidata_id": "Q2450749",
+        "name": "Leușeni",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w71wb"
+    },
+    {
+        "wikidata_id": "Q2450547",
+        "name": "Budăi",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w4x6z"
+    },
+    {
+        "wikidata_id": "Q2452754",
+        "name": "Căzănești",
+        "description": "village in Telenești District, Moldova",
+        "freebase_id": "/m/06w88p7"
+    },
+    {
+        "wikidata_id": "Q2442443",
+        "name": "Ruseștii Noi",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080m1js"
+    },
+    {
+        "wikidata_id": "Q2442467",
+        "name": "Țipala",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/04213zm"
+    },
+    {
+        "wikidata_id": "Q2443307",
+        "name": "Gangura",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080lgww"
+    },
+    {
+        "wikidata_id": "Q2443211",
+        "name": "Zîmbreni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080fwdk"
+    },
+    {
+        "wikidata_id": "Q2446743",
+        "name": "Meșeni",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/06w1b4j"
+    },
+    {
+        "wikidata_id": "Q2442739",
+        "name": "Ceadîr",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080czlm"
+    },
+    {
+        "wikidata_id": "Q2442796",
+        "name": "Borogani",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080bmby"
+    },
+    {
+        "wikidata_id": "Q2442880",
+        "name": "Bobeica",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w9rn_"
+    },
+    {
+        "wikidata_id": "Q2442476",
+        "name": "Leușeni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w2x69"
+    },
+    {
+        "wikidata_id": "Q2443266",
+        "name": "Cupcui",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/064m1sj"
+    },
+    {
+        "wikidata_id": "Q2443416",
+        "name": "Sărata-Răzeși",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/08093tl"
+    },
+    {
+        "wikidata_id": "Q2445255",
+        "name": "Milești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w548l"
+    },
+    {
+        "wikidata_id": "Q2444588",
+        "name": "Bălăurești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w3vy4"
+    },
+    {
+        "wikidata_id": "Q2444600",
+        "name": "Bărboieni",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w60zz"
+    },
+    {
+        "wikidata_id": "Q2445290",
+        "name": "Purcari",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/03qgfp8"
+    },
+    {
+        "wikidata_id": "Q2445515",
+        "name": "Trifăuți",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/0807wlc"
+    },
+    {
+        "wikidata_id": "Q2445621",
+        "name": "Zastînca",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080ms64"
+    },
+    {
+        "wikidata_id": "Q2443742",
+        "name": "Hlinaia (Slobozia)",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czcjly"
+    },
+    {
+        "wikidata_id": "Q2442757",
+        "name": "Cneazevca",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080fgvq"
+    },
+    {
+        "wikidata_id": "Q2443318",
+        "name": "Beștemac",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080f8c8"
+    },
+    {
+        "wikidata_id": "Q2443394",
+        "name": "Hănăsenii Noi",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080h11n"
+    },
+    {
+        "wikidata_id": "Q2445219",
+        "name": "Bolțun",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w1z9x"
+    },
+    {
+        "wikidata_id": "Q2443380",
+        "name": "Sărățica Nouă",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080l344"
+    },
+    {
+        "wikidata_id": "Q2445204",
+        "name": "Vînători",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w41zj"
+    },
+    {
+        "wikidata_id": "Q2446066",
+        "name": "Echimăuți",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080k1qn"
+    },
+    {
+        "wikidata_id": "Q2445177",
+        "name": "Grozești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w72_2"
+    },
+    {
+        "wikidata_id": "Q2445280",
+        "name": "Vozneseni",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080pvlx"
+    },
+    {
+        "wikidata_id": "Q2445306",
+        "name": "Tomaiul Nou",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/0806djv"
+    },
+    {
+        "wikidata_id": "Q2446073",
+        "name": "Băxani",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080fd1m"
+    },
+    {
+        "wikidata_id": "Q2446110",
+        "name": "Visoca",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/08078mq"
+    },
+    {
+        "wikidata_id": "Q2443196",
+        "name": "Cazangic",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/0809p9s"
+    },
+    {
+        "wikidata_id": "Q2446147",
+        "name": "Șeptelici",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/0808p9w"
+    },
+    {
+        "wikidata_id": "Q2446580",
+        "name": "Sîrcova",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080gkp6"
+    },
+    {
+        "wikidata_id": "Q2446794",
+        "name": "Lalova",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080k7_j"
+    },
+    {
+        "wikidata_id": "Q2445595",
+        "name": "Holoșnița",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080973b"
+    },
+    {
+        "wikidata_id": "Q2446817",
+        "name": "Țareuca",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0805llj"
+    },
+    {
+        "wikidata_id": "Q2447359",
+        "name": "Ghiduleni",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080nlyy"
+    },
+    {
+        "wikidata_id": "Q2446115",
+        "name": "Iarova",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080kn4w"
+    },
+    {
+        "wikidata_id": "Q2446124",
+        "name": "Nimereuca",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/0807gpt"
+    },
+    {
+        "wikidata_id": "Q2442836",
+        "name": "Ulmu",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080fgqd"
+    },
+    {
+        "wikidata_id": "Q2447087",
+        "name": "Cuizăuca",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080kvcx"
+    },
+    {
+        "wikidata_id": "Q2445169",
+        "name": "Boldurești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w1d73"
+    },
+    {
+        "wikidata_id": "Q2447544",
+        "name": "Cinișeuți",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/080j9gr"
+    },
+    {
+        "wikidata_id": "Q2445266",
+        "name": "Ciorești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w3c8s"
+    },
+    {
+        "wikidata_id": "Q2445237",
+        "name": "Iurceni",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w6_s8"
+    },
+    {
+        "wikidata_id": "Q2445293",
+        "name": "Marinici",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w3ptd"
+    },
+    {
+        "wikidata_id": "Q2443220",
+        "name": "Romanovca",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080g0s5"
+    },
+    {
+        "wikidata_id": "Q2447531",
+        "name": "Seliște",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w5c7k"
+    },
+    {
+        "wikidata_id": "Q2447350",
+        "name": "Alcedar",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w8twc"
+    },
+    {
+        "wikidata_id": "Q2446729",
+        "name": "Cioburciu",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080f811"
+    },
+    {
+        "wikidata_id": "Q2443369",
+        "name": "Puhoi",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/064m812"
+    },
+    {
+        "wikidata_id": "Q2443254",
+        "name": "Șipoteni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w9tjh"
+    },
+    {
+        "wikidata_id": "Q2443340",
+        "name": "Sărăteni",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080cdcc"
+    },
+    {
+        "wikidata_id": "Q2447341",
+        "name": "Tudora",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080fnnw"
+    },
+    {
+        "wikidata_id": "Q2442817",
+        "name": "Horești",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080mfm7"
+    },
+    {
+        "wikidata_id": "Q2442783",
+        "name": "Filipeni",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080hmt2"
+    },
+    {
+        "wikidata_id": "Q2445227",
+        "name": "Călimănești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w84qb"
+    },
+    {
+        "wikidata_id": "Q2443286",
+        "name": "Pogănești",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w3cs7"
+    },
+    {
+        "wikidata_id": "Q2443185",
+        "name": "Mingir",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w4scg"
+    },
+    {
+        "wikidata_id": "Q2442455",
+        "name": "Malcoci",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080lw0l"
+    },
+    {
+        "wikidata_id": "Q2443242",
+        "name": "Carahasani",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080h6fd"
+    },
+    {
+        "wikidata_id": "Q2444633",
+        "name": "Ciutești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w3rxw"
+    },
+    {
+        "wikidata_id": "Q2446311",
+        "name": "Șișcani",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w3ng1"
+    },
+    {
+        "wikidata_id": "Q2446101",
+        "name": "Gîrbova",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zqdsl"
+    },
+    {
+        "wikidata_id": "Q2446326",
+        "name": "Bolohan",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w9nsz"
+    },
+    {
+        "wikidata_id": "Q2446130",
+        "name": "Grinăuți-Moldova",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zlsdk"
+    },
+    {
+        "wikidata_id": "Q2445356",
+        "name": "Biești",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w6n75"
+    },
+    {
+        "wikidata_id": "Q2445392",
+        "name": "Chiperceni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2rbl"
+    },
+    {
+        "wikidata_id": "Q2444706",
+        "name": "Cristești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w4kyv"
+    },
+    {
+        "wikidata_id": "Q2446843",
+        "name": "Pohrebeni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w64b4"
+    },
+    {
+        "wikidata_id": "Q2447121",
+        "name": "Jora de Mijloc",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w3x_g"
+    },
+    {
+        "wikidata_id": "Q2447106",
+        "name": "Seliște",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w96bq"
+    },
+    {
+        "wikidata_id": "Q2447311",
+        "name": "Ghetlova",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2fc4"
+    },
+    {
+        "wikidata_id": "Q2447564",
+        "name": "Trebujeni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2qwg"
+    },
+    {
+        "wikidata_id": "Q2447073",
+        "name": "Bulăiești",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w3txf"
+    },
+    {
+        "wikidata_id": "Q2447064",
+        "name": "Teleșeu",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w6bcn"
+    },
+    {
+        "wikidata_id": "Q2447110",
+        "name": "Isacova",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w5ccp"
+    },
+    {
+        "wikidata_id": "Q2446715",
+        "name": "Cotiujenii Mari",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w29ng"
+    },
+    {
+        "wikidata_id": "Q2447223",
+        "name": "Olișcani",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w5212"
+    },
+    {
+        "wikidata_id": "Q2443359",
+        "name": "Costești",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/06w5047"
+    },
+    {
+        "wikidata_id": "Q2445528",
+        "name": "Regina Maria",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080d_4p"
+    },
+    {
+        "wikidata_id": "Q2444614",
+        "name": "Bălănești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w2ww9"
+    },
+    {
+        "wikidata_id": "Q2447207",
+        "name": "Șipca",
+        "description": "village in Șoldănești District, Moldova",
+        "freebase_id": "/m/06w8hw0"
+    },
+    {
+        "wikidata_id": "Q2443275",
+        "name": "Molești",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/06w8xvn"
+    },
+    {
+        "wikidata_id": "Q2442854",
+        "name": "Covurlui",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080mwx7"
+    },
+    {
+        "wikidata_id": "Q2444716",
+        "name": "Tomai",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080k49q"
+    },
+    {
+        "wikidata_id": "Q2447330",
+        "name": "Popeasca",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/080h_n0"
+    },
+    {
+        "wikidata_id": "Q2446139",
+        "name": "Hristici",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080h4lb"
+    },
+    {
+        "wikidata_id": "Q2442767",
+        "name": "Orac",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/0805vnn"
+    },
+    {
+        "wikidata_id": "Q2442708",
+        "name": "Dănceni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080p8t7"
+    },
+    {
+        "wikidata_id": "Q2446081",
+        "name": "Vasilcău",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/08069yt"
+    },
+    {
+        "wikidata_id": "Q2443295",
+        "name": "Cigîrleni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080gw7q"
+    },
+    {
+        "wikidata_id": "Q2443232",
+        "name": "Văratic",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080q02m"
+    },
+    {
+        "wikidata_id": "Q2445189",
+        "name": "Zberoaia",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/064pyzc"
+    },
+    {
+        "wikidata_id": "Q2443332",
+        "name": "Sociteni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080hf8s"
+    },
+    {
+        "wikidata_id": "Q2443406",
+        "name": "Pojăreni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080bm68"
+    },
+    {
+        "wikidata_id": "Q2442893",
+        "name": "Pervomaiscoe",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w7rtp"
+    },
+    {
+        "wikidata_id": "Q2443353",
+        "name": "Văsieni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080jrby"
+    },
+    {
+        "wikidata_id": "Q2442964",
+        "name": "Tigheci",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080csqh"
+    },
+    {
+        "wikidata_id": "Q2457214",
+        "name": "Goian",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/06w30zv"
+    },
+    {
+        "wikidata_id": "Q2454370",
+        "name": "Temeleuți",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch2vl7"
+    },
+    {
+        "wikidata_id": "Q2453816",
+        "name": "Frumoasa",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4fnz"
+    },
+    {
+        "wikidata_id": "Q2453741",
+        "name": "Todirești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080n94k"
+    },
+    {
+        "wikidata_id": "Q2453151",
+        "name": "Pîrlița",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080d4zd"
+    },
+    {
+        "wikidata_id": "Q2452971",
+        "name": "Agronomovca",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080bfwx"
+    },
+    {
+        "wikidata_id": "Q2453608",
+        "name": "Mănoilești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0806tb7"
+    },
+    {
+        "wikidata_id": "Q2453644",
+        "name": "Hîrcești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0807llm"
+    },
+    {
+        "wikidata_id": "Q2453720",
+        "name": "Cioropcani",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080q0t3"
+    },
+    {
+        "wikidata_id": "Q2453636",
+        "name": "Morenii Noi",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0809ppd"
+    },
+    {
+        "wikidata_id": "Q2453704",
+        "name": "Florițoaia Veche",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080bfxj"
+    },
+    {
+        "wikidata_id": "Q2453726",
+        "name": "Zagarancea",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080q6_2"
+    },
+    {
+        "wikidata_id": "Q2455062",
+        "name": "Horodiște",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4lnb"
+    },
+    {
+        "wikidata_id": "Q2457159",
+        "name": "Vladimirovka",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cp1bl6"
+    },
+    {
+        "wikidata_id": "Q2454309",
+        "name": "Vălcineț",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch323r"
+    },
+    {
+        "wikidata_id": "Q2456007",
+        "name": "Karagash",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czb5mq"
+    },
+    {
+        "wikidata_id": "Q2455590",
+        "name": "Onișcani",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch533p"
+    },
+    {
+        "wikidata_id": "Q2455035",
+        "name": "Valea Adîncă",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0dhj15"
+    },
+    {
+        "wikidata_id": "Q2455548",
+        "name": "Caterinovca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9m0x"
+    },
+    {
+        "wikidata_id": "Q2455579",
+        "name": "Hrușca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz8gc6"
+    },
+    {
+        "wikidata_id": "Q2457255",
+        "name": "Podoima",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9n65"
+    },
+    {
+        "wikidata_id": "Q2453765",
+        "name": "Răciula",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4qhq"
+    },
+    {
+        "wikidata_id": "Q2455050",
+        "name": "Hîrjauca",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch3h5c"
+    },
+    {
+        "wikidata_id": "Q2455526",
+        "name": "Sipoteni",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4s0w"
+    },
+    {
+        "wikidata_id": "Q2453794",
+        "name": "Păulești",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch169q"
+    },
+    {
+        "wikidata_id": "Q2455003",
+        "name": "Rădeni",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch47v5"
+    },
+    {
+        "wikidata_id": "Q2453668",
+        "name": "Unțești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080q6yn"
+    },
+    {
+        "wikidata_id": "Q2455538",
+        "name": "Săseni",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch1gss"
+    },
+    {
+        "wikidata_id": "Q2453680",
+        "name": "Chirileni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080bmrr"
+    },
+    {
+        "wikidata_id": "Q2453654",
+        "name": "Năpădeni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080ct38"
+    },
+    {
+        "wikidata_id": "Q2453692",
+        "name": "Rădenii Vechi",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080bfw2"
+    },
+    {
+        "wikidata_id": "Q2453825",
+        "name": "Cetireni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080q6z2"
+    },
+    {
+        "wikidata_id": "Q2453788",
+        "name": "Musaitu",
+        "description": "village in Taraclia District, Moldova",
+        "freebase_id": "/m/064qk5y"
+    },
+    {
+        "wikidata_id": "Q2453184",
+        "name": "Sinești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080q0rp"
+    },
+    {
+        "wikidata_id": "Q2454345",
+        "name": "Sadova",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch5bd2"
+    },
+    {
+        "wikidata_id": "Q2453622",
+        "name": "Buciumeni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0808zn2"
+    },
+    {
+        "wikidata_id": "Q2457224",
+        "name": "Lunga",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/03qjfxw"
+    },
+    {
+        "wikidata_id": "Q2454354",
+        "name": "Tuzara",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch57b4"
+    },
+    {
+        "wikidata_id": "Q2453752",
+        "name": "Alexeevca",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080nxd8"
+    },
+    {
+        "wikidata_id": "Q2457170",
+        "name": "Jura",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czbnfd"
+    },
+    {
+        "wikidata_id": "Q2463853",
+        "name": "Tashlyk",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cq865"
+    },
+    {
+        "wikidata_id": "Q2453839",
+        "name": "Căbăiești",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4vqw"
+    },
+    {
+        "wikidata_id": "Q2453860",
+        "name": "Hoginești",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch4z1s"
+    },
+    {
+        "wikidata_id": "Q2453850",
+        "name": "Vărzăreștii Noi",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch3kbj"
+    },
+    {
+        "wikidata_id": "Q2453136",
+        "name": "Valea Mare",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/08059vk"
+    },
+    {
+        "wikidata_id": "Q2454382",
+        "name": "Hirova",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/064mkcv"
+    },
+    {
+        "wikidata_id": "Q2454332",
+        "name": "Țibirica",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch5k5h"
+    },
+    {
+        "wikidata_id": "Q2455074",
+        "name": "Buda",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch2qmz"
+    },
+    {
+        "wikidata_id": "Q2455020",
+        "name": "Peticeni",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch3d43"
+    },
+    {
+        "wikidata_id": "Q2455560",
+        "name": "Pîrjolteni",
+        "description": "village in Călărași District, Moldova",
+        "freebase_id": "/m/0ch2lmg"
+    },
+    {
+        "wikidata_id": "Q2457147",
+        "name": "Oknitsa",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9jq_"
+    },
+    {
+        "wikidata_id": "Q2452983",
+        "name": "Măgurele",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/080jzt3"
+    },
+    {
+        "wikidata_id": "Q2457180",
+        "name": "Butuceni",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/06w7t_v"
+    },
+    {
+        "wikidata_id": "Q2457237",
+        "name": "Broshtiany",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz89y0"
+    },
+    {
+        "wikidata_id": "Q2457195",
+        "name": "Hristovaia",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdtpj"
+    },
+    {
+        "wikidata_id": "Q2457204",
+        "name": "Severinovca",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czb37m"
+    },
+    {
+        "wikidata_id": "Q2457247",
+        "name": "Slobozia-Rașcov",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czb8my"
+    },
+    {
+        "wikidata_id": "Q2331113",
+        "name": "Varnița",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/025_vtb"
+    },
+    {
+        "wikidata_id": "Q132572",
+        "name": "Tiraspol",
+        "description": "city in Moldova",
+        "freebase_id": "/m/0pdbs"
+    },
+    {
+        "wikidata_id": "Q2629604",
+        "name": "Sărata-Galbenă",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w7mqz"
+    },
+    {
+        "wikidata_id": "Q21197",
+        "name": "Chișinău",
+        "description": "capital of Moldova",
+        "freebase_id": "/m/0fn77"
+    },
+    {
+        "wikidata_id": "Q2626288",
+        "name": "Gura Bîcului",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/06w28bl"
+    },
+    {
+        "wikidata_id": "Q2638488",
+        "name": "Chiriet-Lunga",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05sygym"
+    },
+    {
+        "wikidata_id": "Q2638587",
+        "name": "Carbalia",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05s_cs7"
+    },
+    {
+        "wikidata_id": "Q2638570",
+        "name": "Cazaclia",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/0b74kym"
+    },
+    {
+        "wikidata_id": "Q2638556",
+        "name": "Ferapontievca",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/09gq05g"
+    },
+    {
+        "wikidata_id": "Q2565855",
+        "name": "Congaz",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05sz05n"
+    },
+    {
+        "wikidata_id": "Q2387119",
+        "name": "Băcioi",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w2vxq"
+    },
+    {
+        "wikidata_id": "Q853785",
+        "name": "Soroca",
+        "description": "Moldovan city situated on the Dniester river",
+        "freebase_id": "/m/02mxfb"
+    },
+    {
+        "wikidata_id": "Q2387132",
+        "name": "Cruzești",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w8j1l"
+    },
+    {
+        "wikidata_id": "Q2387758",
+        "name": "Bubuieci",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w5j14"
+    },
+    {
+        "wikidata_id": "Q2387827",
+        "name": "Grătiești",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w7680"
+    },
+    {
+        "wikidata_id": "Q2714541",
+        "name": "Beșghioz",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05szf9z"
+    },
+    {
+        "wikidata_id": "Q2714533",
+        "name": "Chirsova",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/0b778y7"
+    },
+    {
+        "wikidata_id": "Q2619105",
+        "name": "Voinova",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/064qj_r"
+    },
+    {
+        "wikidata_id": "Q2261598",
+        "name": "Cocieri",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/0h4pq0"
+    },
+    {
+        "wikidata_id": "Q2473483",
+        "name": "Dezghingea",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05s_cl1"
+    },
+    {
+        "wikidata_id": "Q2627398",
+        "name": "Brătușeni",
+        "description": "village in Edineț District, Moldova",
+        "freebase_id": "/m/064lrgy"
+    },
+    {
+        "wikidata_id": "Q2425949",
+        "name": "Ghidirim",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czdy52"
+    },
+    {
+        "wikidata_id": "Q858713",
+        "name": "Ungheni",
+        "description": "city in Moldova",
+        "freebase_id": "/m/080d75"
+    },
+    {
+        "wikidata_id": "Q688654",
+        "name": "Dubăsari",
+        "description": "city in Moldova",
+        "freebase_id": "/m/05sxgf"
+    },
+    {
+        "wikidata_id": "Q2638986",
+        "name": "Avdarma",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05t0cl2"
+    },
+    {
+        "wikidata_id": "Q2639028",
+        "name": "Baurci",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/04gl836"
+    },
+    {
+        "wikidata_id": "Q2639022",
+        "name": "Cioc-Maidan",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05sxdw6"
+    },
+    {
+        "wikidata_id": "Q2639038",
+        "name": "Cotovscoe",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/0b757_t"
+    },
+    {
+        "wikidata_id": "Q2639050",
+        "name": "Cișmichioi",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/06wbcnx"
+    },
+    {
+        "wikidata_id": "Q2638975",
+        "name": "Joltai",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05s_072"
+    },
+    {
+        "wikidata_id": "Q2392598",
+        "name": "Cosăuți",
+        "description": "village in Soroca District, Moldova",
+        "freebase_id": "/m/080gzd3"
+    },
+    {
+        "wikidata_id": "Q2638544",
+        "name": "Copceac",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/09gbchb"
+    },
+    {
+        "wikidata_id": "Q2006121",
+        "name": "Taraclia",
+        "description": "city in Moldova, capital of Taraclia District",
+        "freebase_id": "/m/03nqlt"
+    },
+    {
+        "wikidata_id": "Q9042414",
+        "name": "Bucovăț",
+        "description": "town in Moldova",
+        "freebase_id": "/m/04g201t"
+    },
+    {
+        "wikidata_id": "Q2377728",
+        "name": "Frunză",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06wbl4m"
+    },
+    {
+        "wikidata_id": "Q642008",
+        "name": "Codru",
+        "description": "town in Moldova, second largest suburb of Chișinău city",
+        "freebase_id": "/m/06w89tq"
+    },
+    {
+        "wikidata_id": "Q2626898",
+        "name": "Biruința",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06wc9p3"
+    },
+    {
+        "wikidata_id": "Q2608576",
+        "name": "Otaci",
+        "description": "city in Moldova",
+        "freebase_id": "/m/02rxfxj"
+    },
+    {
+        "wikidata_id": "Q1901003",
+        "name": "Dondușeni",
+        "description": "town in Moldova",
+        "freebase_id": "/m/09bsxq"
+    },
+    {
+        "wikidata_id": "Q2387813",
+        "name": "Stăuceni",
+        "description": "city in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/03qkv49"
+    },
+    {
+        "wikidata_id": "Q1139983",
+        "name": "Cricova",
+        "description": "town in Moldova",
+        "freebase_id": "/m/04y6cmf"
+    },
+    {
+        "wikidata_id": "Q2089107",
+        "name": "Nisporeni",
+        "description": "town in Moldova",
+        "freebase_id": "/m/07whkc"
+    },
+    {
+        "wikidata_id": "Q2006112",
+        "name": "Drochia",
+        "description": "city in Moldova",
+        "freebase_id": "/m/05_6p7"
+    },
+    {
+        "wikidata_id": "Q2628984",
+        "name": "Sîngera",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w454y"
+    },
+    {
+        "wikidata_id": "Q1756938",
+        "name": "Costești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w26db"
+    },
+    {
+        "wikidata_id": "Q2006102",
+        "name": "Strășeni",
+        "description": "municipality in Moldova",
+        "freebase_id": "/m/04r0y1"
+    },
+    {
+        "wikidata_id": "Q2710200",
+        "name": "Iargara",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w3q96"
+    },
+    {
+        "wikidata_id": "Q2375652",
+        "name": "Cupcini",
+        "description": "town in Moldova",
+        "freebase_id": "/m/064l_sl"
+    },
+    {
+        "wikidata_id": "Q2631126",
+        "name": "Tvardița",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w1s0s"
+    },
+    {
+        "wikidata_id": "Q2377759",
+        "name": "Căinari",
+        "description": "city in Moldova",
+        "freebase_id": "/m/06w7_lm"
+    },
+    {
+        "wikidata_id": "Q1827367",
+        "name": "Lipcani",
+        "description": "town in Moldova",
+        "freebase_id": "/m/03vr8s"
+    },
+    {
+        "wikidata_id": "Q1982983",
+        "name": "Ștefan Vodă",
+        "description": "city in Moldova",
+        "freebase_id": "/m/0d13m6"
+    },
+    {
+        "wikidata_id": "Q2608314",
+        "name": "Mărculești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/0270wyp"
+    },
+    {
+        "wikidata_id": "Q2249997",
+        "name": "Sîngerei",
+        "description": "city in Moldova",
+        "freebase_id": "/m/025tbnc"
+    },
+    {
+        "wikidata_id": "Q2271123",
+        "name": "Șoldănești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/0by0dw"
+    },
+    {
+        "wikidata_id": "Q2250055",
+        "name": "Cantemir",
+        "description": "town in Moldova",
+        "freebase_id": "/m/04mpqh"
+    },
+    {
+        "wikidata_id": "Q2072887",
+        "name": "Florești",
+        "description": "city in the northeast of Moldova",
+        "freebase_id": "/m/04ctydn"
+    },
+    {
+        "wikidata_id": "Q2621050",
+        "name": "Vadul lui Vodă",
+        "description": "town in Moldova",
+        "freebase_id": "/m/047lwxf"
+    },
+    {
+        "wikidata_id": "Q2199004",
+        "name": "Leova",
+        "description": "city in Moldova",
+        "freebase_id": "/m/0d13jt"
+    },
+    {
+        "wikidata_id": "Q2019719",
+        "name": "Cimișlia",
+        "description": "town in Moldova",
+        "freebase_id": "/m/052jmv"
+    },
+    {
+        "wikidata_id": "Q603400",
+        "name": "Slobozia, Slobozia District",
+        "description": "town in Moldova",
+        "freebase_id": "/m/05y3t3"
+    },
+    {
+        "wikidata_id": "Q2281181",
+        "name": "Rezina",
+        "description": "town in Moldova",
+        "freebase_id": "/m/0gmfgx"
+    },
+    {
+        "wikidata_id": "Q2078085",
+        "name": "Fălești",
+        "description": "city in Moldova, seat of Fălești District",
+        "freebase_id": "/m/06wc9jm"
+    },
+    {
+        "wikidata_id": "Q2628898",
+        "name": "Ghindești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w6c43"
+    },
+    {
+        "wikidata_id": "Q2019727",
+        "name": "Briceni",
+        "description": "City in Moldova, seat of Briceni District",
+        "freebase_id": "/m/03w7gn"
+    },
+    {
+        "wikidata_id": "Q2292609",
+        "name": "Glodeni",
+        "description": "city in Moldova",
+        "freebase_id": "/m/05mq9x"
+    },
+    {
+        "wikidata_id": "Q2709840",
+        "name": "Suruceni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/080jd5m"
+    },
+    {
+        "wikidata_id": "Q2638997",
+        "name": "Etulia",
+        "description": "village in Gagauzia, Moldova",
+        "freebase_id": "/m/06w4g88"
+    },
+    {
+        "wikidata_id": "Q2668895",
+        "name": "Rașcov",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/026qh0t"
+    },
+    {
+        "wikidata_id": "Q2447701",
+        "name": "Aluniș",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080fmln"
+    },
+    {
+        "wikidata_id": "Q423258",
+        "name": "Orhei",
+        "description": "city in Moldova, seat of Orhei District",
+        "freebase_id": "/m/02nl01"
+    },
+    {
+        "wikidata_id": "Q529282",
+        "name": "Anenii Noi",
+        "description": "city in Moldova",
+        "freebase_id": "/m/082mp5"
+    },
+    {
+        "wikidata_id": "Q2387803",
+        "name": "Condrița",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w3m0s"
+    },
+    {
+        "wikidata_id": "Q2447718",
+        "name": "Copăceni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09g8d5t"
+    },
+    {
+        "wikidata_id": "Q2627742",
+        "name": "Zăluceni",
+        "description": "village in Florești District, Moldova",
+        "freebase_id": "/m/0czf3mh"
+    },
+    {
+        "wikidata_id": "Q2626003",
+        "name": "Tabani",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/03whqx6"
+    },
+    {
+        "wikidata_id": "Q2385336",
+        "name": "Unguri",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zrjdb"
+    },
+    {
+        "wikidata_id": "Q2708397",
+        "name": "Cornești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w5ny8"
+    },
+    {
+        "wikidata_id": "Q2392605",
+        "name": "Carmanova",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz8mn_"
+    },
+    {
+        "wikidata_id": "Q2386827",
+        "name": "Corjova",
+        "description": "village in Dubăsari District, Moldova",
+        "freebase_id": "/m/025z791"
+    },
+    {
+        "wikidata_id": "Q2638951",
+        "name": "Congazcicul de Sus",
+        "description": "village in Gagauzia, Moldova",
+        "freebase_id": "/m/05sytmn"
+    },
+    {
+        "wikidata_id": "Q2167130",
+        "name": "Mileștii Mici",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/082gck"
+    },
+    {
+        "wikidata_id": "Q2379822",
+        "name": "Giska",
+        "description": "village in Căușeni District, Moldova",
+        "freebase_id": "/m/0cqpg8"
+    },
+    {
+        "wikidata_id": "Q192176",
+        "name": "Bender",
+        "description": "city in Transnistria, Republic of Moldova",
+        "freebase_id": "/m/029vw8"
+    },
+    {
+        "wikidata_id": "Q2629183",
+        "name": "Colibabovca",
+        "description": "village in Leova District, Moldova",
+        "freebase_id": "/m/080kr2q"
+    },
+    {
+        "wikidata_id": "Q2711656",
+        "name": "Criva",
+        "description": "village in Briceni District, Moldova",
+        "freebase_id": "/m/06w7xnr"
+    },
+    {
+        "wikidata_id": "Q2657124",
+        "name": "Abaclia",
+        "description": "village in Basarabeasca District, Moldova",
+        "freebase_id": "/m/06w9bpm"
+    },
+    {
+        "wikidata_id": "Q2447578",
+        "name": "Ivancea",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2g_1"
+    },
+    {
+        "wikidata_id": "Q2379837",
+        "name": "Lencăuți",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06znwfs"
+    },
+    {
+        "wikidata_id": "Q2375639",
+        "name": "Dolna",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080564x"
+    },
+    {
+        "wikidata_id": "Q2385322",
+        "name": "Clocușna",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zj_d4"
+    },
+    {
+        "wikidata_id": "Q2447855",
+        "name": "Chișcăreni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/0807v45"
+    },
+    {
+        "wikidata_id": "Q2279918",
+        "name": "Onițcani",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09gnfz_"
+    },
+    {
+        "wikidata_id": "Q2385308",
+        "name": "Corestăuți",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zjk7v"
+    },
+    {
+        "wikidata_id": "Q809787",
+        "name": "Basarabeasca",
+        "description": "city in Moldova",
+        "freebase_id": "/m/082mpw"
+    },
+    {
+        "wikidata_id": "Q2420066",
+        "name": "Colibași",
+        "description": "village in Cahul District, Moldova",
+        "freebase_id": "/m/0cnz0wp"
+    },
+    {
+        "wikidata_id": "Q2379811",
+        "name": "Sauca",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zmjgw"
+    },
+    {
+        "wikidata_id": "Q2631216",
+        "name": "Ghidighici",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w7xhl"
+    },
+    {
+        "wikidata_id": "Q2447790",
+        "name": "Zăicani",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/06w1l8w"
+    },
+    {
+        "wikidata_id": "Q216363",
+        "name": "Rîbnița",
+        "description": "city in Moldova",
+        "freebase_id": "/m/05y3nb"
+    },
+    {
+        "wikidata_id": "Q5046876",
+        "name": "Carsidava",
+        "description": "Dacian fortified settlement",
+        "freebase_id": "/m/0gfhnmk"
+    },
+    {
+        "wikidata_id": "Q2392547",
+        "name": "Cojușna",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/0806x0p"
+    },
+    {
+        "wikidata_id": "Q2618988",
+        "name": "Colonița",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06wb8jg"
+    },
+    {
+        "wikidata_id": "Q2379856",
+        "name": "Palanca",
+        "description": "village in Ștefan Vodă District, Moldova",
+        "freebase_id": "/m/047mz_6"
+    },
+    {
+        "wikidata_id": "Q997029",
+        "name": "Criuleni",
+        "description": "city in Moldova",
+        "freebase_id": "/m/083xtf"
+    },
+    {
+        "wikidata_id": "Q2447746",
+        "name": "Saharna Nouă",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0807wtj"
+    },
+    {
+        "wikidata_id": "Q1025805",
+        "name": "Grigoriopol",
+        "description": "city in Transnistria, Moldova",
+        "freebase_id": "/m/05y3rp"
+    },
+    {
+        "wikidata_id": "Q2447593",
+        "name": "Ignăței",
+        "description": "village in Rezina District, Moldova",
+        "freebase_id": "/m/0805s2w"
+    },
+    {
+        "wikidata_id": "Q2628906",
+        "name": "Ciuciuleni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w5m77"
+    },
+    {
+        "wikidata_id": "Q2626521",
+        "name": "Iserlia",
+        "description": "village in Basarabeasca District, Moldova",
+        "freebase_id": "/m/06w2lpb"
+    },
+    {
+        "wikidata_id": "Q2626650",
+        "name": "Chițcani",
+        "description": "village in Căușeni District, Moldova / Transnistria",
+        "freebase_id": "/m/0cq48p"
+    },
+    {
+        "wikidata_id": "Q2387074",
+        "name": "Tohatin",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/05b0k6w"
+    },
+    {
+        "wikidata_id": "Q2626556",
+        "name": "Iordanovca",
+        "description": "village in Basarabeasca District, Moldova",
+        "freebase_id": "/m/064lqd5"
+    },
+    {
+        "wikidata_id": "Q2626575",
+        "name": "Sadaclia",
+        "description": "village in Basarabeasca District, Moldova",
+        "freebase_id": "/m/06w8jzy"
+    },
+    {
+        "wikidata_id": "Q2626791",
+        "name": "Bașcalia",
+        "description": "village in Basarabeasca District, Moldova",
+        "freebase_id": "/m/06w6dl7"
+    },
+    {
+        "wikidata_id": "Q2626826",
+        "name": "Carabetovca",
+        "description": "village in Basarabeasca District, Moldova",
+        "freebase_id": "/m/06w1pjb"
+    },
+    {
+        "wikidata_id": "Q2592107",
+        "name": "Căpriana",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080c9tn"
+    },
+    {
+        "wikidata_id": "Q2631208",
+        "name": "Krasnyj Vinogradar",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0cz9qj7"
+    },
+    {
+        "wikidata_id": "Q597086",
+        "name": "Ialoveni",
+        "description": "city in Moldova",
+        "freebase_id": "/m/037r1w"
+    },
+    {
+        "wikidata_id": "Q2632598",
+        "name": "Pervomaysk",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czbtrx"
+    },
+    {
+        "wikidata_id": "Q13637385",
+        "name": "Petrești",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/03npblc"
+    },
+    {
+        "wikidata_id": "Q2708425",
+        "name": "Maiac",
+        "description": "town in Moldova",
+        "freebase_id": "/m/03wd781"
+    },
+    {
+        "wikidata_id": "Q2628532",
+        "name": "Peresecina",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w5xkp"
+    },
+    {
+        "wikidata_id": "Q2388079",
+        "name": "Budești",
+        "description": "village in Chișinău Municipality, Moldova",
+        "freebase_id": "/m/06w28w2"
+    },
+    {
+        "wikidata_id": "Q1150271",
+        "name": "Edineț",
+        "description": "city in Moldova",
+        "freebase_id": "/m/04tckk"
+    },
+    {
+        "wikidata_id": "Q503469",
+        "name": "Cahul",
+        "description": "city in Moldova",
+        "freebase_id": "/m/0361qk"
+    },
+    {
+        "wikidata_id": "Q2631176",
+        "name": "Costuleni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/04f4xyh"
+    },
+    {
+        "wikidata_id": "Q2633418",
+        "name": "Glinoye (Grigoriopol)",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czc805"
+    },
+    {
+        "wikidata_id": "Q2639010",
+        "name": "Tomai",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05sypm2"
+    },
+    {
+        "wikidata_id": "Q2708692",
+        "name": "Durlești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/03hl189"
+    },
+    {
+        "wikidata_id": "Q2331075",
+        "name": "Merenii Noi",
+        "description": "village in Anenii Noi District, Moldova",
+        "freebase_id": "/m/0h7kx_"
+    },
+    {
+        "wikidata_id": "Q1012924",
+        "name": "Ceadîr-Lunga",
+        "description": "city in Moldova",
+        "freebase_id": "/m/0dys8v"
+    },
+    {
+        "wikidata_id": "Q1012868",
+        "name": "Vulcănești",
+        "description": "city in Moldova",
+        "freebase_id": "/m/06w3w29"
+    },
+    {
+        "wikidata_id": "Q2709331",
+        "name": "Hădărăuți",
+        "description": "village in Ocnița District, Moldova",
+        "freebase_id": "/m/06zr2bx"
+    },
+    {
+        "wikidata_id": "Q1141853",
+        "name": "Hîncești",
+        "description": "city in Moldova",
+        "freebase_id": "/m/080d7k"
+    },
+    {
+        "wikidata_id": "Q1022131",
+        "name": "Rîșcani",
+        "description": "town in Moldova",
+        "freebase_id": "/m/0d13kv"
+    },
+    {
+        "wikidata_id": "Q2447667",
+        "name": "Cotiujenii Mici",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gnzl8"
+    },
+    {
+        "wikidata_id": "Q2447685",
+        "name": "Ciuciuieni",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/064kdk0"
+    },
+    {
+        "wikidata_id": "Q2447777",
+        "name": "Bilicenii Noi",
+        "description": "village in Sîngerei District, Moldova",
+        "freebase_id": "/m/09gq1qg"
+    },
+    {
+        "wikidata_id": "Q241122",
+        "name": "Comrat",
+        "description": "city in Moldova",
+        "freebase_id": "/m/02s5p5"
+    },
+    {
+        "wikidata_id": "Q2391935",
+        "name": "Arionești",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/080p_jd"
+    },
+    {
+        "wikidata_id": "Q657744",
+        "name": "Căușeni",
+        "description": "city in Moldova, seat of Căușeni District",
+        "freebase_id": "/m/082mm3"
+    },
+    {
+        "wikidata_id": "Q2392626",
+        "name": "Bursuc",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w980q"
+    },
+    {
+        "wikidata_id": "Q993697",
+        "name": "Ocnița",
+        "description": "city in Moldova",
+        "freebase_id": "/m/06w2b9f"
+    },
+    {
+        "wikidata_id": "Q1117303",
+        "name": "Vatra",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w6g0d"
+    },
+    {
+        "wikidata_id": "Q4096633",
+        "name": "Briceva",
+        "description": "village in Dondușeni District, Moldova",
+        "freebase_id": "/m/0b__v5r"
+    },
+    {
+        "wikidata_id": "Q2639058",
+        "name": "Bugeac",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/065xxrx"
+    },
+    {
+        "wikidata_id": "Q2638965",
+        "name": "Gaidar",
+        "description": "village in Găgăuzia, Moldova",
+        "freebase_id": "/m/05sy9t3"
+    },
+    {
+        "wikidata_id": "Q2638010",
+        "name": "Sukleya",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/0czcnn0"
+    },
+    {
+        "wikidata_id": "Q1014367",
+        "name": "Călărași",
+        "description": "city in Moldova",
+        "freebase_id": "/m/082m8s"
+    },
+    {
+        "wikidata_id": "Q647051",
+        "name": "Telenești",
+        "description": "town in Moldova",
+        "freebase_id": "/m/0d13mk"
+    },
+    {
+        "wikidata_id": "Q2447821",
+        "name": "Vasileuți",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/0808j8y"
+    },
+    {
+        "wikidata_id": "Q2061525",
+        "name": "Svetlîi",
+        "description": "village in Gagauzia, Moldova",
+        "freebase_id": "/m/0b77v82"
+    },
+    {
+        "wikidata_id": "Q2447761",
+        "name": "Pîrjota",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/080fml5"
+    },
+    {
+        "wikidata_id": "Q2534322",
+        "name": "Slobozia-Dușca",
+        "description": "village in Criuleni District, Moldova",
+        "freebase_id": "/m/09g9byb"
+    },
+    {
+        "wikidata_id": "Q2382669",
+        "name": "Zahoreni",
+        "description": "village in Orhei District, Moldova",
+        "freebase_id": "/m/06w2lbp"
+    },
+    {
+        "wikidata_id": "Q2632586",
+        "name": "Cobasna",
+        "description": "village in Transnistria, Moldova",
+        "freebase_id": "/m/02qz556"
+    },
+    {
+        "wikidata_id": "Q2447838",
+        "name": "Nihoreni",
+        "description": "village in Rîșcani District, Moldova",
+        "freebase_id": "/m/064nd_h"
+    },
+    {
+        "wikidata_id": "Q2633540",
+        "name": "Sculeni",
+        "description": "village in Ungheni District, Moldova",
+        "freebase_id": "/m/0809x5c"
+    },
+    {
+        "wikidata_id": "Q2328841",
+        "name": "Cărpineni",
+        "description": "village in Hîncești District, Moldova",
+        "freebase_id": "/m/06w3vpl"
+    },
+    {
+        "wikidata_id": "Q2620881",
+        "name": "Vorniceni",
+        "description": "village in Strășeni District, Moldova",
+        "freebase_id": "/m/080m4p9"
+    },
+    {
+        "wikidata_id": "Q219547",
+        "name": "Dnestrovsc",
+        "description": "city in Moldova",
+        "freebase_id": "/m/02qz56y"
+    },
+    {
+        "wikidata_id": "Q2367237",
+        "name": "Vărzărești",
+        "description": "village in Nisporeni District, Moldova",
+        "freebase_id": "/m/06w8rrz"
+    },
+    {
+        "wikidata_id": "Q3924179",
+        "name": "Protiagaylovka",
+        "description": "village in Bender Municipality, Moldova",
+        "freebase_id": "/m/06w72j9"
+    },
+    {
+        "wikidata_id": "Q2628263",
+        "name": "Nimoreni",
+        "description": "village in Ialoveni District, Moldova",
+        "freebase_id": "/m/0809wp7"
+    },
+    {
+        "wikidata_id": "Q2708419",
+        "name": "Crasnoe",
+        "description": "town in Moldova",
+        "freebase_id": "/m/06w4jw9"
+    }
+]

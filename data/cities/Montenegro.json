@@ -1,0 +1,2456 @@
+[
+    {
+        "wikidata_id": "Q524108",
+        "name": "Pušanjski Do",
+        "description": "village",
+        "freebase_id": "/m/012wp0lr"
+    },
+    {
+        "wikidata_id": "Q2928645",
+        "name": "Burtaiši",
+        "description": "town in Bar, Montenegro",
+        "freebase_id": "/m/0cc8xns"
+    },
+    {
+        "wikidata_id": "Q5484241",
+        "name": "Franciskovici",
+        "description": "village in Boka Kotorska, Montenegro",
+        "freebase_id": "/m/0j640gh"
+    },
+    {
+        "wikidata_id": "Q596983",
+        "name": "Vilusi",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0rytbpy"
+    },
+    {
+        "wikidata_id": "Q15267168",
+        "name": "Podmalinsko Monastery",
+        "description": "Monastery near Šavnik, Montenegro",
+        "freebase_id": "/m/0wfp8h_"
+    },
+    {
+        "wikidata_id": "Q12754832",
+        "name": "Dobrilovina Monastery",
+        "description": "Serbian Orthodox monastery",
+        "freebase_id": "/m/0yt28_6"
+    },
+    {
+        "wikidata_id": "Q3400063",
+        "name": "Potkrajci",
+        "description": "town in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/0cc60_4"
+    },
+    {
+        "wikidata_id": "Q3121867",
+        "name": "Petnjik",
+        "description": "village in Berane, Montenegro",
+        "freebase_id": "/m/02q3_00"
+    },
+    {
+        "wikidata_id": "Q958220",
+        "name": "Grab",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012wl107"
+    },
+    {
+        "wikidata_id": "Q15232844",
+        "name": "Kalaja",
+        "description": "Tentative World Heritage site",
+        "freebase_id": "/m/0swklnq"
+    },
+    {
+        "wikidata_id": "Q3109772",
+        "name": "Godijevo",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wjmmw"
+    },
+    {
+        "wikidata_id": "Q954185",
+        "name": "Čevo",
+        "description": "village",
+        "freebase_id": "/m/0rythnw"
+    },
+    {
+        "wikidata_id": "Q3574906",
+        "name": "Zaton",
+        "description": "village in the municipality of Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2fcn"
+    },
+    {
+        "wikidata_id": "Q1006453",
+        "name": "Vranjina",
+        "description": "island",
+        "freebase_id": "/m/0fkmwg"
+    },
+    {
+        "wikidata_id": "Q193103",
+        "name": "Herceg Novi",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/0567cj"
+    },
+    {
+        "wikidata_id": "Q4301484",
+        "name": "Donji Brčeli Monastery",
+        "description": "Serbian Orthodox monastery in Montenegro",
+        "freebase_id": "/m/0yt1lhg"
+    },
+    {
+        "wikidata_id": "Q1190698",
+        "name": "Golubovci",
+        "description": "human settlement",
+        "freebase_id": "/m/0d2rvv"
+    },
+    {
+        "wikidata_id": "Q252273",
+        "name": "Doclea",
+        "description": "archaeological site in Montenegro",
+        "freebase_id": "/m/026zq8q"
+    },
+    {
+        "wikidata_id": "Q579951",
+        "name": "Male Krće",
+        "description": "village",
+        "freebase_id": "/m/012wn0ly"
+    },
+    {
+        "wikidata_id": "Q2741385",
+        "name": "Donje Luge",
+        "description": "town in Berane, Montenegro",
+        "freebase_id": "/m/0cc6ywf"
+    },
+    {
+        "wikidata_id": "Q2927973",
+        "name": "Buljarica",
+        "description": "village in Budva Municipality, Montenegro",
+        "freebase_id": "/m/0dmgbd"
+    },
+    {
+        "wikidata_id": "Q4900464",
+        "name": "Beška Monastery",
+        "description": "Serbian Orthodox monastery on Beška island, Montenegro",
+        "freebase_id": "/m/0py1ljy"
+    },
+    {
+        "wikidata_id": "Q3131872",
+        "name": "Medun",
+        "description": "settlement in Podgorica Municipality, Montenegro",
+        "freebase_id": "/m/050z9_"
+    },
+    {
+        "wikidata_id": "Q3123299",
+        "name": "Njegovuđa",
+        "description": "village in Žabljak Municipality, Montenegro",
+        "freebase_id": "/m/0cc6xsf"
+    },
+    {
+        "wikidata_id": "Q998789",
+        "name": "Perast",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/05t_lv"
+    },
+    {
+        "wikidata_id": "Q2842478",
+        "name": "Ambula",
+        "description": "village in Ulcinj Municipality, Montenegro",
+        "freebase_id": "/m/0bm9f25"
+    },
+    {
+        "wikidata_id": "Q549938",
+        "name": "Rastovac",
+        "description": "human settlement",
+        "freebase_id": "/m/0cc5h9_"
+    },
+    {
+        "wikidata_id": "Q16902773",
+        "name": "Vranjina Monastery",
+        "description": "Serbian Orthodox monastery on Vranjina island, Montenegro",
+        "freebase_id": "/m/0tkgqdg"
+    },
+    {
+        "wikidata_id": "Q2711869",
+        "name": "Šas",
+        "description": "village in Ulcinj Municipality, Montenegro",
+        "freebase_id": "/m/09rx58n"
+    },
+    {
+        "wikidata_id": "Q2741376",
+        "name": "Ðenovići",
+        "description": "village in Herceg Novi Municipality, Montenegro",
+        "freebase_id": "/m/0cc8gf2"
+    },
+    {
+        "wikidata_id": "Q2926367",
+        "name": "Brskovo",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/09h2zm"
+    },
+    {
+        "wikidata_id": "Q385116",
+        "name": "Moćevići",
+        "description": "village",
+        "freebase_id": "/m/012wkz40"
+    },
+    {
+        "wikidata_id": "Q670276",
+        "name": "Kostenica",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012whnfj"
+    },
+    {
+        "wikidata_id": "Q612730",
+        "name": "Podi",
+        "description": "human settlement",
+        "freebase_id": "/m/0cc58r2"
+    },
+    {
+        "wikidata_id": "Q3110827",
+        "name": "Goransko",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc60_h"
+    },
+    {
+        "wikidata_id": "Q3109789",
+        "name": "Godinje",
+        "description": "village in Bar, Montenegro",
+        "freebase_id": "/m/0bxq6h"
+    },
+    {
+        "wikidata_id": "Q172521",
+        "name": "Bogaje",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012965w8"
+    },
+    {
+        "wikidata_id": "Q4301501",
+        "name": "Podmaine Monastery",
+        "description": "Serbian Orthodox monastery near Budva, Montenegro",
+        "freebase_id": "/m/0wftqs0"
+    },
+    {
+        "wikidata_id": "Q2712460",
+        "name": "Donja Lastva",
+        "description": "town in Tivat, Montenegro",
+        "freebase_id": "/m/0cc99kt"
+    },
+    {
+        "wikidata_id": "Q16896993",
+        "name": "Podgora",
+        "description": "village in Cetinje Municipality, Montenegro",
+        "freebase_id": "/m/02qqqtr"
+    },
+    {
+        "wikidata_id": "Q30305712",
+        "name": "Moračnik Monastery",
+        "description": "Serbian Orthodox monastery in Montenegro",
+        "freebase_id": "/m/0wfqsdb"
+    },
+    {
+        "wikidata_id": "Q1190321",
+        "name": "Stari Bar",
+        "description": "human settlement",
+        "freebase_id": "/m/0cc6sqv"
+    },
+    {
+        "wikidata_id": "Q964425",
+        "name": "Ograđenica",
+        "description": "village",
+        "freebase_id": "/m/012x30h8"
+    },
+    {
+        "wikidata_id": "Q1257434",
+        "name": "Ostrog monastery",
+        "description": "monastery of the Serbian Orthodox Church",
+        "freebase_id": "/m/03kmyl"
+    },
+    {
+        "wikidata_id": "Q12758206",
+        "name": "Ratac Abbey",
+        "description": "No description available",
+        "freebase_id": "/m/0_1kcr1"
+    },
+    {
+        "wikidata_id": "Q2908210",
+        "name": "Bobovište",
+        "description": "village in Bar, Montenegro",
+        "freebase_id": "/m/0bmkfx4"
+    },
+    {
+        "wikidata_id": "Q2904300",
+        "name": "Bioče",
+        "description": "human settlement in Montenegro",
+        "freebase_id": "/m/0b2hnd"
+    },
+    {
+        "wikidata_id": "Q3120492",
+        "name": "Krašići",
+        "description": "village in Tivat Municipality, Montenegro",
+        "freebase_id": "/m/082qns"
+    },
+    {
+        "wikidata_id": "Q788450",
+        "name": "Zupci",
+        "description": "village",
+        "freebase_id": "/m/012g48r2"
+    },
+    {
+        "wikidata_id": "Q642972",
+        "name": "Reč",
+        "description": "human settlement",
+        "freebase_id": "/m/0nb5lt6"
+    },
+    {
+        "wikidata_id": "Q3120740",
+        "name": "Tomba",
+        "description": "town in Bar, Montenegro",
+        "freebase_id": "/m/0cc6bzc"
+    },
+    {
+        "wikidata_id": "Q3432448",
+        "name": "Škaljari",
+        "description": "village in Kotor Municipality, Montenegro",
+        "freebase_id": "/m/0cc68zz"
+    },
+    {
+        "wikidata_id": "Q3200302",
+        "name": "Kukulje",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wjrsc"
+    },
+    {
+        "wikidata_id": "Q247339",
+        "name": "Grahovo",
+        "description": "place in Nikšić, Montenegro",
+        "freebase_id": "/m/011lbn1w"
+    },
+    {
+        "wikidata_id": "Q11784971",
+        "name": "Reževići Monastery",
+        "description": "Serbian Orthodox monastery in Katun Reževići, Montenegro",
+        "freebase_id": "/m/0whzl5y"
+    },
+    {
+        "wikidata_id": "Q374764",
+        "name": "Osmanbegovo Selo",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012wsbfk"
+    },
+    {
+        "wikidata_id": "Q3180511",
+        "name": "Đurđevi Stupovi",
+        "description": "orthodox monastery",
+        "freebase_id": "/m/0263mtv"
+    },
+    {
+        "wikidata_id": "Q2715074",
+        "name": "Sutorina",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/02rzzw5"
+    },
+    {
+        "wikidata_id": "Q7042462",
+        "name": "Njivice",
+        "description": "place in Herceg Novi Municipality, Montenegro",
+        "freebase_id": "/m/02qscdp"
+    },
+    {
+        "wikidata_id": "Q3123315",
+        "name": "Spuž",
+        "description": "settlement in Danilovgrad Municipality, Montenegro",
+        "freebase_id": "/m/0g3llf"
+    },
+    {
+        "wikidata_id": "Q3123319",
+        "name": "Židovići",
+        "description": "town in Pljevlja, Montenegro",
+        "freebase_id": "/m/0cc4z1m"
+    },
+    {
+        "wikidata_id": "Q956292",
+        "name": "Petnjica",
+        "description": "village",
+        "freebase_id": "/m/012psq27"
+    },
+    {
+        "wikidata_id": "Q1700305",
+        "name": "Petnjica",
+        "description": "human settlement",
+        "freebase_id": "/m/075tbv"
+    },
+    {
+        "wikidata_id": "Q994211",
+        "name": "Risan",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/06j5xn"
+    },
+    {
+        "wikidata_id": "Q837219",
+        "name": "Šavnik",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/075t3g"
+    },
+    {
+        "wikidata_id": "Q3044588",
+        "name": "Zagrađe",
+        "description": "village in Bar, Montenegro",
+        "freebase_id": "/m/047d0_c"
+    },
+    {
+        "wikidata_id": "Q968107",
+        "name": "Velika",
+        "description": "village",
+        "freebase_id": "/m/01270sqn"
+    },
+    {
+        "wikidata_id": "Q546487",
+        "name": "Čeluga",
+        "description": "human settlement",
+        "freebase_id": "/m/05sd3l"
+    },
+    {
+        "wikidata_id": "Q2929089",
+        "name": "Buče",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0cc81ww"
+    },
+    {
+        "wikidata_id": "Q3045739",
+        "name": "Laz",
+        "description": "village in Nikšić Municipality, Montenegro",
+        "freebase_id": "/m/02vx622"
+    },
+    {
+        "wikidata_id": "Q16466156",
+        "name": "Holy Trinity monastery ( Pljevlja )",
+        "description": "Holy Trinity monastery (Pljevlja )",
+        "freebase_id": "/m/010gmq0y"
+    },
+    {
+        "wikidata_id": "Q3395258",
+        "name": "Polja",
+        "description": "village in Mojkovac municipality, Montenegro",
+        "freebase_id": "/m/0cc5mzc"
+    },
+    {
+        "wikidata_id": "Q5584515",
+        "name": "Gorana",
+        "description": "place in Bar, Montenegro",
+        "freebase_id": "/m/02qg7nq"
+    },
+    {
+        "wikidata_id": "Q925048",
+        "name": "Ljutići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wjtkn"
+    },
+    {
+        "wikidata_id": "Q2548973",
+        "name": "Njeguši",
+        "description": "settlement in Montenegro",
+        "freebase_id": "/m/051xtc"
+    },
+    {
+        "wikidata_id": "Q3028473",
+        "name": "Dinoša",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/010rb0nl"
+    },
+    {
+        "wikidata_id": "Q393309",
+        "name": "Žabljak",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0b9786"
+    },
+    {
+        "wikidata_id": "Q3124641",
+        "name": "Vusanje",
+        "description": "settlement in Montenegro",
+        "freebase_id": "/m/09gjmhf"
+    },
+    {
+        "wikidata_id": "Q3033856",
+        "name": "Dolac",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc8cp1"
+    },
+    {
+        "wikidata_id": "Q3044515",
+        "name": "Ibarac",
+        "description": "town in Rožaje, Montenegro",
+        "freebase_id": "/m/0cc92yd"
+    },
+    {
+        "wikidata_id": "Q3045734",
+        "name": "Pridvorica",
+        "description": "village in Šavnik, Montenegro",
+        "freebase_id": "/m/04crdlq"
+    },
+    {
+        "wikidata_id": "Q2027553",
+        "name": "Bijela",
+        "description": "town in Herceg Novi Municipality, Montenegro",
+        "freebase_id": "/m/0gybmv"
+    },
+    {
+        "wikidata_id": "Q3113073",
+        "name": "Gradac",
+        "description": "town in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/0cc5yzw"
+    },
+    {
+        "wikidata_id": "Q287263",
+        "name": "Bijela Crkva",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0129c10_"
+    },
+    {
+        "wikidata_id": "Q383766",
+        "name": "Mrčići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012x1j7b"
+    },
+    {
+        "wikidata_id": "Q2859687",
+        "name": "Arbnež",
+        "description": "village in Bar Municipality, Montenegro",
+        "freebase_id": "/m/0h54sw1"
+    },
+    {
+        "wikidata_id": "Q6429355",
+        "name": "Konik",
+        "description": "place in Montenegro",
+        "freebase_id": "/m/02z4wgw"
+    },
+    {
+        "wikidata_id": "Q1550605",
+        "name": "Piva Monastery",
+        "description": "monastery",
+        "freebase_id": "/m/0gyxcrb"
+    },
+    {
+        "wikidata_id": "Q1008132",
+        "name": "Dobrota",
+        "description": "human settlement",
+        "freebase_id": "/m/027lsk9"
+    },
+    {
+        "wikidata_id": "Q3124700",
+        "name": "Polje",
+        "description": "town in Bar Municipality, Montenegro",
+        "freebase_id": "/m/0cc9nkp"
+    },
+    {
+        "wikidata_id": "Q7322220",
+        "name": "Ribarevina",
+        "description": "place in Montenegro",
+        "freebase_id": "/m/0cvc38"
+    },
+    {
+        "wikidata_id": "Q742111",
+        "name": "Igalo",
+        "description": "human settlement",
+        "freebase_id": "/m/0byhb1"
+    },
+    {
+        "wikidata_id": "Q646630",
+        "name": "Crkvice",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/02rs4hb"
+    },
+    {
+        "wikidata_id": "Q550264",
+        "name": "Zbljevo",
+        "description": "village",
+        "freebase_id": "/m/012wscmv"
+    },
+    {
+        "wikidata_id": "Q3112259",
+        "name": "Šćepan Polje",
+        "description": "village in Plužine, Montenegro",
+        "freebase_id": "/m/0bhb6kj"
+    },
+    {
+        "wikidata_id": "Q15243164",
+        "name": "Luštica",
+        "description": "populated place in Herceg Novi Municipality",
+        "freebase_id": "/m/0jzslk4"
+    },
+    {
+        "wikidata_id": "Q664070",
+        "name": "Lever Tara",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wpll4"
+    },
+    {
+        "wikidata_id": "Q534900",
+        "name": "Pauče",
+        "description": "village",
+        "freebase_id": "/m/012wpm_3"
+    },
+    {
+        "wikidata_id": "Q3120804",
+        "name": "Kaludra",
+        "description": "village in Berane Municipality, Montenegro",
+        "freebase_id": "/m/05q4q5l"
+    },
+    {
+        "wikidata_id": "Q965673",
+        "name": "Kotorac",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wn9h0"
+    },
+    {
+        "wikidata_id": "Q3117364",
+        "name": "Mahala",
+        "description": "village in Podgorica, Montenegro",
+        "freebase_id": "/m/0cc9fz2"
+    },
+    {
+        "wikidata_id": "Q2905147",
+        "name": "Bjeliši",
+        "description": "town in Bar, Montenegro",
+        "freebase_id": "/m/0cc6l1h"
+    },
+    {
+        "wikidata_id": "Q4301483",
+        "name": "Dajbabe Monastery",
+        "description": "Christian monastery in Montenegro",
+        "freebase_id": "/m/047r_kj"
+    },
+    {
+        "wikidata_id": "Q2465184",
+        "name": "Mateševo",
+        "description": "village in Kolašin Municipality, Montenegro",
+        "freebase_id": "/m/0g0xm2"
+    },
+    {
+        "wikidata_id": "Q2329119",
+        "name": "Bečići",
+        "description": "village in Budva Municipality, Montenegro",
+        "freebase_id": "/m/0c1s2k"
+    },
+    {
+        "wikidata_id": "Q2927571",
+        "name": "Budimlja",
+        "description": "town in Berane, Montenegro",
+        "freebase_id": "/m/0cc8skf"
+    },
+    {
+        "wikidata_id": "Q3120518",
+        "name": "Resnik",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc9wht"
+    },
+    {
+        "wikidata_id": "Q3130865",
+        "name": "Koći",
+        "description": "place in Podgorica Municipality, Montenegro",
+        "freebase_id": "/m/0hq_dc6"
+    },
+    {
+        "wikidata_id": "Q3065761",
+        "name": "Ubli",
+        "description": "village in Podgorica Municipality, Montenegro",
+        "freebase_id": "/m/04yb6b8"
+    },
+    {
+        "wikidata_id": "Q3120820",
+        "name": "Pešca",
+        "description": "town in Berane, Montenegro",
+        "freebase_id": "/m/0cc7w8w"
+    },
+    {
+        "wikidata_id": "Q3044092",
+        "name": "Mrčevac",
+        "description": "village in Tivat, Montenegro",
+        "freebase_id": "/m/0cc5rtd"
+    },
+    {
+        "wikidata_id": "Q729435",
+        "name": "Slatina",
+        "description": "Montenegro village in Pljevlja town",
+        "freebase_id": "/m/012wtg0w"
+    },
+    {
+        "wikidata_id": "Q3182910",
+        "name": "Mojanovići",
+        "description": "settlement in Montenegro",
+        "freebase_id": "/m/0cc7r2q"
+    },
+    {
+        "wikidata_id": "Q2041638",
+        "name": "Gubavač",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012x55gq"
+    },
+    {
+        "wikidata_id": "Q499444",
+        "name": "Savina monastery",
+        "description": "monastery",
+        "freebase_id": "/m/05t_m7"
+    },
+    {
+        "wikidata_id": "Q31183967",
+        "name": "Majstorovina Monastery",
+        "description": "Serbian Orthodox monastery in Majstorovina, Serbia",
+        "freebase_id": "/m/01347xsg"
+    },
+    {
+        "wikidata_id": "Q6645559",
+        "name": "Stari Aerodrom",
+        "description": "neighbourhood in Podgorica, Montenegro",
+        "freebase_id": "/m/02qh3fx"
+    },
+    {
+        "wikidata_id": "Q3045012",
+        "name": "Ozrinići",
+        "description": "village in Nikšić Municipality, Montenegro",
+        "freebase_id": "/m/0cc5tvh"
+    },
+    {
+        "wikidata_id": "Q3111061",
+        "name": "Goričani",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0cc55wh"
+    },
+    {
+        "wikidata_id": "Q2042246",
+        "name": "Džafića Brdo",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012whp4b"
+    },
+    {
+        "wikidata_id": "Q1027457",
+        "name": "Virpazar",
+        "description": "town in Bar Municipality, Montenegro",
+        "freebase_id": "/m/03g_35g"
+    },
+    {
+        "wikidata_id": "Q3824331",
+        "name": "Kom Monastery",
+        "description": "Serbian Orthodox monastery in Montenegro",
+        "freebase_id": "/m/03cch_2"
+    },
+    {
+        "wikidata_id": "Q3045549",
+        "name": "Mioče",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/0fpj0nx"
+    },
+    {
+        "wikidata_id": "Q514879",
+        "name": "Tušina",
+        "description": "village",
+        "freebase_id": "/m/02q56tr"
+    },
+    {
+        "wikidata_id": "Q770580",
+        "name": "Cetinje Monastery",
+        "description": "monastery",
+        "freebase_id": "/m/03ch5vd"
+    },
+    {
+        "wikidata_id": "Q2533313",
+        "name": "Šušanj",
+        "description": "town in Bar Municipality, Montenegro",
+        "freebase_id": "/m/0cc5000"
+    },
+    {
+        "wikidata_id": "Q3124985",
+        "name": "Mirac",
+        "description": "village in Kotor, Montenegro",
+        "freebase_id": "/m/047vn2j"
+    },
+    {
+        "wikidata_id": "Q3121900",
+        "name": "Prijevor",
+        "description": "village in Budva Municipality, Montenegro",
+        "freebase_id": "/m/0qfv3qm"
+    },
+    {
+        "wikidata_id": "Q3133533",
+        "name": "Nikmaraš",
+        "description": "settlement in Podgorica Municipality, Montenegro",
+        "freebase_id": "/m/03ckhck"
+    },
+    {
+        "wikidata_id": "Q920904",
+        "name": "Podgora",
+        "description": "human settlement",
+        "freebase_id": "/m/0j_6jd0"
+    },
+    {
+        "wikidata_id": "Q13436034",
+        "name": "Praskvica Monastery",
+        "description": "monastery in Montenegro",
+        "freebase_id": "/m/0vzv12m"
+    },
+    {
+        "wikidata_id": "Q3182717",
+        "name": "Nedakusi",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/0cc9_k1"
+    },
+    {
+        "wikidata_id": "Q2158623",
+        "name": "Prčanj",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc8ldr"
+    },
+    {
+        "wikidata_id": "Q7320766",
+        "name": "Rhizon",
+        "description": "capital of the Illyrian kingdom under the Ardiaei",
+        "freebase_id": "/m/0rfhh7f"
+    },
+    {
+        "wikidata_id": "Q2884411",
+        "name": "Bare",
+        "description": "town in Šavnik Municipality, Montenegro",
+        "freebase_id": "/m/0cc6431"
+    },
+    {
+        "wikidata_id": "Q925621",
+        "name": "Darza",
+        "description": "Montenegro village",
+        "freebase_id": "/m/012z8w8q"
+    },
+    {
+        "wikidata_id": "Q2719859",
+        "name": "Kumbor",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0cc78mq"
+    },
+    {
+        "wikidata_id": "Q3046773",
+        "name": "Smajlagića Polje",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc88qz"
+    },
+    {
+        "wikidata_id": "Q517575",
+        "name": "Šljuke",
+        "description": "village",
+        "freebase_id": "/m/012wkjx5"
+    },
+    {
+        "wikidata_id": "Q3047920",
+        "name": "Meljine",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc652g"
+    },
+    {
+        "wikidata_id": "Q2733605",
+        "name": "Beran Selo",
+        "description": "village in Berane Municipality, Montenegro",
+        "freebase_id": "/m/04cvwf_"
+    },
+    {
+        "wikidata_id": "Q18639597",
+        "name": "Orahovo Monastery",
+        "description": "Serbian Orthodox monastery",
+        "freebase_id": "/m/0128rpt3"
+    },
+    {
+        "wikidata_id": "Q3044246",
+        "name": "Mataguži",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0cc7kck"
+    },
+    {
+        "wikidata_id": "Q6556810",
+        "name": "Lipovo",
+        "description": "village in Kolašin municipality, Montenegro",
+        "freebase_id": "/m/0465g_y"
+    },
+    {
+        "wikidata_id": "Q991302",
+        "name": "Tuzi",
+        "description": "human settlement in Montenegro",
+        "freebase_id": "/m/08rrhc"
+    },
+    {
+        "wikidata_id": "Q2041597",
+        "name": "Babaići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wv0by"
+    },
+    {
+        "wikidata_id": "Q3199404",
+        "name": "Kovren",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wq60l"
+    },
+    {
+        "wikidata_id": "Q2046718",
+        "name": "Boturići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wg_hb"
+    },
+    {
+        "wikidata_id": "Q3045719",
+        "name": "Vučji Do",
+        "description": "village in Nikšić, Montenegro",
+        "freebase_id": "/m/0134w7cf"
+    },
+    {
+        "wikidata_id": "Q3041829",
+        "name": "Dužice",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012whx47"
+    },
+    {
+        "wikidata_id": "Q3047472",
+        "name": "Sokolac",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z205v"
+    },
+    {
+        "wikidata_id": "Q3046327",
+        "name": "Lješnica",
+        "description": "village in Petnjica Municipality, Montenegro",
+        "freebase_id": "/m/0w1ff63"
+    },
+    {
+        "wikidata_id": "Q3216332",
+        "name": "Laholo",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wh1gh"
+    },
+    {
+        "wikidata_id": "Q3038630",
+        "name": "Dragaši",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x01wk"
+    },
+    {
+        "wikidata_id": "Q2894544",
+        "name": "Beljkovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x30v8"
+    },
+    {
+        "wikidata_id": "Q2909438",
+        "name": "Boljanići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wkgpg"
+    },
+    {
+        "wikidata_id": "Q3305150",
+        "name": "Meljak",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012ww1my"
+    },
+    {
+        "wikidata_id": "Q3401158",
+        "name": "Požeginja",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2wdl"
+    },
+    {
+        "wikidata_id": "Q1135132",
+        "name": "Suacia",
+        "description": "titular see",
+        "freebase_id": "/m/0b6m5lr"
+    },
+    {
+        "wikidata_id": "Q3199376",
+        "name": "Kovačevići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012x2ccd"
+    },
+    {
+        "wikidata_id": "Q3040581",
+        "name": "Dubovo",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012wyhdq"
+    },
+    {
+        "wikidata_id": "Q3316135",
+        "name": "Mirojevići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wjykc"
+    },
+    {
+        "wikidata_id": "Q3041631",
+        "name": "Durutovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wgzy5"
+    },
+    {
+        "wikidata_id": "Q3298237",
+        "name": "Mataruge",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wlbmw"
+    },
+    {
+        "wikidata_id": "Q3113137",
+        "name": "Gradina",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wm2tc"
+    },
+    {
+        "wikidata_id": "Q3198955",
+        "name": "Korita",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wjscq"
+    },
+    {
+        "wikidata_id": "Q3446678",
+        "name": "Rudnica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wpmmc"
+    },
+    {
+        "wikidata_id": "Q3220062",
+        "name": "Lazovići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wg_pf"
+    },
+    {
+        "wikidata_id": "Q2046621",
+        "name": "Boljanina",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wr8x7"
+    },
+    {
+        "wikidata_id": "Q2046628",
+        "name": "Bliškovo",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wn304"
+    },
+    {
+        "wikidata_id": "Q2046643",
+        "name": "Dobrakovo",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wvj4t"
+    },
+    {
+        "wikidata_id": "Q2046702",
+        "name": "Bijedići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wq8xs"
+    },
+    {
+        "wikidata_id": "Q2046671",
+        "name": "Voljavac",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012z24jk"
+    },
+    {
+        "wikidata_id": "Q3003054",
+        "name": "Crljenice",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wv0tz"
+    },
+    {
+        "wikidata_id": "Q3003106",
+        "name": "Crnobori",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wwlxq"
+    },
+    {
+        "wikidata_id": "Q2042256",
+        "name": "Barice",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wmwsn"
+    },
+    {
+        "wikidata_id": "Q3478044",
+        "name": "Selac",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wpnp1"
+    },
+    {
+        "wikidata_id": "Q3495215",
+        "name": "Srđevac",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z338w"
+    },
+    {
+        "wikidata_id": "Q3047460",
+        "name": "Rastoka",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2qg9"
+    },
+    {
+        "wikidata_id": "Q2911081",
+        "name": "Borišići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn974"
+    },
+    {
+        "wikidata_id": "Q3319339",
+        "name": "Mojstir",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wjsd6"
+    },
+    {
+        "wikidata_id": "Q3400065",
+        "name": "Potkrajci",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wml59"
+    },
+    {
+        "wikidata_id": "Q3400076",
+        "name": "Potoci, PljevljaPotoci, Pljevlja",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wtgh1"
+    },
+    {
+        "wikidata_id": "Q3400116",
+        "name": "Potrlica",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wvl5t"
+    },
+    {
+        "wikidata_id": "Q3200287",
+        "name": "Kukavica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wp0h2"
+    },
+    {
+        "wikidata_id": "Q3033352",
+        "name": "Dobrinje",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wh0h7"
+    },
+    {
+        "wikidata_id": "Q3199173",
+        "name": "Kotline",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wjsjm"
+    },
+    {
+        "wikidata_id": "Q3389645",
+        "name": "Pižure",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wsby8"
+    },
+    {
+        "wikidata_id": "Q3485313",
+        "name": "Sirčići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wqw3l"
+    },
+    {
+        "wikidata_id": "Q3050802",
+        "name": "Q3050802",
+        "description": "village in Bar Municipality, Montenegro",
+        "freebase_id": "/m/02qg7nq"
+    },
+    {
+        "wikidata_id": "Q3392452",
+        "name": "Pliješevina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn9ly"
+    },
+    {
+        "wikidata_id": "Q3393016",
+        "name": "Podborova",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wh5w1"
+    },
+    {
+        "wikidata_id": "Q3478148",
+        "name": "Selišta",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wqx90"
+    },
+    {
+        "wikidata_id": "Q3047543",
+        "name": "Orahovica",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012whz00"
+    },
+    {
+        "wikidata_id": "Q3192680",
+        "name": "Kanje",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wm15z"
+    },
+    {
+        "wikidata_id": "Q3043387",
+        "name": "Slatina",
+        "description": "small town in Andrijevica, Montenegro",
+        "freebase_id": "/m/0cc52xh"
+    },
+    {
+        "wikidata_id": "Q2924195",
+        "name": "Brda",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wh2lz"
+    },
+    {
+        "wikidata_id": "Q3199116",
+        "name": "Kostići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012w_7yx"
+    },
+    {
+        "wikidata_id": "Q3104691",
+        "name": "Geuši",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wrlqc"
+    },
+    {
+        "wikidata_id": "Q3391084",
+        "name": "Plakala",
+        "description": "village in northern Montenegro",
+        "freebase_id": "/m/012wp3gc"
+    },
+    {
+        "wikidata_id": "Q3040610",
+        "name": "Dubrava",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wl8k3"
+    },
+    {
+        "wikidata_id": "Q3400110",
+        "name": "Potrk",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z213y"
+    },
+    {
+        "wikidata_id": "Q3319407",
+        "name": "Mokri Lug",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012wwf8v"
+    },
+    {
+        "wikidata_id": "Q3111103",
+        "name": "Gornja Brvenica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wl_z3"
+    },
+    {
+        "wikidata_id": "Q2041619",
+        "name": "Goduša",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wqx19"
+    },
+    {
+        "wikidata_id": "Q3198458",
+        "name": "Kolijevka",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn9bs"
+    },
+    {
+        "wikidata_id": "Q3313101",
+        "name": "Mijakovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wj9gt"
+    },
+    {
+        "wikidata_id": "Q3461148",
+        "name": "Sadići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012z26z_"
+    },
+    {
+        "wikidata_id": "Q3392994",
+        "name": "Poda",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012z2k_q"
+    },
+    {
+        "wikidata_id": "Q3160549",
+        "name": "Jahovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wtqv5"
+    },
+    {
+        "wikidata_id": "Q3040499",
+        "name": "Dubac",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wrkr7"
+    },
+    {
+        "wikidata_id": "Q3485151",
+        "name": "Sipanje",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z26n1"
+    },
+    {
+        "wikidata_id": "Q3229260",
+        "name": "Lekovina",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wk_8c"
+    },
+    {
+        "wikidata_id": "Q2384534",
+        "name": "Prijelozi",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z283_"
+    },
+    {
+        "wikidata_id": "Q3314556",
+        "name": "Milunići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wxsth"
+    },
+    {
+        "wikidata_id": "Q2837342",
+        "name": "Alići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wqb_j"
+    },
+    {
+        "wikidata_id": "Q3400058",
+        "name": "Potkovač",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wjy0s"
+    },
+    {
+        "wikidata_id": "Q3197685",
+        "name": "Kičava",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wqbrb"
+    },
+    {
+        "wikidata_id": "Q3401489",
+        "name": "Pračica",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wmy5t"
+    },
+    {
+        "wikidata_id": "Q3401564",
+        "name": "Prehari",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x033b"
+    },
+    {
+        "wikidata_id": "Q3402280",
+        "name": "Premćani",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wkhsv"
+    },
+    {
+        "wikidata_id": "Q3313851",
+        "name": "Milakovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wj8mj"
+    },
+    {
+        "wikidata_id": "Q3200003",
+        "name": "Kruševo",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wr9xh"
+    },
+    {
+        "wikidata_id": "Q3003118",
+        "name": "Crnča",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012x7sr_"
+    },
+    {
+        "wikidata_id": "Q3373133",
+        "name": "Pavino Polje",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2c1h"
+    },
+    {
+        "wikidata_id": "Q2413059",
+        "name": "Kotlajići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x8fv3"
+    },
+    {
+        "wikidata_id": "Q3316139",
+        "name": "Mironići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wrxh_"
+    },
+    {
+        "wikidata_id": "Q3034733",
+        "name": "Kazanci, Gacko",
+        "description": "village in Bosnia and Herzegovina",
+        "freebase_id": "/m/0crdzlp"
+    },
+    {
+        "wikidata_id": "Q3257477",
+        "name": "Ljuće",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wl1wq"
+    },
+    {
+        "wikidata_id": "Q3041818",
+        "name": "Dušići",
+        "description": "village in Podgorica Municipality, Montenegro",
+        "freebase_id": "/m/0_qd9lc"
+    },
+    {
+        "wikidata_id": "Q3199453",
+        "name": "Kozica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wg_q_"
+    },
+    {
+        "wikidata_id": "Q3111218",
+        "name": "Gornje Selo",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wm0tw"
+    },
+    {
+        "wikidata_id": "Q3046297",
+        "name": "Gornje Zaostro",
+        "description": "village in Berane, Montenegro",
+        "freebase_id": "/m/011vl6ds"
+    },
+    {
+        "wikidata_id": "Q3220121",
+        "name": "Lađana",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wj7c3"
+    },
+    {
+        "wikidata_id": "Q3046162",
+        "name": "Rasovo",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z21ty"
+    },
+    {
+        "wikidata_id": "Q3440565",
+        "name": "Romac",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012xf4js"
+    },
+    {
+        "wikidata_id": "Q3377898",
+        "name": "Pećarska",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z3ql4"
+    },
+    {
+        "wikidata_id": "Q3033846",
+        "name": "Dolac",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012wpmm_"
+    },
+    {
+        "wikidata_id": "Q3264464",
+        "name": "Lozna",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012x2_ht"
+    },
+    {
+        "wikidata_id": "Q3495182",
+        "name": "Srećanje",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wrwb8"
+    },
+    {
+        "wikidata_id": "Q3229831",
+        "name": "Leovo Brdo",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012ww31c"
+    },
+    {
+        "wikidata_id": "Q2908202",
+        "name": "Bobovo",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wjn3d"
+    },
+    {
+        "wikidata_id": "Q3307294",
+        "name": "Metanjac",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wn99w"
+    },
+    {
+        "wikidata_id": "Q3068226",
+        "name": "Femića Krš",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012whp7k"
+    },
+    {
+        "wikidata_id": "Q2923157",
+        "name": "Boščinovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wpnv0"
+    },
+    {
+        "wikidata_id": "Q3323705",
+        "name": "Moraice",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wtfdm"
+    },
+    {
+        "wikidata_id": "Q3140519",
+        "name": "Horevina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wrxb3"
+    },
+    {
+        "wikidata_id": "Q3003099",
+        "name": "Crniš",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wkk7c"
+    },
+    {
+        "wikidata_id": "Q3160524",
+        "name": "Jagoče",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wkgfg"
+    },
+    {
+        "wikidata_id": "Q3192045",
+        "name": "Kakmuži",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wj0k5"
+    },
+    {
+        "wikidata_id": "Q3192275",
+        "name": "Kalušići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wxnzb"
+    },
+    {
+        "wikidata_id": "Q3108906",
+        "name": "Glisnica",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wjmr2"
+    },
+    {
+        "wikidata_id": "Q3438191",
+        "name": "Rodijelja",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2f57"
+    },
+    {
+        "wikidata_id": "Q3200123",
+        "name": "Kržava",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wsdh3"
+    },
+    {
+        "wikidata_id": "Q3199983",
+        "name": "Krupice",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wmy0m"
+    },
+    {
+        "wikidata_id": "Q3002562",
+        "name": "Crhalj",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wg_qj"
+    },
+    {
+        "wikidata_id": "Q3280609",
+        "name": "Majstorovina",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wsb_l"
+    },
+    {
+        "wikidata_id": "Q3003105",
+        "name": "Crno Brdo",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wg_t3"
+    },
+    {
+        "wikidata_id": "Q3266357",
+        "name": "Lugovi",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012x1kr3"
+    },
+    {
+        "wikidata_id": "Q2906250",
+        "name": "Blatina",
+        "description": "village in Kolašin Municipality, Montenegro",
+        "freebase_id": "/m/03hm647"
+    },
+    {
+        "wikidata_id": "Q3194266",
+        "name": "Katun",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wj9nw"
+    },
+    {
+        "wikidata_id": "Q3199490",
+        "name": "Košare",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x47f_"
+    },
+    {
+        "wikidata_id": "Q3162831",
+        "name": "Jasen",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wmx32"
+    },
+    {
+        "wikidata_id": "Q3160519",
+        "name": "Jagodni Do",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wrcyt"
+    },
+    {
+        "wikidata_id": "Q3157035",
+        "name": "Jablanovo",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wq6lk"
+    },
+    {
+        "wikidata_id": "Q3157053",
+        "name": "Jabučno",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wv1l4"
+    },
+    {
+        "wikidata_id": "Q3036319",
+        "name": "Donja Brvenica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wn37q"
+    },
+    {
+        "wikidata_id": "Q3157045",
+        "name": "Jabuka",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012whm_p"
+    },
+    {
+        "wikidata_id": "Q3036465",
+        "name": "Donje Lipovo",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/0yn_3bz"
+    },
+    {
+        "wikidata_id": "Q3156241",
+        "name": "Ivanje",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012wp222"
+    },
+    {
+        "wikidata_id": "Q3047484",
+        "name": "Višnjica",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wq1xw"
+    },
+    {
+        "wikidata_id": "Q2905174",
+        "name": "Bjeloševina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wm2p9"
+    },
+    {
+        "wikidata_id": "Q3391475",
+        "name": "Planjsko",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wj8_8"
+    },
+    {
+        "wikidata_id": "Q3047510",
+        "name": "Šipovice",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z25j0"
+    },
+    {
+        "wikidata_id": "Q3397973",
+        "name": "Popov Do",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wpnqy"
+    },
+    {
+        "wikidata_id": "Q2041642",
+        "name": "Vrh",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012z2t5_"
+    },
+    {
+        "wikidata_id": "Q3197723",
+        "name": "Klakorina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wygtm"
+    },
+    {
+        "wikidata_id": "Q2946723",
+        "name": "Cerovci",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wv2vn"
+    },
+    {
+        "wikidata_id": "Q3478032",
+        "name": "Sela",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012z29rb"
+    },
+    {
+        "wikidata_id": "Q3400103",
+        "name": "Potpeće",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wrfd9"
+    },
+    {
+        "wikidata_id": "Q2927791",
+        "name": "Bujaci",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wm_d7"
+    },
+    {
+        "wikidata_id": "Q2402396",
+        "name": "Zorlovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn1ps"
+    },
+    {
+        "wikidata_id": "Q3392451",
+        "name": "Pliješ",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012whpkq"
+    },
+    {
+        "wikidata_id": "Q3392922",
+        "name": "Pobretići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z3lfn"
+    },
+    {
+        "wikidata_id": "Q3198916",
+        "name": "Kordovina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wncqw"
+    },
+    {
+        "wikidata_id": "Q3003082",
+        "name": "Crni Vrh",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wg_dp"
+    },
+    {
+        "wikidata_id": "Q3240698",
+        "name": "Lijeska",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012x3mtw"
+    },
+    {
+        "wikidata_id": "Q3453107",
+        "name": "Rujevica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012x2c9x"
+    },
+    {
+        "wikidata_id": "Q3392914",
+        "name": "Poblaće",
+        "description": "village in Pljevlja Municipality, in northern Montenegro",
+        "freebase_id": "/m/012w_f3q"
+    },
+    {
+        "wikidata_id": "Q2929100",
+        "name": "Bušnje",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wh33j"
+    },
+    {
+        "wikidata_id": "Q3240699",
+        "name": "Lijeska",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wly6y"
+    },
+    {
+        "wikidata_id": "Q3199389",
+        "name": "Kovači",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wnb7r"
+    },
+    {
+        "wikidata_id": "Q3047491",
+        "name": "Loznica",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wxp6y"
+    },
+    {
+        "wikidata_id": "Q3200101",
+        "name": "Krćevina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wslc9"
+    },
+    {
+        "wikidata_id": "Q3738564",
+        "name": "Tivat Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crj6p7"
+    },
+    {
+        "wikidata_id": "Q3739214",
+        "name": "Budva Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crgkdj"
+    },
+    {
+        "wikidata_id": "Q23564",
+        "name": "Podgorica",
+        "description": "capital city of Montenegro",
+        "freebase_id": "/m/0174pr"
+    },
+    {
+        "wikidata_id": "Q3555304",
+        "name": "Velestovo",
+        "description": "village in Cetinje, Montenegro",
+        "freebase_id": "/m/012sdbmw"
+    },
+    {
+        "wikidata_id": "Q4859821",
+        "name": "Plav Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/0crcr1b"
+    },
+    {
+        "wikidata_id": "Q3557834",
+        "name": "Vidre",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012whr10"
+    },
+    {
+        "wikidata_id": "Q3574889",
+        "name": "Zaselje",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012x1nm9"
+    },
+    {
+        "wikidata_id": "Q685112",
+        "name": "Sutomore",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/05ncfd"
+    },
+    {
+        "wikidata_id": "Q3594266",
+        "name": "Šipačno",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/01270srx"
+    },
+    {
+        "wikidata_id": "Q3356484",
+        "name": "Orlja",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wsb_0"
+    },
+    {
+        "wikidata_id": "Q3558426",
+        "name": "Vilići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wkk8w"
+    },
+    {
+        "wikidata_id": "Q3741507",
+        "name": "Danilovgrad Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crd3n2"
+    },
+    {
+        "wikidata_id": "Q207470",
+        "name": "Bijelo Polje",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/06fc11"
+    },
+    {
+        "wikidata_id": "Q3349413",
+        "name": "Odžak",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wtfz5"
+    },
+    {
+        "wikidata_id": "Q3347923",
+        "name": "Obarde",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wjmwg"
+    },
+    {
+        "wikidata_id": "Q3317366",
+        "name": "Herceg Novi Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crf6nl"
+    },
+    {
+        "wikidata_id": "Q25051614",
+        "name": "Vodno",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wh1rr"
+    },
+    {
+        "wikidata_id": "Q3593839",
+        "name": "Čestin",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x26xy"
+    },
+    {
+        "wikidata_id": "Q3417168",
+        "name": "Radulići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2n1r"
+    },
+    {
+        "wikidata_id": "Q3418071",
+        "name": "Rakonje",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2pf8"
+    },
+    {
+        "wikidata_id": "Q3562549",
+        "name": "Vojtina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wslyd"
+    },
+    {
+        "wikidata_id": "Q3348277",
+        "name": "Obrov",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wq2mw"
+    },
+    {
+        "wikidata_id": "Q3362776",
+        "name": "Pape",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2pvc"
+    },
+    {
+        "wikidata_id": "Q200733",
+        "name": "Nikšić",
+        "description": "city in western Montenegro",
+        "freebase_id": "/m/01psfx"
+    },
+    {
+        "wikidata_id": "Q498895",
+        "name": "Kolašin",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0b9ckj"
+    },
+    {
+        "wikidata_id": "Q3541072",
+        "name": "Trubine",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2w12"
+    },
+    {
+        "wikidata_id": "Q3594312",
+        "name": "Šula",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wzqrk"
+    },
+    {
+        "wikidata_id": "Q208200",
+        "name": "Berane",
+        "description": "town and municipality in northeastern Montenegro",
+        "freebase_id": "/m/078p_2"
+    },
+    {
+        "wikidata_id": "Q506775",
+        "name": "Rožaje",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/09ltrv"
+    },
+    {
+        "wikidata_id": "Q3418054",
+        "name": "Rakita",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2h53"
+    },
+    {
+        "wikidata_id": "Q211343",
+        "name": "Pljevlja",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/01psjx"
+    },
+    {
+        "wikidata_id": "Q31182282",
+        "name": "Bijela Monastery",
+        "description": "monastery in Bijela, Serbia",
+        "freebase_id": "/m/0wfrg0p"
+    },
+    {
+        "wikidata_id": "Q3417093",
+        "name": "Radojeva Glava",
+        "description": "village in Bijelo Polje Municipality, Montenegro",
+        "freebase_id": "/m/012z2qmx"
+    },
+    {
+        "wikidata_id": "Q3594285",
+        "name": "Šljivansko",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wlbbl"
+    },
+    {
+        "wikidata_id": "Q3499982",
+        "name": "Strahov Do",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012x05lg"
+    },
+    {
+        "wikidata_id": "Q173338",
+        "name": "Cetinje",
+        "description": "Old Royal Capital of Montenegro",
+        "freebase_id": "/m/01pjnw"
+    },
+    {
+        "wikidata_id": "Q174237",
+        "name": "Budva",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/02pgw9"
+    },
+    {
+        "wikidata_id": "Q171080",
+        "name": "Kotor",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/01pjn0"
+    },
+    {
+        "wikidata_id": "Q25829",
+        "name": "Kodre",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/0cc92yr"
+    },
+    {
+        "wikidata_id": "Q3408547",
+        "name": "Prošće",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x066s"
+    },
+    {
+        "wikidata_id": "Q3594468",
+        "name": "Žurena",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2yw9"
+    },
+    {
+        "wikidata_id": "Q3574473",
+        "name": "Zabrđe",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wtj74"
+    },
+    {
+        "wikidata_id": "Q3357648",
+        "name": "Otilovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wtxr6"
+    },
+    {
+        "wikidata_id": "Q3299782",
+        "name": "Mojkovac Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crh6v3"
+    },
+    {
+        "wikidata_id": "Q3299950",
+        "name": "Pljevlja Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crft99"
+    },
+    {
+        "wikidata_id": "Q3563603",
+        "name": "Vrbica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wxrjz"
+    },
+    {
+        "wikidata_id": "Q3547863",
+        "name": "Ujniče",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z3gpz"
+    },
+    {
+        "wikidata_id": "Q13365880",
+        "name": "Šavnik Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/0crhd10"
+    },
+    {
+        "wikidata_id": "Q3575117",
+        "name": "Zekavice",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wmz65"
+    },
+    {
+        "wikidata_id": "Q3496908",
+        "name": "Stančani",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wpllc"
+    },
+    {
+        "wikidata_id": "Q3355009",
+        "name": "Orahovo",
+        "description": "village in Bar Municipality, Montenegro",
+        "freebase_id": "/m/0127y6n3"
+    },
+    {
+        "wikidata_id": "Q3549902",
+        "name": "Unevine",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z24zs"
+    },
+    {
+        "wikidata_id": "Q25051610",
+        "name": "Vijenac",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wwfz7"
+    },
+    {
+        "wikidata_id": "Q3337762",
+        "name": "Negobratina",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wj5d6"
+    },
+    {
+        "wikidata_id": "Q3575664",
+        "name": "Zminac",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012z27k4"
+    },
+    {
+        "wikidata_id": "Q3415940",
+        "name": "Rabitlje",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn06l"
+    },
+    {
+        "wikidata_id": "Q3403945",
+        "name": "Prisoji",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn_hf"
+    },
+    {
+        "wikidata_id": "Q3303233",
+        "name": "Kolašin Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crd_f7"
+    },
+    {
+        "wikidata_id": "Q16085370",
+        "name": "Gusinje Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/012hrgzf"
+    },
+    {
+        "wikidata_id": "Q3539789",
+        "name": "Trnovice",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x69dk"
+    },
+    {
+        "wikidata_id": "Q223469",
+        "name": "Tivat",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/03xl5r"
+    },
+    {
+        "wikidata_id": "Q3304454",
+        "name": "Žabljak Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crjdcn"
+    },
+    {
+        "wikidata_id": "Q3593868",
+        "name": "Đalovići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012z2226"
+    },
+    {
+        "wikidata_id": "Q3593890",
+        "name": "Đurkovići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/02qv0v9"
+    },
+    {
+        "wikidata_id": "Q990088",
+        "name": "Petrovac na Moru",
+        "description": "town in Budva municipality, Montenegro",
+        "freebase_id": "/m/08qcph"
+    },
+    {
+        "wikidata_id": "Q3305075",
+        "name": "Old Royal Capital Cetinje",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crhspt"
+    },
+    {
+        "wikidata_id": "Q3305169",
+        "name": "Ulcinj Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crcdhh"
+    },
+    {
+        "wikidata_id": "Q4853794",
+        "name": "Berane Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crfdd0"
+    },
+    {
+        "wikidata_id": "Q4856305",
+        "name": "Kotor Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crgb46"
+    },
+    {
+        "wikidata_id": "Q3327275",
+        "name": "Mrzovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wn9np"
+    },
+    {
+        "wikidata_id": "Q3327276",
+        "name": "Mrčevo",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wr90b"
+    },
+    {
+        "wikidata_id": "Q3296677",
+        "name": "Rožaje Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/0crh6vq"
+    },
+    {
+        "wikidata_id": "Q3542510",
+        "name": "Tvrdakovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wl2c7"
+    },
+    {
+        "wikidata_id": "Q844192",
+        "name": "Sveti Stefan",
+        "description": "town and island in Montenegro",
+        "freebase_id": "/m/02v9qy"
+    },
+    {
+        "wikidata_id": "Q3421467",
+        "name": "Rađevići",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wyh2z"
+    },
+    {
+        "wikidata_id": "Q3575204",
+        "name": "Zenica",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012wmxfp"
+    },
+    {
+        "wikidata_id": "Q211195",
+        "name": "Plav",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/094k7q"
+    },
+    {
+        "wikidata_id": "Q3305250",
+        "name": "Podgorica Capital City",
+        "description": "Capital City of Montenegro",
+        "freebase_id": "/m/0crgycj"
+    },
+    {
+        "wikidata_id": "Q189969",
+        "name": "Ulcinj",
+        "description": "coastal town in Montenegro",
+        "freebase_id": "/m/03cw7m"
+    },
+    {
+        "wikidata_id": "Q25051612",
+        "name": "Muslići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wx55h"
+    },
+    {
+        "wikidata_id": "Q1255643",
+        "name": "Rijeka Crnojevića",
+        "description": "town in Montenegro",
+        "freebase_id": "/m/080d4ck"
+    },
+    {
+        "wikidata_id": "Q3361410",
+        "name": "Pali",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2jvv"
+    },
+    {
+        "wikidata_id": "Q390605",
+        "name": "Plužine",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/0bf5zv"
+    },
+    {
+        "wikidata_id": "Q1555366",
+        "name": "Gusinje",
+        "description": "city in Montenegro",
+        "freebase_id": "/m/094kgj"
+    },
+    {
+        "wikidata_id": "Q500080",
+        "name": "Mojkovac",
+        "description": "town in northern Montenegro",
+        "freebase_id": "/m/0b9cdy"
+    },
+    {
+        "wikidata_id": "Q15630696",
+        "name": "Petnjica Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/0_86_23"
+    },
+    {
+        "wikidata_id": "Q3594441",
+        "name": "Žiljak",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z247_"
+    },
+    {
+        "wikidata_id": "Q275630",
+        "name": "Danilovgrad",
+        "description": "town in central Montenegro",
+        "freebase_id": "/m/09xrp9"
+    },
+    {
+        "wikidata_id": "Q2604068",
+        "name": "Bar Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/0crf9zh"
+    },
+    {
+        "wikidata_id": "Q18114006",
+        "name": "Grevo",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012wp016"
+    },
+    {
+        "wikidata_id": "Q4086488",
+        "name": "Bijelo Polje Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0czc951"
+    },
+    {
+        "wikidata_id": "Q3350052",
+        "name": "Okladi",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012x5mkl"
+    },
+    {
+        "wikidata_id": "Q3593815",
+        "name": "Čavanj",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wjvxk"
+    },
+    {
+        "wikidata_id": "Q3593830",
+        "name": "Čerjenci",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wkzq0"
+    },
+    {
+        "wikidata_id": "Q3593883",
+        "name": "Đuli",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wm5qh"
+    },
+    {
+        "wikidata_id": "Q3593893",
+        "name": "Đurđevića Tara",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012ww17s"
+    },
+    {
+        "wikidata_id": "Q3594316",
+        "name": "Šumani",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wz0c8"
+    },
+    {
+        "wikidata_id": "Q3342339",
+        "name": "Njegnjevo",
+        "description": "village in Montenegro",
+        "freebase_id": "/m/012whn6c"
+    },
+    {
+        "wikidata_id": "Q3563589",
+        "name": "Vrba",
+        "description": "village in Pljevlja Municipality, Montenegro",
+        "freebase_id": "/m/012x1j5_"
+    },
+    {
+        "wikidata_id": "Q3499936",
+        "name": "Stožer",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z28m6"
+    },
+    {
+        "wikidata_id": "Q4864476",
+        "name": "Plužine Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crh4c4"
+    },
+    {
+        "wikidata_id": "Q2384773",
+        "name": "Andrijevica Municipality",
+        "description": "municipality in Montenegro",
+        "freebase_id": "/m/0crhy9q"
+    },
+    {
+        "wikidata_id": "Q4865016",
+        "name": "Nikšić Municipality",
+        "description": "municipality of Montenegro",
+        "freebase_id": "/m/0crg6qz"
+    },
+    {
+        "wikidata_id": "Q3516018",
+        "name": "Tatarovina",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wq5qb"
+    },
+    {
+        "wikidata_id": "Q115276",
+        "name": "Bar",
+        "description": "coastal town in Montenegro",
+        "freebase_id": "/m/01yjrm"
+    },
+    {
+        "wikidata_id": "Q16304529",
+        "name": "Borovica",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x6bxh"
+    },
+    {
+        "wikidata_id": "Q3500882",
+        "name": "Stubo",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z274_"
+    },
+    {
+        "wikidata_id": "Q3593813",
+        "name": "Čardak",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wp3tt"
+    },
+    {
+        "wikidata_id": "Q3403752",
+        "name": "Pripčići",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012z2hvj"
+    },
+    {
+        "wikidata_id": "Q3552271",
+        "name": "Uremovići",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wtq6l"
+    },
+    {
+        "wikidata_id": "Q242059",
+        "name": "Andrijevica",
+        "description": "town and the seat of Andrijevica Municipality in eastern Montenegro",
+        "freebase_id": "/m/02b37w"
+    },
+    {
+        "wikidata_id": "Q3357426",
+        "name": "Ostrelj",
+        "description": "village in Bijelo Polje, Montenegro",
+        "freebase_id": "/m/012wszbl"
+    },
+    {
+        "wikidata_id": "Q3554805",
+        "name": "Varine",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wr8tp"
+    },
+    {
+        "wikidata_id": "Q3555149",
+        "name": "Vaškovo",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012wpnrd"
+    },
+    {
+        "wikidata_id": "Q3555329",
+        "name": "Velike Krće",
+        "description": "village in Pljevlja, Montenegro",
+        "freebase_id": "/m/012x0vpk"
+    }
+]

@@ -1,0 +1,4010 @@
+[
+    {
+        "wikidata_id": "Q7542351",
+        "name": "Sluseholmen",
+        "description": "artificial peninsula in Copenhagen, Denmark",
+        "freebase_id": "/m/080lbvc"
+    },
+    {
+        "wikidata_id": "Q10489170",
+        "name": "Essenbæk Abbey",
+        "description": "Benedictine monastery in Denmark",
+        "freebase_id": "/m/051vtvh"
+    },
+    {
+        "wikidata_id": "Q6427905",
+        "name": "Kolt",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5lv1"
+    },
+    {
+        "wikidata_id": "Q7538278",
+        "name": "Skødstrup",
+        "description": "village in Southern Denmark",
+        "freebase_id": "/m/04f280b"
+    },
+    {
+        "wikidata_id": "Q2335633",
+        "name": "Følle",
+        "description": "suburb of Rønde in Syddjurs, Central Denmark, Denmark",
+        "freebase_id": "/m/0yqj_0v"
+    },
+    {
+        "wikidata_id": "Q1775429",
+        "name": "Knardrup Abbey",
+        "description": "monastery in Denmark",
+        "freebase_id": "/m/05p230x"
+    },
+    {
+        "wikidata_id": "Q12317420",
+        "name": "Humleby",
+        "description": "enclave of terraced houses in Copenhagen, Denmark",
+        "freebase_id": "/m/0g9x9fc"
+    },
+    {
+        "wikidata_id": "Q12317586",
+        "name": "Hvissinge",
+        "description": "suburb of Copenhagen",
+        "freebase_id": "/m/047ty13"
+    },
+    {
+        "wikidata_id": "Q1797189",
+        "name": "Struer",
+        "description": "town in Denmark",
+        "freebase_id": "/m/051_s84"
+    },
+    {
+        "wikidata_id": "Q7368586",
+        "name": "Rosenhøj",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5l_x"
+    },
+    {
+        "wikidata_id": "Q3196726",
+        "name": "Albertslund",
+        "description": "Copenhagen suburb in Albertslund Municipality, Denmark",
+        "freebase_id": "/m/04lcp4t"
+    },
+    {
+        "wikidata_id": "Q2239",
+        "name": "Kongens Lyngby",
+        "description": "suburb of Copenhagen, Denmark",
+        "freebase_id": "/m/047jxr"
+    },
+    {
+        "wikidata_id": "Q7923395",
+        "name": "Vestamager",
+        "description": "No description available",
+        "freebase_id": "/m/082nt5"
+    },
+    {
+        "wikidata_id": "Q3374461",
+        "name": "Høje Gladsaxe",
+        "description": "No description available",
+        "freebase_id": "/m/047p1by"
+    },
+    {
+        "wikidata_id": "Q16840450",
+        "name": "Gudum Priory",
+        "description": "Benedictine nunnery in Denmark",
+        "freebase_id": "/m/047n3cp"
+    },
+    {
+        "wikidata_id": "Q4700065",
+        "name": "Akacieparken",
+        "description": "public housing estate in Denmark",
+        "freebase_id": "/m/04jcjlg"
+    },
+    {
+        "wikidata_id": "Q11969242",
+        "name": "Flintholm",
+        "description": "modern neighbourhood in Frederiksberg district, Copenhagen, Denmark",
+        "freebase_id": "/m/0wdrrj1"
+    },
+    {
+        "wikidata_id": "Q7802966",
+        "name": "Tilst",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/07h1dc"
+    },
+    {
+        "wikidata_id": "Q7809675",
+        "name": "Tisvildeleje",
+        "description": "village and coastal area in Denmark",
+        "freebase_id": "/m/05ptj7"
+    },
+    {
+        "wikidata_id": "Q3430281",
+        "name": "Sundbyvester",
+        "description": "No description available",
+        "freebase_id": "/m/082ns4"
+    },
+    {
+        "wikidata_id": "Q20015977",
+        "name": "Musicon",
+        "description": "this is an article about a district in Zealand",
+        "freebase_id": "/m/012hdtzx"
+    },
+    {
+        "wikidata_id": "Q7586703",
+        "name": "St. Agnes' Priory, Gavnø",
+        "description": "Dominican priory on Gavnø island in Næstved Municipality, Denmark",
+        "freebase_id": "/m/05b5qtt"
+    },
+    {
+        "wikidata_id": "Q6843051",
+        "name": "Midtbyen",
+        "description": "The central area of the city of Aarhus, Denmark.",
+        "freebase_id": "/m/043lwcl"
+    },
+    {
+        "wikidata_id": "Q3359606",
+        "name": "Brøndby Strand",
+        "description": "suburb in Brønby Municipality",
+        "freebase_id": "/m/047n70n"
+    },
+    {
+        "wikidata_id": "Q7061431",
+        "name": "Risskov",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05zn6v"
+    },
+    {
+        "wikidata_id": "Q16902427",
+        "name": "Utterslev",
+        "description": "neighborhood in Bispebjerg, Copenhagen, Denmark",
+        "freebase_id": "/m/0zthyg4"
+    },
+    {
+        "wikidata_id": "Q4994499",
+        "name": "Gellerup",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/079zb0"
+    },
+    {
+        "wikidata_id": "Q17379908",
+        "name": "Bymidten",
+        "description": "neighbourhood in Odense Municipality, Southern Denmark, Denmark",
+        "freebase_id": "/m/0114ds6c"
+    },
+    {
+        "wikidata_id": "Q202206",
+        "name": "Freetown Christiania",
+        "description": "autonomous community in Copenhagen, Denmark",
+        "freebase_id": "/m/01lksx"
+    },
+    {
+        "wikidata_id": "Q7857369",
+        "name": "Tvilum Priory",
+        "description": "monastery - Silkeborg, Denmark",
+        "freebase_id": "/m/04yh2kl"
+    },
+    {
+        "wikidata_id": "Q2522673",
+        "name": "Rågeleje",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0x1bg9g"
+    },
+    {
+        "wikidata_id": "Q16324159",
+        "name": "Munkebjerg",
+        "description": "neighbourhood in Odense Municipality, Southern Denmark, Denmark",
+        "freebase_id": "/m/0114qkn8"
+    },
+    {
+        "wikidata_id": "Q1951853",
+        "name": "Skødstrup",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5m62"
+    },
+    {
+        "wikidata_id": "Q979259",
+        "name": "Brøndbyvester",
+        "description": "human settlement",
+        "freebase_id": "/m/09k4cwz"
+    },
+    {
+        "wikidata_id": "Q16981392",
+        "name": "Frederiks Brygge",
+        "description": "waterfront area in Copenhagen, Denmark",
+        "freebase_id": "/m/010qqkr3"
+    },
+    {
+        "wikidata_id": "Q12323441",
+        "name": "Køge Bugt Strandpark",
+        "description": "park in Copenhagen, Denmark",
+        "freebase_id": "/m/010qpzkt"
+    },
+    {
+        "wikidata_id": "Q3428597",
+        "name": "Indre Østerbro",
+        "description": "district of Copenhagen, Denmark",
+        "freebase_id": "/m/082mls"
+    },
+    {
+        "wikidata_id": "Q3428580",
+        "name": "Ydre Østerbro",
+        "description": "district of Copenhagen, Denmark",
+        "freebase_id": "/m/082mnv"
+    },
+    {
+        "wikidata_id": "Q6354604",
+        "name": "Kalundborg Friary",
+        "description": "No description available",
+        "freebase_id": "/m/04ydqlg"
+    },
+    {
+        "wikidata_id": "Q12336077",
+        "name": "Slipshavn",
+        "description": "Danish peninsula",
+        "freebase_id": "/m/01116vtb"
+    },
+    {
+        "wikidata_id": "Q12323994",
+        "name": "Latin Quarter",
+        "description": "neighborhood in Copenhagen",
+        "freebase_id": "/m/0z8y79p"
+    },
+    {
+        "wikidata_id": "Q3429949",
+        "name": "Indre Nørrebro",
+        "description": "district of Copenhagen, Denmark",
+        "freebase_id": "/m/082mr8"
+    },
+    {
+        "wikidata_id": "Q5878870",
+        "name": "Holbæk Priory",
+        "description": "small Dominican monastery in Holbæk, Denmark",
+        "freebase_id": "/m/051vk1z"
+    },
+    {
+        "wikidata_id": "Q861363",
+        "name": "Christianshavn",
+        "description": "neighborhood of Copenhagen, Denmark",
+        "freebase_id": "/m/082mkb"
+    },
+    {
+        "wikidata_id": "Q6885410",
+        "name": "Mjølnerparken",
+        "description": "public housing development in Nørrebro, Copenhagen",
+        "freebase_id": "/m/04gwbcj"
+    },
+    {
+        "wikidata_id": "Q4807181",
+        "name": "Askerød",
+        "description": "No description available",
+        "freebase_id": "/m/04grkr5"
+    },
+    {
+        "wikidata_id": "Q7588815",
+        "name": "St. John's Priory, Viborg",
+        "description": "former monastery in Denmark",
+        "freebase_id": "/m/051z62_"
+    },
+    {
+        "wikidata_id": "Q2040882",
+        "name": "Kokkedal",
+        "description": "settlement and municipal seat north of Copenhagen, Denmark",
+        "freebase_id": "/m/0h32kx"
+    },
+    {
+        "wikidata_id": "Q4918395",
+        "name": "Bispehaven",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/04jg0lx"
+    },
+    {
+        "wikidata_id": "Q3351817",
+        "name": "Islands Brygge",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/02vpsl0"
+    },
+    {
+        "wikidata_id": "Q7590813",
+        "name": "St. Nicholas' Priory, Ribe",
+        "description": "Benedictine nunnery in Ribe, Denmark",
+        "freebase_id": "/m/0562jjt"
+    },
+    {
+        "wikidata_id": "Q1420866",
+        "name": "Kastrup",
+        "description": "suburb of Copenhagen, Denmark",
+        "freebase_id": "/m/08y2lk"
+    },
+    {
+        "wikidata_id": "Q3430314",
+        "name": "Vesterbro",
+        "description": "suburb of Aarhus, Denmark",
+        "freebase_id": "/m/04y8_r5"
+    },
+    {
+        "wikidata_id": "Q3373689",
+        "name": "Skovlunde",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0273tz9"
+    },
+    {
+        "wikidata_id": "Q1802930",
+        "name": "Husum",
+        "description": "neighborhood in Copenhagen, Denmark",
+        "freebase_id": "/m/0dl0wz"
+    },
+    {
+        "wikidata_id": "Q2527223",
+        "name": "Skæring",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5m29"
+    },
+    {
+        "wikidata_id": "Q7369004",
+        "name": "Roskilde Abbey",
+        "description": "former abbey in Denmark",
+        "freebase_id": "/m/047dqgj"
+    },
+    {
+        "wikidata_id": "Q5964801",
+        "name": "Højbjerg",
+        "description": "postal district in Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5lt0"
+    },
+    {
+        "wikidata_id": "Q7918736",
+        "name": "Vejlby",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5m9j"
+    },
+    {
+        "wikidata_id": "Q805010",
+        "name": "Balka",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0nd4_yh"
+    },
+    {
+        "wikidata_id": "Q104194911",
+        "name": "Ryvangen",
+        "description": "neighbourhood in Copenhagen, Denmark",
+        "freebase_id": "/m/0x15b43"
+    },
+    {
+        "wikidata_id": "Q600582",
+        "name": "Esrum Abbey",
+        "description": "building in Denmark",
+        "freebase_id": "/m/0479cny"
+    },
+    {
+        "wikidata_id": "Q11975677",
+        "name": "Holmen",
+        "description": "water-bound neighbourhood in Copenhagen, Denmark",
+        "freebase_id": "/m/06613rq"
+    },
+    {
+        "wikidata_id": "Q3041673",
+        "name": "Maribo Abbey",
+        "description": "ancient monument in Lolland Municipality (112312)",
+        "freebase_id": "/m/047900_"
+    },
+    {
+        "wikidata_id": "Q12329374",
+        "name": "New Copenhagen",
+        "description": "17th-century expansion of Copenhagen, Denmark",
+        "freebase_id": "/m/0wxszpn"
+    },
+    {
+        "wikidata_id": "Q7915318",
+        "name": "Vapnagård",
+        "description": "housing project Helsingør, Denmark",
+        "freebase_id": "/m/04cv0n3"
+    },
+    {
+        "wikidata_id": "Q4732688",
+        "name": "Alling Abbey",
+        "description": "ancient monument in Silkeborg Municipality (144045)",
+        "freebase_id": "/m/05b4pmb"
+    },
+    {
+        "wikidata_id": "Q12072844",
+        "name": "White Houses",
+        "description": "No description available",
+        "freebase_id": "/m/0s8yzyc"
+    },
+    {
+        "wikidata_id": "Q7587605",
+        "name": "St. Clare's Monastery, Copenhagen",
+        "description": "No description available",
+        "freebase_id": "/m/04zxpg_"
+    },
+    {
+        "wikidata_id": "Q7591411",
+        "name": "St. Peter's Priory, Grinderslev",
+        "description": "No description available",
+        "freebase_id": "/m/05b1h5j"
+    },
+    {
+        "wikidata_id": "Q12337694",
+        "name": "Sundby",
+        "description": "neighbourhood in Copenhagen",
+        "freebase_id": "/m/0wxy7yc"
+    },
+    {
+        "wikidata_id": "Q7534346",
+        "name": "Skejby",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/02tsjv"
+    },
+    {
+        "wikidata_id": "Q2082400",
+        "name": "Munkerup",
+        "description": "coastal district of Hornbæk-Dronningmølle in the north of Zealand, Denmark",
+        "freebase_id": "/m/012cd089"
+    },
+    {
+        "wikidata_id": "Q4457816",
+        "name": "Tingbjerg",
+        "description": "Danish housing project",
+        "freebase_id": "/m/04jlk1y"
+    },
+    {
+        "wikidata_id": "Q3045356",
+        "name": "Frederiksstaden",
+        "description": "district in Copenhagen",
+        "freebase_id": "/m/053xq82"
+    },
+    {
+        "wikidata_id": "Q7538191",
+        "name": "Skåde",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5m3b"
+    },
+    {
+        "wikidata_id": "Q5680009",
+        "name": "Hasselhøj",
+        "description": "No description available",
+        "freebase_id": "/m/090h_m"
+    },
+    {
+        "wikidata_id": "Q3375590",
+        "name": "Amagerbro",
+        "description": "area in northern Amager island",
+        "freebase_id": "/m/047rzmc"
+    },
+    {
+        "wikidata_id": "Q3429528",
+        "name": "Voer Abbey",
+        "description": "ancient monument in Horsens Municipality (116353)",
+        "freebase_id": "/m/05p6043"
+    },
+    {
+        "wikidata_id": "Q3430217",
+        "name": "Sundbyøster",
+        "description": "one of the 15 tax city districts comprising the municipality of Copenhagen, Denmark",
+        "freebase_id": "/m/082nrg"
+    },
+    {
+        "wikidata_id": "Q3430242",
+        "name": "Ydre Nørrebro",
+        "description": "area in Copenhagen, Denmark",
+        "freebase_id": "/m/082ms9"
+    },
+    {
+        "wikidata_id": "Q4883422",
+        "name": "Bellahøj",
+        "description": "area northwest of central Copenhagen, Denmark",
+        "freebase_id": "/m/047p2l3"
+    },
+    {
+        "wikidata_id": "Q2509805",
+        "name": "Bagsværd",
+        "description": "suburb of Copenhagen",
+        "freebase_id": "/m/047lcql"
+    },
+    {
+        "wikidata_id": "Q1860611",
+        "name": "Viby",
+        "description": "suburb of Aarhus in Denmark",
+        "freebase_id": "/m/01t7m8"
+    },
+    {
+        "wikidata_id": "Q904469",
+        "name": "Klampenborg",
+        "description": "suburb of Copenhagen in Gentofte Municipality, Denmark",
+        "freebase_id": "/m/09v6y6p"
+    },
+    {
+        "wikidata_id": "Q3374524",
+        "name": "Carlsberg",
+        "description": "district in Copenhagen",
+        "freebase_id": "/m/05zwsbb"
+    },
+    {
+        "wikidata_id": "Q8079211",
+        "name": "Ølby",
+        "description": "neighbourhood in Køge, Denmark",
+        "freebase_id": "/m/047m21c"
+    },
+    {
+        "wikidata_id": "Q1299215",
+        "name": "Egå",
+        "description": "neighborhood in Aarhus, Denmark",
+        "freebase_id": "/m/03h5l9v"
+    },
+    {
+        "wikidata_id": "Q7540156",
+        "name": "Slet",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5m18"
+    },
+    {
+        "wikidata_id": "Q10854003",
+        "name": "Nordvest",
+        "description": "area of Copenhagen municipality, Denmark",
+        "freebase_id": "/m/0swnj_t"
+    },
+    {
+        "wikidata_id": "Q5043362",
+        "name": "Carmelite Priory, Copenhagen",
+        "description": "Danish Carmelite college",
+        "freebase_id": "/m/04zw3dx"
+    },
+    {
+        "wikidata_id": "Q3432228",
+        "name": "Brumleby",
+        "description": "street in Copenhagen Municipality, Denmark",
+        "freebase_id": "/m/0g9wkrf"
+    },
+    {
+        "wikidata_id": "Q2329474",
+        "name": "Tranbjerg",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Denmark",
+        "freebase_id": "/m/03h5m6s"
+    },
+    {
+        "wikidata_id": "Q6704162",
+        "name": "Lundtoftbjerg",
+        "description": "No description available",
+        "freebase_id": "/m/0g9zhmx"
+    },
+    {
+        "wikidata_id": "Q3226599",
+        "name": "Glostrup",
+        "description": "Danish city",
+        "freebase_id": "/m/052588h"
+    },
+    {
+        "wikidata_id": "Q5942471",
+        "name": "Hundslund Priory",
+        "description": "former Benedictine religious house near Aalborg, Denmark",
+        "freebase_id": "/m/05b3q_2"
+    },
+    {
+        "wikidata_id": "Q12338425",
+        "name": "Søndergårde",
+        "description": "Neighborhood Hadsund, Denmark",
+        "freebase_id": "/m/0zn27py"
+    },
+    {
+        "wikidata_id": "Q7928874",
+        "name": "Vigerslev",
+        "description": "neighbourhood in Valby, Denmark",
+        "freebase_id": "/m/047pthr"
+    },
+    {
+        "wikidata_id": "Q2315179",
+        "name": "Virum",
+        "description": "suburb North of Copenhagen",
+        "freebase_id": "/m/062l9y"
+    },
+    {
+        "wikidata_id": "Q5883335",
+        "name": "Holme",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5lsb"
+    },
+    {
+        "wikidata_id": "Q4960115",
+        "name": "Brede",
+        "description": "neighbourhood in Lyngby-Taarbæk, Capital Region, Denmark",
+        "freebase_id": "/m/047lfrs"
+    },
+    {
+        "wikidata_id": "Q2253859",
+        "name": "Snoghøj",
+        "description": "fredericia in Denmark",
+        "freebase_id": "/m/02zd5k"
+    },
+    {
+        "wikidata_id": "Q2107465",
+        "name": "Stavtrup",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/03h5m40"
+    },
+    {
+        "wikidata_id": "Q1261637",
+        "name": "Åsebakken Priory",
+        "description": "abbey",
+        "freebase_id": "/m/0bgh67"
+    },
+    {
+        "wikidata_id": "Q7918733",
+        "name": "Vejgaard",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03hj6d9"
+    },
+    {
+        "wikidata_id": "Q5500506",
+        "name": "Friheden",
+        "description": "area of Copenhagen, Denmark",
+        "freebase_id": "/m/047nl20"
+    },
+    {
+        "wikidata_id": "Q5500506",
+        "name": "Friheden",
+        "description": "area of Copenhagen, Denmark",
+        "freebase_id": "/m/0dsbqk5"
+    },
+    {
+        "wikidata_id": "Q7563774",
+        "name": "Sortelung",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0h7jzd"
+    },
+    {
+        "wikidata_id": "Q12309325",
+        "name": "Eberts Villaby",
+        "description": "No description available",
+        "freebase_id": "/m/0wxvtxn"
+    },
+    {
+        "wikidata_id": "Q12316916",
+        "name": "Hjerting",
+        "description": "district of Esbjerb, Denmark",
+        "freebase_id": "/m/0_lcr52"
+    },
+    {
+        "wikidata_id": "Q946886",
+        "name": "Rungsted",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/0gyw1h4"
+    },
+    {
+        "wikidata_id": "Q12320311",
+        "name": "Jonstrup",
+        "description": "No description available",
+        "freebase_id": "/m/0fphzkv"
+    },
+    {
+        "wikidata_id": "Q12328139",
+        "name": "Mørkhøj",
+        "description": "No description available",
+        "freebase_id": "/m/047m188"
+    },
+    {
+        "wikidata_id": "Q4992573",
+        "name": "Sorø Abbey",
+        "description": "monastic house in Denmark during the Middle Ages",
+        "freebase_id": "/m/047cfqp"
+    },
+    {
+        "wikidata_id": "Q1754206",
+        "name": "Vangede",
+        "description": "suburb of Copenhagen, Denmark",
+        "freebase_id": "/m/047lpft"
+    },
+    {
+        "wikidata_id": "Q7627323",
+        "name": "Stubber Priory",
+        "description": "nunnery in Jutland",
+        "freebase_id": "/m/047ty57"
+    },
+    {
+        "wikidata_id": "Q5680003",
+        "name": "Hasselager",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Kingdom of Denmark",
+        "freebase_id": "/m/0928th"
+    },
+    {
+        "wikidata_id": "Q6454070",
+        "name": "Meatpacking District",
+        "description": "district in Copenhagen, Denmark",
+        "freebase_id": "/m/05syzj0"
+    },
+    {
+        "wikidata_id": "Q6429191",
+        "name": "Kongens Enghave",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/05zlp7w"
+    },
+    {
+        "wikidata_id": "Q6084282",
+        "name": "Islev",
+        "description": "No description available",
+        "freebase_id": "/m/047pf8p"
+    },
+    {
+        "wikidata_id": "Q13580379",
+        "name": "Ringsted Abbey",
+        "description": "former Benedictine monastery in Denmark",
+        "freebase_id": "/m/04zyz7d"
+    },
+    {
+        "wikidata_id": "Q7833350",
+        "name": "Tranbjerg",
+        "description": "No description available",
+        "freebase_id": "/m/02x588x"
+    },
+    {
+        "wikidata_id": "Q521187",
+        "name": "Vesterbro",
+        "description": "district of Copenhagen, Denmark",
+        "freebase_id": "/m/082msn"
+    },
+    {
+        "wikidata_id": "Q7533829",
+        "name": "Skalborg",
+        "description": "neighbourhood of Aalborg, Denmark",
+        "freebase_id": "/m/02qygxx"
+    },
+    {
+        "wikidata_id": "Q3366177",
+        "name": "Gammelholm",
+        "description": "neighbourhood in Copenhagen, Denmark",
+        "freebase_id": "/m/09gpgz5"
+    },
+    {
+        "wikidata_id": "Q12341288",
+        "name": "Vorup",
+        "description": "Danish suburb",
+        "freebase_id": "/m/011jnb0l"
+    },
+    {
+        "wikidata_id": "Q4661709",
+        "name": "Aarhus C",
+        "description": "postal district in Aarhus",
+        "freebase_id": "/m/043tts5"
+    },
+    {
+        "wikidata_id": "Q97357949",
+        "name": "Løgum Abbey",
+        "description": "former abbey in Denmark",
+        "freebase_id": "/m/047vm88"
+    },
+    {
+        "wikidata_id": "Q4572827",
+        "name": "Nyboder",
+        "description": "building in Copenhagen, Denmark",
+        "freebase_id": "/m/02x6c_8"
+    },
+    {
+        "wikidata_id": "Q4827976",
+        "name": "Avedøre",
+        "description": "town in Denmark",
+        "freebase_id": "/m/047lw5r"
+    },
+    {
+        "wikidata_id": "Q5499329",
+        "name": "Frederiksbjerg",
+        "description": "neighborhood in Aarhus Municipality, Central Denmark Region, Denmark",
+        "freebase_id": "/m/03h5m7g"
+    },
+    {
+        "wikidata_id": "Q1373658",
+        "name": "Charlottenlund",
+        "description": "suburb in Copenhagen",
+        "freebase_id": "/m/05_5xnr"
+    },
+    {
+        "wikidata_id": "Q4994807",
+        "name": "Råbylille Strand",
+        "description": "holiday home area on the Danish island Møn",
+        "freebase_id": "/m/026pd7j"
+    },
+    {
+        "wikidata_id": "Q30096",
+        "name": "Frederiksberg",
+        "description": "town area in Copenhagen Urban Area (and capital of Frederiksberg Municipality)",
+        "freebase_id": "/m/02t_r5"
+    },
+    {
+        "wikidata_id": "Q6496462",
+        "name": "Latin Quarter",
+        "description": "part of Aarhus",
+        "freebase_id": "/m/04f_ch2"
+    },
+    {
+        "wikidata_id": "Q2170970",
+        "name": "Dronningmølle",
+        "description": "town in Capital Region of Denmark, Denmark",
+        "freebase_id": "/m/011smlhs"
+    },
+    {
+        "wikidata_id": "Q8242925",
+        "name": "Sluseholmen Canal District",
+        "description": "mixed-use in The South Harbour",
+        "freebase_id": "/m/080kzsv"
+    },
+    {
+        "wikidata_id": "Q5042924",
+        "name": "Carlstad",
+        "description": "short-lived fortified town built in Denmark",
+        "freebase_id": "/m/0f0_g2"
+    },
+    {
+        "wikidata_id": "Q5656925",
+        "name": "Hareskovby",
+        "description": "suburb of Copenhagen, Denmark",
+        "freebase_id": "/m/0f2nd7"
+    },
+    {
+        "wikidata_id": "Q3429539",
+        "name": "Vissing Priory",
+        "description": "Benedictine nunnery in Denmark",
+        "freebase_id": "/m/05p1mbp"
+    },
+    {
+        "wikidata_id": "Q5347750",
+        "name": "Egely Monastery",
+        "description": "buddhist temple in Denmark",
+        "freebase_id": "/m/06zs10s"
+    },
+    {
+        "wikidata_id": "Q12315795",
+        "name": "Hasseris",
+        "description": "area of Aalborg, Denmark",
+        "freebase_id": "/m/0x0dxjg"
+    },
+    {
+        "wikidata_id": "Q1674847",
+        "name": "Istedgade",
+        "description": "street in Copenhagen Municipality, Denmark",
+        "freebase_id": "/m/0glwtf"
+    },
+    {
+        "wikidata_id": "Q6710127",
+        "name": "Lyset",
+        "description": "housing development in Denmark",
+        "freebase_id": "/m/0n49l84"
+    },
+    {
+        "wikidata_id": "Q16966840",
+        "name": "Old Brattingsborg Castle",
+        "description": "ancient monument in Samsø Municipality (106423)",
+        "freebase_id": "/m/0zg5srl"
+    },
+    {
+        "wikidata_id": "Q7665820",
+        "name": "Sættedammen",
+        "description": "cohousing community in Denmark",
+        "freebase_id": "/m/09v1x2h"
+    },
+    {
+        "wikidata_id": "Q6372614",
+        "name": "Karlstrup",
+        "description": "village in Solrød Municipality, Denmark",
+        "freebase_id": "/m/097s__"
+    },
+    {
+        "wikidata_id": "Q5684086",
+        "name": "Havredal",
+        "description": "village in Viborg Municipality, Denmark",
+        "freebase_id": "/m/0gjcjxm"
+    },
+    {
+        "wikidata_id": "Q13218286",
+        "name": "Karleby",
+        "description": "village on the island Falster, Denmark",
+        "freebase_id": "/m/0zbvxml"
+    },
+    {
+        "wikidata_id": "Q2669789",
+        "name": "Skarrild",
+        "description": "village in Herning Municipality, Denmark",
+        "freebase_id": "/m/0ddh2mx"
+    },
+    {
+        "wikidata_id": "Q2542142",
+        "name": "Alken",
+        "description": "village in Skanderborg Municipality, Denmark",
+        "freebase_id": "/m/0z6t5zr"
+    },
+    {
+        "wikidata_id": "Q2747017",
+        "name": "Branderslev",
+        "description": "village in Lolland Municipality, Denmark",
+        "freebase_id": "/m/012zw59w"
+    },
+    {
+        "wikidata_id": "Q984923",
+        "name": "Listed",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nd4lr_"
+    },
+    {
+        "wikidata_id": "Q12317465",
+        "name": "Hunseby",
+        "description": "village in Lolland, Denmark",
+        "freebase_id": "/m/0w7pbc0"
+    },
+    {
+        "wikidata_id": "Q12337131",
+        "name": "Stenseby",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nd2vkv"
+    },
+    {
+        "wikidata_id": "Q12336792",
+        "name": "Spøttrup",
+        "description": "village in Skive Municipality, Denmark",
+        "freebase_id": "/m/07l3hy"
+    },
+    {
+        "wikidata_id": "Q393193",
+        "name": "Aggersund",
+        "description": "village in Vesthimmerland Municipality, Denmark",
+        "freebase_id": "/m/03vz4y"
+    },
+    {
+        "wikidata_id": "Q7442737",
+        "name": "Sebber Priory",
+        "description": "manor house in Aalborg Municipality, Denmark",
+        "freebase_id": "/m/047td8h"
+    },
+    {
+        "wikidata_id": "Q12323716",
+        "name": "Langebæk",
+        "description": "village in Vordingborg Municipality, Denmark",
+        "freebase_id": "/m/0131b4"
+    },
+    {
+        "wikidata_id": "Q2178247",
+        "name": "Mammen",
+        "description": "village in Viborg Municipality, Denmark",
+        "freebase_id": "/m/0z6thjd"
+    },
+    {
+        "wikidata_id": "Q56776",
+        "name": "Hasselø Plantage",
+        "description": "coastal village on the Danish island of Falster",
+        "freebase_id": "/m/0ndwvtp"
+    },
+    {
+        "wikidata_id": "Q2315729",
+        "name": "Hoven",
+        "description": "village in Ringkøbing-Skjern Municipality, Denmark",
+        "freebase_id": "/m/08y63v"
+    },
+    {
+        "wikidata_id": "Q909110",
+        "name": "East Jutland metropolitan area",
+        "description": "place",
+        "freebase_id": "/m/02z7jfw"
+    },
+    {
+        "wikidata_id": "Q1429753",
+        "name": "Stenbjerg",
+        "description": "village in Thisted Municipality, Denmark",
+        "freebase_id": "/m/011v685z"
+    },
+    {
+        "wikidata_id": "Q75442",
+        "name": "Hesnæs",
+        "description": "village in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/0nfwp7h"
+    },
+    {
+        "wikidata_id": "Q20835",
+        "name": "Hørsholm",
+        "description": "town in Denmark",
+        "freebase_id": "/m/052577h"
+    },
+    {
+        "wikidata_id": "Q4662632",
+        "name": "Aarsballe",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nbtksx"
+    },
+    {
+        "wikidata_id": "Q18709557",
+        "name": "Løjenkær",
+        "description": "village in Aarhus Municipality, Denmark",
+        "freebase_id": "/m/012l6fdj"
+    },
+    {
+        "wikidata_id": "Q2316131",
+        "name": "Birket",
+        "description": "village in Lolland Municipality, Denmark",
+        "freebase_id": "/m/012zw4x9"
+    },
+    {
+        "wikidata_id": "Q308352",
+        "name": "Østerlars",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0ncd0lj"
+    },
+    {
+        "wikidata_id": "Q4572766",
+        "name": "Vesterbro/Kongens Enghave",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/05zlp7w"
+    },
+    {
+        "wikidata_id": "Q5963579",
+        "name": "Hårbølle",
+        "description": "village in Vordingborg Municipality, Denmark",
+        "freebase_id": "/m/0glr_41"
+    },
+    {
+        "wikidata_id": "Q2544465",
+        "name": "Aidt",
+        "description": "village in Favrskov Municipality, Denmark",
+        "freebase_id": "/m/02qj5xb"
+    },
+    {
+        "wikidata_id": "Q848515",
+        "name": "Ortved",
+        "description": "village in Ringsted Municipality, Denmark",
+        "freebase_id": "/m/02ql4q_"
+    },
+    {
+        "wikidata_id": "Q12344040",
+        "name": "Voer færgested",
+        "description": "village in Norddjurs Municipality, Denmark",
+        "freebase_id": "/m/05zg70"
+    },
+    {
+        "wikidata_id": "Q728850",
+        "name": "Astrup",
+        "description": "hamlet in Ringkøbing-Skjern Municipality, Denmark",
+        "freebase_id": "/m/0z6prrn"
+    },
+    {
+        "wikidata_id": "Q2006997",
+        "name": "Nørrebro",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/080jq_"
+    },
+    {
+        "wikidata_id": "Q254604",
+        "name": "Olsker",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nb7xvn"
+    },
+    {
+        "wikidata_id": "Q5308340",
+        "name": "Dronningegården",
+        "description": "residential complex in Copenhagen, Denmark",
+        "freebase_id": "/m/0h7lhb0"
+    },
+    {
+        "wikidata_id": "Q2603886",
+        "name": "Roskilde",
+        "description": "Roman Catholic titular see",
+        "freebase_id": "/m/03hnsyq"
+    },
+    {
+        "wikidata_id": "Q7534997",
+        "name": "Skibhusene",
+        "description": "suburb in Odense Municipality, Southern Denmark, Denmark",
+        "freebase_id": "/m/026tlkl"
+    },
+    {
+        "wikidata_id": "Q3172579",
+        "name": "Søborg",
+        "description": "village in Gribskov Municipality, Denmark",
+        "freebase_id": "/m/012nf4ys"
+    },
+    {
+        "wikidata_id": "Q892955",
+        "name": "Skjørring",
+        "description": "village in Skanderborg Municipality, Denmark",
+        "freebase_id": "/m/0p78wjq"
+    },
+    {
+        "wikidata_id": "Q56967",
+        "name": "Nykøbing Strandhuse",
+        "description": "human settlement",
+        "freebase_id": "/m/0ndxkxw"
+    },
+    {
+        "wikidata_id": "Q1281756",
+        "name": "Vanløse",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/082nn9"
+    },
+    {
+        "wikidata_id": "Q4941371",
+        "name": "Bondebyen",
+        "description": "neighbourhood in Lyngby-Taarbæk, Capital Region, Denmark",
+        "freebase_id": "/m/0h7lnyr"
+    },
+    {
+        "wikidata_id": "Q2012895",
+        "name": "Svanninge",
+        "description": "village in Faaborg-Midtfyn Municipality, Denmark",
+        "freebase_id": "/m/0_7hk6x"
+    },
+    {
+        "wikidata_id": "Q1803007",
+        "name": "Brønshøj-Husum",
+        "description": "district of Copenhagen, Denmark",
+        "freebase_id": "/m/082nq1"
+    },
+    {
+        "wikidata_id": "Q615206",
+        "name": "Oksbøl Refugee Camp",
+        "description": "refugee camp",
+        "freebase_id": "/m/09rtb91"
+    },
+    {
+        "wikidata_id": "Q189361",
+        "name": "Klaksvík",
+        "description": "settlement on Borðoy, Faroe Islands",
+        "freebase_id": "/m/04bglp"
+    },
+    {
+        "wikidata_id": "Q1748",
+        "name": "Copenhagen",
+        "description": "capital and largest city of Denmark",
+        "freebase_id": "/m/01lfy"
+    },
+    {
+        "wikidata_id": "Q195928",
+        "name": "Virket",
+        "description": "village in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/0nhgszw"
+    },
+    {
+        "wikidata_id": "Q2247238",
+        "name": "Ålsgårde",
+        "description": "Seaside resort in North Zealand, Denmark",
+        "freebase_id": "/m/05h_tt"
+    },
+    {
+        "wikidata_id": "Q4964741",
+        "name": "Rutsker",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nb8d_w"
+    },
+    {
+        "wikidata_id": "Q1932118",
+        "name": "Valby",
+        "description": "district of Copenhagen, Denmark",
+        "freebase_id": "/m/082mvf"
+    },
+    {
+        "wikidata_id": "Q848527",
+        "name": "Ravnkilde",
+        "description": "village in Rebild Municipality, Denmark",
+        "freebase_id": "/m/0cz7yfr"
+    },
+    {
+        "wikidata_id": "Q30157118",
+        "name": "Vesborg",
+        "description": "ancient monument in Samsø Municipality (167777)",
+        "freebase_id": "/m/0zdnsds"
+    },
+    {
+        "wikidata_id": "Q984918",
+        "name": "Vestermarie",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nd3b0n"
+    },
+    {
+        "wikidata_id": "Q7639886",
+        "name": "Sundsøre",
+        "description": "village in Denmark",
+        "freebase_id": "/m/06dygm"
+    },
+    {
+        "wikidata_id": "Q56851",
+        "name": "Horreby",
+        "description": "village in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/0ndw_b2"
+    },
+    {
+        "wikidata_id": "Q3373779",
+        "name": "Amagerbrogade",
+        "description": "street in Copenhagen",
+        "freebase_id": "/m/0cmb98v"
+    },
+    {
+        "wikidata_id": "Q12339700",
+        "name": "Tranekær",
+        "description": "village on Langeland Municipality, Denmark",
+        "freebase_id": "/m/01294f"
+    },
+    {
+        "wikidata_id": "Q12319591",
+        "name": "Jersie Strand",
+        "description": "village in Solrød Municipality, Denmark",
+        "freebase_id": "/m/047lbt_"
+    },
+    {
+        "wikidata_id": "Q4807437",
+        "name": "Asmild Abbey",
+        "description": "manor house in Viborg Municipality, Denmark",
+        "freebase_id": "/m/047n78x"
+    },
+    {
+        "wikidata_id": "Q5084507",
+        "name": "Vedde",
+        "description": "village in Sorø Municipality, Denmark",
+        "freebase_id": "/m/0g56rvw"
+    },
+    {
+        "wikidata_id": "Q7825885",
+        "name": "Torkilstrup",
+        "description": "village in Guldborgsund, Denmark",
+        "freebase_id": "/m/0n_hg2_"
+    },
+    {
+        "wikidata_id": "Q833754",
+        "name": "Copenhagen metropolitan area",
+        "description": "metropolitan area",
+        "freebase_id": "/m/02z4_96"
+    },
+    {
+        "wikidata_id": "Q4662748",
+        "name": "Aastrup",
+        "description": "village in Zealand, Denmark",
+        "freebase_id": "/m/0n_7xmx"
+    },
+    {
+        "wikidata_id": "Q3197043",
+        "name": "Kvong",
+        "description": "village in Varde Municipality, Denmark",
+        "freebase_id": "/m/04z8_x"
+    },
+    {
+        "wikidata_id": "Q5212975",
+        "name": "Damsholte",
+        "description": "village in Vordingborg Municipality, Denmark",
+        "freebase_id": "/m/0b6kspl"
+    },
+    {
+        "wikidata_id": "Q3428102",
+        "name": "Kingo Houses",
+        "description": "housing development near Kingosvej in Helsingør, Denmark",
+        "freebase_id": "/m/06zt52v"
+    },
+    {
+        "wikidata_id": "Q297853",
+        "name": "Øresund Region",
+        "description": "transnational region in Copenhagen, Denmark and Malmö, Sweden",
+        "freebase_id": "/m/03h7y1"
+    },
+    {
+        "wikidata_id": "Q1628773",
+        "name": "Paris",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/0gkxtr2"
+    },
+    {
+        "wikidata_id": "Q15221171",
+        "name": "Fuglsø",
+        "description": "village in Syddjurs Municipality, Denmark",
+        "freebase_id": "/m/0wy3b0f"
+    },
+    {
+        "wikidata_id": "Q3430327",
+        "name": "Amager Vest",
+        "description": "place in Copenhagen, Denmark",
+        "freebase_id": "/m/09v4p0p"
+    },
+    {
+        "wikidata_id": "Q838501",
+        "name": "Nylars",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nb8hqw"
+    },
+    {
+        "wikidata_id": "Q3530435",
+        "name": "Nyborg",
+        "description": "town in Funen, Denmark",
+        "freebase_id": "/m/01290l"
+    },
+    {
+        "wikidata_id": "Q325121",
+        "name": "Frøslev Prison Camp",
+        "description": "Nazi internment camp in Denmark",
+        "freebase_id": "/m/05xxx5"
+    },
+    {
+        "wikidata_id": "Q6435827",
+        "name": "Kraghave",
+        "description": "village in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/0nhgpx2"
+    },
+    {
+        "wikidata_id": "Q783374",
+        "name": "Højreby",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/01319s"
+    },
+    {
+        "wikidata_id": "Q3156843",
+        "name": "Arnager",
+        "description": "village on Bornholm, Denmark",
+        "freebase_id": "/m/0nb0fnc"
+    },
+    {
+        "wikidata_id": "Q2893030",
+        "name": "Velling",
+        "description": "village in Ringkøbing-Skjern Municipality, Denmark",
+        "freebase_id": "/m/0270dbk"
+    },
+    {
+        "wikidata_id": "Q2185372",
+        "name": "Holmstrup",
+        "description": "village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114kjq9"
+    },
+    {
+        "wikidata_id": "Q6710128",
+        "name": "Lysgård",
+        "description": "village in Viborg Municipality, Denmark",
+        "freebase_id": "/m/0gjbjm2"
+    },
+    {
+        "wikidata_id": "Q3355965",
+        "name": "Nærum",
+        "description": "district in Rudersdal Municipality, Denmark",
+        "freebase_id": "/m/047skz1"
+    },
+    {
+        "wikidata_id": "Q2055781",
+        "name": "Aarøsund",
+        "description": "village in Haderslev Municipality, Denmark",
+        "freebase_id": "/m/028b3hp"
+    },
+    {
+        "wikidata_id": "Q7050841",
+        "name": "Nordlunde",
+        "description": "village in Lolland Municipality, Denmark",
+        "freebase_id": "/m/08gwgh"
+    },
+    {
+        "wikidata_id": "Q12301497",
+        "name": "Anderup",
+        "description": "village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114q2l0"
+    },
+    {
+        "wikidata_id": "Q4981816",
+        "name": "Brændstrup",
+        "description": "village in Vejen Municipality",
+        "freebase_id": "/m/026dknt"
+    },
+    {
+        "wikidata_id": "Q2151085",
+        "name": "Øster Ulslev",
+        "description": "village in the southeast of the Danish island of Lolland",
+        "freebase_id": "/m/0ndx16t"
+    },
+    {
+        "wikidata_id": "Q7386706",
+        "name": "Rø",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0n48mvk"
+    },
+    {
+        "wikidata_id": "Q2682481",
+        "name": "Allesø",
+        "description": "village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114mqkb"
+    },
+    {
+        "wikidata_id": "Q3196979",
+        "name": "Ishøj",
+        "description": "place in Capital, Denmark",
+        "freebase_id": "/m/012hg_"
+    },
+    {
+        "wikidata_id": "Q444687",
+        "name": "Nymindegab",
+        "description": "village in Varde Municipality, Denmark",
+        "freebase_id": "/m/05mvlvj"
+    },
+    {
+        "wikidata_id": "Q3429002",
+        "name": "Amager Øst",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/09glkpt"
+    },
+    {
+        "wikidata_id": "Q2739470",
+        "name": "Tingsted",
+        "description": "village in Falster, Denmark",
+        "freebase_id": "/m/0ndxcg_"
+    },
+    {
+        "wikidata_id": "Q9063641",
+        "name": "Æbelholt Abbey",
+        "description": "former Augustinian monastery in north Zealand, Denmark",
+        "freebase_id": "/m/0523_cz"
+    },
+    {
+        "wikidata_id": "Q2403485",
+        "name": "Borre",
+        "description": "village on the Danish island of Møn",
+        "freebase_id": "/m/0c420np"
+    },
+    {
+        "wikidata_id": "Q2608956",
+        "name": "Jørlunde",
+        "description": "village in Frederikssund Municipality, Denmark",
+        "freebase_id": "/m/0dll4px"
+    },
+    {
+        "wikidata_id": "Q7386067",
+        "name": "Rådvad",
+        "description": "village in Lyngby-Taarbæk Municipality, Denmark",
+        "freebase_id": "/m/0h7p_lk"
+    },
+    {
+        "wikidata_id": "Q12333683",
+        "name": "Roholte",
+        "description": "village in Faxe Municipality, Denmark",
+        "freebase_id": "/m/0v3f31_"
+    },
+    {
+        "wikidata_id": "Q1652036",
+        "name": "Høve",
+        "description": "village in northwest Zealand",
+        "freebase_id": "/m/0_vbb_l"
+    },
+    {
+        "wikidata_id": "Q7544463",
+        "name": "Smerup",
+        "description": "village in Faxe Municipality, Denmark",
+        "freebase_id": "/m/02z88fh"
+    },
+    {
+        "wikidata_id": "Q1824814",
+        "name": "Lihme",
+        "description": "village in Skive Municipality, Denmark",
+        "freebase_id": "/m/0z6pgsp"
+    },
+    {
+        "wikidata_id": "Q6806781",
+        "name": "Medicon Valley",
+        "description": "life-science research and business cluster in Denmark and Sweden",
+        "freebase_id": "/m/03c44cw"
+    },
+    {
+        "wikidata_id": "Q12329643",
+        "name": "Nørre Galten",
+        "description": "village in Favrskov Municipality, Denmark",
+        "freebase_id": "/m/0y51222"
+    },
+    {
+        "wikidata_id": "Q5496958",
+        "name": "Fredensborg Houses",
+        "description": "housing complex in Fredensborg, Denmark",
+        "freebase_id": "/m/0h62wwp"
+    },
+    {
+        "wikidata_id": "Q2115670",
+        "name": "Øster Kippinge",
+        "description": "village in Falster, Denmark",
+        "freebase_id": "/m/0ndxdkb"
+    },
+    {
+        "wikidata_id": "Q94228987",
+        "name": "Ginnerup",
+        "description": "small village in Djursland, Denmark",
+        "freebase_id": "/m/085gqq"
+    },
+    {
+        "wikidata_id": "Q2336981",
+        "name": "Grønhøj",
+        "description": "village in Viborg Municipality, Denmark",
+        "freebase_id": "/m/0gjdc5c"
+    },
+    {
+        "wikidata_id": "Q5642887",
+        "name": "Hallendrup",
+        "description": "village in Favrskov Municipality, Denmark",
+        "freebase_id": "/m/02qbmkd"
+    },
+    {
+        "wikidata_id": "Q2592368",
+        "name": "Systofte Skovby",
+        "description": "village in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/0ndxjmj"
+    },
+    {
+        "wikidata_id": "Q5618178",
+        "name": "Gummerup",
+        "description": "village in Assens Municipality, Denmark",
+        "freebase_id": "/m/08rnkm"
+    },
+    {
+        "wikidata_id": "Q3588984",
+        "name": "Hvorslev",
+        "description": "village in Favrskov Municipality, Denmark",
+        "freebase_id": "/m/05zjcq0"
+    },
+    {
+        "wikidata_id": "Q2053054",
+        "name": "Sall",
+        "description": "village and parish in Midtjylland, Denmark",
+        "freebase_id": "/m/02p78jh"
+    },
+    {
+        "wikidata_id": "Q7061464",
+        "name": "Store Damme",
+        "description": "village in the Danish island of Møn",
+        "freebase_id": "/m/0gh6rb8"
+    },
+    {
+        "wikidata_id": "Q7914743",
+        "name": "Vang",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nb7fc3"
+    },
+    {
+        "wikidata_id": "Q2516940",
+        "name": "Børglum",
+        "description": "village in Hjørring Municipality, Denmark",
+        "freebase_id": "/m/0g70f5"
+    },
+    {
+        "wikidata_id": "Q7838759",
+        "name": "Treschows Stiftelse",
+        "description": "building in Copenhagen",
+        "freebase_id": "/m/0rpfppr"
+    },
+    {
+        "wikidata_id": "Q2179797",
+        "name": "Lyne",
+        "description": "village in Ringkøbing-Skjern Municipality, Denmark",
+        "freebase_id": "/m/04r72q"
+    },
+    {
+        "wikidata_id": "Q5474226",
+        "name": "Foulum",
+        "description": "village in Viborg Municipality, Denmark",
+        "freebase_id": "/m/02rlfjh"
+    },
+    {
+        "wikidata_id": "Q26234",
+        "name": "Esbjerg",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012nwm"
+    },
+    {
+        "wikidata_id": "Q1011688",
+        "name": "Malling",
+        "description": "human settlement south of Aarhus, Denmark",
+        "freebase_id": "/m/0264hhq"
+    },
+    {
+        "wikidata_id": "Q308345",
+        "name": "Østerbro",
+        "description": "district of Copenhagen",
+        "freebase_id": "/m/08hdp8"
+    },
+    {
+        "wikidata_id": "Q7542477",
+        "name": "Sløsse",
+        "description": "village in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/02qqht2"
+    },
+    {
+        "wikidata_id": "Q367402",
+        "name": "Indre By",
+        "description": "district in Central Copenhagen",
+        "freebase_id": "/m/082mhm"
+    },
+    {
+        "wikidata_id": "Q726483",
+        "name": "Skagen Painters",
+        "description": "late 1870s–early 1900s group of Scandinavian artists",
+        "freebase_id": "/m/0ch5c5m"
+    },
+    {
+        "wikidata_id": "Q4994564",
+        "name": "Horserød camp",
+        "description": "open state prison, former concentration camp, in Horserød, Denmark",
+        "freebase_id": "/m/0b751c3"
+    },
+    {
+        "wikidata_id": "Q17379923",
+        "name": "Hauge",
+        "description": "historic Village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114pttn"
+    },
+    {
+        "wikidata_id": "Q66564783",
+        "name": "Ubberud",
+        "description": "village in Funen, Denmark",
+        "freebase_id": "/m/0114dx0s"
+    },
+    {
+        "wikidata_id": "Q2870054",
+        "name": "Sønder Vedby Skovhuse",
+        "description": "village in Zealand, Denmark",
+        "freebase_id": "/m/0ndw7y7"
+    },
+    {
+        "wikidata_id": "Q10526967",
+        "name": "Hulsig",
+        "description": "village in Frederikshavn Municipality, Denmark",
+        "freebase_id": "/m/0z2ph_4"
+    },
+    {
+        "wikidata_id": "Q339420",
+        "name": "Bispebjerg",
+        "description": "district in Copenhagen, Denmark",
+        "freebase_id": "/m/082nqr"
+    },
+    {
+        "wikidata_id": "Q2804741",
+        "name": "Klintholm Havn",
+        "description": "village in Vordingborg Municipality, Denmark",
+        "freebase_id": "/m/0281lr4"
+    },
+    {
+        "wikidata_id": "Q1776950",
+        "name": "Knebel",
+        "description": "village in Syddjurs Municipality, Denmark",
+        "freebase_id": "/m/0yw_28z"
+    },
+    {
+        "wikidata_id": "Q6704111",
+        "name": "Lundby",
+        "description": "village in Gunderup Parish, Aalborg Municipality, Denmark",
+        "freebase_id": "/m/027t9tt"
+    },
+    {
+        "wikidata_id": "Q263788",
+        "name": "Pedersker",
+        "description": "village on Bornholm regional municipality, Denmark",
+        "freebase_id": "/m/0nbv4wt"
+    },
+    {
+        "wikidata_id": "Q272129",
+        "name": "Ærøskøbing",
+        "description": "town on Ærø, Denmark",
+        "freebase_id": "/m/0128v8"
+    },
+    {
+        "wikidata_id": "Q27858",
+        "name": "Sorø",
+        "description": "town in Sorø municipality in Region Sjælland, Denmark",
+        "freebase_id": "/m/05y9gk"
+    },
+    {
+        "wikidata_id": "Q204957",
+        "name": "Kalundborg",
+        "description": "town in Denmark",
+        "freebase_id": "/m/056vv8"
+    },
+    {
+        "wikidata_id": "Q848273",
+        "name": "Blenstrup",
+        "description": "human settlement",
+        "freebase_id": "/m/0bgc8p"
+    },
+    {
+        "wikidata_id": "Q565436",
+        "name": "Fredensborg",
+        "description": "human settlement",
+        "freebase_id": "/m/02pgd_5"
+    },
+    {
+        "wikidata_id": "Q29969",
+        "name": "Kerteminde",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128zd"
+    },
+    {
+        "wikidata_id": "Q1645444",
+        "name": "Vojens",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05257lc"
+    },
+    {
+        "wikidata_id": "Q837078",
+        "name": "Bælum",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/02pk351"
+    },
+    {
+        "wikidata_id": "Q1784816",
+        "name": "Korsør",
+        "description": "city in Denmark",
+        "freebase_id": "/m/03f3jt"
+    },
+    {
+        "wikidata_id": "Q741067",
+        "name": "Assens",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128w0"
+    },
+    {
+        "wikidata_id": "Q987338",
+        "name": "Højby",
+        "description": "town on Zealand, Denmark",
+        "freebase_id": "/m/09rs_px"
+    },
+    {
+        "wikidata_id": "Q308356",
+        "name": "Østermarie",
+        "description": "human settlement",
+        "freebase_id": "/m/0c00sfm"
+    },
+    {
+        "wikidata_id": "Q995880",
+        "name": "Brønderslev",
+        "description": "city in Denmark",
+        "freebase_id": "/m/012jrr"
+    },
+    {
+        "wikidata_id": "Q201009",
+        "name": "Tejn",
+        "description": "town",
+        "freebase_id": "/m/0bx_51f"
+    },
+    {
+        "wikidata_id": "Q26881",
+        "name": "Helsingør",
+        "description": "city in Denmark",
+        "freebase_id": "/m/02kxm"
+    },
+    {
+        "wikidata_id": "Q3223801",
+        "name": "Frederikssund",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05256hh"
+    },
+    {
+        "wikidata_id": "Q28143",
+        "name": "Ballerup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012hc4"
+    },
+    {
+        "wikidata_id": "Q3414556",
+        "name": "Slagelse",
+        "description": "town in Denmark",
+        "freebase_id": "/m/044jn9"
+    },
+    {
+        "wikidata_id": "Q984845",
+        "name": "Nyker",
+        "description": "town",
+        "freebase_id": "/m/0k3nc6p"
+    },
+    {
+        "wikidata_id": "Q1701099",
+        "name": "Billund",
+        "description": "Danish village",
+        "freebase_id": "/m/05b6m79"
+    },
+    {
+        "wikidata_id": "Q24231",
+        "name": "Nakskov",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0131d1"
+    },
+    {
+        "wikidata_id": "Q21179",
+        "name": "Sønderborg",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0522f93"
+    },
+    {
+        "wikidata_id": "Q633733",
+        "name": "Jystrup",
+        "description": "human settlement",
+        "freebase_id": "/m/01pwjy"
+    },
+    {
+        "wikidata_id": "Q984920",
+        "name": "Klemensker",
+        "description": "human settlement",
+        "freebase_id": "/m/0k0ph_c"
+    },
+    {
+        "wikidata_id": "Q308147",
+        "name": "Ølsted",
+        "description": "village northwest of Copenhagen, Denmark",
+        "freebase_id": "/m/07wln_"
+    },
+    {
+        "wikidata_id": "Q669160",
+        "name": "Ejby",
+        "description": "human settlement, Lejre Municipality",
+        "freebase_id": "/m/0gk_t_2"
+    },
+    {
+        "wikidata_id": "Q927713",
+        "name": "Hobro",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012jwm"
+    },
+    {
+        "wikidata_id": "Q322361",
+        "name": "Ribe",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012ny7"
+    },
+    {
+        "wikidata_id": "Q836960",
+        "name": "Rødding",
+        "description": "human settlement in Vejen municipality, Denmark",
+        "freebase_id": "/m/012rc4"
+    },
+    {
+        "wikidata_id": "Q656234",
+        "name": "Lillerød",
+        "description": "human settlement",
+        "freebase_id": "/m/09rsf8d"
+    },
+    {
+        "wikidata_id": "Q1668279",
+        "name": "Skælskør",
+        "description": "human settlement",
+        "freebase_id": "/m/0412t__"
+    },
+    {
+        "wikidata_id": "Q904711",
+        "name": "Bredebro",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012r72"
+    },
+    {
+        "wikidata_id": "Q28042",
+        "name": "Holbæk",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03f3dp"
+    },
+    {
+        "wikidata_id": "Q957702",
+        "name": "Bønnerup Strand",
+        "description": "human settlement",
+        "freebase_id": "/m/0z6tz1y"
+    },
+    {
+        "wikidata_id": "Q1019470",
+        "name": "Skive",
+        "description": "town in Denmark",
+        "freebase_id": "/m/07l74t"
+    },
+    {
+        "wikidata_id": "Q26563",
+        "name": "Roskilde",
+        "description": "city in Denmark",
+        "freebase_id": "/m/0kspw"
+    },
+    {
+        "wikidata_id": "Q154897",
+        "name": "Aabenraa",
+        "description": "city in Denmark",
+        "freebase_id": "/m/0294tg"
+    },
+    {
+        "wikidata_id": "Q986435",
+        "name": "Nykøbing Falster",
+        "description": "Danish city",
+        "freebase_id": "/m/0131cn"
+    },
+    {
+        "wikidata_id": "Q897848",
+        "name": "Brande",
+        "description": "railway town in Denmark",
+        "freebase_id": "/m/07bdh5"
+    },
+    {
+        "wikidata_id": "Q656733",
+        "name": "Tisvilde",
+        "description": "town in Gribskov, Zealand, Denmark",
+        "freebase_id": "/m/05ptk8"
+    },
+    {
+        "wikidata_id": "Q21181",
+        "name": "Fredericia",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02xz9z"
+    },
+    {
+        "wikidata_id": "Q303111",
+        "name": "Ringe",
+        "description": "town in Faaborg-Midtfyn Municipality, Denmark",
+        "freebase_id": "/m/01291q"
+    },
+    {
+        "wikidata_id": "Q300865",
+        "name": "Ålbæk",
+        "description": "human settlement in Frederikshavn Municipality, Denmark",
+        "freebase_id": "/m/04jh9dr"
+    },
+    {
+        "wikidata_id": "Q21185",
+        "name": "Hjørring",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05253kc"
+    },
+    {
+        "wikidata_id": "Q21184",
+        "name": "Køge",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05253ph"
+    },
+    {
+        "wikidata_id": "Q734408",
+        "name": "Hvide Sande",
+        "description": "town in Denmark",
+        "freebase_id": "/m/04jn7dc"
+    },
+    {
+        "wikidata_id": "Q925736",
+        "name": "Odder",
+        "description": "human settlement",
+        "freebase_id": "/m/0128c9"
+    },
+    {
+        "wikidata_id": "Q737985",
+        "name": "Langeskov",
+        "description": "town in Kerteminde Municipality, Denmark",
+        "freebase_id": "/m/0128zs"
+    },
+    {
+        "wikidata_id": "Q731023",
+        "name": "Rudkøbing",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/012922"
+    },
+    {
+        "wikidata_id": "Q634481",
+        "name": "Gedser",
+        "description": "southernmost town in Falster, Denmark",
+        "freebase_id": "/m/0g9z12"
+    },
+    {
+        "wikidata_id": "Q21176",
+        "name": "Viborg",
+        "description": "city in central Jutland, Denmark",
+        "freebase_id": "/m/03r0xn"
+    },
+    {
+        "wikidata_id": "Q1433156",
+        "name": "Nørre Vorupør",
+        "description": "fishing village in in Denmark",
+        "freebase_id": "/m/0gh88h3"
+    },
+    {
+        "wikidata_id": "Q970661",
+        "name": "Undløse",
+        "description": "human settlement",
+        "freebase_id": "/m/0pdnfqj"
+    },
+    {
+        "wikidata_id": "Q27678",
+        "name": "Holstebro",
+        "description": "town in Holstebro Municipality, Denmark",
+        "freebase_id": "/m/05252v3"
+    },
+    {
+        "wikidata_id": "Q346802",
+        "name": "Sæby",
+        "description": "human settlement",
+        "freebase_id": "/m/012jzb"
+    },
+    {
+        "wikidata_id": "Q27119",
+        "name": "Kolding",
+        "description": "city in Denmark",
+        "freebase_id": "/m/03dt0_"
+    },
+    {
+        "wikidata_id": "Q605001",
+        "name": "Svaneke",
+        "description": "coastal town on Bornholm, Denmark",
+        "freebase_id": "/m/028081p"
+    },
+    {
+        "wikidata_id": "Q552045",
+        "name": "Tranebjerg",
+        "description": "village in Denmark",
+        "freebase_id": "/m/04jb7r8"
+    },
+    {
+        "wikidata_id": "Q20999",
+        "name": "Taastrup",
+        "description": "city in Denmark",
+        "freebase_id": "/m/05_5qn4"
+    },
+    {
+        "wikidata_id": "Q848213",
+        "name": "Faxe Ladeplads",
+        "description": "human settlement",
+        "freebase_id": "/m/06_vxb9"
+    },
+    {
+        "wikidata_id": "Q502693",
+        "name": "Ringkøbing",
+        "description": "Danish town",
+        "freebase_id": "/m/012p3r"
+    },
+    {
+        "wikidata_id": "Q984921",
+        "name": "Lobbæk",
+        "description": "human settlement",
+        "freebase_id": "/m/0nd59hv"
+    },
+    {
+        "wikidata_id": "Q984925",
+        "name": "Sorthat-Muleby",
+        "description": "human settlement",
+        "freebase_id": "/m/0nd2sjs"
+    },
+    {
+        "wikidata_id": "Q2608258",
+        "name": "Vordingborg",
+        "description": "city in Denmark",
+        "freebase_id": "/m/0131jz"
+    },
+    {
+        "wikidata_id": "Q777334",
+        "name": "Faxe",
+        "description": "human settlement",
+        "freebase_id": "/m/047vqnw"
+    },
+    {
+        "wikidata_id": "Q165793",
+        "name": "Thyborøn",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02pqq3h"
+    },
+    {
+        "wikidata_id": "Q3619316",
+        "name": "Grenaa",
+        "description": "town in central Denmark",
+        "freebase_id": "/m/05xfh7"
+    },
+    {
+        "wikidata_id": "Q690062",
+        "name": "Rønne",
+        "description": "main town on the island Bornholm in Denmark",
+        "freebase_id": "/m/0128kg"
+    },
+    {
+        "wikidata_id": "Q1553054",
+        "name": "Gudhjem",
+        "description": "town in Bornholm Regional Municipality, Denmark",
+        "freebase_id": "/m/051w6w3"
+    },
+    {
+        "wikidata_id": "Q28031",
+        "name": "Svendborg",
+        "description": "town on the south coast of Funen, Denmark",
+        "freebase_id": "/m/012938"
+    },
+    {
+        "wikidata_id": "Q1021277",
+        "name": "Ikast",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05_5qp2"
+    },
+    {
+        "wikidata_id": "Q884930",
+        "name": "Blokhus",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03f0j5"
+    },
+    {
+        "wikidata_id": "Q3547421",
+        "name": "Faaborg",
+        "description": "locality in Denmark",
+        "freebase_id": "/m/0128xx"
+    },
+    {
+        "wikidata_id": "Q890536",
+        "name": "Bogense",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128wv"
+    },
+    {
+        "wikidata_id": "Q21180",
+        "name": "Silkeborg",
+        "description": "city in central Denmark",
+        "freebase_id": "/m/0128fy"
+    },
+    {
+        "wikidata_id": "Q213090",
+        "name": "Kettinge",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0nhgmzm"
+    },
+    {
+        "wikidata_id": "Q1715139",
+        "name": "Smørumnedre",
+        "description": "human settlement",
+        "freebase_id": "/m/047stks"
+    },
+    {
+        "wikidata_id": "Q1406367",
+        "name": "Mønsted",
+        "description": "human settlement",
+        "freebase_id": "/m/0z6ph8j"
+    },
+    {
+        "wikidata_id": "Q752210",
+        "name": "Astrup",
+        "description": "small town in Mariagerfjord Municipality, Denmark",
+        "freebase_id": "/m/0z6qttt"
+    },
+    {
+        "wikidata_id": "Q752209",
+        "name": "Astrup",
+        "description": "town east of Hjørring, Denmark",
+        "freebase_id": "/m/0z6vg1c"
+    },
+    {
+        "wikidata_id": "Q1585507",
+        "name": "Harlev",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03h5lqz"
+    },
+    {
+        "wikidata_id": "Q3590079",
+        "name": "Hvidovre",
+        "description": "place in Capital Region of Denmark, Denmark",
+        "freebase_id": "/m/052587c"
+    },
+    {
+        "wikidata_id": "Q283658",
+        "name": "Ringsted",
+        "description": "city in Denmark",
+        "freebase_id": "/m/01pq_y"
+    },
+    {
+        "wikidata_id": "Q27168",
+        "name": "Randers",
+        "description": "city in Denmark",
+        "freebase_id": "/m/0ghtdr"
+    },
+    {
+        "wikidata_id": "Q308106",
+        "name": "Ølgod",
+        "description": "city in Varde Municipality, Denmark",
+        "freebase_id": "/m/012nzk"
+    },
+    {
+        "wikidata_id": "Q678119",
+        "name": "Hals",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0dcbt0"
+    },
+    {
+        "wikidata_id": "Q455311",
+        "name": "Vemb",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/063yqmw"
+    },
+    {
+        "wikidata_id": "Q3354065",
+        "name": "Brønshøj",
+        "description": "city in Denmark",
+        "freebase_id": "/m/0bgk5r"
+    },
+    {
+        "wikidata_id": "Q520704",
+        "name": "Farstrup",
+        "description": "human settlement",
+        "freebase_id": "/m/0h_fbd9"
+    },
+    {
+        "wikidata_id": "Q29868",
+        "name": "Haderslev",
+        "description": "town in Denmark",
+        "freebase_id": "/m/057xlbz"
+    },
+    {
+        "wikidata_id": "Q27452",
+        "name": "Frederikshavn",
+        "description": "town in northeast Jutland, Denmark",
+        "freebase_id": "/m/012jtl"
+    },
+    {
+        "wikidata_id": "Q300888",
+        "name": "Aalestrup",
+        "description": "town in Vesthimmerland municipality, Denmark",
+        "freebase_id": "/m/0dnnvm"
+    },
+    {
+        "wikidata_id": "Q190235",
+        "name": "Horsens",
+        "description": "city in Horsens Municipality, Denmark",
+        "freebase_id": "/m/03f3g9"
+    },
+    {
+        "wikidata_id": "Q865630",
+        "name": "Birkerød",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128ls"
+    },
+    {
+        "wikidata_id": "Q502632",
+        "name": "Lemvig",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0525347"
+    },
+    {
+        "wikidata_id": "Q570436",
+        "name": "Kruså",
+        "description": "human settlement",
+        "freebase_id": "/m/04jlq0d"
+    },
+    {
+        "wikidata_id": "Q21178",
+        "name": "Næstved",
+        "description": "town on the island of Zealand in Denmark",
+        "freebase_id": "/m/0dphjk"
+    },
+    {
+        "wikidata_id": "Q984648",
+        "name": "Havneby",
+        "description": "harbor on Rømø, Denmark",
+        "freebase_id": "/m/0g53zwk"
+    },
+    {
+        "wikidata_id": "Q848261",
+        "name": "Karise",
+        "description": "human settlement",
+        "freebase_id": "/m/02q2s85"
+    },
+    {
+        "wikidata_id": "Q1008152",
+        "name": "Thisted",
+        "description": "town in Thisted municipality of Region Nordjylland, in Denmark",
+        "freebase_id": "/m/06dyh9"
+    },
+    {
+        "wikidata_id": "Q503379",
+        "name": "Skanderborg",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128gb"
+    },
+    {
+        "wikidata_id": "Q926571",
+        "name": "Hasle",
+        "description": "town on Bornholm",
+        "freebase_id": "/m/0128jp"
+    },
+    {
+        "wikidata_id": "Q386402",
+        "name": "Maribo",
+        "description": "town in Lolland, Denmark",
+        "freebase_id": "/m/0131bj"
+    },
+    {
+        "wikidata_id": "Q1563543",
+        "name": "Præstø",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/0131f5"
+    },
+    {
+        "wikidata_id": "Q663011",
+        "name": "Hadsund",
+        "description": "Danish town",
+        "freebase_id": "/m/012jv1"
+    },
+    {
+        "wikidata_id": "Q1246235",
+        "name": "Nørresundby",
+        "description": "human settlement",
+        "freebase_id": "/m/06z31_"
+    },
+    {
+        "wikidata_id": "Q645631",
+        "name": "Augustenborg",
+        "description": "settlement on Als, Denmark",
+        "freebase_id": "/m/012r6p"
+    },
+    {
+        "wikidata_id": "Q27393",
+        "name": "Herning",
+        "description": "Danish city",
+        "freebase_id": "/m/05253l3"
+    },
+    {
+        "wikidata_id": "Q835708",
+        "name": "Jelling",
+        "description": "village in Denmark",
+        "freebase_id": "/m/051yxm"
+    },
+    {
+        "wikidata_id": "Q303066",
+        "name": "Aars",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012jrc"
+    },
+    {
+        "wikidata_id": "Q28173",
+        "name": "Tårnby",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012hk3"
+    },
+    {
+        "wikidata_id": "Q613441",
+        "name": "Middelfart",
+        "description": "town on the eastern side of Little Belt, Denmark",
+        "freebase_id": "/m/0128_h"
+    },
+    {
+        "wikidata_id": "Q523400",
+        "name": "Ebeltoft",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0125rv"
+    },
+    {
+        "wikidata_id": "Q847888",
+        "name": "Græsted",
+        "description": "town in Denmark",
+        "freebase_id": "/m/080fq68"
+    },
+    {
+        "wikidata_id": "Q1796191",
+        "name": "Frederiksværk",
+        "description": "town in Halsnæs Municipality, Denmark",
+        "freebase_id": "/m/0128nh"
+    },
+    {
+        "wikidata_id": "Q984847",
+        "name": "Ranum",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gfg7m"
+    },
+    {
+        "wikidata_id": "Q259969",
+        "name": "Aakirkeby",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128hw"
+    },
+    {
+        "wikidata_id": "Q161975",
+        "name": "Rødby",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/0131fz"
+    },
+    {
+        "wikidata_id": "Q27425",
+        "name": "Hillerød",
+        "description": "city in Denmark",
+        "freebase_id": "/m/05252lm"
+    },
+    {
+        "wikidata_id": "Q912141",
+        "name": "Vrå",
+        "description": "railway town in Hjørring municipality, Denmark",
+        "freebase_id": "/m/094j07"
+    },
+    {
+        "wikidata_id": "Q213243",
+        "name": "Guldborg",
+        "description": "human settlement",
+        "freebase_id": "/m/0nhgr42"
+    },
+    {
+        "wikidata_id": "Q27116",
+        "name": "Vejle",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03b0xz"
+    },
+    {
+        "wikidata_id": "Q507747",
+        "name": "Stubbekøbing",
+        "description": "human settlement in Guldborgsund Municipality, Denmark",
+        "freebase_id": "/m/0131hh"
+    },
+    {
+        "wikidata_id": "Q450216",
+        "name": "Marielyst",
+        "description": "human settlement",
+        "freebase_id": "/m/0ndjplb"
+    },
+    {
+        "wikidata_id": "Q707345",
+        "name": "Padborg",
+        "description": "Danish town on the German border",
+        "freebase_id": "/m/0273225"
+    },
+    {
+        "wikidata_id": "Q846052",
+        "name": "Hirtshals",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/012jvf"
+    },
+    {
+        "wikidata_id": "Q643410",
+        "name": "Nexø",
+        "description": "town in Bornholm, Denmark",
+        "freebase_id": "/m/0128k1"
+    },
+    {
+        "wikidata_id": "Q215177",
+        "name": "Skagen",
+        "description": "northernmost town in Denmark",
+        "freebase_id": "/m/012j_2"
+    },
+    {
+        "wikidata_id": "Q852156",
+        "name": "Jægerspris",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128r0"
+    },
+    {
+        "wikidata_id": "Q2048321",
+        "name": "Varde",
+        "description": "town in Denmark",
+        "freebase_id": "/m/052530h"
+    },
+    {
+        "wikidata_id": "Q28230",
+        "name": "Rødovre",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012hj7"
+    },
+    {
+        "wikidata_id": "Q3414209",
+        "name": "Gjern",
+        "description": "town",
+        "freebase_id": "/m/06f3jk"
+    },
+    {
+        "wikidata_id": "Q1001430",
+        "name": "Hårlev",
+        "description": "human settlement",
+        "freebase_id": "/m/0h3t7gy"
+    },
+    {
+        "wikidata_id": "Q2176880",
+        "name": "Birkende",
+        "description": "place in Southern Denmark, Denmark",
+        "freebase_id": "/m/047d046"
+    },
+    {
+        "wikidata_id": "Q3414045",
+        "name": "Løgstør",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012jxd"
+    },
+    {
+        "wikidata_id": "Q1740109",
+        "name": "Ommel",
+        "description": "place in Region of Southern Denmark, Denmark",
+        "freebase_id": "/m/012zw976"
+    },
+    {
+        "wikidata_id": "Q1997687",
+        "name": "Nordborg",
+        "description": "settlement on Als, Denmark",
+        "freebase_id": "/m/012rbb"
+    },
+    {
+        "wikidata_id": "Q1975764",
+        "name": "Nørreballe",
+        "description": "village in Lolland, Denmark",
+        "freebase_id": "/m/0w4zn63"
+    },
+    {
+        "wikidata_id": "Q1019126",
+        "name": "Store Heddinge",
+        "description": "human settlement",
+        "freebase_id": "/m/05zvq20"
+    },
+    {
+        "wikidata_id": "Q3167139",
+        "name": "Fjerritslev",
+        "description": "Danish town in Jammerbugt Municipality, Region Nordjylland",
+        "freebase_id": "/m/012jt6"
+    },
+    {
+        "wikidata_id": "Q3087877",
+        "name": "Herfølge",
+        "description": "Place in Denmark",
+        "freebase_id": "/m/0h3r9yt"
+    },
+    {
+        "wikidata_id": "Q3413080",
+        "name": "Gedved",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03th4m"
+    },
+    {
+        "wikidata_id": "Q3414292",
+        "name": "Gudme",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128yp"
+    },
+    {
+        "wikidata_id": "Q1016576",
+        "name": "Elling",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0gk_yq5"
+    },
+    {
+        "wikidata_id": "Q2926034",
+        "name": "Nivå",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0c6y38"
+    },
+    {
+        "wikidata_id": "Q3415617",
+        "name": "Ryslinge",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/01292j"
+    },
+    {
+        "wikidata_id": "Q1016313",
+        "name": "Vejen",
+        "description": "town in Denmark",
+        "freebase_id": "/m/052561m"
+    },
+    {
+        "wikidata_id": "Q3169598",
+        "name": "Pandrup",
+        "description": "town in North Jutland, Denmark",
+        "freebase_id": "/m/012jyy"
+    },
+    {
+        "wikidata_id": "Q2487240",
+        "name": "Byrum",
+        "description": "main town on Læsø, Denmark",
+        "freebase_id": "/m/080q9c2"
+    },
+    {
+        "wikidata_id": "Q1983820",
+        "name": "Uggerslev",
+        "description": "village on the island of Funen, Denmark",
+        "freebase_id": "/m/04ldqw1"
+    },
+    {
+        "wikidata_id": "Q2236093",
+        "name": "Kvistgård",
+        "description": "village in Denmark",
+        "freebase_id": "/m/012g4lp6"
+    },
+    {
+        "wikidata_id": "Q1006003",
+        "name": "Rørvig",
+        "description": "human settlement",
+        "freebase_id": "/m/02z21mt"
+    },
+    {
+        "wikidata_id": "Q3413440",
+        "name": "Støvring",
+        "description": "town in Region Nordjylland, Denmark",
+        "freebase_id": "/m/012k08"
+    },
+    {
+        "wikidata_id": "Q3527551",
+        "name": "Hørning",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/012890"
+    },
+    {
+        "wikidata_id": "Q1016690",
+        "name": "Haslev",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/01q2q_"
+    },
+    {
+        "wikidata_id": "Q2577410",
+        "name": "Bindslev",
+        "description": "town in Northern Jutland",
+        "freebase_id": "/m/0_g_gy1"
+    },
+    {
+        "wikidata_id": "Q2019461",
+        "name": "Asnæs",
+        "description": "town in Region Zealand, Denmark",
+        "freebase_id": "/m/0zmz9bs"
+    },
+    {
+        "wikidata_id": "Q1986845",
+        "name": "Lille Skensved",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gh6tvg"
+    },
+    {
+        "wikidata_id": "Q1734691",
+        "name": "Karup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0z88lyw"
+    },
+    {
+        "wikidata_id": "Q3009485",
+        "name": "Studstrup",
+        "description": "Town in Denmark",
+        "freebase_id": "/m/02qglzv"
+    },
+    {
+        "wikidata_id": "Q1993774",
+        "name": "Rønde",
+        "description": "locality in Denmark",
+        "freebase_id": "/m/0128f5"
+    },
+    {
+        "wikidata_id": "Q1809950",
+        "name": "Hornslet",
+        "description": "human settlement",
+        "freebase_id": "/m/05h3cff"
+    },
+    {
+        "wikidata_id": "Q2523903",
+        "name": "Hjordkær",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/0gh71bc"
+    },
+    {
+        "wikidata_id": "Q3413939",
+        "name": "Marstal",
+        "description": "town in Ærø municipality, Region of Southern Denmark, Denmark",
+        "freebase_id": "/m/0128_3"
+    },
+    {
+        "wikidata_id": "Q3414260",
+        "name": "Gråsten",
+        "description": "town in the east coast of the Jutland peninsula in south Denmark",
+        "freebase_id": "/m/012r88"
+    },
+    {
+        "wikidata_id": "Q2595635",
+        "name": "Sundby",
+        "description": "Town in Denmark",
+        "freebase_id": "/m/0gj970j"
+    },
+    {
+        "wikidata_id": "Q3140099",
+        "name": "Sulsted",
+        "description": "town in North Jutland Region, Denmark",
+        "freebase_id": "/m/0bt2ks"
+    },
+    {
+        "wikidata_id": "Q1896694",
+        "name": "Vedbæk",
+        "description": "neighbourhood in north Copenhagen",
+        "freebase_id": "/m/027p1ls"
+    },
+    {
+        "wikidata_id": "Q2590975",
+        "name": "Vadum",
+        "description": "town in North Jutland Region, Denmark",
+        "freebase_id": "/m/0x1cl44"
+    },
+    {
+        "wikidata_id": "Q1879794",
+        "name": "Hurup Thy",
+        "description": "town in Nordjylland, Denmark",
+        "freebase_id": "/m/02rvc9b"
+    },
+    {
+        "wikidata_id": "Q2567585",
+        "name": "Dybbøl",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/07zw3n"
+    },
+    {
+        "wikidata_id": "Q1951945",
+        "name": "Strib",
+        "description": "town in Denmark",
+        "freebase_id": "/m/020cms"
+    },
+    {
+        "wikidata_id": "Q1898624",
+        "name": "Dannemare",
+        "description": "village in Zealand, Denmark",
+        "freebase_id": "/m/0wxwpjj"
+    },
+    {
+        "wikidata_id": "Q1019136",
+        "name": "Kirke Hvalsø",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012p8w"
+    },
+    {
+        "wikidata_id": "Q1880810",
+        "name": "Søften",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/065xp_"
+    },
+    {
+        "wikidata_id": "Q1025348",
+        "name": "Hellebæk",
+        "description": "human settlement",
+        "freebase_id": "/m/0ds4x38"
+    },
+    {
+        "wikidata_id": "Q5463763",
+        "name": "Fløng",
+        "description": "small town in Denmark",
+        "freebase_id": "/m/061y1m"
+    },
+    {
+        "wikidata_id": "Q3171757",
+        "name": "Aabybro",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0dnny1"
+    },
+    {
+        "wikidata_id": "Q3413045",
+        "name": "Farsø",
+        "description": "town in Region Nordjylland, Denmark",
+        "freebase_id": "/m/012jsw"
+    },
+    {
+        "wikidata_id": "Q3413549",
+        "name": "Skørping",
+        "description": "town in Region Nordjylland, Denmark",
+        "freebase_id": "/m/012j_x"
+    },
+    {
+        "wikidata_id": "Q1019481",
+        "name": "Nykøbing Mors",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02qtdqd"
+    },
+    {
+        "wikidata_id": "Q2145682",
+        "name": "Stensved",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0100mmzc"
+    },
+    {
+        "wikidata_id": "Q3197288",
+        "name": "Christiansfeld",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012r7x"
+    },
+    {
+        "wikidata_id": "Q1770916",
+        "name": "Søllested",
+        "description": "human settlement",
+        "freebase_id": "/m/080q47r"
+    },
+    {
+        "wikidata_id": "Q3177358",
+        "name": "Glamsbjerg",
+        "description": "town",
+        "freebase_id": "/m/0128y9"
+    },
+    {
+        "wikidata_id": "Q2187840",
+        "name": "Thorsager",
+        "description": "town in Central Denmark, Denmark",
+        "freebase_id": "/m/0gx25kk"
+    },
+    {
+        "wikidata_id": "Q3350663",
+        "name": "Ry",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/0693g6"
+    },
+    {
+        "wikidata_id": "Q3531267",
+        "name": "Søndersø",
+        "description": "Danish town",
+        "freebase_id": "/m/01292x"
+    },
+    {
+        "wikidata_id": "Q3522043",
+        "name": "Hadsten",
+        "description": "town in Denmark",
+        "freebase_id": "/m/01287v"
+    },
+    {
+        "wikidata_id": "Q2205752",
+        "name": "Vodskov",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gjf4w2"
+    },
+    {
+        "wikidata_id": "Q2223144",
+        "name": "Bjæverskov",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0zgcc3l"
+    },
+    {
+        "wikidata_id": "Q2547601",
+        "name": "Havrebjerg",
+        "description": "village in Region Zealand, Denmark",
+        "freebase_id": "/m/04vpsv"
+    },
+    {
+        "wikidata_id": "Q2501952",
+        "name": "Tirstrup",
+        "description": "place in Central Denmark, Denmark",
+        "freebase_id": "/m/06_xkf6"
+    },
+    {
+        "wikidata_id": "Q1019502",
+        "name": "Nibe",
+        "description": "town in Himmerland, Denmark",
+        "freebase_id": "/m/012jy5"
+    },
+    {
+        "wikidata_id": "Q3196551",
+        "name": "Broager",
+        "description": "town in Sønderborg Municipality, Denmark",
+        "freebase_id": "/m/012r7h"
+    },
+    {
+        "wikidata_id": "Q3265865",
+        "name": "Borup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gg4vv4"
+    },
+    {
+        "wikidata_id": "Q2210037",
+        "name": "Horbelev",
+        "description": "village in Falster, Denmark",
+        "freebase_id": "/m/0ndj3l3"
+    },
+    {
+        "wikidata_id": "Q2505467",
+        "name": "Tune",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/027962k"
+    },
+    {
+        "wikidata_id": "Q1011683",
+        "name": "Rødbyhavn",
+        "description": "human settlement",
+        "freebase_id": "/m/04jmq_t"
+    },
+    {
+        "wikidata_id": "Q3547096",
+        "name": "Vissenbjerg",
+        "description": "town in Funen, Denmark",
+        "freebase_id": "/m/012954"
+    },
+    {
+        "wikidata_id": "Q3500912",
+        "name": "Hedensted",
+        "description": "place in Mid Jutland, Denmark",
+        "freebase_id": "/m/09k6b0y"
+    },
+    {
+        "wikidata_id": "Q1020031",
+        "name": "Hundested",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/0128qn"
+    },
+    {
+        "wikidata_id": "Q1873492",
+        "name": "Ans",
+        "description": "Danish town",
+        "freebase_id": "/m/0z6tq_7"
+    },
+    {
+        "wikidata_id": "Q2928203",
+        "name": "Herskind",
+        "description": "village in Central Denmark, Denmark",
+        "freebase_id": "/m/0z6t5xn"
+    },
+    {
+        "wikidata_id": "Q1953365",
+        "name": "Munkebo",
+        "description": "town in central Denmark",
+        "freebase_id": "/m/0128_w"
+    },
+    {
+        "wikidata_id": "Q1955830",
+        "name": "Vorbasse",
+        "description": "town in Denmark",
+        "freebase_id": "/m/06vz7j"
+    },
+    {
+        "wikidata_id": "Q2248624",
+        "name": "Hedehusene",
+        "description": "town in Capital, Denmark",
+        "freebase_id": "/m/02q3z45"
+    },
+    {
+        "wikidata_id": "Q2610500",
+        "name": "Toreby",
+        "description": "village in Lolland, Denmark",
+        "freebase_id": "/m/0w2z_l6"
+    },
+    {
+        "wikidata_id": "Q2086166",
+        "name": "Tårs",
+        "description": "town in North Jutland Region, Denmark",
+        "freebase_id": "/m/04cxn30"
+    },
+    {
+        "wikidata_id": "Q2262931",
+        "name": "Auning",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/0r4l00p"
+    },
+    {
+        "wikidata_id": "Q3547139",
+        "name": "Ullerslev",
+        "description": "town in Nyborg Municipality, Denmark",
+        "freebase_id": "/m/01294s"
+    },
+    {
+        "wikidata_id": "Q3198692",
+        "name": "Svenstrup",
+        "description": "Danish town near Aalborg",
+        "freebase_id": "/m/0fpjwsl"
+    },
+    {
+        "wikidata_id": "Q2624590",
+        "name": "Glumsø",
+        "description": "place in Region Zealand, Denmark",
+        "freebase_id": "/m/0z6s5ll"
+    },
+    {
+        "wikidata_id": "Q1025378",
+        "name": "Gram",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02qt1xl"
+    },
+    {
+        "wikidata_id": "Q2276077",
+        "name": "Horslunde",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/0qsbgn3"
+    },
+    {
+        "wikidata_id": "Q2484339",
+        "name": "Andkær",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0ddgvwt"
+    },
+    {
+        "wikidata_id": "Q1803022",
+        "name": "Givskud",
+        "description": "town in Denmark",
+        "freebase_id": "/m/09rws0l"
+    },
+    {
+        "wikidata_id": "Q2106553",
+        "name": "Mern",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0h65z4n"
+    },
+    {
+        "wikidata_id": "Q2230082",
+        "name": "Lisbjerg",
+        "description": "village in Midtjylland, Denmark",
+        "freebase_id": "/m/03h5lvd"
+    },
+    {
+        "wikidata_id": "Q2035962",
+        "name": "Skjern",
+        "description": "Danish town",
+        "freebase_id": "/m/0522bd_"
+    },
+    {
+        "wikidata_id": "Q1999151",
+        "name": "Strandby",
+        "description": "town in Region Nordjylland, Denmark",
+        "freebase_id": "/m/0wpwbxn"
+    },
+    {
+        "wikidata_id": "Q3173563",
+        "name": "Helsinge",
+        "description": "town in Region Hovedstaden, Denmark",
+        "freebase_id": "/m/03l3tk"
+    },
+    {
+        "wikidata_id": "Q3262655",
+        "name": "Løgstrup",
+        "description": "town in Central Denmark, Denmark",
+        "freebase_id": "/m/0z89h9d"
+    },
+    {
+        "wikidata_id": "Q2604983",
+        "name": "Hammel",
+        "description": "town in Denmark",
+        "freebase_id": "/m/01288m"
+    },
+    {
+        "wikidata_id": "Q3177752",
+        "name": "Sindal",
+        "description": "town in Hjørring Municipality, Denmark",
+        "freebase_id": "/m/012j_j"
+    },
+    {
+        "wikidata_id": "Q1255278",
+        "name": "Dragør",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012hd0"
+    },
+    {
+        "wikidata_id": "Q1260229",
+        "name": "Dronninglund",
+        "description": "human settlement",
+        "freebase_id": "/m/012jsh"
+    },
+    {
+        "wikidata_id": "Q1936506",
+        "name": "Gistrup",
+        "description": "town in North Jutland Region, Denmark",
+        "freebase_id": "/m/0x16_90"
+    },
+    {
+        "wikidata_id": "Q2546789",
+        "name": "Jyllinge",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05l1h2"
+    },
+    {
+        "wikidata_id": "Q2038569",
+        "name": "Mårslet",
+        "description": "village in Midtjylland, Denmark",
+        "freebase_id": "/m/03h5lws"
+    },
+    {
+        "wikidata_id": "Q3175755",
+        "name": "Hinnerup",
+        "description": "town in central Denmark",
+        "freebase_id": "/m/012886"
+    },
+    {
+        "wikidata_id": "Q1013430",
+        "name": "Dybvad",
+        "description": "human settlement",
+        "freebase_id": "/m/06616tp"
+    },
+    {
+        "wikidata_id": "Q3171395",
+        "name": "Værløse",
+        "description": "town in Denmark, near Copenhagen",
+        "freebase_id": "/m/05258w_"
+    },
+    {
+        "wikidata_id": "Q2003608",
+        "name": "Nykøbing Sjælland",
+        "description": "place in Zealand, Denmark",
+        "freebase_id": "/m/02qtfm8"
+    },
+    {
+        "wikidata_id": "Q1827999",
+        "name": "Skamby",
+        "description": "human settlement",
+        "freebase_id": "/m/04ljn84"
+    },
+    {
+        "wikidata_id": "Q5373628",
+        "name": "Hornsyld",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/0127pkj7"
+    },
+    {
+        "wikidata_id": "Q1003383",
+        "name": "Jerup",
+        "description": "village in Denmark",
+        "freebase_id": "/m/02qm8h5"
+    },
+    {
+        "wikidata_id": "Q2582163",
+        "name": "Tarm",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/04jclms"
+    },
+    {
+        "wikidata_id": "Q3432926",
+        "name": "Trørød",
+        "description": "suburban district in Rudersdal Municipality",
+        "freebase_id": "/m/047mq55"
+    },
+    {
+        "wikidata_id": "Q2225982",
+        "name": "Store Merløse",
+        "description": "Town in Denmark",
+        "freebase_id": "/m/04ybwny"
+    },
+    {
+        "wikidata_id": "Q3223979",
+        "name": "Tønder",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05258g3"
+    },
+    {
+        "wikidata_id": "Q3528917",
+        "name": "Langå",
+        "description": "town in Denmark",
+        "freebase_id": "/m/01289f"
+    },
+    {
+        "wikidata_id": "Q2125326",
+        "name": "Vallensbæk Landsby",
+        "description": "village in Capital Region, Denmark",
+        "freebase_id": "/m/012hkk"
+    },
+    {
+        "wikidata_id": "Q2169575",
+        "name": "Frederiks",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gjdxlh"
+    },
+    {
+        "wikidata_id": "Q1813837",
+        "name": "Nysted",
+        "description": "settlement in Denmark",
+        "freebase_id": "/m/0131dt"
+    },
+    {
+        "wikidata_id": "Q2533586",
+        "name": "Tylstrup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0x29hfz"
+    },
+    {
+        "wikidata_id": "Q2229389",
+        "name": "Old Rye",
+        "description": "town in Denmark",
+        "freebase_id": "/m/04gvysn"
+    },
+    {
+        "wikidata_id": "Q1769354",
+        "name": "Jyderup",
+        "description": "human settlement",
+        "freebase_id": "/m/05p4d3j"
+    },
+    {
+        "wikidata_id": "Q1926100",
+        "name": "Nørre Nissum",
+        "description": "village in Denmark",
+        "freebase_id": "/m/04rsjy"
+    },
+    {
+        "wikidata_id": "Q2512195",
+        "name": "Vejers",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/0w1fk2c"
+    },
+    {
+        "wikidata_id": "Q1827929",
+        "name": "Liseleje",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0h66vl1"
+    },
+    {
+        "wikidata_id": "Q1026874",
+        "name": "Hanstholm",
+        "description": "small town on the Danish west coast",
+        "freebase_id": "/m/044s82"
+    },
+    {
+        "wikidata_id": "Q2533977",
+        "name": "Nordby",
+        "description": "town in Denmark",
+        "freebase_id": "/m/09rttq3"
+    },
+    {
+        "wikidata_id": "Q1770943",
+        "name": "Væggerløse",
+        "description": "human settlement",
+        "freebase_id": "/m/0ndjx0v"
+    },
+    {
+        "wikidata_id": "Q2213515",
+        "name": "Skals",
+        "description": "town in Central Denmark, Denmark",
+        "freebase_id": "/m/0z8y9b8"
+    },
+    {
+        "wikidata_id": "Q2046460",
+        "name": "Åsum",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0114qh41"
+    },
+    {
+        "wikidata_id": "Q3072351",
+        "name": "Knabstrup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/08wtvh"
+    },
+    {
+        "wikidata_id": "Q1771824",
+        "name": "Aulum",
+        "description": "human settlement",
+        "freebase_id": "/m/05211b4"
+    },
+    {
+        "wikidata_id": "Q1771813",
+        "name": "Nørre Nebel",
+        "description": "human settlement",
+        "freebase_id": "/m/0cm8fhz"
+    },
+    {
+        "wikidata_id": "Q1996428",
+        "name": "Mundelstrup",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0_v2w2w"
+    },
+    {
+        "wikidata_id": "Q1015392",
+        "name": "Vester Hassing",
+        "description": "human settlement",
+        "freebase_id": "/m/0d27l4"
+    },
+    {
+        "wikidata_id": "Q3173150",
+        "name": "Mariager",
+        "description": "town in Denmark",
+        "freebase_id": "/m/01289s"
+    },
+    {
+        "wikidata_id": "Q3530269",
+        "name": "Møgeltønder",
+        "description": "town in Denmark",
+        "freebase_id": "/m/06_xjp3"
+    },
+    {
+        "wikidata_id": "Q3172924",
+        "name": "Løgumkloster",
+        "description": "Danish town",
+        "freebase_id": "/m/012r9j"
+    },
+    {
+        "wikidata_id": "Q2491223",
+        "name": "Sønderho",
+        "description": "village in southwestern Denmark",
+        "freebase_id": "/m/09rxgzt"
+    },
+    {
+        "wikidata_id": "Q2609155",
+        "name": "Ejby",
+        "description": "town in Zealand in Denmark",
+        "freebase_id": "/m/09gph51"
+    },
+    {
+        "wikidata_id": "Q3412882",
+        "name": "Egtved",
+        "description": "town in Denmark",
+        "freebase_id": "/m/05d56q"
+    },
+    {
+        "wikidata_id": "Q2103178",
+        "name": "Klitmøller",
+        "description": "place in North Denmark, Denmark",
+        "freebase_id": "/m/0bs1xzk"
+    },
+    {
+        "wikidata_id": "Q3354170",
+        "name": "Store Andst",
+        "description": "village in Denmark",
+        "freebase_id": "/m/02vqdlx"
+    },
+    {
+        "wikidata_id": "Q1984534",
+        "name": "Bredsten",
+        "description": "town in Denmark",
+        "freebase_id": "/m/09_d59"
+    },
+    {
+        "wikidata_id": "Q2229515",
+        "name": "Solrød Strand",
+        "description": "place in Zealand, Denmark",
+        "freebase_id": "/m/09rx_2k"
+    },
+    {
+        "wikidata_id": "Q1980900",
+        "name": "Lønstrup",
+        "description": "fishing village in Denmark",
+        "freebase_id": "/m/0h54r_h"
+    },
+    {
+        "wikidata_id": "Q3405593",
+        "name": "Aarup",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/0128vp"
+    },
+    {
+        "wikidata_id": "Q1004681",
+        "name": "Snogebæk",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0k0t949"
+    },
+    {
+        "wikidata_id": "Q2012520",
+        "name": "Esbønderup",
+        "description": "town in Capital Region, Denmark",
+        "freebase_id": "/m/012nggwg"
+    },
+    {
+        "wikidata_id": "Q5242300",
+        "name": "Låsby",
+        "description": "human settlement in Denmark",
+        "freebase_id": "/m/05y9sj"
+    },
+    {
+        "wikidata_id": "Q2478250",
+        "name": "Ønslev",
+        "description": "village in Zealand, Denmark",
+        "freebase_id": "/m/0ndx275"
+    },
+    {
+        "wikidata_id": "Q13218306",
+        "name": "Sakskøbing",
+        "description": "Danish town",
+        "freebase_id": "/m/0131h3"
+    },
+    {
+        "wikidata_id": "Q4993430",
+        "name": "Vivild",
+        "description": "place in Central Denmark, Denmark",
+        "freebase_id": "/m/0bbty_5"
+    },
+    {
+        "wikidata_id": "Q12322767",
+        "name": "Korup",
+        "description": "suburb of Odense, Denmark",
+        "freebase_id": "/m/0114jtcs"
+    },
+    {
+        "wikidata_id": "Q2699059",
+        "name": "Borbjerg",
+        "description": "a small village in the western Jutland, Denmark",
+        "freebase_id": "/m/0n45_lm"
+    },
+    {
+        "wikidata_id": "Q2372527",
+        "name": "Galten",
+        "description": "town in Denmark",
+        "freebase_id": "/m/06f3l9"
+    },
+    {
+        "wikidata_id": "Q13415252",
+        "name": "Sandved",
+        "description": "Danish village",
+        "freebase_id": "/m/0p8w4ct"
+    },
+    {
+        "wikidata_id": "Q7396449",
+        "name": "Sabro",
+        "description": "place in Central Denmark, Denmark",
+        "freebase_id": "/m/03h5l_6"
+    },
+    {
+        "wikidata_id": "Q25319",
+        "name": "Aarhus",
+        "description": "city in Central Denmark Region",
+        "freebase_id": "/m/0lzp"
+    },
+    {
+        "wikidata_id": "Q17511905",
+        "name": "Bregnør Fiskerleje",
+        "description": "village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114lvpt"
+    },
+    {
+        "wikidata_id": "Q2389623",
+        "name": "Ørum",
+        "description": "village in Denmark East of Viborg",
+        "freebase_id": "/m/0gfg2pv"
+    },
+    {
+        "wikidata_id": "Q2678846",
+        "name": "Gjessø",
+        "description": "town in Denmark",
+        "freebase_id": "/m/04dzq_c"
+    },
+    {
+        "wikidata_id": "Q5482988",
+        "name": "Franciscan Friary, Copenhagen",
+        "description": "No description available",
+        "freebase_id": "/m/04_0skj"
+    },
+    {
+        "wikidata_id": "Q3894835",
+        "name": "Snekkersten",
+        "description": "town in Helsingør Municipality, Denmark",
+        "freebase_id": "/m/04jg2_h"
+    },
+    {
+        "wikidata_id": "Q2452214",
+        "name": "Ruds Vedby",
+        "description": "place in Zealand, Denmark",
+        "freebase_id": "/m/0n4zbg9"
+    },
+    {
+        "wikidata_id": "Q3547196",
+        "name": "Vamdrup",
+        "description": "town in Kolding Municipality, Denmark",
+        "freebase_id": "/m/027w745"
+    },
+    {
+        "wikidata_id": "Q2885506",
+        "name": "Lynge",
+        "description": "town in Capital Region, Denmark",
+        "freebase_id": "/m/0523jd2"
+    },
+    {
+        "wikidata_id": "Q2702722",
+        "name": "Tommerup",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/012942"
+    },
+    {
+        "wikidata_id": "Q2469456",
+        "name": "Nordbyen",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/0ndhrll"
+    },
+    {
+        "wikidata_id": "Q12340905",
+        "name": "Viby",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/012nmj89"
+    },
+    {
+        "wikidata_id": "Q2753021",
+        "name": "Gurre",
+        "description": "village in Capital Region of Denmark, Denmark",
+        "freebase_id": "/m/011smyzf"
+    },
+    {
+        "wikidata_id": "Q2717744",
+        "name": "Brædstrup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0hrb2y3"
+    },
+    {
+        "wikidata_id": "Q16325016",
+        "name": "Vindinge",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/012nb55x"
+    },
+    {
+        "wikidata_id": "Q25410",
+        "name": "Aalborg",
+        "description": "city in Denmark",
+        "freebase_id": "/m/0dnntf"
+    },
+    {
+        "wikidata_id": "Q8092118",
+        "name": "Brovst",
+        "description": "Danish town in Jammerbugt Municipality, Region Nordjylland",
+        "freebase_id": "/m/012js3"
+    },
+    {
+        "wikidata_id": "Q2359037",
+        "name": "Idestrup",
+        "description": "town in Falster, Denmark",
+        "freebase_id": "/m/0ndjd48"
+    },
+    {
+        "wikidata_id": "Q8743529",
+        "name": "Juelsminde",
+        "description": "town in Central Denmark, Denmark",
+        "freebase_id": "/m/0118xzyq"
+    },
+    {
+        "wikidata_id": "Q2884430",
+        "name": "Solbjerg",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/03h5m51"
+    },
+    {
+        "wikidata_id": "Q3624563",
+        "name": "Årslev",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/0128wg"
+    },
+    {
+        "wikidata_id": "Q4992280",
+        "name": "Herringløse",
+        "description": "village in Denmark",
+        "freebase_id": "/m/02w37g5"
+    },
+    {
+        "wikidata_id": "Q2692491",
+        "name": "Hjortshøj",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/02pypdt"
+    },
+    {
+        "wikidata_id": "Q3642642",
+        "name": "Vestervig",
+        "description": "village in Denmark",
+        "freebase_id": "/m/025txxx"
+    },
+    {
+        "wikidata_id": "Q303080",
+        "name": "Aarsdale",
+        "description": "fishing village",
+        "freebase_id": "/m/0bmhhkv"
+    },
+    {
+        "wikidata_id": "Q5259773",
+        "name": "Nørre Aaby",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/012906"
+    },
+    {
+        "wikidata_id": "Q6421384",
+        "name": "Kloster",
+        "description": "village in Central Denmark, Denmark",
+        "freebase_id": "/m/0h1hf2w"
+    },
+    {
+        "wikidata_id": "Q2458635",
+        "name": "Vestbjerg",
+        "description": "town in North Jutland Region, Denmark",
+        "freebase_id": "/m/0x25xp8"
+    },
+    {
+        "wikidata_id": "Q12304475",
+        "name": "Bruunshåb",
+        "description": "town in Central Denmark, Denmark",
+        "freebase_id": "/m/012hr4md"
+    },
+    {
+        "wikidata_id": "Q2339781",
+        "name": "Tjæreborg",
+        "description": "town in Southern Denmark, Denmark",
+        "freebase_id": "/m/04myps4"
+    },
+    {
+        "wikidata_id": "Q2371542",
+        "name": "Båring",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02pmrmq"
+    },
+    {
+        "wikidata_id": "Q3618891",
+        "name": "Tinglev",
+        "description": "Danish town",
+        "freebase_id": "/m/012rfj"
+    },
+    {
+        "wikidata_id": "Q4994795",
+        "name": "Haarby",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0128z1"
+    },
+    {
+        "wikidata_id": "Q11172043",
+        "name": "Algestrup",
+        "description": "town in Region Zealand, Denmark",
+        "freebase_id": "/m/0wkj90m"
+    },
+    {
+        "wikidata_id": "Q4994799",
+        "name": "Store Magleby",
+        "description": "place in Capital, Denmark",
+        "freebase_id": "/m/09rv0yt"
+    },
+    {
+        "wikidata_id": "Q4994751",
+        "name": "Taulov",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gk3mn"
+    },
+    {
+        "wikidata_id": "Q12304584",
+        "name": "Brørup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012nvt"
+    },
+    {
+        "wikidata_id": "Q2349723",
+        "name": "Storvorde",
+        "description": "place in North Denmark, Denmark",
+        "freebase_id": "/m/03ydcxd"
+    },
+    {
+        "wikidata_id": "Q2299154",
+        "name": "Hemmet",
+        "description": "town in Denmark",
+        "freebase_id": "/m/04jny3s"
+    },
+    {
+        "wikidata_id": "Q25331",
+        "name": "Odense",
+        "description": "main city of the island of Funen, Denmark",
+        "freebase_id": "/m/05mwx"
+    },
+    {
+        "wikidata_id": "Q7534455",
+        "name": "Skelhøje",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0gj9s56"
+    },
+    {
+        "wikidata_id": "Q2686468",
+        "name": "Hatting",
+        "description": "settlement in Horsens Municipality, Denmark",
+        "freebase_id": "/m/0521fyc"
+    },
+    {
+        "wikidata_id": "Q2660955",
+        "name": "Orehoved",
+        "description": "town in Falster, Denmark",
+        "freebase_id": "/m/0ndxb95"
+    },
+    {
+        "wikidata_id": "Q8079219",
+        "name": "Ørbæk",
+        "description": "town in Funen, Denmark",
+        "freebase_id": "/m/012910"
+    },
+    {
+        "wikidata_id": "Q3617406",
+        "name": "Slangerup",
+        "description": "town in Frederikssund municipality, Denmark",
+        "freebase_id": "/m/0128sm"
+    },
+    {
+        "wikidata_id": "Q3591036",
+        "name": "Vinderup",
+        "description": "railway town in Jutland, Denmark",
+        "freebase_id": "/m/05255dm"
+    },
+    {
+        "wikidata_id": "Q2856489",
+        "name": "Sønder Bjert",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0h1g_yg"
+    },
+    {
+        "wikidata_id": "Q2301524",
+        "name": "Stege",
+        "description": "Danish town",
+        "freebase_id": "/m/051x80z"
+    },
+    {
+        "wikidata_id": "Q3554742",
+        "name": "Farum",
+        "description": "town in Denmark, near Copenhagen",
+        "freebase_id": "/m/02p6rpf"
+    },
+    {
+        "wikidata_id": "Q4441429",
+        "name": "Beder",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0b9hm0"
+    },
+    {
+        "wikidata_id": "Q2703446",
+        "name": "Eskilstrup",
+        "description": "town 12 km north of Nykøbing Falster on the Danish island of Falster",
+        "freebase_id": "/m/0ndjssf"
+    },
+    {
+        "wikidata_id": "Q2444674",
+        "name": "Særslev",
+        "description": "Danish village",
+        "freebase_id": "/m/04ldqx2"
+    },
+    {
+        "wikidata_id": "Q2739196",
+        "name": "Trige",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03h5m8v"
+    },
+    {
+        "wikidata_id": "Q2354104",
+        "name": "Blommenslyst",
+        "description": "village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114dq3g"
+    },
+    {
+        "wikidata_id": "Q2431865",
+        "name": "Fraugde",
+        "description": "village in Denmark",
+        "freebase_id": "/m/0114ms60"
+    },
+    {
+        "wikidata_id": "Q2480490",
+        "name": "Lundby",
+        "description": "town in Region Zealand, Denmark",
+        "freebase_id": "/m/0z6tprz"
+    },
+    {
+        "wikidata_id": "Q6711422",
+        "name": "Løsning",
+        "description": "No description available",
+        "freebase_id": "/m/09rx40j"
+    },
+    {
+        "wikidata_id": "Q4358920",
+        "name": "Tommerup Stationsby",
+        "description": "railway town in Southern Denmark, Denmark",
+        "freebase_id": "/m/03gxsfz"
+    },
+    {
+        "wikidata_id": "Q7061201",
+        "name": "Skodsborg",
+        "description": "town in Capital Region, Denmark",
+        "freebase_id": "/m/047pqy5"
+    },
+    {
+        "wikidata_id": "Q2361237",
+        "name": "Osted",
+        "description": "town near Roskilde in Danish region Zealand",
+        "freebase_id": "/m/0gg84gl"
+    },
+    {
+        "wikidata_id": "Q7918750",
+        "name": "Veksø",
+        "description": "town in Capital Region, Denmark",
+        "freebase_id": "/m/0gl2k3"
+    },
+    {
+        "wikidata_id": "Q9345649",
+        "name": "Stenløse",
+        "description": "Danish town in Egedal Municipality",
+        "freebase_id": "/m/0128s_"
+    },
+    {
+        "wikidata_id": "Q3591139",
+        "name": "Them",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128h2"
+    },
+    {
+        "wikidata_id": "Q2687297",
+        "name": "Gilleleje",
+        "description": "town in North Zealand, Denmark",
+        "freebase_id": "/m/03f34n"
+    },
+    {
+        "wikidata_id": "Q7061097",
+        "name": "Tølløse",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0h7msz3"
+    },
+    {
+        "wikidata_id": "Q2633183",
+        "name": "Lystrup",
+        "description": "town in Region Midtjylland, Denmark",
+        "freebase_id": "/m/0c0r6c"
+    },
+    {
+        "wikidata_id": "Q2302168",
+        "name": "Kjellerup",
+        "description": "village in Jutland, Denmark",
+        "freebase_id": "/m/0gvr4h7"
+    },
+    {
+        "wikidata_id": "Q7652712",
+        "name": "Svinninge",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0h7mpgp"
+    },
+    {
+        "wikidata_id": "Q2334453",
+        "name": "Visborg",
+        "description": "village in North Denmark, Denmark",
+        "freebase_id": "/m/011sn33l"
+    },
+    {
+        "wikidata_id": "Q2796480",
+        "name": "Bandholm",
+        "description": "village in Seeland, Denmark",
+        "freebase_id": "/m/0vsjdq3"
+    },
+    {
+        "wikidata_id": "Q2633021",
+        "name": "Otterup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/01291c"
+    },
+    {
+        "wikidata_id": "Q4994802",
+        "name": "Give",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02qq4t5"
+    },
+    {
+        "wikidata_id": "Q2346267",
+        "name": "Nagelsti",
+        "description": "village in Zealand, Denmark",
+        "freebase_id": "/m/0w5zlxx"
+    },
+    {
+        "wikidata_id": "Q3547368",
+        "name": "Grindsted",
+        "description": "town in Billund Municipality, Denmark",
+        "freebase_id": "/m/05253gr"
+    },
+    {
+        "wikidata_id": "Q12334493",
+        "name": "Sandby",
+        "description": "settlement in Demark",
+        "freebase_id": "/m/0wbm_k8"
+    },
+    {
+        "wikidata_id": "Q2689028",
+        "name": "Lejre",
+        "description": "town in Region Zealand, Denmark",
+        "freebase_id": "/m/012p9r"
+    },
+    {
+        "wikidata_id": "Q2311042",
+        "name": "Stoholm",
+        "description": "town in Central Denmark, Denmark",
+        "freebase_id": "/m/0z88sm4"
+    },
+    {
+        "wikidata_id": "Q3646715",
+        "name": "Herlev",
+        "description": "Danish city",
+        "freebase_id": "/m/052576c"
+    },
+    {
+        "wikidata_id": "Q7296818",
+        "name": "Ravnsnæs",
+        "description": "village near Sjælsø, Denmark",
+        "freebase_id": "/m/02qdnsf"
+    },
+    {
+        "wikidata_id": "Q4919613",
+        "name": "Bjerringbro",
+        "description": "Danish town",
+        "freebase_id": "/m/0gj8zjs"
+    },
+    {
+        "wikidata_id": "Q10977002",
+        "name": "Ejlstrup",
+        "description": "village in Southern Denmark, Denmark",
+        "freebase_id": "/m/0114j119"
+    },
+    {
+        "wikidata_id": "Q2326573",
+        "name": "Hjallerup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0rph1vy"
+    },
+    {
+        "wikidata_id": "Q2693547",
+        "name": "Kibæk",
+        "description": "town in Denmark",
+        "freebase_id": "/m/03mw7s"
+    },
+    {
+        "wikidata_id": "Q12313590",
+        "name": "Gelsted",
+        "description": "town in Funen, Denmark",
+        "freebase_id": "/m/0115n3zw"
+    },
+    {
+        "wikidata_id": "Q4994748",
+        "name": "Øm",
+        "description": "village near Roskilde, Denmark",
+        "freebase_id": "/m/0g5qrtr"
+    },
+    {
+        "wikidata_id": "Q2450123",
+        "name": "Assentoft",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0h3w8t"
+    },
+    {
+        "wikidata_id": "Q2794037",
+        "name": "Gandrup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/02x0svv"
+    },
+    {
+        "wikidata_id": "Q12313132",
+        "name": "Fuglebjerg",
+        "description": "town in Denmark",
+        "freebase_id": "/m/07msc6"
+    },
+    {
+        "wikidata_id": "Q2349883",
+        "name": "Over Holluf",
+        "description": "suburb in Odense, Funen, Denmark",
+        "freebase_id": "/m/0q59hhy"
+    },
+    {
+        "wikidata_id": "Q12342777",
+        "name": "Skævinge",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0128td"
+    },
+    {
+        "wikidata_id": "Q3618954",
+        "name": "Ejby",
+        "description": "railway town in Middelfart Municipality, Denmark",
+        "freebase_id": "/m/09v638_"
+    },
+    {
+        "wikidata_id": "Q2892005",
+        "name": "Havdrup",
+        "description": "town in Zealand, Denmark",
+        "freebase_id": "/m/0zb_pvw"
+    },
+    {
+        "wikidata_id": "Q12343916",
+        "name": "Videbæk",
+        "description": "town in Denmark",
+        "freebase_id": "/m/012p6f"
+    },
+    {
+        "wikidata_id": "Q12314806",
+        "name": "Gørlev",
+        "description": "town in Denmark",
+        "freebase_id": "/m/07bv48"
+    },
+    {
+        "wikidata_id": "Q7071292",
+        "name": "Nysted Friary",
+        "description": "No description available",
+        "freebase_id": "/m/047pyrc"
+    },
+    {
+        "wikidata_id": "Q2296596",
+        "name": "Allinge-Sandvig",
+        "description": "town in Bornholm, Denmark",
+        "freebase_id": "/m/04jb6dk"
+    },
+    {
+        "wikidata_id": "Q4697450",
+        "name": "Hadsund South",
+        "description": "town on the south side of Mariager Fjord, just south of Hadsund",
+        "freebase_id": "/m/0vpkh8q"
+    },
+    {
+        "wikidata_id": "Q2398552",
+        "name": "Klarup",
+        "description": "town in North Jutland Region, Denmark",
+        "freebase_id": "/m/0x11h0r"
+    },
+    {
+        "wikidata_id": "Q2701822",
+        "name": "Frejlev",
+        "description": "in Aalborg Municipality, North Denmark Region, Denmark",
+        "freebase_id": "/m/0x287nz"
+    },
+    {
+        "wikidata_id": "Q12317764",
+        "name": "Højer",
+        "description": "Danish village",
+        "freebase_id": "/m/012r93"
+    },
+    {
+        "wikidata_id": "Q12317850",
+        "name": "Høsterkøb",
+        "description": "town in Capital, Denmark",
+        "freebase_id": "/m/0_gw0k8"
+    },
+    {
+        "wikidata_id": "Q2870915",
+        "name": "Outrup",
+        "description": "town in Denmark",
+        "freebase_id": "/m/0crf1rg"
+    },
+    {
+        "wikidata_id": "Q4993429",
+        "name": "Thorsø",
+        "description": "village in Central Denmark, Denmark",
+        "freebase_id": "/m/0n_6xzz"
+    },
+    {
+        "wikidata_id": "Q2689028",
+        "name": "Lejre",
+        "description": "town in Region Zealand, Denmark",
+        "freebase_id": "/m/011l7r13"
+    },
+    {
+        "wikidata_id": "Q4672319",
+        "name": "Stokkemarke",
+        "description": "village in Zealand, Denmark",
+        "freebase_id": "/m/0w5r0q3"
+    },
+    {
+        "wikidata_id": "Q12317806",
+        "name": "Høng",
+        "description": "town in Denmark",
+        "freebase_id": "/m/07bvs3"
+    },
+    {
+        "wikidata_id": "Q2476361",
+        "name": "Nørre Broby",
+        "description": "town in Funen, Denmark",
+        "freebase_id": "/m/0114qkhd"
+    }
+]

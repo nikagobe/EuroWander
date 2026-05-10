@@ -1,0 +1,20 @@
+[
+    {
+        "wikidata_id": "Q4540172",
+        "name": "Mater Ecclesiae Monastery",
+        "description": "Catholic monastery located in the Vatican",
+        "freebase_id": "/m/0r3t_z7"
+    },
+    {
+        "wikidata_id": "Q237",
+        "name": "Vatican City",
+        "description": "Holy See's independent state, an enclave within Rome, Italy",
+        "freebase_id": "/m/07ytt"
+    },
+    {
+        "wikidata_id": "Q159583",
+        "name": "Holy See",
+        "description": "jurisdiction of the Bishop of Rome",
+        "freebase_id": "/m/03h1x"
+    }
+]

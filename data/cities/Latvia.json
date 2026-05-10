@@ -1,0 +1,2186 @@
+[
+    {
+        "wikidata_id": "Q4702103",
+        "name": "Akācijas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgq36b"
+    },
+    {
+        "wikidata_id": "Q1018485",
+        "name": "Cibla",
+        "description": "village in Cibla Parish, Ludza Municipality, Latvia",
+        "freebase_id": "/m/0fpjcwb"
+    },
+    {
+        "wikidata_id": "Q7369083",
+        "name": "Rosme",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrj14"
+    },
+    {
+        "wikidata_id": "Q6699747",
+        "name": "Lugaži",
+        "description": "small town in the Valka Parish of Valka municipality in Latvia",
+        "freebase_id": "/m/0l8mw7k"
+    },
+    {
+        "wikidata_id": "Q5005519",
+        "name": "Bērze",
+        "description": "place in Bērze Parish",
+        "freebase_id": "/m/0dgpd_g"
+    },
+    {
+        "wikidata_id": "Q5255141",
+        "name": "Demene",
+        "description": "place in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/04f021z"
+    },
+    {
+        "wikidata_id": "Q580746",
+        "name": "Biksti",
+        "description": "human settlement",
+        "freebase_id": "/m/0dgq6vn"
+    },
+    {
+        "wikidata_id": "Q4971758",
+        "name": "Brigi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/055q3tx"
+    },
+    {
+        "wikidata_id": "Q5317806",
+        "name": "Dviete",
+        "description": "village in Dviete Parish of Auģšdaugava Municipality, Latvia",
+        "freebase_id": "/m/04dz4kd"
+    },
+    {
+        "wikidata_id": "Q2995672",
+        "name": "Pērkone",
+        "description": "village in Latvia",
+        "freebase_id": "/m/03hlg7c"
+    },
+    {
+        "wikidata_id": "Q8082935",
+        "name": "Šķibe",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgnm8n"
+    },
+    {
+        "wikidata_id": "Q5613076",
+        "name": "Grīnvalti",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0406720"
+    },
+    {
+        "wikidata_id": "Q2082531",
+        "name": "Skulte",
+        "description": "village in Skulte Parish, Latvia",
+        "freebase_id": "/m/0fph3qh"
+    },
+    {
+        "wikidata_id": "Q5619771",
+        "name": "Červonka",
+        "description": "place in Augšdaugava municipality, Latvia",
+        "freebase_id": "/m/04d_tgr"
+    },
+    {
+        "wikidata_id": "Q5348044",
+        "name": "Eglaine",
+        "description": "place in Ilūkste municipality, Latvia",
+        "freebase_id": "/m/04f43wd"
+    },
+    {
+        "wikidata_id": "Q6111903",
+        "name": "Skrudaliena",
+        "description": "place in Daugavpils District, Latvia",
+        "freebase_id": "/m/04f3hym"
+    },
+    {
+        "wikidata_id": "Q6111684",
+        "name": "Pasiene",
+        "description": "village in Pasiene Parish, Zilupe Municipality, Latvia",
+        "freebase_id": "/m/03jl_c"
+    },
+    {
+        "wikidata_id": "Q5523764",
+        "name": "Garoza",
+        "description": "Jelgavas municipality",
+        "freebase_id": "/m/07k953t"
+    },
+    {
+        "wikidata_id": "Q2667982",
+        "name": "Mazirbe",
+        "description": "village in Latvia in the cultural region of the Livonian Coast (Livonian name: Irē)",
+        "freebase_id": "/m/026y0w9"
+    },
+    {
+        "wikidata_id": "Q5057404",
+        "name": "Cekule",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgr6jt"
+    },
+    {
+        "wikidata_id": "Q8076091",
+        "name": "Zālīte",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgs6lx"
+    },
+    {
+        "wikidata_id": "Q1973559",
+        "name": "Tērvete",
+        "description": "village in Latvia",
+        "freebase_id": "/m/02734rs"
+    },
+    {
+        "wikidata_id": "Q488301",
+        "name": "Annenieki",
+        "description": "human settlement",
+        "freebase_id": "/m/0dgqzzf"
+    },
+    {
+        "wikidata_id": "Q7917870",
+        "name": "Vecvārkava",
+        "description": "village in Vārkava, Latvia",
+        "freebase_id": "/m/0fq2b5x"
+    },
+    {
+        "wikidata_id": "Q4812819",
+        "name": "Atari",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgn8jp"
+    },
+    {
+        "wikidata_id": "Q7597217",
+        "name": "Stalbe",
+        "description": "village in Pārgauja, Latvia",
+        "freebase_id": "/m/0fqrq4f"
+    },
+    {
+        "wikidata_id": "Q7779566",
+        "name": "Alderi",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgs8dx"
+    },
+    {
+        "wikidata_id": "Q6544139",
+        "name": "Lielbērze",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgsg5x"
+    },
+    {
+        "wikidata_id": "Q6164858",
+        "name": "Jaunpēternieki",
+        "description": "village in Cena parish, Latvia",
+        "freebase_id": "/m/065z_m4"
+    },
+    {
+        "wikidata_id": "Q6799193",
+        "name": "Maļinova",
+        "description": "medium-size village in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/0h_b12y"
+    },
+    {
+        "wikidata_id": "Q8067162",
+        "name": "Zaube",
+        "description": "village in Cēsis Municipality, Latvia",
+        "freebase_id": "/m/0fpjdvw"
+    },
+    {
+        "wikidata_id": "Q8067641",
+        "name": "Zaļesje",
+        "description": "village in Zaļesje Parish",
+        "freebase_id": "/m/0dgsmv6"
+    },
+    {
+        "wikidata_id": "Q4741395",
+        "name": "Ambeļi",
+        "description": "place in Daugavpils District, Latvia",
+        "freebase_id": "/m/04dzy17"
+    },
+    {
+        "wikidata_id": "Q4752542",
+        "name": "Ance",
+        "description": "village in Ance Parish, Latvia",
+        "freebase_id": "/m/0806ltw"
+    },
+    {
+        "wikidata_id": "Q5370276",
+        "name": "Emburga",
+        "description": "village in Latvia",
+        "freebase_id": "/m/07kh5z3"
+    },
+    {
+        "wikidata_id": "Q5766227",
+        "name": "Saliena",
+        "description": "place in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/04dz5cl"
+    },
+    {
+        "wikidata_id": "Q985245",
+        "name": "Burtnieki",
+        "description": "human settlement",
+        "freebase_id": "/m/01dx_8"
+    },
+    {
+        "wikidata_id": "Q1999379",
+        "name": "Višķi",
+        "description": "a village in Latvia",
+        "freebase_id": "/m/04f1kfl"
+    },
+    {
+        "wikidata_id": "Q4779455",
+        "name": "Apgulde",
+        "description": "village in Naudīte Parish, Latvia",
+        "freebase_id": "/m/0dgry3s"
+    },
+    {
+        "wikidata_id": "Q5005523",
+        "name": "Bērzupe",
+        "description": "village in Annenieki Parish, Latvia",
+        "freebase_id": "/m/0dgpktb"
+    },
+    {
+        "wikidata_id": "Q5120120",
+        "name": "Cimdenieki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/03d5hj2"
+    },
+    {
+        "wikidata_id": "Q4822320",
+        "name": "Auri",
+        "description": "village in Auri Parish, Latvia",
+        "freebase_id": "/m/0dgrl2q"
+    },
+    {
+        "wikidata_id": "Q7071595",
+        "name": "Nīcgale",
+        "description": "human settlement in Nīcgale Parish, Augšdaugavas municipality, Latvia",
+        "freebase_id": "/m/04f1fht"
+    },
+    {
+        "wikidata_id": "Q209850",
+        "name": "Ērģeme",
+        "description": "human settlement",
+        "freebase_id": "/m/0fpj75_"
+    },
+    {
+        "wikidata_id": "Q1926512",
+        "name": "Mežotne",
+        "description": "village in Latvia",
+        "freebase_id": "/m/099fs0"
+    },
+    {
+        "wikidata_id": "Q6544208",
+        "name": "Liepziedi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgscdx"
+    },
+    {
+        "wikidata_id": "Q5319634",
+        "name": "Dzelzava",
+        "description": "village in Latvia",
+        "freebase_id": "/m/02qm3r3"
+    },
+    {
+        "wikidata_id": "Q5764708",
+        "name": "Zelmeņi",
+        "description": "village in Tērvete, Latvia",
+        "freebase_id": "/m/0fqlz34"
+    },
+    {
+        "wikidata_id": "Q5277811",
+        "name": "Dimzukalns",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrb4w"
+    },
+    {
+        "wikidata_id": "Q5210240",
+        "name": "Dalbe",
+        "description": "village in Cena Parish, Jelgava Municipality, Latvia",
+        "freebase_id": "/m/065_94x"
+    },
+    {
+        "wikidata_id": "Q4699440",
+        "name": "Aizstrautnieki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgs8lk"
+    },
+    {
+        "wikidata_id": "Q7907854",
+        "name": "Vabole",
+        "description": "place in Daugavpils municipality, Latvia",
+        "freebase_id": "/m/04f57r9"
+    },
+    {
+        "wikidata_id": "Q6497877",
+        "name": "Lauderi",
+        "description": "village in Ludza Municipality, Latvia, center of Lauderi Parish",
+        "freebase_id": "/m/0dgsjw4"
+    },
+    {
+        "wikidata_id": "Q8074541",
+        "name": "Zorģi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgs8gp"
+    },
+    {
+        "wikidata_id": "Q3519139",
+        "name": "Tetele",
+        "description": "village in Jelgava municipality, Latvia",
+        "freebase_id": "/m/066062y"
+    },
+    {
+        "wikidata_id": "Q1998978",
+        "name": "Rundēni",
+        "description": "village in Latvia",
+        "freebase_id": "/m/04cx2jn"
+    },
+    {
+        "wikidata_id": "Q5058773",
+        "name": "Cena",
+        "description": "village in Cena parish, Jelgava municipality, Latvia",
+        "freebase_id": "/m/065_l2g"
+    },
+    {
+        "wikidata_id": "Q2077631",
+        "name": "Melnsils",
+        "description": "village in Latvia on the Livonian Coast",
+        "freebase_id": "/m/026x_nd"
+    },
+    {
+        "wikidata_id": "Q4956044",
+        "name": "Līčupe",
+        "description": "town in Ogre District, Latvia",
+        "freebase_id": "/m/03cn6_k"
+    },
+    {
+        "wikidata_id": "Q985242",
+        "name": "Līksna",
+        "description": "human settlement",
+        "freebase_id": "/m/04d_13h"
+    },
+    {
+        "wikidata_id": "Q6544506",
+        "name": "Lieģi",
+        "description": "village in Durbe, Latvia",
+        "freebase_id": "/m/0fqsvlk"
+    },
+    {
+        "wikidata_id": "Q8080297",
+        "name": "Ķirpēni",
+        "description": "village in Dobele Municipality, Latvia",
+        "freebase_id": "/m/0dgrj5t"
+    },
+    {
+        "wikidata_id": "Q6711715",
+        "name": "Lūznava",
+        "description": "village in Latvia",
+        "freebase_id": "/m/06w5q9m"
+    },
+    {
+        "wikidata_id": "Q5064499",
+        "name": "Ceriņi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgq44j"
+    },
+    {
+        "wikidata_id": "Q4919474",
+        "name": "Biķernieki",
+        "description": "place in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/04f5zr8"
+    },
+    {
+        "wikidata_id": "Q7673552",
+        "name": "Tabore",
+        "description": "place in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/04f0n22"
+    },
+    {
+        "wikidata_id": "Q5349572",
+        "name": "Eimuri",
+        "description": "village in Ādaži Parish, Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgp04f"
+    },
+    {
+        "wikidata_id": "Q2637768",
+        "name": "Sloka",
+        "description": "neighbourhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc8mp9"
+    },
+    {
+        "wikidata_id": "Q5621194",
+        "name": "Melluži",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc6v_g"
+    },
+    {
+        "wikidata_id": "Q8071502",
+        "name": "Ziedlejas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrn_l"
+    },
+    {
+        "wikidata_id": "Q6378701",
+        "name": "Kauguri",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/059y_n"
+    },
+    {
+        "wikidata_id": "Q7379207",
+        "name": "Rumbula",
+        "description": "village in Stopiņi Parish, Latvia",
+        "freebase_id": "/m/0dgr5py"
+    },
+    {
+        "wikidata_id": "Q1981692",
+        "name": "Centrs",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0cc9ys9"
+    },
+    {
+        "wikidata_id": "Q2300840",
+        "name": "Turaida",
+        "description": "neighbourhood of Sigulda, Latvia",
+        "freebase_id": "/m/02pcwzj"
+    },
+    {
+        "wikidata_id": "Q4825817",
+        "name": "Ausātas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgqhxz"
+    },
+    {
+        "wikidata_id": "Q7533949",
+        "name": "Skanste",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0cc6k82"
+    },
+    {
+        "wikidata_id": "Q2394313",
+        "name": "Torņakalns",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/027wtty"
+    },
+    {
+        "wikidata_id": "Q13646346",
+        "name": "Mangaļsala",
+        "description": "neighbourhood of Riga, Latvia, in the Northern District",
+        "freebase_id": "/m/0cc96qw"
+    },
+    {
+        "wikidata_id": "Q2047201",
+        "name": "Zolitūde",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0f1_pf"
+    },
+    {
+        "wikidata_id": "Q6420387",
+        "name": "Kleisti",
+        "description": "neighbourhood in Riga, Latvia",
+        "freebase_id": "/m/0cc7knh"
+    },
+    {
+        "wikidata_id": "Q6711695",
+        "name": "Līvi",
+        "description": "village in Biksti Parish",
+        "freebase_id": "/m/0dgr97h"
+    },
+    {
+        "wikidata_id": "Q2563638",
+        "name": "Lielirbe",
+        "description": "village in Latvia, Livonian name: Īra, German name: Irben",
+        "freebase_id": "/m/026x_z0"
+    },
+    {
+        "wikidata_id": "Q2563657",
+        "name": "Pitrags",
+        "description": "village in Latvia on the Livonian coast, Liv name: Pitrõg",
+        "freebase_id": "/m/026v8f3"
+    },
+    {
+        "wikidata_id": "Q1983101",
+        "name": "Vecmīlgrāvis",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0fchw5"
+    },
+    {
+        "wikidata_id": "Q7827847",
+        "name": "Tosmare",
+        "description": "neighbourhood of Liepāja, Latvia",
+        "freebase_id": "/m/02pv31w"
+    },
+    {
+        "wikidata_id": "Q4084015",
+        "name": "Berģi",
+        "description": "neighbourhood of Riga, the capital of Latvia",
+        "freebase_id": "/m/0cc9067"
+    },
+    {
+        "wikidata_id": "Q897503",
+        "name": "Sēlpils",
+        "description": "human settlement",
+        "freebase_id": "/m/0bprv8"
+    },
+    {
+        "wikidata_id": "Q7849230",
+        "name": "Trīsciems",
+        "description": "neighbourhood of Riga, Latvia, in the Northern District",
+        "freebase_id": "/m/0cc6z63"
+    },
+    {
+        "wikidata_id": "Q4829378",
+        "name": "Avoti",
+        "description": "neighbourhood of Riga, the capital of Latvia",
+        "freebase_id": "/m/0cc8fqf"
+    },
+    {
+        "wikidata_id": "Q5005520",
+        "name": "Bērzkalni",
+        "description": "village in Alsunga Municipality, Latvia",
+        "freebase_id": "/m/0dgp950"
+    },
+    {
+        "wikidata_id": "Q1986080",
+        "name": "Zasulauks",
+        "description": "neighbourhood of Riga, Latvia, in the Kurzeme District",
+        "freebase_id": "/m/0cc5df8"
+    },
+    {
+        "wikidata_id": "Q6951146",
+        "name": "Mūkupurvs",
+        "description": "neighbourhood of Riga, Latvia, in the Zemgale Suburb",
+        "freebase_id": "/m/0cc8c0y"
+    },
+    {
+        "wikidata_id": "Q2667969",
+        "name": "Lūžņa",
+        "description": "village in Latvia on the Livonian Coast",
+        "freebase_id": "/m/026x_fh"
+    },
+    {
+        "wikidata_id": "Q2667994",
+        "name": "Miķeļtornis",
+        "description": "village in Latvia on the Livonian Coast",
+        "freebase_id": "/m/026x_vy"
+    },
+    {
+        "wikidata_id": "Q4907458",
+        "name": "Bikstu Stacija",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgqbn6"
+    },
+    {
+        "wikidata_id": "Q4782356",
+        "name": "Apšupe",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgp2bs"
+    },
+    {
+        "wikidata_id": "Q4183867",
+        "name": "Pārdaugava",
+        "description": "area associated with Riga, Latvia",
+        "freebase_id": "/m/0f1_rh"
+    },
+    {
+        "wikidata_id": "Q420333",
+        "name": "Aknīste",
+        "description": "city in Jēkabpils Municipality, Latvia",
+        "freebase_id": "/m/0c3s2z"
+    },
+    {
+        "wikidata_id": "Q15219574",
+        "name": "Pumpuri",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc6z5s"
+    },
+    {
+        "wikidata_id": "Q14474702",
+        "name": "Renda",
+        "description": "village in Kuldīga Municipality, Latvia",
+        "freebase_id": "/m/025xysq"
+    },
+    {
+        "wikidata_id": "Q1986090",
+        "name": "Bulduri",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc7z6x"
+    },
+    {
+        "wikidata_id": "Q344625",
+        "name": "Ķīpsala",
+        "description": "island and neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/02r57bs"
+    },
+    {
+        "wikidata_id": "Q2998002",
+        "name": "Ķemeri",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/06ztsj2"
+    },
+    {
+        "wikidata_id": "Q9282430",
+        "name": "Grāveri",
+        "description": "village in Alsunga Municipality, Latvia",
+        "freebase_id": "/m/0dgs7gr"
+    },
+    {
+        "wikidata_id": "Q4827357",
+        "name": "Auči",
+        "description": "village in Salgale parish, Latvia",
+        "freebase_id": "/m/06zt29_"
+    },
+    {
+        "wikidata_id": "Q7667086",
+        "name": "Sīpele",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgp4ff"
+    },
+    {
+        "wikidata_id": "Q4110153",
+        "name": "Vecāķi",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/0cc705f"
+    },
+    {
+        "wikidata_id": "Q6711673",
+        "name": "Līdumi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgs051"
+    },
+    {
+        "wikidata_id": "Q4904609",
+        "name": "Bieriņi",
+        "description": "neighbourhood of Riga in Zemgale Suburb, Latvia",
+        "freebase_id": "/m/0cc7618"
+    },
+    {
+        "wikidata_id": "Q178382",
+        "name": "Jūrmala",
+        "description": "state city in Vidzeme, Latvia",
+        "freebase_id": "/m/016mjk"
+    },
+    {
+        "wikidata_id": "Q2085553",
+        "name": "Bišumuiža",
+        "description": "neighbourhood of Riga in Zemgale Suburb, Latvia",
+        "freebase_id": "/m/0cc79w4"
+    },
+    {
+        "wikidata_id": "Q4098672",
+        "name": "Bukulti",
+        "description": "neighbourhood in Vidzeme Suburb, Riga",
+        "freebase_id": "/m/0cc7skg"
+    },
+    {
+        "wikidata_id": "Q6738400",
+        "name": "Majori",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0b6hnyj"
+    },
+    {
+        "wikidata_id": "Q1975818",
+        "name": "Mežciems",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0f2rry"
+    },
+    {
+        "wikidata_id": "Q7456199",
+        "name": "Sestā grupa",
+        "description": "No description available",
+        "freebase_id": "/m/03m4rml"
+    },
+    {
+        "wikidata_id": "Q9171974",
+        "name": "Birznieki",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgsrgd"
+    },
+    {
+        "wikidata_id": "Q6164817",
+        "name": "Jaunā pasaule",
+        "description": "neighbourhood of Liepāja, Latvia",
+        "freebase_id": "/m/03d5gfy"
+    },
+    {
+        "wikidata_id": "Q6164867",
+        "name": "Jaunā Māja",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgqfft"
+    },
+    {
+        "wikidata_id": "Q6826769",
+        "name": "Mežinieki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgp16x"
+    },
+    {
+        "wikidata_id": "Q4803609",
+        "name": "Asari",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc714q"
+    },
+    {
+        "wikidata_id": "Q2033866",
+        "name": "Dubulti",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/03c7m_w"
+    },
+    {
+        "wikidata_id": "Q8080299",
+        "name": "Ļukas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgptr_"
+    },
+    {
+        "wikidata_id": "Q7944892",
+        "name": "Vālodzes",
+        "description": "part of Ulbroka village, Latvia",
+        "freebase_id": "/m/0dgq4b4"
+    },
+    {
+        "wikidata_id": "Q4539654",
+        "name": "Jaunciems",
+        "description": "neighbourhood of Riga, Latvia, in the Northern District",
+        "freebase_id": "/m/0cc629k"
+    },
+    {
+        "wikidata_id": "Q6103379",
+        "name": "Iļķene",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgn00m"
+    },
+    {
+        "wikidata_id": "Q4734040",
+        "name": "Almāle",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgql_s"
+    },
+    {
+        "wikidata_id": "Q1023768",
+        "name": "Karosta",
+        "description": "neighbourhood of Liepāja, Latvia",
+        "freebase_id": "/m/031yr4"
+    },
+    {
+        "wikidata_id": "Q7940147",
+        "name": "Voleri",
+        "description": "neighbourhood of Riga, Latvia, in the Kurzeme District",
+        "freebase_id": "/m/0cc566n"
+    },
+    {
+        "wikidata_id": "Q7319926",
+        "name": "Reģi",
+        "description": "village in Alsunga Municipality in Latvia",
+        "freebase_id": "/m/0dgn5mz"
+    },
+    {
+        "wikidata_id": "Q1976899",
+        "name": "Imanta",
+        "description": "neighborhood of Riga, Latvia, in Kurzeme District",
+        "freebase_id": "/m/0f0_n9"
+    },
+    {
+        "wikidata_id": "Q987161",
+        "name": "Nereta",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dddzjz"
+    },
+    {
+        "wikidata_id": "Q5251863",
+        "name": "Degumuiža",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgr1pp"
+    },
+    {
+        "wikidata_id": "Q9183714",
+        "name": "Būcmaņciems",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgqchj"
+    },
+    {
+        "wikidata_id": "Q4993603",
+        "name": "Šampēteris",
+        "description": "neighbourhood of Riga, Latvia, in the Zemgale Suburb",
+        "freebase_id": "/m/02r5cdh"
+    },
+    {
+        "wikidata_id": "Q7536880",
+        "name": "Skujaine",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgn22c"
+    },
+    {
+        "wikidata_id": "Q6497768",
+        "name": "Lauciņi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgq5zk"
+    },
+    {
+        "wikidata_id": "Q4149523",
+        "name": "Grīziņkalns",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/0cc5c2_"
+    },
+    {
+        "wikidata_id": "Q2077609",
+        "name": "Vaide",
+        "description": "village in Latvia on the Livonian Coast",
+        "freebase_id": "/m/026x_qt"
+    },
+    {
+        "wikidata_id": "Q5283987",
+        "name": "Divezeri",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgs1r3"
+    },
+    {
+        "wikidata_id": "Q7403689",
+        "name": "Salas",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/0cc7z77"
+    },
+    {
+        "wikidata_id": "Q3625536",
+        "name": "Beberbeķi",
+        "description": "neighbourhood of Riga in Zemgale Suburb, Latvia",
+        "freebase_id": "/m/02r5b9q"
+    },
+    {
+        "wikidata_id": "Q4850013",
+        "name": "Balande",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrd4_"
+    },
+    {
+        "wikidata_id": "Q698342",
+        "name": "Riga Ghetto",
+        "description": "Nazi ghetto in occupied Latvia",
+        "freebase_id": "/m/064m6ny"
+    },
+    {
+        "wikidata_id": "Q5319929",
+        "name": "Dzimtmisa",
+        "description": "village in Zemgale, in Latvia",
+        "freebase_id": "/m/0dgrh08"
+    },
+    {
+        "wikidata_id": "Q4918844",
+        "name": "Bitenieki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgn3z3"
+    },
+    {
+        "wikidata_id": "Q13663921",
+        "name": "Zebrene",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgnvf4"
+    },
+    {
+        "wikidata_id": "Q13664119",
+        "name": "Naudīte",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrv5z"
+    },
+    {
+        "wikidata_id": "Q13664121",
+        "name": "Penkule",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgsqjq"
+    },
+    {
+        "wikidata_id": "Q2385786",
+        "name": "Pļavnieki",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0f2rm2"
+    },
+    {
+        "wikidata_id": "Q4160870",
+        "name": "Dzintari",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc9wt7"
+    },
+    {
+        "wikidata_id": "Q4992826",
+        "name": "Pleskodāle",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/02r5cbf"
+    },
+    {
+        "wikidata_id": "Q5764580",
+        "name": "Jaundubulti",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc5r3c"
+    },
+    {
+        "wikidata_id": "Q5423251",
+        "name": "Ezeriņi",
+        "description": "village in Penkule Parish, Latvia",
+        "freebase_id": "/m/0dgm_6v"
+    },
+    {
+        "wikidata_id": "Q5423252",
+        "name": "Ezerkrasts",
+        "description": "neighborhood in Liepāja, Latvia",
+        "freebase_id": "/m/03d6dw2"
+    },
+    {
+        "wikidata_id": "Q2343685",
+        "name": "Daugavpils Ghetto",
+        "description": "Nazi ghetto in occupied Latvia",
+        "freebase_id": "/m/05szvt4"
+    },
+    {
+        "wikidata_id": "Q8079612",
+        "name": "Āņi",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgp763"
+    },
+    {
+        "wikidata_id": "Q7919246",
+        "name": "Velnciems",
+        "description": "neighbourhood of Liepaja, Latvia",
+        "freebase_id": "/m/03d61ky"
+    },
+    {
+        "wikidata_id": "Q15229937",
+        "name": "Jūrkalne",
+        "description": "village in Latvia",
+        "freebase_id": "/m/03cnwwk"
+    },
+    {
+        "wikidata_id": "Q4960493",
+        "name": "Brekši",
+        "description": "neighbourhood of Riga in Vidzeme Suburb, Latvia",
+        "freebase_id": "/m/0cc5w1g"
+    },
+    {
+        "wikidata_id": "Q2394234",
+        "name": "Sarkandaugava",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0f20ft"
+    },
+    {
+        "wikidata_id": "Q15122950",
+        "name": "Jaunķemeri",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc6p8t"
+    },
+    {
+        "wikidata_id": "Q7141465",
+        "name": "Parūķis",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgqz0s"
+    },
+    {
+        "wikidata_id": "Q4993616",
+        "name": "Dzirciems",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/02r5bgw"
+    },
+    {
+        "wikidata_id": "Q807670",
+        "name": "Skrunda-1",
+        "description": "former Soviet early warning radar station in Latvia",
+        "freebase_id": "/m/0b6j9qw"
+    },
+    {
+        "wikidata_id": "Q4957753",
+        "name": "Brasa",
+        "description": "neighbourhood of Riga",
+        "freebase_id": "/m/0gvvp16"
+    },
+    {
+        "wikidata_id": "Q4102437",
+        "name": "Vaivari",
+        "description": "neighborhood in Jūrmala, Latvia",
+        "freebase_id": "/m/0cc9l24"
+    },
+    {
+        "wikidata_id": "Q4850452",
+        "name": "Baldonas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgsrmc"
+    },
+    {
+        "wikidata_id": "Q697912",
+        "name": "Riga-Kaiserwald concentration camp",
+        "description": "Nazi concentration camp in Latvia",
+        "freebase_id": "/m/040j13"
+    },
+    {
+        "wikidata_id": "Q697919",
+        "name": "Salaspils camp",
+        "description": "Nazi police prison and re-education through labor camp southeast of Riga in Latvia",
+        "freebase_id": "/m/06w3c4n"
+    },
+    {
+        "wikidata_id": "Q1926523",
+        "name": "Mežaparks",
+        "description": "neighbourhood of Riga, Latvia, in its Northern District",
+        "freebase_id": "/m/0f20tf"
+    },
+    {
+        "wikidata_id": "Q1026415",
+        "name": "Vecrīga",
+        "description": "historical center and neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/0fjrx0"
+    },
+    {
+        "wikidata_id": "Q8071689",
+        "name": "Northern Suburb",
+        "description": "neighbourhood of Liepaja, Latvia",
+        "freebase_id": "/m/04dyx_n"
+    },
+    {
+        "wikidata_id": "Q2817277",
+        "name": "Vilkupe",
+        "description": "village in Aknīste Parish, Latvia",
+        "freebase_id": "/m/0pk_4zm"
+    },
+    {
+        "wikidata_id": "Q6381693",
+        "name": "Kazupe",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgp8b5"
+    },
+    {
+        "wikidata_id": "Q6377686",
+        "name": "Katlakalns",
+        "description": "Neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0cc832h"
+    },
+    {
+        "wikidata_id": "Q11155017",
+        "name": "Patkule",
+        "description": "village in Madona, Latvia",
+        "freebase_id": "/m/0fpj8f6"
+    },
+    {
+        "wikidata_id": "Q1388229",
+        "name": "Latgale Neighborhood",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/02r5bkz"
+    },
+    {
+        "wikidata_id": "Q120761",
+        "name": "Ropaži",
+        "description": "human settlement in Latvia",
+        "freebase_id": "/m/01dhw5"
+    },
+    {
+        "wikidata_id": "Q6798309",
+        "name": "Mazbiksti",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrbbx"
+    },
+    {
+        "wikidata_id": "Q1993731",
+        "name": "Iļģuciems",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/02r5bjl"
+    },
+    {
+        "wikidata_id": "Q7577344",
+        "name": "Spilve",
+        "description": "neighborhood in Riga, Latvia",
+        "freebase_id": "/m/0cc93yx"
+    },
+    {
+        "wikidata_id": "Q1172924",
+        "name": "Daugavgrīva",
+        "description": "neighborhood of Riga",
+        "freebase_id": "/m/08wk52"
+    },
+    {
+        "wikidata_id": "Q1978424",
+        "name": "Ziepniekkalns",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0f328d"
+    },
+    {
+        "wikidata_id": "Q7917762",
+        "name": "Vecliepāja",
+        "description": "neighbourhood of Liepāja, Latvia",
+        "freebase_id": "/m/03cvjh5"
+    },
+    {
+        "wikidata_id": "Q7538507",
+        "name": "Slagūne",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgqh50"
+    },
+    {
+        "wikidata_id": "Q3658439",
+        "name": "Šķirotava",
+        "description": "neighborhood of Riga, Latvia",
+        "freebase_id": "/m/0cc7bqv"
+    },
+    {
+        "wikidata_id": "Q14481556",
+        "name": "Zīlāni",
+        "description": "village in Krustpils municipality, Latvia",
+        "freebase_id": "/m/0c00z0j"
+    },
+    {
+        "wikidata_id": "Q4155058",
+        "name": "Dārziņi",
+        "description": "neighbourhood in Riga, Latvia",
+        "freebase_id": "/m/0cc9f49"
+    },
+    {
+        "wikidata_id": "Q5274957",
+        "name": "Dienvidrietumi",
+        "description": "neighbourhood of Liepāja, Latvia",
+        "freebase_id": "/m/03hpfqr"
+    },
+    {
+        "wikidata_id": "Q5274959",
+        "name": "Dienvidstacija",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrlyf"
+    },
+    {
+        "wikidata_id": "Q16866868",
+        "name": "Pētersala-Andrejsala",
+        "description": "neighbourhood in the Northern District of Riga, Latvia",
+        "freebase_id": "/m/0cc5z8z"
+    },
+    {
+        "wikidata_id": "Q21061295",
+        "name": "Garkalne",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgpcwk"
+    },
+    {
+        "wikidata_id": "Q4813157",
+        "name": "Atgāzene",
+        "description": "neighbourhood of Riga in Zemgale Suburb, Latvia",
+        "freebase_id": "/m/0cc6c81"
+    },
+    {
+        "wikidata_id": "Q5005518",
+        "name": "Bērzbeķe",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgn2_z"
+    },
+    {
+        "wikidata_id": "Q5005524",
+        "name": "Bērzkrasti",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgsjz7"
+    },
+    {
+        "wikidata_id": "Q2668001",
+        "name": "Sīkrags",
+        "description": "village in Latvia",
+        "freebase_id": "/m/026x_57"
+    },
+    {
+        "wikidata_id": "Q506724",
+        "name": "Jungfernhof concentration camp",
+        "description": "No description available",
+        "freebase_id": "/m/065y2v6"
+    },
+    {
+        "wikidata_id": "Q5370280",
+        "name": "Embūte",
+        "description": "village in Latvia",
+        "freebase_id": "/m/04crdy0"
+    },
+    {
+        "wikidata_id": "Q4445601",
+        "name": "Suži",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/0cc6p9h"
+    },
+    {
+        "wikidata_id": "Q2382335",
+        "name": "Dreiliņi",
+        "description": "neighborhood in Riga, Latvia",
+        "freebase_id": "/m/02rnvt2"
+    },
+    {
+        "wikidata_id": "Q4247168",
+        "name": "Kundziņsala",
+        "description": "neighbourhood of Riga, Latvia, in the Northern District",
+        "freebase_id": "/m/04f1fkw"
+    },
+    {
+        "wikidata_id": "Q4820212",
+        "name": "Audrupi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgnm2f"
+    },
+    {
+        "wikidata_id": "Q5319636",
+        "name": "Dzelzāmurs",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrdxg"
+    },
+    {
+        "wikidata_id": "Q3625542",
+        "name": "Dārzciems",
+        "description": "neighborhood in Riga, Latvia",
+        "freebase_id": "/m/02r5bfv"
+    },
+    {
+        "wikidata_id": "Q2077650",
+        "name": "Saunags",
+        "description": "village in Latvia",
+        "freebase_id": "/m/026y09c"
+    },
+    {
+        "wikidata_id": "Q7917734",
+        "name": "Vecdaugava",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/0cc740t"
+    },
+    {
+        "wikidata_id": "Q21150312",
+        "name": "Upenieki",
+        "description": "villalge in Latvia",
+        "freebase_id": "/m/0dgs2vc"
+    },
+    {
+        "wikidata_id": "Q2385722",
+        "name": "Bolderāja",
+        "description": "neighborhood in Kurzemes rajons, Riga, Latvia",
+        "freebase_id": "/m/093z84"
+    },
+    {
+        "wikidata_id": "Q2632576",
+        "name": "Āgenskalns",
+        "description": "neighbourhood of Riga, Latvia",
+        "freebase_id": "/m/02r5b0r"
+    },
+    {
+        "wikidata_id": "Q2560938",
+        "name": "Košrags",
+        "description": "village in Latvia",
+        "freebase_id": "/m/026y0hl"
+    },
+    {
+        "wikidata_id": "Q2563626",
+        "name": "Jaunciems",
+        "description": "village in Latvia on the Livonian Coast",
+        "freebase_id": "/m/026y04k"
+    },
+    {
+        "wikidata_id": "Q1023733",
+        "name": "Engure",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fpj91c"
+    },
+    {
+        "wikidata_id": "Q1023743",
+        "name": "Mālpils",
+        "description": "large village in Latvia",
+        "freebase_id": "/m/0ddh3_r"
+    },
+    {
+        "wikidata_id": "Q1023747",
+        "name": "Ozolnieki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/076vqxr"
+    },
+    {
+        "wikidata_id": "Q1006029",
+        "name": "Vecpiebalga",
+        "description": "human settlement in Latvia",
+        "freebase_id": "/m/0ddb44p"
+    },
+    {
+        "wikidata_id": "Q1023755",
+        "name": "Skrīveri",
+        "description": "village and center of Skrīveri Parish, Aizkraukle Municipality, Latvia",
+        "freebase_id": "/m/0ddbt7q"
+    },
+    {
+        "wikidata_id": "Q1027029",
+        "name": "Ulbroka",
+        "description": "village and center of Ropaži Municipality, Latvia",
+        "freebase_id": "/m/02qm401"
+    },
+    {
+        "wikidata_id": "Q1006622",
+        "name": "Garkalne",
+        "description": "settlement in Garkalne Parish, Latvia",
+        "freebase_id": "/m/0dgpcwk"
+    },
+    {
+        "wikidata_id": "Q3741139",
+        "name": "Zaķumuiža",
+        "description": "village in Ropaži Parish, Latvia",
+        "freebase_id": "/m/0dd9xz9"
+    },
+    {
+        "wikidata_id": "Q1532385",
+        "name": "Cinevilla",
+        "description": "cinema-purposed area in Tukums Municipality, Latvia",
+        "freebase_id": "/m/0pb51pw"
+    },
+    {
+        "wikidata_id": "Q2035921",
+        "name": "Medumi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/04f42hh"
+    },
+    {
+        "wikidata_id": "Q1027033",
+        "name": "Pilsrundāle",
+        "description": "human settlement",
+        "freebase_id": "/m/0ddg17p"
+    },
+    {
+        "wikidata_id": "Q4957454",
+        "name": "Brankas",
+        "description": "village in Cena parish, Latvia",
+        "freebase_id": "/m/065xxnt"
+    },
+    {
+        "wikidata_id": "Q1684136",
+        "name": "Jaunpils",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fph4yq"
+    },
+    {
+        "wikidata_id": "Q1044023",
+        "name": "Carnikava",
+        "description": "center of Carnikava Parish, Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0ddcjgs"
+    },
+    {
+        "wikidata_id": "Q1712746",
+        "name": "Naukšēni",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fphgmh"
+    },
+    {
+        "wikidata_id": "Q1027009",
+        "name": "Jaunpiebalga",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0ddgjw7"
+    },
+    {
+        "wikidata_id": "Q1027053",
+        "name": "Vecumnieki",
+        "description": "village in Vecumnieki parish of Bauska municipality, Latvia",
+        "freebase_id": "/m/0b9b74"
+    },
+    {
+        "wikidata_id": "Q4363090",
+        "name": "Piņķi",
+        "description": "village in Marupe Municipality, Latvia",
+        "freebase_id": "/m/0dd8d1r"
+    },
+    {
+        "wikidata_id": "Q4852645",
+        "name": "Baltezers",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgrvy6"
+    },
+    {
+        "wikidata_id": "Q3050149",
+        "name": "Gaujiena",
+        "description": "village in Latvia",
+        "freebase_id": "/m/011b2m67"
+    },
+    {
+        "wikidata_id": "Q2174949",
+        "name": "Rugāji",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fpj204"
+    },
+    {
+        "wikidata_id": "Q2041303",
+        "name": "Lejasciems",
+        "description": "village in Gulbene, Latvia",
+        "freebase_id": "/m/0dd9wkx"
+    },
+    {
+        "wikidata_id": "Q1240381",
+        "name": "Priekuļi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0ddg_jp"
+    },
+    {
+        "wikidata_id": "Q987208",
+        "name": "Kocēni",
+        "description": "large village in Latvia",
+        "freebase_id": "/m/0fpj9kr"
+    },
+    {
+        "wikidata_id": "Q1626641",
+        "name": "Kolka",
+        "description": "village in Latvia",
+        "freebase_id": "/m/07s3xn"
+    },
+    {
+        "wikidata_id": "Q3716937",
+        "name": "Dzidriņas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgr0wz"
+    },
+    {
+        "wikidata_id": "Q1493534",
+        "name": "Rauna",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0n5v3c3"
+    },
+    {
+        "wikidata_id": "Q1023741",
+        "name": "Vaiņode",
+        "description": "human settlement in Latvia",
+        "freebase_id": "/m/0fq03mf"
+    },
+    {
+        "wikidata_id": "Q2213753",
+        "name": "Sala",
+        "description": "village in Sala Parish, Latvia",
+        "freebase_id": "/m/0fpjb74"
+    },
+    {
+        "wikidata_id": "Q155281",
+        "name": "Kuldīga",
+        "description": "city and capital of Kuldīga Municipality, Latvia",
+        "freebase_id": "/m/02hlc3"
+    },
+    {
+        "wikidata_id": "Q411723",
+        "name": "Aizpute",
+        "description": "city in South Kurzeme Municipality, Latvia",
+        "freebase_id": "/m/0b7nvz"
+    },
+    {
+        "wikidata_id": "Q323774",
+        "name": "Valka",
+        "description": "town and capital of Valka Municipality, Latvia",
+        "freebase_id": "/m/0b7n8y"
+    },
+    {
+        "wikidata_id": "Q597346",
+        "name": "Lielvārde",
+        "description": "city in Ogre Municipality, Latvia",
+        "freebase_id": "/m/0bp4vc"
+    },
+    {
+        "wikidata_id": "Q344628",
+        "name": "Ļaudona",
+        "description": "large village in Latvia",
+        "freebase_id": "/m/03m8w6f"
+    },
+    {
+        "wikidata_id": "Q840801",
+        "name": "Durbe",
+        "description": "city in Latvia",
+        "freebase_id": "/m/0c3z8j"
+    },
+    {
+        "wikidata_id": "Q942401",
+        "name": "Riebiņi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fphm6h"
+    },
+    {
+        "wikidata_id": "Q805759",
+        "name": "Baltinava",
+        "description": "village in Balvi Municipality, Latvia, center of Baltinava Parish",
+        "freebase_id": "/m/0fpgj93"
+    },
+    {
+        "wikidata_id": "Q580373",
+        "name": "Ilūkste",
+        "description": "city in Augšdaugava Municipality, Latvia",
+        "freebase_id": "/m/0c4j2b"
+    },
+    {
+        "wikidata_id": "Q908683",
+        "name": "Priekule",
+        "description": "city in South Kurzeme Municipality, Latvia",
+        "freebase_id": "/m/0b7p1b"
+    },
+    {
+        "wikidata_id": "Q765976",
+        "name": "Rūjiena",
+        "description": "city in Valmiera Municipality, Latvia",
+        "freebase_id": "/m/03c3v7v"
+    },
+    {
+        "wikidata_id": "Q849147",
+        "name": "Kārsava",
+        "description": "city in Ludza Municipality, Latvia",
+        "freebase_id": "/m/03c3fn_"
+    },
+    {
+        "wikidata_id": "Q465698",
+        "name": "Sigulda",
+        "description": "city and capital of Sigulda Municipality, Latvia",
+        "freebase_id": "/m/05dt7y"
+    },
+    {
+        "wikidata_id": "Q659665",
+        "name": "Salacgrīva",
+        "description": "city in Limbaži Municipality, Latvia",
+        "freebase_id": "/m/03c3xkk"
+    },
+    {
+        "wikidata_id": "Q753029",
+        "name": "Ikšķile",
+        "description": "city in Ogre Municipality, Latvia",
+        "freebase_id": "/m/0c3zqt"
+    },
+    {
+        "wikidata_id": "Q267871",
+        "name": "Skrunda",
+        "description": "city in Kuldīga Municipality, Latvia",
+        "freebase_id": "/m/03c3zy0"
+    },
+    {
+        "wikidata_id": "Q498256",
+        "name": "Bauska",
+        "description": "city and capital of Bauska Municipality, Latvia",
+        "freebase_id": "/m/06qz_s"
+    },
+    {
+        "wikidata_id": "Q411715",
+        "name": "Aizkraukle",
+        "description": "city and capital of Aizkraukle Municipality, Latvia",
+        "freebase_id": "/m/0b7m9b"
+    },
+    {
+        "wikidata_id": "Q838491",
+        "name": "Piltene",
+        "description": "city in Ventspils Municipality, Latvia",
+        "freebase_id": "/m/0b7pm5"
+    },
+    {
+        "wikidata_id": "Q291333",
+        "name": "Alūksne",
+        "description": "city and capital of Alūksne Municipality, Latvia",
+        "freebase_id": "/m/094gr0"
+    },
+    {
+        "wikidata_id": "Q853761",
+        "name": "Līgatne",
+        "description": "city in Cēsis Municipality, Latvia",
+        "freebase_id": "/m/01f22v"
+    },
+    {
+        "wikidata_id": "Q504681",
+        "name": "Koknese",
+        "description": "town in Aizkraukle Municipality, Latvia",
+        "freebase_id": "/m/08wy7f"
+    },
+    {
+        "wikidata_id": "Q962653",
+        "name": "Dundaga",
+        "description": "large village in Latvia",
+        "freebase_id": "/m/01hk5p"
+    },
+    {
+        "wikidata_id": "Q586048",
+        "name": "Madona",
+        "description": "city and capital of Madona Municipality, Latvia",
+        "freebase_id": "/m/02p442_"
+    },
+    {
+        "wikidata_id": "Q520405",
+        "name": "Talsi",
+        "description": "city in Latvia",
+        "freebase_id": "/m/01b8xc"
+    },
+    {
+        "wikidata_id": "Q405931",
+        "name": "Ainaži",
+        "description": "town in Limbaži Municipality, Latvia",
+        "freebase_id": "/m/0c3tby"
+    },
+    {
+        "wikidata_id": "Q107582",
+        "name": "Cēsis",
+        "description": "city and capital of Cēsis Municipality, Latvia",
+        "freebase_id": "/m/019f89"
+    },
+    {
+        "wikidata_id": "Q757049",
+        "name": "Grobiņa",
+        "description": "city and capital of South Kurzeme Municipality, Latvia",
+        "freebase_id": "/m/07qrmj"
+    },
+    {
+        "wikidata_id": "Q840823",
+        "name": "Saulkrasti",
+        "description": "city and capital of Saulkrasti Municipality, Latvia",
+        "freebase_id": "/m/0d12kv"
+    },
+    {
+        "wikidata_id": "Q506671",
+        "name": "Audriņi",
+        "description": "center of Audriņi Parish, Rēzekne Municipality, Latvia",
+        "freebase_id": "/m/0287x8j"
+    },
+    {
+        "wikidata_id": "Q753010",
+        "name": "Gulbene",
+        "description": "city and capital of Gulbene Municipality, Latvia",
+        "freebase_id": "/m/01dn67"
+    },
+    {
+        "wikidata_id": "Q372999",
+        "name": "Aglona",
+        "description": "village in Aglona Parish, Latvia",
+        "freebase_id": "/m/0f3lg8"
+    },
+    {
+        "wikidata_id": "Q336006",
+        "name": "Ādaži",
+        "description": "town and capital of Ādaži Municipality, Latvia",
+        "freebase_id": "/m/04f0_7m"
+    },
+    {
+        "wikidata_id": "Q849156",
+        "name": "Līvāni",
+        "description": "city anc capital of Līvāni Municipality, Latvia",
+        "freebase_id": "/m/098v43"
+    },
+    {
+        "wikidata_id": "Q60044",
+        "name": "Subate",
+        "description": "city in Augšdaugava Municipality, Latvia",
+        "freebase_id": "/m/0bp6sp"
+    },
+    {
+        "wikidata_id": "Q757050",
+        "name": "Cesvaine",
+        "description": "city in Madona Municipality, Latvia",
+        "freebase_id": "/m/0b7p8g"
+    },
+    {
+        "wikidata_id": "Q249715",
+        "name": "Olaine",
+        "description": "city and capital of Olaine Municipality, Latvia",
+        "freebase_id": "/m/098101"
+    },
+    {
+        "wikidata_id": "Q909654",
+        "name": "Stende",
+        "description": "city in Latvia",
+        "freebase_id": "/m/03c3__4"
+    },
+    {
+        "wikidata_id": "Q641220",
+        "name": "Viesīte",
+        "description": "city in Jēkabpils Municipality, Latvia",
+        "freebase_id": "/m/01c8tp"
+    },
+    {
+        "wikidata_id": "Q987202",
+        "name": "Mērsrags",
+        "description": "village and seat of Mērsrags Parish, Talsi Municipality, Latvia",
+        "freebase_id": "/m/047r1sd"
+    },
+    {
+        "wikidata_id": "Q166684",
+        "name": "Limbaži",
+        "description": "city and capital of Limbaži Municipality, Latvia",
+        "freebase_id": "/m/06yxpt"
+    },
+    {
+        "wikidata_id": "Q638592",
+        "name": "Krāslava",
+        "description": "city and capital of Krāslava Municipality, Latvia",
+        "freebase_id": "/m/0gvkxx"
+    },
+    {
+        "wikidata_id": "Q757101",
+        "name": "Dagda",
+        "description": "city in Krāslava Municipality, Latvia",
+        "freebase_id": "/m/0c3yr3"
+    },
+    {
+        "wikidata_id": "Q650475",
+        "name": "Sabile",
+        "description": "city in Latvia",
+        "freebase_id": "/m/01hk8n"
+    },
+    {
+        "wikidata_id": "Q987170",
+        "name": "Inčukalns",
+        "description": "village in Siguldas municipality, Latvia",
+        "freebase_id": "/m/0ddbb91"
+    },
+    {
+        "wikidata_id": "Q985240",
+        "name": "Nītaure",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0ddc_qc"
+    },
+    {
+        "wikidata_id": "Q757043",
+        "name": "Baloži",
+        "description": "city in Ķekava Municipality, Latvia",
+        "freebase_id": "/m/0c3xwc"
+    },
+    {
+        "wikidata_id": "Q849152",
+        "name": "Kandava",
+        "description": "city in Tukums Municipality, Latvia",
+        "freebase_id": "/m/03c3ffz"
+    },
+    {
+        "wikidata_id": "Q987175",
+        "name": "Mārupe",
+        "description": "town and capital of Mārupe Municipality, Latvia",
+        "freebase_id": "/m/0fpghnd"
+    },
+    {
+        "wikidata_id": "Q836513",
+        "name": "Viļāni",
+        "description": "city in Rēzekne Municipality, Latvia",
+        "freebase_id": "/m/01jsxh"
+    },
+    {
+        "wikidata_id": "Q840836",
+        "name": "Brocēni",
+        "description": "city in Saldus Municipality, Latvia",
+        "freebase_id": "/m/0c3y6g"
+    },
+    {
+        "wikidata_id": "Q846341",
+        "name": "Valdemārpils",
+        "description": "city in Latvia",
+        "freebase_id": "/m/01hk43"
+    },
+    {
+        "wikidata_id": "Q732986",
+        "name": "Salaspils",
+        "description": "city and capital of Salaspils Municipality, Latvia",
+        "freebase_id": "/m/02wzhc"
+    },
+    {
+        "wikidata_id": "Q344608",
+        "name": "Ķekava",
+        "description": "town and capital of Ķekava Municipality, Latvia",
+        "freebase_id": "/m/026xp1_"
+    },
+    {
+        "wikidata_id": "Q840717",
+        "name": "Pāvilosta",
+        "description": "town in South Kurzeme Municipality, Latvia",
+        "freebase_id": "/m/03c3rf3"
+    },
+    {
+        "wikidata_id": "Q849141",
+        "name": "Varakļāni",
+        "description": "city in Madona Municipality, Latvia",
+        "freebase_id": "/m/03c3p4r"
+    },
+    {
+        "wikidata_id": "Q758578",
+        "name": "Auce",
+        "description": "city in Latvia",
+        "freebase_id": "/m/0c3w4s"
+    },
+    {
+        "wikidata_id": "Q344621",
+        "name": "Ķegums",
+        "description": "city in Ogre Municipality, Latvia",
+        "freebase_id": "/m/03c3g8g"
+    },
+    {
+        "wikidata_id": "Q659019",
+        "name": "Aloja",
+        "description": "city in Limbaži Municipality, Latvia",
+        "freebase_id": "/m/0c3sy9"
+    },
+    {
+        "wikidata_id": "Q1023764",
+        "name": "Iecava",
+        "description": "town in Bauska Municipality, Latvia",
+        "freebase_id": "/m/0h6lm_"
+    },
+    {
+        "wikidata_id": "Q985288",
+        "name": "Mūrmuiža",
+        "description": "large village in Latvia",
+        "freebase_id": "/m/0ddg608"
+    },
+    {
+        "wikidata_id": "Q744259",
+        "name": "Ludza",
+        "description": "city and capital of Ludza Municipality, Latvia",
+        "freebase_id": "/m/01gcky"
+    },
+    {
+        "wikidata_id": "Q851399",
+        "name": "Strenči",
+        "description": "city in Valmiera Municipality, Latvia",
+        "freebase_id": "/m/03c3_pg"
+    },
+    {
+        "wikidata_id": "Q849832",
+        "name": "Vangaži",
+        "description": "city in Ropaži Municipality, Latvia",
+        "freebase_id": "/m/03c6s68"
+    },
+    {
+        "wikidata_id": "Q203375",
+        "name": "Zilupe",
+        "description": "city in Ludza Municipality, Latvia",
+        "freebase_id": "/m/0cqgvz"
+    },
+    {
+        "wikidata_id": "Q578527",
+        "name": "Seda",
+        "description": "city in Valmiera Municipality, Latvia",
+        "freebase_id": "/m/03c3zns"
+    },
+    {
+        "wikidata_id": "Q844477",
+        "name": "Lubāna",
+        "description": "city in Madona Municipality, Latvia",
+        "freebase_id": "/m/0267j5_"
+    },
+    {
+        "wikidata_id": "Q124349",
+        "name": "Straupe",
+        "description": "village in Latvia",
+        "freebase_id": "/m/03y8wmq"
+    },
+    {
+        "wikidata_id": "Q844468",
+        "name": "Mazsalaca",
+        "description": "city in Valmiera Municipality, Latvia",
+        "freebase_id": "/m/0bv3bc"
+    },
+    {
+        "wikidata_id": "Q789351",
+        "name": "Baldone",
+        "description": "city in Ķekava Municipality, Latvia",
+        "freebase_id": "/m/0c3w7k"
+    },
+    {
+        "wikidata_id": "Q744247",
+        "name": "Saldus",
+        "description": "city and capital of Saldus Municipality, Latvia",
+        "freebase_id": "/m/02rtdqy"
+    },
+    {
+        "wikidata_id": "Q933875",
+        "name": "Kalnciems",
+        "description": "human settlement in Latvia",
+        "freebase_id": "/m/03c3f5b"
+    },
+    {
+        "wikidata_id": "Q432829",
+        "name": "Alsunga",
+        "description": "village in Kuldīga Municipality, Latvia",
+        "freebase_id": "/m/02qm3xz"
+    },
+    {
+        "wikidata_id": "Q636935",
+        "name": "Tukums",
+        "description": "city and capital of Tukums Municipality, Latvia",
+        "freebase_id": "/m/01ck92"
+    },
+    {
+        "wikidata_id": "Q844464",
+        "name": "Staicele",
+        "description": "city in Limbaži Municipality, Latvia",
+        "freebase_id": "/m/03c3_l0"
+    },
+    {
+        "wikidata_id": "Q987165",
+        "name": "Nīca",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0ddhd83"
+    },
+    {
+        "wikidata_id": "Q987180",
+        "name": "Rucava",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dd92ws"
+    },
+    {
+        "wikidata_id": "Q567747",
+        "name": "Pļaviņas",
+        "description": "city in Aizkraukle Municipality, Latvia",
+        "freebase_id": "/m/03c3sm0"
+    },
+    {
+        "wikidata_id": "Q729447",
+        "name": "Dobele",
+        "description": "city and capital of Dobele Muncipality, Latvia",
+        "freebase_id": "/m/0b33w9"
+    },
+    {
+        "wikidata_id": "Q835771",
+        "name": "Jaunjelgava",
+        "description": "city in Aizkraukle Municipality, Latvia",
+        "freebase_id": "/m/0b1hs7"
+    },
+    {
+        "wikidata_id": "Q218402",
+        "name": "Balvi",
+        "description": "city and capital of Balvi Municipality, Latvia",
+        "freebase_id": "/m/0932f3"
+    },
+    {
+        "wikidata_id": "Q840806",
+        "name": "Smiltene",
+        "description": "city and capital of Smiltene Municipality, Latvia",
+        "freebase_id": "/m/026ryll"
+    },
+    {
+        "wikidata_id": "Q342622",
+        "name": "Ērgļi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0ddg4fp"
+    },
+    {
+        "wikidata_id": "Q858476",
+        "name": "Preiļi",
+        "description": "city and capital of Preiļi Municipality, Latvia",
+        "freebase_id": "/m/03c19st"
+    },
+    {
+        "wikidata_id": "Q26441",
+        "name": "Viļaka",
+        "description": "city in Balvi Municipality, Latvia",
+        "freebase_id": "/m/03c6sdg"
+    },
+    {
+        "wikidata_id": "Q618119",
+        "name": "Ape",
+        "description": "city in Smiltene Municipality, Latvia",
+        "freebase_id": "/m/0c3vz6"
+    },
+    {
+        "wikidata_id": "Q6164821",
+        "name": "Jaunbērze",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgnbrr"
+    },
+    {
+        "wikidata_id": "Q5522441",
+        "name": "Gardene",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgrf1q"
+    },
+    {
+        "wikidata_id": "Q7427554",
+        "name": "Saurieši",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgnby_"
+    },
+    {
+        "wikidata_id": "Q6112194",
+        "name": "Skaistkalne",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fq0fcq"
+    },
+    {
+        "wikidata_id": "Q7914565",
+        "name": "Vandzene",
+        "description": "village in Vandzene parish, Talsi municipality, Latvia",
+        "freebase_id": "/m/01hk7k"
+    },
+    {
+        "wikidata_id": "Q6711708",
+        "name": "Līči",
+        "description": "village in Stopiņi Parish, Ropaži Municipality, Latvia",
+        "freebase_id": "/m/0dgq631"
+    },
+    {
+        "wikidata_id": "Q6344961",
+        "name": "Kadaga",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgr2h7"
+    },
+    {
+        "wikidata_id": "Q6447727",
+        "name": "Kusa",
+        "description": "village in Latvia",
+        "freebase_id": "/m/076tvmj"
+    },
+    {
+        "wikidata_id": "Q6419700",
+        "name": "Klapkalnciems",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0gyx2jj"
+    },
+    {
+        "wikidata_id": "Q6354624",
+        "name": "Kalupe",
+        "description": "place in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/04dzxyg"
+    },
+    {
+        "wikidata_id": "Q5619814",
+        "name": "Upeslejas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0b6k6q1"
+    },
+    {
+        "wikidata_id": "Q5620273",
+        "name": "Lociki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/02xcmvp"
+    },
+    {
+        "wikidata_id": "Q7600499",
+        "name": "Stapriņi",
+        "description": "village in Ādaži Municipality, Latvia",
+        "freebase_id": "/m/0dgs010"
+    },
+    {
+        "wikidata_id": "Q6861888",
+        "name": "Milzkalne",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0h7pt_5"
+    },
+    {
+        "wikidata_id": "Q5734017",
+        "name": "Kalkūni",
+        "description": "place in Daugavpils Municipality, Latvia",
+        "freebase_id": "/m/04f4ljn"
+    },
+    {
+        "wikidata_id": "Q6520501",
+        "name": "Lejasstrazdi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgs5w9"
+    },
+    {
+        "wikidata_id": "Q7546838",
+        "name": "Smārde",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fpj0cs"
+    },
+    {
+        "wikidata_id": "Q5619823",
+        "name": "Āne",
+        "description": "village in Cena parish, Latvia",
+        "freebase_id": "/m/065zt3r"
+    },
+    {
+        "wikidata_id": "Q5306895",
+        "name": "Dreiliņi",
+        "description": "village in Ropaži Municipality, Latvia",
+        "freebase_id": "/m/0dgp7kl"
+    },
+    {
+        "wikidata_id": "Q6647549",
+        "name": "Litene",
+        "description": "village in Latvia",
+        "freebase_id": "/m/027dylf"
+    },
+    {
+        "wikidata_id": "Q6437058",
+        "name": "Krimūnas",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgq0hb"
+    },
+    {
+        "wikidata_id": "Q7205926",
+        "name": "Plāņi",
+        "description": "village in Salgale parish, Latvia",
+        "freebase_id": "/m/07kfglv"
+    },
+    {
+        "wikidata_id": "Q6381867",
+        "name": "Kaķenieki",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgnvds"
+    },
+    {
+        "wikidata_id": "Q8081409",
+        "name": "Ņivņiki",
+        "description": "village in Briģi Parish, Latvia",
+        "freebase_id": "/m/054z2n7"
+    },
+    {
+        "wikidata_id": "Q104036",
+        "name": "Ventspils",
+        "description": "state city in western Latvia on the Baltic Sea",
+        "freebase_id": "/m/02h6t1"
+    },
+    {
+        "wikidata_id": "Q3743271",
+        "name": "Āraiši lake dwelling site",
+        "description": "settlement site in Latvia",
+        "freebase_id": "/m/026ry_9"
+    },
+    {
+        "wikidata_id": "Q15219913",
+        "name": "Tārgale",
+        "description": "village in Ventspils municipality, Latvia",
+        "freebase_id": "/m/0_x5nqr"
+    },
+    {
+        "wikidata_id": "Q1773",
+        "name": "Riga",
+        "description": "capital and largest city of Latvia",
+        "freebase_id": "/m/06cn5"
+    },
+    {
+        "wikidata_id": "Q11042922",
+        "name": "Miltiņi",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0dgp89t"
+    },
+    {
+        "wikidata_id": "Q191120",
+        "name": "Jēkabpils",
+        "description": "state city of Latvia in Jēkabpils Municipality, municipal center",
+        "freebase_id": "/m/01c64s"
+    },
+    {
+        "wikidata_id": "Q731915",
+        "name": "Ogre",
+        "description": "state city of Latvia and capital of Ogre Municipality",
+        "freebase_id": "/m/02h9hf"
+    },
+    {
+        "wikidata_id": "Q108037",
+        "name": "Valmiera",
+        "description": "state city of Latvia and capital of Valmiera Municipality",
+        "freebase_id": "/m/01f3vk"
+    },
+    {
+        "wikidata_id": "Q179830",
+        "name": "Jelgava",
+        "description": "state city in central Latvia",
+        "freebase_id": "/m/04ps8j"
+    },
+    {
+        "wikidata_id": "Q180379",
+        "name": "Rēzekne",
+        "description": "state city in eastern Latvia",
+        "freebase_id": "/m/01d263"
+    },
+    {
+        "wikidata_id": "Q80021",
+        "name": "Daugavpils",
+        "description": "state city in south-eastern Latvia",
+        "freebase_id": "/m/019xrv"
+    },
+    {
+        "wikidata_id": "Q8082939",
+        "name": "Šķēde",
+        "description": "suburb of Liepāja, Latvia",
+        "freebase_id": "/m/03d5g82"
+    },
+    {
+        "wikidata_id": "Q11111890",
+        "name": "Jaungulbene",
+        "description": "village in Latvia",
+        "freebase_id": "/m/0fpjcpq"
+    },
+    {
+        "wikidata_id": "Q167668",
+        "name": "Liepāja",
+        "description": "state city in western Latvia, along the Baltic Sea",
+        "freebase_id": "/m/016mjz"
+    }
+]

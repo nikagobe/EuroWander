@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic[email]
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+httpx
+truststore
+pytest
+pytest-asyncio
+mypy
+black
+

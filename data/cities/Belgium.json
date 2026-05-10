@@ -1,0 +1,4760 @@
+[
+    {
+        "wikidata_id": "Q1875907",
+        "name": "Mont-Sainte-Geneviève",
+        "description": "section of Lobbes, Belgium",
+        "freebase_id": "/m/0_v5pp8"
+    },
+    {
+        "wikidata_id": "Q2075906",
+        "name": "Oostmalle",
+        "description": "section of Malle, Belgium",
+        "freebase_id": "/m/026bf_c"
+    },
+    {
+        "wikidata_id": "Q2528092",
+        "name": "Ten Wijngaerde",
+        "description": "béguinage in Bruges, Belgium",
+        "freebase_id": "/m/012_08z0"
+    },
+    {
+        "wikidata_id": "Q590654",
+        "name": "Roselies",
+        "description": "section of Aiseau-Presles, Wallonia, Belgium",
+        "freebase_id": "/m/0yp0y66"
+    },
+    {
+        "wikidata_id": "Q576579",
+        "name": "Wilskerke",
+        "description": "section of Middelkerke, Belgium",
+        "freebase_id": "/m/027mwt1"
+    },
+    {
+        "wikidata_id": "Q893311",
+        "name": "Moustier",
+        "description": "section of Frasnes-lez-Anvaing, Belgium",
+        "freebase_id": "/m/0p7cp5t"
+    },
+    {
+        "wikidata_id": "Q953793",
+        "name": "Wange",
+        "description": "section of Landen, Belgium",
+        "freebase_id": "/m/04dykb7"
+    },
+    {
+        "wikidata_id": "Q1776216",
+        "name": "Val-Dieu Abbey",
+        "description": "monastery in Belgium",
+        "freebase_id": "/m/09kspq"
+    },
+    {
+        "wikidata_id": "Q785440",
+        "name": "Marcinelle",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/0f0gmf"
+    },
+    {
+        "wikidata_id": "Q1573417",
+        "name": "Liège Cathedral",
+        "description": "church in Liège, Belgium",
+        "freebase_id": "/m/09v9sqr"
+    },
+    {
+        "wikidata_id": "Q737541",
+        "name": "Gentinnes",
+        "description": "village in Belgium",
+        "freebase_id": "/m/04t7fk"
+    },
+    {
+        "wikidata_id": "Q2678181",
+        "name": "Ename Abbey",
+        "description": "monastery in Belgium",
+        "freebase_id": "/m/012nwtmt"
+    },
+    {
+        "wikidata_id": "Q2062983",
+        "name": "Meix-le-Tige",
+        "description": "section of Saint-Léger, Belgium",
+        "freebase_id": "/m/0pdc11j"
+    },
+    {
+        "wikidata_id": "Q1776202",
+        "name": "Val-Saint-Lambert Abbey",
+        "description": "Cistercian abbey in  Belgium",
+        "freebase_id": "/m/0ll1_wr"
+    },
+    {
+        "wikidata_id": "Q1875993",
+        "name": "Kortenberg Abbey",
+        "description": "former abbey in the historical duchy of Brabant",
+        "freebase_id": "/m/012trrxm"
+    },
+    {
+        "wikidata_id": "Q770968",
+        "name": "Velzeke-Ruddershove",
+        "description": "section of Zottegem, Belgium",
+        "freebase_id": "/m/09gc2w8"
+    },
+    {
+        "wikidata_id": "Q267663",
+        "name": "Hoboken",
+        "description": "district of Antwerp in Flanders, Belgium",
+        "freebase_id": "/m/08l04p"
+    },
+    {
+        "wikidata_id": "Q255575",
+        "name": "Passendale",
+        "description": "section of Zonnebeke, Belgium",
+        "freebase_id": "/m/02pb6l5"
+    },
+    {
+        "wikidata_id": "Q840968",
+        "name": "Lovendegem",
+        "description": "deelgemeente in Lievegem, Belgium",
+        "freebase_id": "/m/0149b3"
+    },
+    {
+        "wikidata_id": "Q1848627",
+        "name": "Hoeke",
+        "description": "section of Damme, Belgium",
+        "freebase_id": "/m/0390lb"
+    },
+    {
+        "wikidata_id": "Q843319",
+        "name": "Dampremy",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047lrh1"
+    },
+    {
+        "wikidata_id": "Q389656",
+        "name": "Heusden",
+        "description": "section of Destelbergen, Belgium",
+        "freebase_id": "/m/01hjc5"
+    },
+    {
+        "wikidata_id": "Q1863977",
+        "name": "Warneton",
+        "description": "section of Comines-Warneton, Wallonia, Belgium",
+        "freebase_id": "/m/04zvynl"
+    },
+    {
+        "wikidata_id": "Q219827",
+        "name": "Zomergem",
+        "description": "former municipality in East Flanders, Belgium",
+        "freebase_id": "/m/0149gb"
+    },
+    {
+        "wikidata_id": "Q20731491",
+        "name": "Cornillon Abbey",
+        "description": "Premonstratensian monastery in Belgium",
+        "freebase_id": "/m/0ctq95"
+    },
+    {
+        "wikidata_id": "Q540647",
+        "name": "Grimbergen Abbey",
+        "description": "monastery",
+        "freebase_id": "/m/025wj_s"
+    },
+    {
+        "wikidata_id": "Q912030",
+        "name": "Sint-Amands",
+        "description": "former municipality in Antwerp, Belgium",
+        "freebase_id": "/m/014hc7"
+    },
+    {
+        "wikidata_id": "Q592178",
+        "name": "Bonne-Espérance Abbey",
+        "description": "former Premonstratensian monastery in Belgium",
+        "freebase_id": "/m/03wh_cc"
+    },
+    {
+        "wikidata_id": "Q936149",
+        "name": "Boussoit",
+        "description": "section of La Louvière, Belgium",
+        "freebase_id": "/m/0_v3x9x"
+    },
+    {
+        "wikidata_id": "Q836859",
+        "name": "Moorsel",
+        "description": "section of Aalst, Belgium",
+        "freebase_id": "/m/03h2nw3"
+    },
+    {
+        "wikidata_id": "Q753450",
+        "name": "St. Bernard's Abbey",
+        "description": "monastery",
+        "freebase_id": "/m/0466176"
+    },
+    {
+        "wikidata_id": "Q2053561",
+        "name": "Pervijze",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038c11"
+    },
+    {
+        "wikidata_id": "Q14987",
+        "name": "Watervliet",
+        "description": "section of Sint-Laureins, Belgium",
+        "freebase_id": "/m/0jt59_g"
+    },
+    {
+        "wikidata_id": "Q2017210",
+        "name": "Zande",
+        "description": "section of Koekelare, Belgium",
+        "freebase_id": "/m/038c8w"
+    },
+    {
+        "wikidata_id": "Q843323",
+        "name": "Mont-sur-Marchienne",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047rl84"
+    },
+    {
+        "wikidata_id": "Q1916957",
+        "name": "Nimy",
+        "description": "municipality section in Hainaut, Belgium",
+        "freebase_id": "/m/02rntq0"
+    },
+    {
+        "wikidata_id": "Q913623",
+        "name": "Spiennes",
+        "description": "Belgian locality",
+        "freebase_id": "/m/02q1h3h"
+    },
+    {
+        "wikidata_id": "Q204477",
+        "name": "Zingem",
+        "description": "deelgemeente in Kruisem, Belgium",
+        "freebase_id": "/m/0149t_"
+    },
+    {
+        "wikidata_id": "Q911983",
+        "name": "Waarschoot",
+        "description": "municipality in East Flanders, Belgium",
+        "freebase_id": "/m/0149fn"
+    },
+    {
+        "wikidata_id": "Q900429",
+        "name": "Roux",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/02x7q9z"
+    },
+    {
+        "wikidata_id": "Q1493708",
+        "name": "Villers Abbey",
+        "description": "former abbey in Villers-la-Ville, Belgium",
+        "freebase_id": "/m/03qjxf"
+    },
+    {
+        "wikidata_id": "Q1884871",
+        "name": "Vottem",
+        "description": "section of Herstal, Wallonia, Belgium",
+        "freebase_id": "/m/03npkmb"
+    },
+    {
+        "wikidata_id": "Q153531",
+        "name": "Hauset",
+        "description": "section of Raeren, Belgium",
+        "freebase_id": "/m/0ch5kgn"
+    },
+    {
+        "wikidata_id": "Q21186648",
+        "name": "Saint-Ghislain Abbey",
+        "description": "Monastery in Haine, Belgium",
+        "freebase_id": "/m/012vqdq7"
+    },
+    {
+        "wikidata_id": "Q2109407",
+        "name": "Saint-Andrew Abbey",
+        "description": "former Benedictine abbey in Sint Andries, borough of Bruges",
+        "freebase_id": "/m/0fqnygc"
+    },
+    {
+        "wikidata_id": "Q2041607",
+        "name": "Nouvelles",
+        "description": "sub-municipality of the city of Mons, Belgium",
+        "freebase_id": "/m/02rnwbz"
+    },
+    {
+        "wikidata_id": "Q1904383",
+        "name": "Weert",
+        "description": "section of Bornem, Belgium",
+        "freebase_id": "/m/03wg67g"
+    },
+    {
+        "wikidata_id": "Q650340",
+        "name": "Westvleteren Abbey",
+        "description": "monastery in Westvleteren, Belgium",
+        "freebase_id": "/m/0405fw3"
+    },
+    {
+        "wikidata_id": "Q909503",
+        "name": "Vlezenbeek",
+        "description": "section of Sint-Pieters-Leeuw, Belgium",
+        "freebase_id": "/m/0h3vql4"
+    },
+    {
+        "wikidata_id": "Q1864847",
+        "name": "Maransart",
+        "description": "village and section of Lasne, Belgium",
+        "freebase_id": "/m/0_h0dh9"
+    },
+    {
+        "wikidata_id": "Q2037405",
+        "name": "Ottenburg",
+        "description": "section of Huldenberg, Belgium",
+        "freebase_id": "/m/04f943b"
+    },
+    {
+        "wikidata_id": "Q2820541",
+        "name": "Bois-Seigneur-Isaac Abbey",
+        "description": "No description available",
+        "freebase_id": "/m/051_kxn"
+    },
+    {
+        "wikidata_id": "Q2820591",
+        "name": "Flône Abbey",
+        "description": "No description available",
+        "freebase_id": "/m/05mr464"
+    },
+    {
+        "wikidata_id": "Q2820600",
+        "name": "Gembloux Abbey",
+        "description": "No description available",
+        "freebase_id": "/m/0dqvgs"
+    },
+    {
+        "wikidata_id": "Q333912",
+        "name": "Floreffe Abbey",
+        "description": "monastery",
+        "freebase_id": "/m/0cvbf7"
+    },
+    {
+        "wikidata_id": "Q475491",
+        "name": "Eynatten",
+        "description": "section of Raeren, Belgium",
+        "freebase_id": "/m/075_jr"
+    },
+    {
+        "wikidata_id": "Q1865805",
+        "name": "Falisolle",
+        "description": "section of Sambreville, Belgium",
+        "freebase_id": "/m/0klwbwp"
+    },
+    {
+        "wikidata_id": "Q540710",
+        "name": "Angleur",
+        "description": "section of Liège, Belgium",
+        "freebase_id": "/m/02qfhv_"
+    },
+    {
+        "wikidata_id": "Q1900606",
+        "name": "Aldeneik Abbey",
+        "description": "abbey in Maaseik, Belgium",
+        "freebase_id": "/m/0rfgm6g"
+    },
+    {
+        "wikidata_id": "Q334329",
+        "name": "Tongerlo Abbey",
+        "description": "monastery",
+        "freebase_id": "/m/026xss_"
+    },
+    {
+        "wikidata_id": "Q2022275",
+        "name": "Diets-Heur",
+        "description": "section of Tongeren, Belgium",
+        "freebase_id": "/m/0gfg2jj"
+    },
+    {
+        "wikidata_id": "Q898394",
+        "name": "Sint-Gillis-bij-Dendermonde",
+        "description": "section of Dendermonde, Belgium",
+        "freebase_id": "/m/0gqy68"
+    },
+    {
+        "wikidata_id": "Q768270",
+        "name": "Bouvignes-sur-Meuse",
+        "description": "municipality section",
+        "freebase_id": "/m/02qrb0x"
+    },
+    {
+        "wikidata_id": "Q1901132",
+        "name": "Snellegem",
+        "description": "section of Jabbeke, Belgium",
+        "freebase_id": "/m/0390p3"
+    },
+    {
+        "wikidata_id": "Q1866892",
+        "name": "Molenbeek-Wersbeek",
+        "description": "section of Bekkevoort, Belgium",
+        "freebase_id": "/m/04dnrd3"
+    },
+    {
+        "wikidata_id": "Q1884599",
+        "name": "Nieuwenrode",
+        "description": "section of Kapelle-op-den-Bos, Belgium",
+        "freebase_id": "/m/0j9n3rx"
+    },
+    {
+        "wikidata_id": "Q2041336",
+        "name": "Woumen",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038c2f"
+    },
+    {
+        "wikidata_id": "Q597446",
+        "name": "Bazel",
+        "description": "section of Kruibeke, Belgium",
+        "freebase_id": "/m/04fw4p"
+    },
+    {
+        "wikidata_id": "Q1855444",
+        "name": "Heindonk",
+        "description": "section of Willebroek, Belgium",
+        "freebase_id": "/m/0g5snjh"
+    },
+    {
+        "wikidata_id": "Q822651",
+        "name": "Nevele",
+        "description": "former municipality in East Flanders, Belgium",
+        "freebase_id": "/m/0149dl"
+    },
+    {
+        "wikidata_id": "Q476178",
+        "name": "Park Abbey",
+        "description": "monastery",
+        "freebase_id": "/m/03cx9fj"
+    },
+    {
+        "wikidata_id": "Q843315",
+        "name": "Jumet",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047rbtz"
+    },
+    {
+        "wikidata_id": "Q842970",
+        "name": "Erps-Kwerps",
+        "description": "section of Kortenberg, Belgium",
+        "freebase_id": "/m/0479m0d"
+    },
+    {
+        "wikidata_id": "Q25699",
+        "name": "Dieleghem Abbey",
+        "description": "former abbey in Jette, Brussels, Belgium",
+        "freebase_id": "/m/0fqphss"
+    },
+    {
+        "wikidata_id": "Q285463",
+        "name": "Wangenies",
+        "description": "section of Fleurus, Belgium",
+        "freebase_id": "/m/0kg1b_w"
+    },
+    {
+        "wikidata_id": "Q301745",
+        "name": "Adinkerke",
+        "description": "section of De Panne, Belgium",
+        "freebase_id": "/m/0bcxjv"
+    },
+    {
+        "wikidata_id": "Q2820758",
+        "name": "Waulsort Abbey",
+        "description": "Benedictine monastery in Belgium",
+        "freebase_id": "/m/0g9ybdv"
+    },
+    {
+        "wikidata_id": "Q835750",
+        "name": "Moregem",
+        "description": "section of Wortegem-Petegem, Belgium",
+        "freebase_id": "/m/02vpdjj"
+    },
+    {
+        "wikidata_id": "Q2018115",
+        "name": "Temploux",
+        "description": "section of Namur, Wallonia (Belgium)",
+        "freebase_id": "/m/0_gwhcx"
+    },
+    {
+        "wikidata_id": "Q430812",
+        "name": "Sint-Michiels",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/0390dk"
+    },
+    {
+        "wikidata_id": "Q334099",
+        "name": "Orval Abbey",
+        "description": "monastery in Belgium",
+        "freebase_id": "/m/02lprg"
+    },
+    {
+        "wikidata_id": "Q2045929",
+        "name": "Burcht",
+        "description": "section of Zwijndrecht, Belgium",
+        "freebase_id": "/m/0rfh7jl"
+    },
+    {
+        "wikidata_id": "Q1925127",
+        "name": "Oudekapelle",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038b_5"
+    },
+    {
+        "wikidata_id": "Q2041522",
+        "name": "Marchovelette",
+        "description": "section of Fernelmont, Belgium",
+        "freebase_id": "/m/065z7sx"
+    },
+    {
+        "wikidata_id": "Q2051310",
+        "name": "Soy",
+        "description": "section of Érezée, Belgium",
+        "freebase_id": "/m/0xnlbc0"
+    },
+    {
+        "wikidata_id": "Q792919",
+        "name": "Aye",
+        "description": "section of Marche-en-Famenne, Belgium",
+        "freebase_id": "/m/09f27k"
+    },
+    {
+        "wikidata_id": "Q836999",
+        "name": "Grembergen",
+        "description": "section of Dendermonde, Belgium",
+        "freebase_id": "/m/02vzs25"
+    },
+    {
+        "wikidata_id": "Q912069",
+        "name": "Knesselare",
+        "description": "section of Aalter, Belgium",
+        "freebase_id": "/m/01499f"
+    },
+    {
+        "wikidata_id": "Q2181941",
+        "name": "Heylissem Abbey",
+        "description": "former abbey in Hélécine, Belgium",
+        "freebase_id": "/m/06w8dd8"
+    },
+    {
+        "wikidata_id": "Q900766",
+        "name": "Gilly",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047tfpr"
+    },
+    {
+        "wikidata_id": "Q1924402",
+        "name": "Lissewege",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/038crh"
+    },
+    {
+        "wikidata_id": "Q1842285",
+        "name": "Les Bulles",
+        "description": "section of Chiny, Belgium",
+        "freebase_id": "/m/025bd6"
+    },
+    {
+        "wikidata_id": "Q511887",
+        "name": "Néchin",
+        "description": "section of Estaimpuis, Belgium",
+        "freebase_id": "/m/0pb8b5q"
+    },
+    {
+        "wikidata_id": "Q1887077",
+        "name": "Watou",
+        "description": "section of Poperinge, Belgium",
+        "freebase_id": "/m/04cx6sz"
+    },
+    {
+        "wikidata_id": "Q594572",
+        "name": "Neufvilles",
+        "description": "section of Soignies, Belgium",
+        "freebase_id": "/m/02rns3t"
+    },
+    {
+        "wikidata_id": "Q498639",
+        "name": "Wenduine",
+        "description": "section of De Haan, Belgium",
+        "freebase_id": "/m/0qfqv9k"
+    },
+    {
+        "wikidata_id": "Q573179",
+        "name": "Couillet",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047npng"
+    },
+    {
+        "wikidata_id": "Q908546",
+        "name": "Puurs",
+        "description": "deelgemeente in Puurs-Sint-Amands, Belgium",
+        "freebase_id": "/m/014hbx"
+    },
+    {
+        "wikidata_id": "Q2086424",
+        "name": "La Cambre Abbey",
+        "description": "former abbey in Ixelles and Brussels, Belgium",
+        "freebase_id": "/m/02rwpdj"
+    },
+    {
+        "wikidata_id": "Q302697",
+        "name": "Awirs",
+        "description": "section of Flémalle, Belgium",
+        "freebase_id": "/m/0d9h3v"
+    },
+    {
+        "wikidata_id": "Q951571",
+        "name": "Kessel-Lo",
+        "description": "section of Leuven, Belgium",
+        "freebase_id": "/m/03w1kr"
+    },
+    {
+        "wikidata_id": "Q739996",
+        "name": "Assebroek",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/038cqf"
+    },
+    {
+        "wikidata_id": "Q576532",
+        "name": "Dworp",
+        "description": "municipality section of Beersel, Belgium",
+        "freebase_id": "/m/083ft5"
+    },
+    {
+        "wikidata_id": "Q941041",
+        "name": "Marchienne-au-Pont",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047mtlb"
+    },
+    {
+        "wikidata_id": "Q572185",
+        "name": "Kessenich",
+        "description": "section of Kinrooi, Belgium",
+        "freebase_id": "/m/04h3t_"
+    },
+    {
+        "wikidata_id": "Q2554017",
+        "name": "St Peter's Abbey, Oudenburg",
+        "description": "former abbey in Oudenburg, Belgium",
+        "freebase_id": "/m/0115qxtq"
+    },
+    {
+        "wikidata_id": "Q817375",
+        "name": "Kruishoutem",
+        "description": "deelgemeente in Kruisem, Belgium",
+        "freebase_id": "/m/0149rv"
+    },
+    {
+        "wikidata_id": "Q2026816",
+        "name": "Sint-Maria-Oudenhove",
+        "description": "section of Zottegem, Belgium",
+        "freebase_id": "/m/05ztmbk"
+    },
+    {
+        "wikidata_id": "Q900761",
+        "name": "Gosselies",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047m_73"
+    },
+    {
+        "wikidata_id": "Q252203",
+        "name": "Lot",
+        "description": "section of Beersel, Belgium",
+        "freebase_id": "/m/02vqlwb"
+    },
+    {
+        "wikidata_id": "Q333874",
+        "name": "Clairefontaine Abbey",
+        "description": "abbey in Belgium",
+        "freebase_id": "/m/0y6k11d"
+    },
+    {
+        "wikidata_id": "Q837453",
+        "name": "Montignies-sur-Sambre",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047tfx8"
+    },
+    {
+        "wikidata_id": "Q552325",
+        "name": "Ovifat",
+        "description": "human settlement in Waimes, Belgium",
+        "freebase_id": "/m/04cwlr"
+    },
+    {
+        "wikidata_id": "Q333830",
+        "name": "Averbode Abbey",
+        "description": "monastery in Averbode, Belgium",
+        "freebase_id": "/m/0ct8qh"
+    },
+    {
+        "wikidata_id": "Q890339",
+        "name": "Boezinge",
+        "description": "section of Ypres, Belgium",
+        "freebase_id": "/m/02wckc0"
+    },
+    {
+        "wikidata_id": "Q936007",
+        "name": "Bertrée",
+        "description": "section of Hannut, Belgium",
+        "freebase_id": "/m/03d6263"
+    },
+    {
+        "wikidata_id": "Q805971",
+        "name": "Bambrugge",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0bbvrmw"
+    },
+    {
+        "wikidata_id": "Q130262",
+        "name": "Gleixhe",
+        "description": "section of Flémalle, Belgium",
+        "freebase_id": "/m/0db1lb"
+    },
+    {
+        "wikidata_id": "Q6898301",
+        "name": "Monasterium Magnificat",
+        "description": "No description available",
+        "freebase_id": "/m/0285ptr"
+    },
+    {
+        "wikidata_id": "Q1845347",
+        "name": "Wez-Velvain",
+        "description": "section of Brunehaut, Belgium",
+        "freebase_id": "/m/0407twf"
+    },
+    {
+        "wikidata_id": "Q2026366",
+        "name": "Ertvelde",
+        "description": "section of Evergem, Belgium",
+        "freebase_id": "/m/09d22c"
+    },
+    {
+        "wikidata_id": "Q940240",
+        "name": "Auvelais",
+        "description": "section of Sambreville, Belgium",
+        "freebase_id": "/m/09g7_30"
+    },
+    {
+        "wikidata_id": "Q2820595",
+        "name": "Forest Abbey",
+        "description": "former abbey in Forest, Brussels, Belgium",
+        "freebase_id": "/m/0fqnrvq"
+    },
+    {
+        "wikidata_id": "Q334105",
+        "name": "Postel Abbey",
+        "description": "monastery in Postel, Belgium",
+        "freebase_id": "/m/0285_ft"
+    },
+    {
+        "wikidata_id": "Q764369",
+        "name": "Heverlee",
+        "description": "section of Leuven, Belgium",
+        "freebase_id": "/m/0fwc1_"
+    },
+    {
+        "wikidata_id": "Q1846589",
+        "name": "Heppignies",
+        "description": "section of Fleurus, Belgium",
+        "freebase_id": "/m/011jl6bd"
+    },
+    {
+        "wikidata_id": "Q2042895",
+        "name": "Noordschote",
+        "description": "section of Lo-Reninge, Belgium",
+        "freebase_id": "/m/038chg"
+    },
+    {
+        "wikidata_id": "Q773208",
+        "name": "Leefdaal",
+        "description": "section of Bertem, Belgium",
+        "freebase_id": "/m/02pjf2g"
+    },
+    {
+        "wikidata_id": "Q2514380",
+        "name": "Munsterbilzen Abbey",
+        "description": "abbey in Belgium",
+        "freebase_id": "/m/04f_4hc"
+    },
+    {
+        "wikidata_id": "Q775637",
+        "name": "Vossem",
+        "description": "section of Tervuren, Belgium",
+        "freebase_id": "/m/055129"
+    },
+    {
+        "wikidata_id": "Q941056",
+        "name": "Nil-Saint-Vincent-Saint-Martin",
+        "description": "section of Walhain, Wallonia, Belgium",
+        "freebase_id": "/m/02py4hd"
+    },
+    {
+        "wikidata_id": "Q265744",
+        "name": "Nossegem",
+        "description": "section of Zaventem, Belgium",
+        "freebase_id": "/m/05sxmdx"
+    },
+    {
+        "wikidata_id": "Q2024172",
+        "name": "Vlierzele",
+        "description": "section of Sint-Lievens-Houtem, Belgium",
+        "freebase_id": "/m/0bfnb8"
+    },
+    {
+        "wikidata_id": "Q365861",
+        "name": "Plancenoit",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0fjrf9"
+    },
+    {
+        "wikidata_id": "Q300813",
+        "name": "Aaigem",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0bbw1sp"
+    },
+    {
+        "wikidata_id": "Q609947",
+        "name": "Herkenrode Abbey",
+        "description": "catholic monastery in Limburg, Belgium",
+        "freebase_id": "/m/0c00hb7"
+    },
+    {
+        "wikidata_id": "Q1847545",
+        "name": "Nieuwkapelle",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038bzh"
+    },
+    {
+        "wikidata_id": "Q2041206",
+        "name": "Moere",
+        "description": "section of Gistel, Belgium",
+        "freebase_id": "/m/047vrrd"
+    },
+    {
+        "wikidata_id": "Q2174855",
+        "name": "Eliksem",
+        "description": "section of Landen, Belgium",
+        "freebase_id": "/m/02q2g4y"
+    },
+    {
+        "wikidata_id": "Q1818491",
+        "name": "Strombeek-Bever",
+        "description": "section of Grimbergen, Belgium",
+        "freebase_id": "/m/07s3htv"
+    },
+    {
+        "wikidata_id": "Q1961759",
+        "name": "Teralfene",
+        "description": "section of Affligem, Belgium",
+        "freebase_id": "/m/0dc28v"
+    },
+    {
+        "wikidata_id": "Q651736",
+        "name": "Overpelt",
+        "description": "section of Pelt, Belgium",
+        "freebase_id": "/m/017nzp"
+    },
+    {
+        "wikidata_id": "Q2199536",
+        "name": "Flawinne",
+        "description": "section of Namur, Wallonia",
+        "freebase_id": "/m/0_lmssn"
+    },
+    {
+        "wikidata_id": "Q2161674",
+        "name": "Zerkegem",
+        "description": "section of Jabbeke, Belgium",
+        "freebase_id": "/m/0390sf"
+    },
+    {
+        "wikidata_id": "Q2197224",
+        "name": "Onoz",
+        "description": "section of Jemeppe-sur-Sambre, Belgium",
+        "freebase_id": "/m/011lf02r"
+    },
+    {
+        "wikidata_id": "Q1942642",
+        "name": "Heikruis",
+        "description": "section of Pepingen, Belgium",
+        "freebase_id": "/m/04g6yxb"
+    },
+    {
+        "wikidata_id": "Q726498",
+        "name": "Langemark",
+        "description": "section of Langemark-Poelkapelle, Belgium",
+        "freebase_id": "/m/02r7wgh"
+    },
+    {
+        "wikidata_id": "Q2170249",
+        "name": "Broechem",
+        "description": "section of Ranst, Belgium",
+        "freebase_id": "/m/0l8q0gc"
+    },
+    {
+        "wikidata_id": "Q1963590",
+        "name": "Geluwe",
+        "description": "section of Wervik, Belgium",
+        "freebase_id": "/m/080j9kq"
+    },
+    {
+        "wikidata_id": "Q1966733",
+        "name": "Leeuwergem",
+        "description": "section of Zottegem, Belgium",
+        "freebase_id": "/m/0bhbrsc"
+    },
+    {
+        "wikidata_id": "Q2166865",
+        "name": "Mazenzele",
+        "description": "section of Opwijk, Belgium",
+        "freebase_id": "/m/04g6xlp"
+    },
+    {
+        "wikidata_id": "Q2091146",
+        "name": "Werken",
+        "description": "section of Kortemark, Belgium",
+        "freebase_id": "/m/038ccm"
+    },
+    {
+        "wikidata_id": "Q1411366",
+        "name": "Vladslo",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/02r8dj0"
+    },
+    {
+        "wikidata_id": "Q1396926",
+        "name": "Rutten",
+        "description": "section of Tongeren, Belgium",
+        "freebase_id": "/m/0pb8q4q"
+    },
+    {
+        "wikidata_id": "Q1015356",
+        "name": "Mariakerke",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/043k85v"
+    },
+    {
+        "wikidata_id": "Q601051",
+        "name": "Hollebeke",
+        "description": "section of Ypres, Belgium",
+        "freebase_id": "/m/0c04g5"
+    },
+    {
+        "wikidata_id": "Q661993",
+        "name": "Alsemberg",
+        "description": "section of Beersel, Belgium",
+        "freebase_id": "/m/07s7snp"
+    },
+    {
+        "wikidata_id": "Q2156894",
+        "name": "Ville-sur-Haine",
+        "description": "section of Le Rœulx, Belgium",
+        "freebase_id": "/m/02rnwv2"
+    },
+    {
+        "wikidata_id": "Q1704244",
+        "name": "Rumbeke",
+        "description": "section of Roeselare, Belgium",
+        "freebase_id": "/m/06rf2m"
+    },
+    {
+        "wikidata_id": "Q2107664",
+        "name": "Westkapelle",
+        "description": "section of Knokke-Heist, Belgium",
+        "freebase_id": "/m/0390y5"
+    },
+    {
+        "wikidata_id": "Q2161364",
+        "name": "Kanne",
+        "description": "section of Riemst, Belgium",
+        "freebase_id": "/m/065_qdn"
+    },
+    {
+        "wikidata_id": "Q724546",
+        "name": "Opdorp",
+        "description": "section of Buggenhout, Belgium",
+        "freebase_id": "/m/05r5gz"
+    },
+    {
+        "wikidata_id": "Q1951749",
+        "name": "Kessel",
+        "description": "section of Nijlen, Belgium",
+        "freebase_id": "/m/0vj7m"
+    },
+    {
+        "wikidata_id": "Q722798",
+        "name": "Aiseau",
+        "description": "section of Aiseau-Presles, Wallonia, Belgium",
+        "freebase_id": "/m/031s12"
+    },
+    {
+        "wikidata_id": "Q722901",
+        "name": "Pont-de-Loup",
+        "description": "section of Aiseau-Presles, Wallonia, Belgium",
+        "freebase_id": "/m/0yqkq2g"
+    },
+    {
+        "wikidata_id": "Q658621",
+        "name": "Retinne",
+        "description": "section of Fléron, Belgium",
+        "freebase_id": "/m/0pb4_m6"
+    },
+    {
+        "wikidata_id": "Q2167655",
+        "name": "Sint-Maria-Lierde",
+        "description": "section of Lierde, Belgium",
+        "freebase_id": "/m/01gy6_"
+    },
+    {
+        "wikidata_id": "Q2162244",
+        "name": "Attenhoven",
+        "description": "section of Landen, Belgium",
+        "freebase_id": "/m/04dykbm"
+    },
+    {
+        "wikidata_id": "Q1016723",
+        "name": "Meerbeke",
+        "description": "section of Ninove, Belgium",
+        "freebase_id": "/m/0gxt1v"
+    },
+    {
+        "wikidata_id": "Q2146237",
+        "name": "Macon",
+        "description": "section of Momignies, Wallonia, Belgium",
+        "freebase_id": "/m/031x7d"
+    },
+    {
+        "wikidata_id": "Q1023248",
+        "name": "Oedelem",
+        "description": "section of Beernem, Belgium",
+        "freebase_id": "/m/038cmf"
+    },
+    {
+        "wikidata_id": "Q1023246",
+        "name": "Westrozebeke",
+        "description": "section of Staden, Belgium",
+        "freebase_id": "/m/0ck_vx"
+    },
+    {
+        "wikidata_id": "Q607749",
+        "name": "Afsnee",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/043r1g6"
+    },
+    {
+        "wikidata_id": "Q1002849",
+        "name": "Ronquières",
+        "description": "section of Braine-le-Comte, Wallonia, Belgium",
+        "freebase_id": "/m/047g706"
+    },
+    {
+        "wikidata_id": "Q2186997",
+        "name": "Sint-Martens-Lierde",
+        "description": "section of Lierde, Belgium",
+        "freebase_id": "/m/01gy5z"
+    },
+    {
+        "wikidata_id": "Q1686757",
+        "name": "Jemappes",
+        "description": "place in Wallonia, Belgium",
+        "freebase_id": "/m/04xqgk"
+    },
+    {
+        "wikidata_id": "Q651751",
+        "name": "Neerpelt",
+        "description": "section of Pelt, Belgium",
+        "freebase_id": "/m/017nz7"
+    },
+    {
+        "wikidata_id": "Q2149433",
+        "name": "Masnuy-Saint-Jean",
+        "description": "section of Jurbise, Belgium",
+        "freebase_id": "/m/02rnwsq"
+    },
+    {
+        "wikidata_id": "Q2203651",
+        "name": "Waulsort",
+        "description": "section of Hastière, Belgium",
+        "freebase_id": "/m/0c3vdq2"
+    },
+    {
+        "wikidata_id": "Q1713746",
+        "name": "Jupille-sur-Meuse",
+        "description": "section of Liège, Belgium",
+        "freebase_id": "/m/08szv3"
+    },
+    {
+        "wikidata_id": "Q1836638",
+        "name": "Hemelveerdegem",
+        "description": "section of Lierde, Belgium",
+        "freebase_id": "/m/01gy6n"
+    },
+    {
+        "wikidata_id": "Q2140403",
+        "name": "Wechelderzande",
+        "description": "section of Lille, Belgium",
+        "freebase_id": "/m/0dllwvh"
+    },
+    {
+        "wikidata_id": "Q2109480",
+        "name": "Kumtich",
+        "description": "section of Tienen, Belgium",
+        "freebase_id": "/m/04dwqzs"
+    },
+    {
+        "wikidata_id": "Q607674",
+        "name": "Boussu-lez-Walcourt",
+        "description": "section of Froidchapelle, Wallonia, Belgium",
+        "freebase_id": "/m/0_x6kyv"
+    },
+    {
+        "wikidata_id": "Q647393",
+        "name": "Belgrade",
+        "description": "suburb of Namur, Wallonia, Belgium",
+        "freebase_id": "/m/011l8p9j"
+    },
+    {
+        "wikidata_id": "Q2186039",
+        "name": "Gotem",
+        "description": "section of Borgloon, Belgium",
+        "freebase_id": "/m/0dtfqv"
+    },
+    {
+        "wikidata_id": "Q725628",
+        "name": "Goutroux",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047pdvy"
+    },
+    {
+        "wikidata_id": "Q725633",
+        "name": "Monceau-sur-Sambre",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047mvm0"
+    },
+    {
+        "wikidata_id": "Q1967473",
+        "name": "Leignon",
+        "description": "section of Ciney, Belgium",
+        "freebase_id": "/m/05p7jww"
+    },
+    {
+        "wikidata_id": "Q653845",
+        "name": "Athus",
+        "description": "section of Aubange, Wallonia, Belgium",
+        "freebase_id": "/m/02rr730"
+    },
+    {
+        "wikidata_id": "Q1244401",
+        "name": "Westende",
+        "description": "section of Middelkerke, Belgium",
+        "freebase_id": "/m/02syh8"
+    },
+    {
+        "wikidata_id": "Q2160180",
+        "name": "Verrebroek",
+        "description": "section of Beveren, Belgium",
+        "freebase_id": "/m/0fpgtjx"
+    },
+    {
+        "wikidata_id": "Q1988333",
+        "name": "Desteldonk",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/02btkb"
+    },
+    {
+        "wikidata_id": "Q1625259",
+        "name": "Redu",
+        "description": "section of Libin, Wallonia, Belgium",
+        "freebase_id": "/m/0dbky1"
+    },
+    {
+        "wikidata_id": "Q1952054",
+        "name": "Oostnieuwkerke",
+        "description": "section of Staden, Belgium",
+        "freebase_id": "/m/0gtt4h0"
+    },
+    {
+        "wikidata_id": "Q2191886",
+        "name": "Oostkerke",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038bzv"
+    },
+    {
+        "wikidata_id": "Q1991101",
+        "name": "Deftinge",
+        "description": "section of Lierde, Belgium",
+        "freebase_id": "/m/01gy69"
+    },
+    {
+        "wikidata_id": "Q723990",
+        "name": "Diegem",
+        "description": "section of Machelen, Belgium",
+        "freebase_id": "/m/026_174"
+    },
+    {
+        "wikidata_id": "Q633089",
+        "name": "Rijmenam",
+        "description": "section of Bonheiden, Belgium",
+        "freebase_id": "/m/06_0qf"
+    },
+    {
+        "wikidata_id": "Q2004020",
+        "name": "Hofstade",
+        "description": "section of Zemst, Belgium",
+        "freebase_id": "/m/07kgfvk"
+    },
+    {
+        "wikidata_id": "Q612874",
+        "name": "Wépion",
+        "description": "section of Namur, Wallonia",
+        "freebase_id": "/m/037407"
+    },
+    {
+        "wikidata_id": "Q2135796",
+        "name": "Meerbeek",
+        "description": "section of Kortenberg, Belgium",
+        "freebase_id": "/m/04dymxw"
+    },
+    {
+        "wikidata_id": "Q680916",
+        "name": "Gentbrugge",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/04bn1h"
+    },
+    {
+        "wikidata_id": "Q2168341",
+        "name": "Groot-Bijgaarden",
+        "description": "section of Dilbeek, Belgium",
+        "freebase_id": "/m/04g64v9"
+    },
+    {
+        "wikidata_id": "Q651801",
+        "name": "Opglabbeek",
+        "description": "section of Oudsbergen, Belgium",
+        "freebase_id": "/m/017nq0"
+    },
+    {
+        "wikidata_id": "Q2143446",
+        "name": "Paal",
+        "description": "section of Beringen, Belgium",
+        "freebase_id": "/m/06zk7zg"
+    },
+    {
+        "wikidata_id": "Q1521782",
+        "name": "Ghislenghien",
+        "description": "section of Ath, Wallonia, Belgium",
+        "freebase_id": "/m/03jw_b"
+    },
+    {
+        "wikidata_id": "Q985871",
+        "name": "Burst",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0bbxcf4"
+    },
+    {
+        "wikidata_id": "Q1104305",
+        "name": "Mellery",
+        "description": "community in Villers-la-Ville, Belgium",
+        "freebase_id": "/m/0_gx8f5"
+    },
+    {
+        "wikidata_id": "Q2002319",
+        "name": "Loverval",
+        "description": "section of Gerpinnes, Wallonia, Belgium",
+        "freebase_id": "/m/0_h1kbf"
+    },
+    {
+        "wikidata_id": "Q2006902",
+        "name": "Crupet",
+        "description": "section of Assesse, Wallonia, Belgium",
+        "freebase_id": "/m/08hyb4"
+    },
+    {
+        "wikidata_id": "Q724573",
+        "name": "Moerzeke",
+        "description": "section of Hamme, Belgium",
+        "freebase_id": "/m/04pl2w"
+    },
+    {
+        "wikidata_id": "Q1992041",
+        "name": "Sint-Agatha-Rode",
+        "description": "section of Huldenberg, Belgium",
+        "freebase_id": "/m/080fc0l"
+    },
+    {
+        "wikidata_id": "Q650376",
+        "name": "Oekene",
+        "description": "section of Roeselare, Belgium",
+        "freebase_id": "/m/06rd_v"
+    },
+    {
+        "wikidata_id": "Q2083877",
+        "name": "Sint-Stevens-Woluwe",
+        "description": "section of Zaventem, Belgium",
+        "freebase_id": "/m/02n2p9"
+    },
+    {
+        "wikidata_id": "Q2137484",
+        "name": "Varsenare",
+        "description": "section of Jabbeke, Belgium",
+        "freebase_id": "/m/0390rn"
+    },
+    {
+        "wikidata_id": "Q2099370",
+        "name": "Beerzel",
+        "description": "section of Putte, Belgium",
+        "freebase_id": "/m/0ch0xfm"
+    },
+    {
+        "wikidata_id": "Q674193",
+        "name": "Ohain",
+        "description": "human settlement in Lasne, Belgium",
+        "freebase_id": "/m/03y_6q"
+    },
+    {
+        "wikidata_id": "Q2139325",
+        "name": "Baal",
+        "description": "section of Tremelo, Belgium",
+        "freebase_id": "/m/04dymkd"
+    },
+    {
+        "wikidata_id": "Q1973609",
+        "name": "Kaggevinne",
+        "description": "section of Diest, Belgium",
+        "freebase_id": "/m/04dp0qn"
+    },
+    {
+        "wikidata_id": "Q1011374",
+        "name": "Koningshooikt",
+        "description": "section of Lier, Belgium",
+        "freebase_id": "/m/0d46mf"
+    },
+    {
+        "wikidata_id": "Q1939423",
+        "name": "Montignies-sur-Roc",
+        "description": "section of Honnelles, Belgium",
+        "freebase_id": "/m/05mtbqk"
+    },
+    {
+        "wikidata_id": "Q985763",
+        "name": "Erondegem",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0h3tzgw"
+    },
+    {
+        "wikidata_id": "Q985869",
+        "name": "Ottergem",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0h3v32p"
+    },
+    {
+        "wikidata_id": "Q985867",
+        "name": "Vlekkem",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0h3wx6g"
+    },
+    {
+        "wikidata_id": "Q2149059",
+        "name": "Sint-Kruis-Winkel",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/04y7s8b"
+    },
+    {
+        "wikidata_id": "Q675533",
+        "name": "Dormaal",
+        "description": "section of Zoutleeuw, Belgium",
+        "freebase_id": "/m/04dymmk"
+    },
+    {
+        "wikidata_id": "Q1817149",
+        "name": "Wilsele",
+        "description": "section of Leuven, Belgium",
+        "freebase_id": "/m/0276hmw"
+    },
+    {
+        "wikidata_id": "Q1990353",
+        "name": "Elewijt",
+        "description": "section of Zemst, Belgium",
+        "freebase_id": "/m/0bwg31w"
+    },
+    {
+        "wikidata_id": "Q1011455",
+        "name": "Breendonk",
+        "description": "section of Puurs, Belgium",
+        "freebase_id": "/m/0b50x8"
+    },
+    {
+        "wikidata_id": "Q1937157",
+        "name": "Klerken",
+        "description": "section of Houthulst, Belgium",
+        "freebase_id": "/m/038c4j"
+    },
+    {
+        "wikidata_id": "Q2191008",
+        "name": "Leke",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038byg"
+    },
+    {
+        "wikidata_id": "Q1642281",
+        "name": "Ligny",
+        "description": "section of Sombreffe, Belgium",
+        "freebase_id": "/m/07dj7j"
+    },
+    {
+        "wikidata_id": "Q991231",
+        "name": "Neerwinden",
+        "description": "section of Landen, Belgium",
+        "freebase_id": "/m/085jk0"
+    },
+    {
+        "wikidata_id": "Q2132237",
+        "name": "Loker",
+        "description": "section of Heuvelland, Belgium",
+        "freebase_id": "/m/027wr3k"
+    },
+    {
+        "wikidata_id": "Q607274",
+        "name": "Lodelinsart",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047r62k"
+    },
+    {
+        "wikidata_id": "Q1980623",
+        "name": "Liernu",
+        "description": "section of Éghezée, Belgium",
+        "freebase_id": "/m/047pf_q"
+    },
+    {
+        "wikidata_id": "Q2197305",
+        "name": "Kwaadmechelen",
+        "description": "section of Ham, Belgium",
+        "freebase_id": "/m/04lg4bt"
+    },
+    {
+        "wikidata_id": "Q2004815",
+        "name": "Obourg",
+        "description": "Place in Hainaut, Belgium",
+        "freebase_id": "/m/02rnttg"
+    },
+    {
+        "wikidata_id": "Q2193902",
+        "name": "Hollogne-aux-Pierres",
+        "description": "section of Grâce-Hollogne, Belgium",
+        "freebase_id": "/m/02qggzz"
+    },
+    {
+        "wikidata_id": "Q1958329",
+        "name": "Schepdaal",
+        "description": "section of Dilbeek, Belgium",
+        "freebase_id": "/m/04g64vh"
+    },
+    {
+        "wikidata_id": "Q1026218",
+        "name": "Han-sur-Lesse",
+        "description": "section of Rochefort, Belgium",
+        "freebase_id": "/m/02vqwm5"
+    },
+    {
+        "wikidata_id": "Q1026215",
+        "name": "Tintange",
+        "description": "section of Fauvillers, Belgium",
+        "freebase_id": "/m/07k61mq"
+    },
+    {
+        "wikidata_id": "Q1026507",
+        "name": "Kanegem",
+        "description": "section of Tielt, Belgium",
+        "freebase_id": "/m/0bmcw20"
+    },
+    {
+        "wikidata_id": "Q2117660",
+        "name": "Dranouter",
+        "description": "section of Heuvelland, Belgium",
+        "freebase_id": "/m/05zw1nq"
+    },
+    {
+        "wikidata_id": "Q1026500",
+        "name": "Waha",
+        "description": "section of Marche-en-Famenne, Belgium",
+        "freebase_id": "/m/02pm7tx"
+    },
+    {
+        "wikidata_id": "Q705020",
+        "name": "Kaster",
+        "description": "section of Anzegem, Belgium",
+        "freebase_id": "/m/07j7d7"
+    },
+    {
+        "wikidata_id": "Q985760",
+        "name": "Erpe",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0bby358"
+    },
+    {
+        "wikidata_id": "Q1354834",
+        "name": "Werchter",
+        "description": "section of Rotselaar, Belgium",
+        "freebase_id": "/m/0c2f2k"
+    },
+    {
+        "wikidata_id": "Q722977",
+        "name": "Presles",
+        "description": "section of Aiseau-Presles, Wallonia, Belgium",
+        "freebase_id": "/m/031rj1"
+    },
+    {
+        "wikidata_id": "Q2166865",
+        "name": "Mazenzele",
+        "description": "section of Opwijk, Belgium",
+        "freebase_id": "/m/0bwjjpx"
+    },
+    {
+        "wikidata_id": "Q705013",
+        "name": "Bavikhove",
+        "description": "section of Harelbeke, Belgium",
+        "freebase_id": "/m/0ll2vm1"
+    },
+    {
+        "wikidata_id": "Q693190",
+        "name": "Péronnes-lez-Binche",
+        "description": "section of Binche, Belgium",
+        "freebase_id": "/m/0fqnrw1"
+    },
+    {
+        "wikidata_id": "Q2085862",
+        "name": "Esen",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038bwd"
+    },
+    {
+        "wikidata_id": "Q2130438",
+        "name": "Crehen",
+        "description": "section of Hannut, Belgium",
+        "freebase_id": "/m/03m52y6"
+    },
+    {
+        "wikidata_id": "Q1026850",
+        "name": "Henri-Chapelle",
+        "description": "section of Welkenraedt, Wallonia, Belgium",
+        "freebase_id": "/m/0105p9cf"
+    },
+    {
+        "wikidata_id": "Q1026853",
+        "name": "Walhorn",
+        "description": "section of Lontzen, Belgium",
+        "freebase_id": "/m/04g2d15"
+    },
+    {
+        "wikidata_id": "Q690948",
+        "name": "Petit-Enghien",
+        "description": "section of Enghien, Belgium",
+        "freebase_id": "/m/0z2q870"
+    },
+    {
+        "wikidata_id": "Q1939661",
+        "name": "Woesten",
+        "description": "section of Vleteren, Belgium",
+        "freebase_id": "/m/0k0p408"
+    },
+    {
+        "wikidata_id": "Q2201415",
+        "name": "Lippelo",
+        "description": "section of Sint-Amands, Belgium",
+        "freebase_id": "/m/0j432f7"
+    },
+    {
+        "wikidata_id": "Q1012354",
+        "name": "Tiegem",
+        "description": "section of Anzegem, Belgium",
+        "freebase_id": "/m/04csntf"
+    },
+    {
+        "wikidata_id": "Q1012357",
+        "name": "Vichte",
+        "description": "section of Anzegem, Belgium",
+        "freebase_id": "/m/07h712"
+    },
+    {
+        "wikidata_id": "Q2135724",
+        "name": "Lembeek",
+        "description": "section of Halle, Belgium",
+        "freebase_id": "/m/026p9pp"
+    },
+    {
+        "wikidata_id": "Q2104244",
+        "name": "Izenberge",
+        "description": "section of Alveringem, Belgium",
+        "freebase_id": "/m/0ct91z"
+    },
+    {
+        "wikidata_id": "Q2163249",
+        "name": "Châtillon",
+        "description": "section of Saint-Léger, Belgium",
+        "freebase_id": "/m/0pdb1k3"
+    },
+    {
+        "wikidata_id": "Q2006337",
+        "name": "Eernegem",
+        "description": "section of Ichtegem, Belgium",
+        "freebase_id": "/m/0cl_kj"
+    },
+    {
+        "wikidata_id": "Q2176982",
+        "name": "Zwijnaarde",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/034cxv"
+    },
+    {
+        "wikidata_id": "Q1618770",
+        "name": "Rupelmonde",
+        "description": "town in Kruibeke, Belgium",
+        "freebase_id": "/m/0kwsp"
+    },
+    {
+        "wikidata_id": "Q669586",
+        "name": "Stuivekenskerke",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038c1r"
+    },
+    {
+        "wikidata_id": "Q1260195",
+        "name": "Drongen",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/03tbfv"
+    },
+    {
+        "wikidata_id": "Q2186804",
+        "name": "Rouvreux",
+        "description": "section of Sprimont, Belgium",
+        "freebase_id": "/m/05c4xlh"
+    },
+    {
+        "wikidata_id": "Q1766676",
+        "name": "Elst",
+        "description": "section of Brakel, Belgium",
+        "freebase_id": "/m/0bhbyfy"
+    },
+    {
+        "wikidata_id": "Q985789",
+        "name": "Mere",
+        "description": "section of Erpe-Mere, Belgium",
+        "freebase_id": "/m/0bbvpkz"
+    },
+    {
+        "wikidata_id": "Q1964853",
+        "name": "Maillen",
+        "description": "section of Assesse, Wallonia, Belgium",
+        "freebase_id": "/m/0crj2n7"
+    },
+    {
+        "wikidata_id": "Q1797837",
+        "name": "Ekeren",
+        "description": "district of the City of Antwerp, Belgium",
+        "freebase_id": "/m/05sm8l"
+    },
+    {
+        "wikidata_id": "Q1993738",
+        "name": "Ruisbroek",
+        "description": "section of Sint-Pieters-Leeuw, Belgium",
+        "freebase_id": "/m/04jc5bk"
+    },
+    {
+        "wikidata_id": "Q2360484",
+        "name": "Hyon",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02p7sy5"
+    },
+    {
+        "wikidata_id": "Q2793993",
+        "name": "Merbes-Sainte-Marie",
+        "description": "section of Merbes-le-Château, Belgium",
+        "freebase_id": "/m/0_v28kv"
+    },
+    {
+        "wikidata_id": "Q2648007",
+        "name": "Mons-lez-Liège",
+        "description": "section of Flémalle, Belgium",
+        "freebase_id": "/m/0ddh7vz"
+    },
+    {
+        "wikidata_id": "Q2741641",
+        "name": "Handzame",
+        "description": "section of Kortemark, Belgium",
+        "freebase_id": "/m/038cbl"
+    },
+    {
+        "wikidata_id": "Q2800592",
+        "name": "Flénu",
+        "description": "sub-municipality of the city of Mons, Belgium",
+        "freebase_id": "/m/02rp5j8"
+    },
+    {
+        "wikidata_id": "Q2301897",
+        "name": "Bomal",
+        "description": "section of Durbuy, Belgium",
+        "freebase_id": "/m/05h3rjc"
+    },
+    {
+        "wikidata_id": "Q2418515",
+        "name": "Biercée",
+        "description": "section of Thuin, Belgium",
+        "freebase_id": "/m/011dz9z8"
+    },
+    {
+        "wikidata_id": "Q2742689",
+        "name": "Jemeppe-sur-Meuse",
+        "description": "section of Seraing, Belgium",
+        "freebase_id": "/m/0ddflqz"
+    },
+    {
+        "wikidata_id": "Q2505969",
+        "name": "Melden",
+        "description": "section of Oudenaarde, Belgium",
+        "freebase_id": "/m/0bh8qcp"
+    },
+    {
+        "wikidata_id": "Q2300330",
+        "name": "Willerzie",
+        "description": "section of Gedinne, Belgium",
+        "freebase_id": "/m/03qkwgm"
+    },
+    {
+        "wikidata_id": "Q2336717",
+        "name": "Xhendelesse",
+        "description": "section of Herve, Wallonia, Belgium",
+        "freebase_id": "/m/027hf2t"
+    },
+    {
+        "wikidata_id": "Q2261303",
+        "name": "Belsele",
+        "description": "section of Sint-Niklaas, Belgium",
+        "freebase_id": "/m/09spwk"
+    },
+    {
+        "wikidata_id": "Q2337062",
+        "name": "Zillebeke",
+        "description": "village in the Flemish province of West-Vlaanderen in Belgium",
+        "freebase_id": "/m/0c1bs4"
+    },
+    {
+        "wikidata_id": "Q2332648",
+        "name": "Wondelgem",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/02w0sv"
+    },
+    {
+        "wikidata_id": "Q2784093",
+        "name": "Morkhoven",
+        "description": "section of Herentals, Belgium",
+        "freebase_id": "/m/0hhs20d"
+    },
+    {
+        "wikidata_id": "Q2326458",
+        "name": "Sainte-Cécile",
+        "description": "section of Florenville, Belgium",
+        "freebase_id": "/m/0lq59sq"
+    },
+    {
+        "wikidata_id": "Q2422163",
+        "name": "Mont-Sainte-Aldegonde",
+        "description": "section of Morlanwelz, Belgium",
+        "freebase_id": "/m/011jp7qv"
+    },
+    {
+        "wikidata_id": "Q2454115",
+        "name": "Saive",
+        "description": "section of Blegny, Belgium",
+        "freebase_id": "/m/06q4lt"
+    },
+    {
+        "wikidata_id": "Q2341092",
+        "name": "La Gleize",
+        "description": "section of Stoumont, Belgium",
+        "freebase_id": "/m/0gywf0v"
+    },
+    {
+        "wikidata_id": "Q2911844",
+        "name": "Bottelare",
+        "description": "section of Merelbeke, Belgium",
+        "freebase_id": "/m/04bxdl"
+    },
+    {
+        "wikidata_id": "Q2599318",
+        "name": "Lombardsijde",
+        "description": "section of Middelkerke, Belgium",
+        "freebase_id": "/m/04d_bpw"
+    },
+    {
+        "wikidata_id": "Q2549044",
+        "name": "Ensival",
+        "description": "section of Verviers, Wallonia, Belgium",
+        "freebase_id": "/m/04lfpnv"
+    },
+    {
+        "wikidata_id": "Q2220639",
+        "name": "Roesbrugge-Haringe",
+        "description": "section of Poperinge, Belgium",
+        "freebase_id": "/m/026m24v"
+    },
+    {
+        "wikidata_id": "Q2309565",
+        "name": "Everberg",
+        "description": "section of Kortenberg, Belgium",
+        "freebase_id": "/m/06w7wns"
+    },
+    {
+        "wikidata_id": "Q2235317",
+        "name": "Denée",
+        "description": "section of Anhée, Wallonia, Belgium",
+        "freebase_id": "/m/04jj4d6"
+    },
+    {
+        "wikidata_id": "Q2638828",
+        "name": "Weerde",
+        "description": "section of Zemst, Belgium",
+        "freebase_id": "/m/04q3sfl"
+    },
+    {
+        "wikidata_id": "Q2309998",
+        "name": "Zellik",
+        "description": "section of Asse, Belgium",
+        "freebase_id": "/m/07s5nfb"
+    },
+    {
+        "wikidata_id": "Q2351222",
+        "name": "Ploegsteert",
+        "description": "section of Comines-Warneton, Wallonia, Belgium",
+        "freebase_id": "/m/0f4cv0"
+    },
+    {
+        "wikidata_id": "Q2371918",
+        "name": "Liberchies",
+        "description": "section of Pont-à-Celles, Belgium",
+        "freebase_id": "/m/026w5k6"
+    },
+    {
+        "wikidata_id": "Q2750562",
+        "name": "Aarsele",
+        "description": "section of Tielt, Belgium",
+        "freebase_id": "/m/03clpxr"
+    },
+    {
+        "wikidata_id": "Q2806317",
+        "name": "Orsmaal-Gussenhoven",
+        "description": "section of Linter, Belgium",
+        "freebase_id": "/m/04dylk9"
+    },
+    {
+        "wikidata_id": "Q2414284",
+        "name": "Pollinkhove",
+        "description": "section of Lo-Reninge, Belgium",
+        "freebase_id": "/m/038ckj"
+    },
+    {
+        "wikidata_id": "Q2921292",
+        "name": "Mellet",
+        "description": "section of Les Bons Villers, Belgium",
+        "freebase_id": "/m/0_gw0w6"
+    },
+    {
+        "wikidata_id": "Q2532912",
+        "name": "Tielen",
+        "description": "section of Kasterlee, Belgium",
+        "freebase_id": "/m/0f_xmh"
+    },
+    {
+        "wikidata_id": "Q2603716",
+        "name": "Aalbeke",
+        "description": "section of Kortrijk, Belgium",
+        "freebase_id": "/m/06w8pxh"
+    },
+    {
+        "wikidata_id": "Q2799765",
+        "name": "Ghlin",
+        "description": "place in Wallonia, Belgium",
+        "freebase_id": "/m/02rntnn"
+    },
+    {
+        "wikidata_id": "Q2480370",
+        "name": "Barvaux-sur-Ourthe",
+        "description": "section of Durbuy, Wallonia, Belgium",
+        "freebase_id": "/m/03cy7d4"
+    },
+    {
+        "wikidata_id": "Q2587670",
+        "name": "Sosoye",
+        "description": "section of Anhée, Wallonia, Belgium",
+        "freebase_id": "/m/0c3tyzl"
+    },
+    {
+        "wikidata_id": "Q2335534",
+        "name": "Bogaarden",
+        "description": "section of Pepingen, Belgium",
+        "freebase_id": "/m/047s_9b"
+    },
+    {
+        "wikidata_id": "Q2624610",
+        "name": "Elingen",
+        "description": "section of Pepingen, Belgium",
+        "freebase_id": "/m/05p05th"
+    },
+    {
+        "wikidata_id": "Q2286775",
+        "name": "Bienne-lez-Happart",
+        "description": "section of Lobbes, Belgium",
+        "freebase_id": "/m/0_v5vwp"
+    },
+    {
+        "wikidata_id": "Q2630461",
+        "name": "Berendrecht-Zandvliet-Lillo",
+        "description": "district of the City of Antwerp, Belgium",
+        "freebase_id": "/m/09k76t"
+    },
+    {
+        "wikidata_id": "Q2624305",
+        "name": "Deurle",
+        "description": "section of Sint-Martens-Latem, Belgium",
+        "freebase_id": "/m/0cv09j"
+    },
+    {
+        "wikidata_id": "Q2217028",
+        "name": "Gierle",
+        "description": "section of Lille, Belgium",
+        "freebase_id": "/m/02vp9rg"
+    },
+    {
+        "wikidata_id": "Q2744963",
+        "name": "Grivegnée",
+        "description": "section of Liège, Belgium",
+        "freebase_id": "/m/02841rx"
+    },
+    {
+        "wikidata_id": "Q2577776",
+        "name": "Mesvin",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02rnwq9"
+    },
+    {
+        "wikidata_id": "Q2231206",
+        "name": "Harmignies",
+        "description": "place in Hainaut, Belgium",
+        "freebase_id": "/m/02rnw75"
+    },
+    {
+        "wikidata_id": "Q2731701",
+        "name": "Kooigem",
+        "description": "section of Kortrijk, Belgium",
+        "freebase_id": "/m/0bh7656"
+    },
+    {
+        "wikidata_id": "Q2316093",
+        "name": "Zarren",
+        "description": "section of Kortemark, Belgium",
+        "freebase_id": "/m/038cdb"
+    },
+    {
+        "wikidata_id": "Q2505670",
+        "name": "Sint-Kruis",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/0390d6"
+    },
+    {
+        "wikidata_id": "Q2291999",
+        "name": "Beerst",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038bvl"
+    },
+    {
+        "wikidata_id": "Q2265932",
+        "name": "Grand-Reng",
+        "description": "section of Erquelinnes, Belgium",
+        "freebase_id": "/m/0f697r"
+    },
+    {
+        "wikidata_id": "Q2388623",
+        "name": "Duisburg",
+        "description": "section of Tervuren, Belgium",
+        "freebase_id": "/m/03mb5wv"
+    },
+    {
+        "wikidata_id": "Q2425504",
+        "name": "Lichtaart",
+        "description": "section of Kasterlee, Belgium",
+        "freebase_id": "/m/0jt4rqv"
+    },
+    {
+        "wikidata_id": "Q2607948",
+        "name": "Kemzeke",
+        "description": "section of Stekene, Belgium",
+        "freebase_id": "/m/0268897"
+    },
+    {
+        "wikidata_id": "Q2313154",
+        "name": "Clabecq",
+        "description": "section of Tubize, Wallonia",
+        "freebase_id": "/m/03cbwqn"
+    },
+    {
+        "wikidata_id": "Q2434402",
+        "name": "Heffen",
+        "description": "section of Mechelen, Belgium",
+        "freebase_id": "/m/0jzr186"
+    },
+    {
+        "wikidata_id": "Q2296036",
+        "name": "Onze-Lieve-Vrouw-Waver",
+        "description": "section of Sint-Katelijne-Waver, Belgium",
+        "freebase_id": "/m/06kspw"
+    },
+    {
+        "wikidata_id": "Q2329124",
+        "name": "Laforêt",
+        "description": "section of Vresse-sur-Semois, Belgium",
+        "freebase_id": "/m/064kpns"
+    },
+    {
+        "wikidata_id": "Q2529651",
+        "name": "Beert",
+        "description": "section of Pepingen, Belgium",
+        "freebase_id": "/m/04g6yxz"
+    },
+    {
+        "wikidata_id": "Q2310670",
+        "name": "Hever",
+        "description": "section of Boortmeerbeek, Belgium",
+        "freebase_id": "/m/026n_v4"
+    },
+    {
+        "wikidata_id": "Q2311617",
+        "name": "Steenkerque",
+        "description": "section of Braine-le-Comte, Wallonia, Belgium",
+        "freebase_id": "/m/0948lh"
+    },
+    {
+        "wikidata_id": "Q2358375",
+        "name": "Dohan",
+        "description": "section of Bouillon, Belgium",
+        "freebase_id": "/m/0d41w_"
+    },
+    {
+        "wikidata_id": "Q2310689",
+        "name": "Sint-Joris-Winge",
+        "description": "section of Tielt-Winge, Belgium",
+        "freebase_id": "/m/04rllz"
+    },
+    {
+        "wikidata_id": "Q2735196",
+        "name": "Courrière",
+        "description": "section of Assesse, Wallonia, Belgium",
+        "freebase_id": "/m/06w4514"
+    },
+    {
+        "wikidata_id": "Q2444895",
+        "name": "Lambusart",
+        "description": "section of Fleurus, Belgium",
+        "freebase_id": "/m/011jphx2"
+    },
+    {
+        "wikidata_id": "Q2904275",
+        "name": "Bioul",
+        "description": "section of Anhée, Wallonia, Belgium",
+        "freebase_id": "/m/0yt06qf"
+    },
+    {
+        "wikidata_id": "Q2765413",
+        "name": "Moerkerke",
+        "description": "section of Damme, Belgium",
+        "freebase_id": "/m/0390mq"
+    },
+    {
+        "wikidata_id": "Q2446598",
+        "name": "Grotenberge",
+        "description": "section of Zottegem, Belgium",
+        "freebase_id": "/m/0bhb3b_"
+    },
+    {
+        "wikidata_id": "Q2221635",
+        "name": "Sint-Margriete-Houtem",
+        "description": "section of Tienen, Belgium",
+        "freebase_id": "/m/04dwq_c"
+    },
+    {
+        "wikidata_id": "Q2312966",
+        "name": "Herfelingen",
+        "description": "section of Herne, Belgium",
+        "freebase_id": "/m/04g666x"
+    },
+    {
+        "wikidata_id": "Q2376927",
+        "name": "Toernich",
+        "description": "section of Arlon, Wallonia, Belgium",
+        "freebase_id": "/m/05p4jxv"
+    },
+    {
+        "wikidata_id": "Q2295973",
+        "name": "Forges",
+        "description": "section of Chimay, Wallonia, Belgium",
+        "freebase_id": "/m/026qpbc"
+    },
+    {
+        "wikidata_id": "Q2870692",
+        "name": "Hampteau",
+        "description": "section of Hotton, Belgium",
+        "freebase_id": "/m/0vpjcq7"
+    },
+    {
+        "wikidata_id": "Q2609110",
+        "name": "Leisele",
+        "description": "section of Alveringem, Belgium",
+        "freebase_id": "/m/01kyzm"
+    },
+    {
+        "wikidata_id": "Q2854293",
+        "name": "Bovekerke",
+        "description": "section of Koekelare, Belgium",
+        "freebase_id": "/m/038c80"
+    },
+    {
+        "wikidata_id": "Q2327169",
+        "name": "Warnant",
+        "description": "section of Anhée, Wallonia, Belgium",
+        "freebase_id": "/m/02z4h_j"
+    },
+    {
+        "wikidata_id": "Q2628803",
+        "name": "Sint-Martens-Bodegem",
+        "description": "section of Dilbeek, Belgium",
+        "freebase_id": "/m/04g64vw"
+    },
+    {
+        "wikidata_id": "Q2611889",
+        "name": "Havré",
+        "description": "municipality section in Hainaut (Belgium)",
+        "freebase_id": "/m/02rnwj3"
+    },
+    {
+        "wikidata_id": "Q2893164",
+        "name": "Beaufays",
+        "description": "section of Chaudfontaine, Belgium",
+        "freebase_id": "/m/0z6vlwy"
+    },
+    {
+        "wikidata_id": "Q2411051",
+        "name": "Opheylissem",
+        "description": "village in Hélécine, Belgium",
+        "freebase_id": "/m/06w8dd8"
+    },
+    {
+        "wikidata_id": "Q2565748",
+        "name": "Luttre",
+        "description": "section of Pont-à-Celles, Belgium",
+        "freebase_id": "/m/025z7mc"
+    },
+    {
+        "wikidata_id": "Q2754481",
+        "name": "Doel",
+        "description": "section of Beveren, Belgium",
+        "freebase_id": "/m/0ck1n3"
+    },
+    {
+        "wikidata_id": "Q2346906",
+        "name": "Bellegem",
+        "description": "village in the municipality of Kortrijk, Belgium",
+        "freebase_id": "/m/0bh7qwm"
+    },
+    {
+        "wikidata_id": "Q2635375",
+        "name": "Lampernisse",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038by3"
+    },
+    {
+        "wikidata_id": "Q2526915",
+        "name": "Itterbeek",
+        "description": "section of Dilbeek, Belgium",
+        "freebase_id": "/m/0gy0jsg"
+    },
+    {
+        "wikidata_id": "Q2922651",
+        "name": "Bouwel",
+        "description": "section of Grobbendonk, Belgium",
+        "freebase_id": "/m/03nqcs5"
+    },
+    {
+        "wikidata_id": "Q2314032",
+        "name": "Sint-Eloois-Winkel",
+        "description": "section of Ledegem, Belgium",
+        "freebase_id": "/m/05b1lhb"
+    },
+    {
+        "wikidata_id": "Q2314278",
+        "name": "Oostduinkerke",
+        "description": "section of Koksijde, Belgium",
+        "freebase_id": "/m/03w5gg"
+    },
+    {
+        "wikidata_id": "Q2556717",
+        "name": "Westvleteren",
+        "description": "section of Vleteren, Belgium",
+        "freebase_id": "/m/03bxjsc"
+    },
+    {
+        "wikidata_id": "Q2554319",
+        "name": "Saint-Amand",
+        "description": "section of Fleurus, Wallonia, Belgium",
+        "freebase_id": "/m/0h55pk5"
+    },
+    {
+        "wikidata_id": "Q2326156",
+        "name": "Merkem",
+        "description": "section of Houthulst, Belgium",
+        "freebase_id": "/m/038c4w"
+    },
+    {
+        "wikidata_id": "Q2645510",
+        "name": "Horrues",
+        "description": "section of Soignies, Wallonia, Belgium",
+        "freebase_id": "/m/02rnrt4"
+    },
+    {
+        "wikidata_id": "Q2584480",
+        "name": "Naast",
+        "description": "section of Soignies, Belgium",
+        "freebase_id": "/m/02rnr_p"
+    },
+    {
+        "wikidata_id": "Q2350085",
+        "name": "Wasmes",
+        "description": "section of Colfontaine, Belgium",
+        "freebase_id": "/m/026rdfn"
+    },
+    {
+        "wikidata_id": "Q2557454",
+        "name": "Bousval",
+        "description": "section of Genappe, Wallonia, Belgium",
+        "freebase_id": "/m/0_h2487"
+    },
+    {
+        "wikidata_id": "Q2493476",
+        "name": "Warnant-Dreye",
+        "description": "section of Villers-le-Bouillet, Belgium",
+        "freebase_id": "/m/02x4vx4"
+    },
+    {
+        "wikidata_id": "Q2791245",
+        "name": "Lo",
+        "description": "section of Lo-Reninge, Belgium",
+        "freebase_id": "/m/038cf0"
+    },
+    {
+        "wikidata_id": "Q2760739",
+        "name": "Baudour",
+        "description": "part of municipality of Saint-Ghislain, Belgium",
+        "freebase_id": "/m/02rntyy"
+    },
+    {
+        "wikidata_id": "Q2437344",
+        "name": "Knokke",
+        "description": "section of Knokke-Heist, Belgium",
+        "freebase_id": "/m/0390xf"
+    },
+    {
+        "wikidata_id": "Q2255839",
+        "name": "Uitkerke",
+        "description": "section of Blankenberge, Belgium",
+        "freebase_id": "/m/038cnx"
+    },
+    {
+        "wikidata_id": "Q2512929",
+        "name": "Rollegem",
+        "description": "section of Kortrijk, Belgium",
+        "freebase_id": "/m/0bhc2r8"
+    },
+    {
+        "wikidata_id": "Q2403739",
+        "name": "Zandvoorde",
+        "description": "section of Zonnebeke, Belgium",
+        "freebase_id": "/m/03m84n5"
+    },
+    {
+        "wikidata_id": "Q2460559",
+        "name": "Mollem",
+        "description": "section of Asse, Belgium",
+        "freebase_id": "/m/04g0k4n"
+    },
+    {
+        "wikidata_id": "Q2575787",
+        "name": "Elverdinge",
+        "description": "section of Ypres, Belgium",
+        "freebase_id": "/m/011pz9km"
+    },
+    {
+        "wikidata_id": "Q2300838",
+        "name": "Leernes",
+        "description": "section of Fontaine-l'Évêque, Belgium",
+        "freebase_id": "/m/0_v2t2v"
+    },
+    {
+        "wikidata_id": "Q2872437",
+        "name": "Sterrebeek",
+        "description": "section of Zaventem, Belgium",
+        "freebase_id": "/m/0b3qvd"
+    },
+    {
+        "wikidata_id": "Q2430167",
+        "name": "Maarke-Kerkem",
+        "description": "section of Maarkedal, Belgium",
+        "freebase_id": "/m/0bh97z3"
+    },
+    {
+        "wikidata_id": "Q2269644",
+        "name": "Cuesmes",
+        "description": "municipality section in Hainaut, Belgium",
+        "freebase_id": "/m/0dwrhg"
+    },
+    {
+        "wikidata_id": "Q2406254",
+        "name": "Bohan",
+        "description": "section of Vresse-sur-Semois, Belgium",
+        "freebase_id": "/m/08kx7b"
+    },
+    {
+        "wikidata_id": "Q2320844",
+        "name": "Saint-Symphorien",
+        "description": "Sub-municipality of the city of Mons, Belgium",
+        "freebase_id": "/m/02rnsz8"
+    },
+    {
+        "wikidata_id": "Q2257339",
+        "name": "Harveng",
+        "description": "village near the Belgian town of Mons",
+        "freebase_id": "/m/02rnwf0"
+    },
+    {
+        "wikidata_id": "Q2400293",
+        "name": "Oostakker",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/0gcv4b"
+    },
+    {
+        "wikidata_id": "Q2310340",
+        "name": "Limal",
+        "description": "section of Wavre, Wallonia, Belgium",
+        "freebase_id": "/m/0_h04c2"
+    },
+    {
+        "wikidata_id": "Q2364897",
+        "name": "Pironchamps",
+        "description": "section of Farciennes, Belgium",
+        "freebase_id": "/m/031s2z"
+    },
+    {
+        "wikidata_id": "Q2639793",
+        "name": "Sint-Jacobs Capelle",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038c1d"
+    },
+    {
+        "wikidata_id": "Q2741938",
+        "name": "Mortroux",
+        "description": "section of Dalhem, Belgium",
+        "freebase_id": "/m/012nkz0y"
+    },
+    {
+        "wikidata_id": "Q2512312",
+        "name": "Eppegem",
+        "description": "section of Zemst, Belgium",
+        "freebase_id": "/m/04gpld_"
+    },
+    {
+        "wikidata_id": "Q2802143",
+        "name": "Ledeberg",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/03c9llm"
+    },
+    {
+        "wikidata_id": "Q2543761",
+        "name": "Merksem",
+        "description": "district of the City of Antwerp, Belgium",
+        "freebase_id": "/m/09k75s"
+    },
+    {
+        "wikidata_id": "Q2515123",
+        "name": "Sint-Ulriks-Kapelle",
+        "description": "section of Dilbeek, Belgium",
+        "freebase_id": "/m/04g64vp"
+    },
+    {
+        "wikidata_id": "Q2535272",
+        "name": "Blaton",
+        "description": "section of Bernissart, Wallonia, Belgium",
+        "freebase_id": "/m/0zbvp5n"
+    },
+    {
+        "wikidata_id": "Q2396419",
+        "name": "Proven",
+        "description": "section of Poperinge, Belgium",
+        "freebase_id": "/m/0272wd7"
+    },
+    {
+        "wikidata_id": "Q2900202",
+        "name": "Bettincourt",
+        "description": "section of Waremme, Wallonia, Belgium",
+        "freebase_id": "/m/09gpfdy"
+    },
+    {
+        "wikidata_id": "Q2789957",
+        "name": "Bekegem",
+        "description": "section of Ichtegem, Belgium",
+        "freebase_id": "/m/0gdxcw"
+    },
+    {
+        "wikidata_id": "Q2538413",
+        "name": "Sint-Denijs-Westrem",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/047g3l6"
+    },
+    {
+        "wikidata_id": "Q2415637",
+        "name": "Vosselare",
+        "description": "section of Nevele, Belgium",
+        "freebase_id": "/m/0g5s6zc"
+    },
+    {
+        "wikidata_id": "Q2908392",
+        "name": "De Klinge",
+        "description": "section of Sint-Gillis-Waas, Belgium",
+        "freebase_id": "/m/066gg5"
+    },
+    {
+        "wikidata_id": "Q2744509",
+        "name": "Raversijde",
+        "description": "No description available",
+        "freebase_id": "/m/0nd2q3g"
+    },
+    {
+        "wikidata_id": "Q3474450",
+        "name": "Velm",
+        "description": "section of Sint-Truiden, Belgium",
+        "freebase_id": "/m/0gg7c7g"
+    },
+    {
+        "wikidata_id": "Q3110845",
+        "name": "Reningelst",
+        "description": "section of Poperinge, Belgium",
+        "freebase_id": "/m/04gvk68"
+    },
+    {
+        "wikidata_id": "Q3086689",
+        "name": "Frasnes-lez-Gosselies",
+        "description": "section of Les Bons Villers, Wallonia, Belgium",
+        "freebase_id": "/m/0_gz69v"
+    },
+    {
+        "wikidata_id": "Q2490578",
+        "name": "Sint-Pieters",
+        "description": "quarter of the city of Bruges, Belgium",
+        "freebase_id": "/m/0390h6"
+    },
+    {
+        "wikidata_id": "Q1921437",
+        "name": "Zuid",
+        "description": "neighborhood in Antwerp, Belgium",
+        "freebase_id": "/m/027fx05"
+    },
+    {
+        "wikidata_id": "Q3198907",
+        "name": "Korbeek-Lo",
+        "description": "section of Bierbeek, Belgium",
+        "freebase_id": "/m/02h8jrb"
+    },
+    {
+        "wikidata_id": "Q3317677",
+        "name": "Zwankendamme",
+        "description": "village of the city of Bruges, Belgium",
+        "freebase_id": "/m/0390gd"
+    },
+    {
+        "wikidata_id": "Q3463367",
+        "name": "Saint-Servais",
+        "description": "section of Namur, Wallonia, Belgium",
+        "freebase_id": "/m/0_r_lf7"
+    },
+    {
+        "wikidata_id": "Q2941349",
+        "name": "Casteau",
+        "description": "section of Soignies, Belgium",
+        "freebase_id": "/m/02668g7"
+    },
+    {
+        "wikidata_id": "Q3179602",
+        "name": "Westmalle",
+        "description": "section of Malle, Belgium",
+        "freebase_id": "/m/025rtk4"
+    },
+    {
+        "wikidata_id": "Q3113113",
+        "name": "Rijkhoven",
+        "description": "section of Bilzen, Belgium",
+        "freebase_id": "/m/0cgmmx"
+    },
+    {
+        "wikidata_id": "Q3110823",
+        "name": "Heule",
+        "description": "section of Kortrijk, Belgium",
+        "freebase_id": "/m/0bh9jwk"
+    },
+    {
+        "wikidata_id": "Q3106465",
+        "name": "Sélange",
+        "description": "section of Messancy, Belgium",
+        "freebase_id": "/m/0fj637"
+    },
+    {
+        "wikidata_id": "Q2676632",
+        "name": "Lapscheure",
+        "description": "section of Damme, Belgium",
+        "freebase_id": "/m/0390mc"
+    },
+    {
+        "wikidata_id": "Q3402965",
+        "name": "Oignies Abbey",
+        "description": "No description available",
+        "freebase_id": "/m/0kfvmtd"
+    },
+    {
+        "wikidata_id": "Q3050343",
+        "name": "Goegnies-Chaussée",
+        "description": "section of Quévy, Belgium",
+        "freebase_id": "/m/0f68xk"
+    },
+    {
+        "wikidata_id": "Q2673652",
+        "name": "Olmen",
+        "description": "section of Balen, Belgium",
+        "freebase_id": "/m/09fn0v"
+    },
+    {
+        "wikidata_id": "Q985778",
+        "name": "Papegem",
+        "description": "human settlement",
+        "freebase_id": "/m/0h3mxly"
+    },
+    {
+        "wikidata_id": "Q949445",
+        "name": "Sablon - Zavel",
+        "description": "neighbourhood in the Pentagon, Brussels, Belgium",
+        "freebase_id": "/m/010f5_2y"
+    },
+    {
+        "wikidata_id": "Q2652927",
+        "name": "Ormeignies",
+        "description": "section of Ath, Wallonia, Belgium",
+        "freebase_id": "/m/027bl_g"
+    },
+    {
+        "wikidata_id": "Q2681034",
+        "name": "Emelgem",
+        "description": "section of Izegem, Belgium",
+        "freebase_id": "/m/04f27mk"
+    },
+    {
+        "wikidata_id": "Q3082439",
+        "name": "Francorchamps",
+        "description": "section of Stavelot, Belgium",
+        "freebase_id": "/m/012w492y"
+    },
+    {
+        "wikidata_id": "Q4777485",
+        "name": "Antwerp diamond district",
+        "description": "area within the city of Antwerp, Belgium",
+        "freebase_id": "/m/0gvtqw7"
+    },
+    {
+        "wikidata_id": "Q2659369",
+        "name": "Sint-Goriks-Oudenhove",
+        "description": "section of Zottegem, Belgium",
+        "freebase_id": "/m/0fk4j4"
+    },
+    {
+        "wikidata_id": "Q2160693",
+        "name": "Zemst-Bos",
+        "description": "No description available",
+        "freebase_id": "/m/0j264n4"
+    },
+    {
+        "wikidata_id": "Q3113123",
+        "name": "Moelingen",
+        "description": "section of Voeren, Belgium",
+        "freebase_id": "/m/0kfwxp3"
+    },
+    {
+        "wikidata_id": "Q3475722",
+        "name": "Everbeek",
+        "description": "section of Brakel, Belgium",
+        "freebase_id": "/m/06rz_1"
+    },
+    {
+        "wikidata_id": "Q3475758",
+        "name": "Nederbrakel",
+        "description": "section of Brakel, Belgium",
+        "freebase_id": "/m/05zxkg8"
+    },
+    {
+        "wikidata_id": "Q3099657",
+        "name": "Marke",
+        "description": "section of Kortrijk, Belgium",
+        "freebase_id": "/m/0bh93pp"
+    },
+    {
+        "wikidata_id": "Q2655593",
+        "name": "Mannekensvere",
+        "description": "section of Middelkerke, Belgium",
+        "freebase_id": "/m/027mx1p"
+    },
+    {
+        "wikidata_id": "Q2715942",
+        "name": "Horion-Hozémont",
+        "description": "section of Grâce-Hollogne, Belgium",
+        "freebase_id": "/m/0108h0w8"
+    },
+    {
+        "wikidata_id": "Q3022295",
+        "name": "Denderhoutem",
+        "description": "section of Haaltert, Belgium",
+        "freebase_id": "/m/0fgpxp"
+    },
+    {
+        "wikidata_id": "Q2671324",
+        "name": "Strépy-Bracquegnies",
+        "description": "section of La Louvière, Wallonia, Belgium",
+        "freebase_id": "/m/0_v28cx"
+    },
+    {
+        "wikidata_id": "Q797512",
+        "name": "Baarle",
+        "description": "village in Belgium and the Netherlands",
+        "freebase_id": "/m/0nbfy27"
+    },
+    {
+        "wikidata_id": "Q2191390",
+        "name": "Roesbrugge",
+        "description": "No description available",
+        "freebase_id": "/m/026m2cc"
+    },
+    {
+        "wikidata_id": "Q2667710",
+        "name": "Testelt",
+        "description": "section of Scherpenheuvel-Zichem, Belgium",
+        "freebase_id": "/m/04dnqnl"
+    },
+    {
+        "wikidata_id": "Q1810876",
+        "name": "Zwartberg",
+        "description": "human settlement",
+        "freebase_id": "/m/0r3smsm"
+    },
+    {
+        "wikidata_id": "Q239",
+        "name": "Brussels",
+        "description": "municipality and capital city of Belgium",
+        "freebase_id": "/m/02rnbv"
+    },
+    {
+        "wikidata_id": "Q884035",
+        "name": "Born (Amel)",
+        "description": "human settlement",
+        "freebase_id": "/m/0130qd1m"
+    },
+    {
+        "wikidata_id": "Q3992",
+        "name": "Liège",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/0d4k2"
+    },
+    {
+        "wikidata_id": "Q2678402",
+        "name": "Zepperen",
+        "description": "section of Sint-Truiden, Belgium",
+        "freebase_id": "/m/03mc4lq"
+    },
+    {
+        "wikidata_id": "Q572882",
+        "name": "Malem, Ghent",
+        "description": "neighborhood in Belgium",
+        "freebase_id": "/m/02qsy_t"
+    },
+    {
+        "wikidata_id": "Q2480805",
+        "name": "Abele",
+        "description": "village in the Belgian municipality of Poperinghe, and also the French municipality of Boeschepe",
+        "freebase_id": "/m/025rzy4"
+    },
+    {
+        "wikidata_id": "Q2669661",
+        "name": "Den Dam",
+        "description": "area in northern Antwerp, Belgium",
+        "freebase_id": "/m/0h4k35"
+    },
+    {
+        "wikidata_id": "Q2328897",
+        "name": "Moscou",
+        "description": "neighbourhood of the Belgian city of Ghent",
+        "freebase_id": "/m/051_vbv"
+    },
+    {
+        "wikidata_id": "Q3224973",
+        "name": "Villers-Saint-Ghislain",
+        "description": "municipality section in Hainaut (Belgium)",
+        "freebase_id": "/m/02rnv0p"
+    },
+    {
+        "wikidata_id": "Q6427173",
+        "name": "Kolegem",
+        "description": "No description available",
+        "freebase_id": "/m/09v8vzh"
+    },
+    {
+        "wikidata_id": "Q2676595",
+        "name": "Chaussée-Notre-Dame-Louvignies",
+        "description": "section of Soignies, Belgium",
+        "freebase_id": "/m/02rnrvw"
+    },
+    {
+        "wikidata_id": "Q3198908",
+        "name": "Korbeek-Dijle",
+        "description": "section of Bertem, Belgium",
+        "freebase_id": "/m/09ggls1"
+    },
+    {
+        "wikidata_id": "Q3012273",
+        "name": "Wulveringem",
+        "description": "section of Veurne, Belgium",
+        "freebase_id": "/m/012sn184"
+    },
+    {
+        "wikidata_id": "Q2246306",
+        "name": "Brandhoek",
+        "description": "No description available",
+        "freebase_id": "/m/02q632w"
+    },
+    {
+        "wikidata_id": "Q3089410",
+        "name": "Wéris",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02p_c4s"
+    },
+    {
+        "wikidata_id": "Q3181971",
+        "name": "Sint-Joris",
+        "description": "section of Beernem, Belgium",
+        "freebase_id": "/m/038cnk"
+    },
+    {
+        "wikidata_id": "Q3335201",
+        "name": "Naimette-Xhovémont",
+        "description": "neighborhood in Liège, Belgium",
+        "freebase_id": "/m/011ljb9m"
+    },
+    {
+        "wikidata_id": "Q2707009",
+        "name": "Godveerdegem",
+        "description": "section of Zottegem, Belgium",
+        "freebase_id": "/m/0bhc6nm"
+    },
+    {
+        "wikidata_id": "Q2676075",
+        "name": "Oppuurs",
+        "description": "section of Puurs-Sint-Amands, Belgium",
+        "freebase_id": "/m/0j46dn2"
+    },
+    {
+        "wikidata_id": "Q985879",
+        "name": "Egem",
+        "description": "human settlement",
+        "freebase_id": "/m/0h53h5r"
+    },
+    {
+        "wikidata_id": "Q3141260",
+        "name": "Houdeng-Gœgnies",
+        "description": "section of La Louvière, Belgium",
+        "freebase_id": "/m/0_v768n"
+    },
+    {
+        "wikidata_id": "Q3161840",
+        "name": "Jandrain-Jandrenouille",
+        "description": "section of Orp-Jauche, Belgium",
+        "freebase_id": "/m/03tmfy"
+    },
+    {
+        "wikidata_id": "Q2016251",
+        "name": "Holy Corner",
+        "description": "beguinage in Ghent, Belgium",
+        "freebase_id": "/m/0ffy1j"
+    },
+    {
+        "wikidata_id": "Q3474597",
+        "name": "Baaigem",
+        "description": "section of Gavere, Belgium",
+        "freebase_id": "/m/0bbwg1l"
+    },
+    {
+        "wikidata_id": "Q3311264",
+        "name": "Michelbeke",
+        "description": "section of Brakel, Belgium",
+        "freebase_id": "/m/05zqxtn"
+    },
+    {
+        "wikidata_id": "Q111891175",
+        "name": "Dampoort (Ghent)",
+        "description": "Belgium neighbourhood",
+        "freebase_id": "/m/02rcg22"
+    },
+    {
+        "wikidata_id": "Q1959372",
+        "name": "Wijgmaal",
+        "description": "section of Leuven, Belgium",
+        "freebase_id": "/m/02sd_jq"
+    },
+    {
+        "wikidata_id": "Q2038351",
+        "name": "Geistingen",
+        "description": "village in Kinrooi, Belgium",
+        "freebase_id": "/m/080kj60"
+    },
+    {
+        "wikidata_id": "Q3438046",
+        "name": "Rocourt",
+        "description": "section of Liège, Belgium",
+        "freebase_id": "/m/0j_3wry"
+    },
+    {
+        "wikidata_id": "Q2167634",
+        "name": "Linkeroever",
+        "description": "area in Antwerp, Belgium",
+        "freebase_id": "/m/080mjvr"
+    },
+    {
+        "wikidata_id": "Q2232237",
+        "name": "Luchteren",
+        "description": "neighbourhood of the city of Ghent, Belgium",
+        "freebase_id": "/m/03tk1d"
+    },
+    {
+        "wikidata_id": "Q3474741",
+        "name": "Zichem",
+        "description": "Hamlet of Scherpenheuvel-Zichem, Belgium",
+        "freebase_id": "/m/04dnqnd"
+    },
+    {
+        "wikidata_id": "Q2407620",
+        "name": "Northern Quarter",
+        "description": "neighbourhood in Brussels, Belgium",
+        "freebase_id": "/m/076w541"
+    },
+    {
+        "wikidata_id": "Q2656098",
+        "name": "Vissenaken",
+        "description": "section of Tienen, Belgium",
+        "freebase_id": "/m/0dt7_3"
+    },
+    {
+        "wikidata_id": "Q2974907",
+        "name": "Heist-aan-Zee",
+        "description": "section of Knokke-Heist, Belgium",
+        "freebase_id": "/m/0390vm"
+    },
+    {
+        "wikidata_id": "Q2257545",
+        "name": "Sint-Elooi",
+        "description": "village in West Flanders, Belgium",
+        "freebase_id": "/m/0134jz3b"
+    },
+    {
+        "wikidata_id": "Q3475159",
+        "name": "Vaalbeek",
+        "description": "section of Oud-Heverlee, Belgium",
+        "freebase_id": "/m/02r3497"
+    },
+    {
+        "wikidata_id": "Q2663811",
+        "name": "Mendonk",
+        "description": "section of Ghent, Belgium",
+        "freebase_id": "/m/043k6cr"
+    },
+    {
+        "wikidata_id": "Q2164599",
+        "name": "Het Zwartland",
+        "description": "Hamlet of Zemst-Bos, Belgium",
+        "freebase_id": "/m/0pcw32x"
+    },
+    {
+        "wikidata_id": "Q3472683",
+        "name": "Thieu",
+        "description": "section of Le Rœulx, Belgium",
+        "freebase_id": "/m/04y5nj6"
+    },
+    {
+        "wikidata_id": "Q3040923",
+        "name": "Dudzele",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/038cqt"
+    },
+    {
+        "wikidata_id": "Q1260067",
+        "name": "Spy",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02rmrff"
+    },
+    {
+        "wikidata_id": "Q2665548",
+        "name": "Sars-la-Buissière",
+        "description": "section of Lobbes, Belgium",
+        "freebase_id": "/m/011f07kv"
+    },
+    {
+        "wikidata_id": "Q2689517",
+        "name": "Cortil-Wodon",
+        "description": "section of Fernelmont, Belgium",
+        "freebase_id": "/m/0287f6g"
+    },
+    {
+        "wikidata_id": "Q3181960",
+        "name": "Kaaskerke",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038bxf"
+    },
+    {
+        "wikidata_id": "Q3181967",
+        "name": "Keiem",
+        "description": "section of Diksmuide, Belgium",
+        "freebase_id": "/m/038bxs"
+    },
+    {
+        "wikidata_id": "Q2676933",
+        "name": "Sint-Andries",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/03909f"
+    },
+    {
+        "wikidata_id": "Q2963326",
+        "name": "Reninge",
+        "description": "section of Lo-Reninge, Belgium",
+        "freebase_id": "/m/038ckw"
+    },
+    {
+        "wikidata_id": "Q2614768",
+        "name": "Godsheide",
+        "description": "village in Flemish Community, Belgium",
+        "freebase_id": "/m/0dsf8tm"
+    },
+    {
+        "wikidata_id": "Q2708072",
+        "name": "Bissegem",
+        "description": "section of Kortrijk, Belgium",
+        "freebase_id": "/m/0bh7l8q"
+    },
+    {
+        "wikidata_id": "Q3011438",
+        "name": "Sainte-Marie-Geest",
+        "description": "No description available",
+        "freebase_id": "/m/0_v4hw8"
+    },
+    {
+        "wikidata_id": "Q1393355",
+        "name": "Sint-Anna-Pede",
+        "description": "human settlement",
+        "freebase_id": "/m/0gxzx4z"
+    },
+    {
+        "wikidata_id": "Q2166168",
+        "name": "Mariakerke",
+        "description": "No description available",
+        "freebase_id": "/m/0ds7lt0"
+    },
+    {
+        "wikidata_id": "Q2657809",
+        "name": "Buizingen",
+        "description": "section of Halle, Belgium",
+        "freebase_id": "/m/0b73z1y"
+    },
+    {
+        "wikidata_id": "Q3429515",
+        "name": "Rhisnes",
+        "description": "section of La Bruyère, Belgium",
+        "freebase_id": "/m/0_qfhkh"
+    },
+    {
+        "wikidata_id": "Q2253126",
+        "name": "Nekkerspoel",
+        "description": "neighbourhood in Mechelen, Belgium",
+        "freebase_id": "/m/027zr08"
+    },
+    {
+        "wikidata_id": "Q3264062",
+        "name": "Louveigné",
+        "description": "section of Sprimont, Belgium",
+        "freebase_id": "/m/06s6__"
+    },
+    {
+        "wikidata_id": "Q2423766",
+        "name": "Louise-Marie",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0bhbtbw"
+    },
+    {
+        "wikidata_id": "Q2005045",
+        "name": "Risquons-Tout",
+        "description": "village in Wallonia, Belgium",
+        "freebase_id": "/m/0_ftxws"
+    },
+    {
+        "wikidata_id": "Q1968687",
+        "name": "Ouren",
+        "description": "hamlet in Burg-Reuland, Belgium",
+        "freebase_id": "/m/010fbk4g"
+    },
+    {
+        "wikidata_id": "Q3198118",
+        "name": "Kobbegem",
+        "description": "section of Asse, Belgium",
+        "freebase_id": "/m/04g1hct"
+    },
+    {
+        "wikidata_id": "Q3462070",
+        "name": "Saint-Denis",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02rp5qg"
+    },
+    {
+        "wikidata_id": "Q527969",
+        "name": "Moerbrugge",
+        "description": "human settlement",
+        "freebase_id": "/m/02qzlrv"
+    },
+    {
+        "wikidata_id": "Q1887100",
+        "name": "Male",
+        "description": "suburb of Bruges, West Flanders, Belgium",
+        "freebase_id": "/m/07p_w_"
+    },
+    {
+        "wikidata_id": "Q3181954",
+        "name": "Stalhille",
+        "description": "section of Jabbeke, Belgium",
+        "freebase_id": "/m/0390q6"
+    },
+    {
+        "wikidata_id": "Q2936941",
+        "name": "Sint-Amandsberg",
+        "description": "sub-municipality of Ghent, Belgium",
+        "freebase_id": "/m/04ydp7v"
+    },
+    {
+        "wikidata_id": "Q14759512",
+        "name": "Bonneville",
+        "description": "section of Andenne, Wallonia, Belgium",
+        "freebase_id": "/m/06wbs6x"
+    },
+    {
+        "wikidata_id": "Q3475374",
+        "name": "Warisoulx",
+        "description": "section of La Bruyère, Belgium",
+        "freebase_id": "/m/0_s31k5"
+    },
+    {
+        "wikidata_id": "Q3278531",
+        "name": "Maisières",
+        "description": "municipality section, Belgium",
+        "freebase_id": "/m/02rnwlw"
+    },
+    {
+        "wikidata_id": "Q3155554",
+        "name": "Thieusies",
+        "description": "section of Soignies, Belgium",
+        "freebase_id": "/m/02rns8z"
+    },
+    {
+        "wikidata_id": "Q3093477",
+        "name": "Gaasbeek",
+        "description": "section of Lennik, Belgium",
+        "freebase_id": "/m/064pljl"
+    },
+    {
+        "wikidata_id": "Q3160833",
+        "name": "Jambes",
+        "description": "town in Namur municipality, Wallonia, Belgium",
+        "freebase_id": "/m/05c53_r"
+    },
+    {
+        "wikidata_id": "Q948743",
+        "name": "Cambron Abbey",
+        "description": "former Cistercian abbey in Cambron-Casteau, Brugelette, Wallonia, Belgium",
+        "freebase_id": "/m/0hgp1mv"
+    },
+    {
+        "wikidata_id": "Q3217044",
+        "name": "Landegem",
+        "description": "section of Deinze, Belgium",
+        "freebase_id": "/m/02qxdtd"
+    },
+    {
+        "wikidata_id": "Q3067699",
+        "name": "Faymonville",
+        "description": "section of Waimes, Wallonia, Belgium",
+        "freebase_id": "/m/02plscg"
+    },
+    {
+        "wikidata_id": "Q333832",
+        "name": "Aulne Abbey",
+        "description": "Cistercian monastery in Belgium",
+        "freebase_id": "/m/0ct918"
+    },
+    {
+        "wikidata_id": "Q2973295",
+        "name": "Ciply",
+        "description": "village in Hainaut, Belgium",
+        "freebase_id": "/m/02rnw42"
+    },
+    {
+        "wikidata_id": "Q3110836",
+        "name": "Wakken",
+        "description": "section of Dentergem, Belgium",
+        "freebase_id": "/m/03cvkt6"
+    },
+    {
+        "wikidata_id": "Q2533576",
+        "name": "Portus Ganda",
+        "description": "No description available",
+        "freebase_id": "/m/02rcg55"
+    },
+    {
+        "wikidata_id": "Q2316812",
+        "name": "Klein-Sinaai",
+        "description": "village in Flemish Region",
+        "freebase_id": "/m/02x6jx8"
+    },
+    {
+        "wikidata_id": "Q2945138",
+        "name": "Ransart",
+        "description": "section of Charleroi, Wallonia, Belgium",
+        "freebase_id": "/m/047rk2b"
+    },
+    {
+        "wikidata_id": "Q2964380",
+        "name": "Chokier",
+        "description": "section of Flémalle, Belgium",
+        "freebase_id": "/m/0dbq4p"
+    },
+    {
+        "wikidata_id": "Q2413102",
+        "name": "Putte-Kapellen",
+        "description": "village in Kapellen, Belgium",
+        "freebase_id": "/m/0fwzf6"
+    },
+    {
+        "wikidata_id": "Q806889",
+        "name": "Banneux",
+        "description": "human settlement in Sprimont, Belgium",
+        "freebase_id": "/m/04gnff7"
+    },
+    {
+        "wikidata_id": "Q2688509",
+        "name": "Bavegem",
+        "description": "section of Sint-Lievens-Houtem, Belgium",
+        "freebase_id": "/m/065l59"
+    },
+    {
+        "wikidata_id": "Q2670767",
+        "name": "Beerlegem",
+        "description": "section of Zwalm, Belgium",
+        "freebase_id": "/m/0bbw4tw"
+    },
+    {
+        "wikidata_id": "Q3100214",
+        "name": "Glons",
+        "description": "section of Bassenge, Wallonia, Belgium",
+        "freebase_id": "/m/06s6zy"
+    },
+    {
+        "wikidata_id": "Q3146263",
+        "name": "Melsen",
+        "description": "section of Merelbeke, Belgium",
+        "freebase_id": "/m/03k9h9"
+    },
+    {
+        "wikidata_id": "Q1863253",
+        "name": "Zurenborg",
+        "description": "neighborhood of Antwerp, Belgium",
+        "freebase_id": "/m/03f9zc"
+    },
+    {
+        "wikidata_id": "Q3115868",
+        "name": "Wespelaar",
+        "description": "section of Haacht, Belgium",
+        "freebase_id": "/m/0cnp92"
+    },
+    {
+        "wikidata_id": "Q2698105",
+        "name": "Nobressart",
+        "description": "section of Attert, Wallonia, Belgium",
+        "freebase_id": "/m/0cwx2_"
+    },
+    {
+        "wikidata_id": "Q2693148",
+        "name": "Muno",
+        "description": "section of Florenville, Belgium",
+        "freebase_id": "/m/0m0g8k2"
+    },
+    {
+        "wikidata_id": "Q1604760",
+        "name": "Prinsenhof",
+        "description": "historical neighborhood in Ghent, Belgium",
+        "freebase_id": "/m/0gmfyt6"
+    },
+    {
+        "wikidata_id": "Q3110841",
+        "name": "Sijsele",
+        "description": "section of Damme, Belgium",
+        "freebase_id": "/m/0390nd"
+    },
+    {
+        "wikidata_id": "Q3086686",
+        "name": "Frasnes-lez-Buissenal",
+        "description": "section of Frasnes-lez-Anvaing, Wallonia, Belgium",
+        "freebase_id": "/m/0_fpgys"
+    },
+    {
+        "wikidata_id": "Q2536212",
+        "name": "Sint-Jozef",
+        "description": "neighborhood in Bruges, Belgium",
+        "freebase_id": "/m/0390bg"
+    },
+    {
+        "wikidata_id": "Q3234954",
+        "name": "Machelen",
+        "description": "section of Zulte, Belgium",
+        "freebase_id": "/m/02ynbz"
+    },
+    {
+        "wikidata_id": "Q3305287",
+        "name": "Melsele",
+        "description": "section of Beveren, Belgium",
+        "freebase_id": "/m/04d_q7h"
+    },
+    {
+        "wikidata_id": "Q2666667",
+        "name": "Villers-Perwin",
+        "description": "section of Les Bons Villers, Belgium",
+        "freebase_id": "/m/011l70r8"
+    },
+    {
+        "wikidata_id": "Q675960",
+        "name": "Arlon",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wlq"
+    },
+    {
+        "wikidata_id": "Q1967836",
+        "name": "Flemish Diamond",
+        "description": "conurbation in Belgium",
+        "freebase_id": "/m/083zy_"
+    },
+    {
+        "wikidata_id": "Q2932425",
+        "name": "Van Wesenbekestraat",
+        "description": "street in Antwerp (city), Belgium",
+        "freebase_id": "/m/05sc9_"
+    },
+    {
+        "wikidata_id": "Q1986178",
+        "name": "Koewacht",
+        "description": "border town divided between the Netherlands (municipality of Terneuzen) and Belgium (municipalities of Lokeren andStekene)",
+        "freebase_id": "/m/02bhcf"
+    },
+    {
+        "wikidata_id": "Q1986430",
+        "name": "Marolles - Marollen",
+        "description": "neighbourhood in the Pentagon, Brussels, Belgium",
+        "freebase_id": "/m/03hghz2"
+    },
+    {
+        "wikidata_id": "Q39865",
+        "name": "Spa",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w6v"
+    },
+    {
+        "wikidata_id": "Q730506",
+        "name": "Laeken",
+        "description": "part of the City of Brussels, Belgium",
+        "freebase_id": "/m/016lyr"
+    },
+    {
+        "wikidata_id": "Q3068474",
+        "name": "Briel",
+        "description": "parish in Flanders, Belgium",
+        "freebase_id": "/m/0h56880"
+    },
+    {
+        "wikidata_id": "Q3556298",
+        "name": "Vervoz",
+        "description": "human settlement in Clavier, Belgium",
+        "freebase_id": "/m/0y6581m"
+    },
+    {
+        "wikidata_id": "Q2918117",
+        "name": "Aldeneik",
+        "description": "village in Flemish Region",
+        "freebase_id": "/m/05c1tv6"
+    },
+    {
+        "wikidata_id": "Q18345588",
+        "name": "Le Gheer",
+        "description": "hamlet 15km south of Ypres, Belgium",
+        "freebase_id": "/m/011q1q9t"
+    },
+    {
+        "wikidata_id": "Q542231",
+        "name": "Mechelen concentration camp",
+        "description": "former Nazi transit camp and a current museum in Belgium",
+        "freebase_id": "/m/02x4t3s"
+    },
+    {
+        "wikidata_id": "Q1954014",
+        "name": "Feresne",
+        "description": "No description available",
+        "freebase_id": "/m/0dh2b1"
+    },
+    {
+        "wikidata_id": "Q3342532",
+        "name": "Kerselare",
+        "description": "human settlement in Oudenaarde, Belgium",
+        "freebase_id": "/m/0bhbbh5"
+    },
+    {
+        "wikidata_id": "Q2005431",
+        "name": "Longeau",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0wkp6mv"
+    },
+    {
+        "wikidata_id": "Q2126160",
+        "name": "Relegem",
+        "description": "section of Asse, Belgium",
+        "freebase_id": "/m/04g63fk"
+    },
+    {
+        "wikidata_id": "Q155285",
+        "name": "Heysel - Heizel",
+        "description": "neighborhood",
+        "freebase_id": "/m/0g7rb"
+    },
+    {
+        "wikidata_id": "Q3483901",
+        "name": "Sillon Sambre-et-Meuse",
+        "description": "former industrial backbone of Belgium",
+        "freebase_id": "/m/03c6pw0"
+    },
+    {
+        "wikidata_id": "Q17510735",
+        "name": "Maladrie",
+        "description": "No description available",
+        "freebase_id": "/m/011jlb2_"
+    },
+    {
+        "wikidata_id": "Q2785564",
+        "name": "Sint-Gertrudis-Pede",
+        "description": "village in Dilbeek, Belgium",
+        "freebase_id": "/m/0gy18hz"
+    },
+    {
+        "wikidata_id": "Q598497",
+        "name": "Oorderen",
+        "description": "village in Belgium",
+        "freebase_id": "/m/09ktpm"
+    },
+    {
+        "wikidata_id": "Q921682",
+        "name": "De Klijte",
+        "description": "village in Belgium",
+        "freebase_id": "/m/05zxsyd"
+    },
+    {
+        "wikidata_id": "Q2641576",
+        "name": "Heist-Goor",
+        "description": "village in Flemish Region",
+        "freebase_id": "/m/06zrpc"
+    },
+    {
+        "wikidata_id": "Q3347622",
+        "name": "Deidenberg",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0f91c5"
+    },
+    {
+        "wikidata_id": "Q184383",
+        "name": "Zeebrugge",
+        "description": "village in Belgium",
+        "freebase_id": "/m/029y3n"
+    },
+    {
+        "wikidata_id": "Q2974908",
+        "name": "Civitas Tungrorum",
+        "description": "ancient Roman district",
+        "freebase_id": "/m/0h68ml6"
+    },
+    {
+        "wikidata_id": "Q2357507",
+        "name": "Walraversijde",
+        "description": "deserted medieval village in Flanders",
+        "freebase_id": "/m/0glsv7p"
+    },
+    {
+        "wikidata_id": "Q1887370",
+        "name": "Bollebeek",
+        "description": "village in Asse, Belgium",
+        "freebase_id": "/m/04fzz02"
+    },
+    {
+        "wikidata_id": "Q1018698",
+        "name": "Foy",
+        "description": "village in Bastogne, Belgium",
+        "freebase_id": "/m/054894"
+    },
+    {
+        "wikidata_id": "Q2909774",
+        "name": "Bomel",
+        "description": "human settlement in Namur, Belgium",
+        "freebase_id": "/m/0_s3myz"
+    },
+    {
+        "wikidata_id": "Q3996511",
+        "name": "Ti-Château",
+        "description": "No description available",
+        "freebase_id": "/m/0swmlcf"
+    },
+    {
+        "wikidata_id": "Q7941699",
+        "name": "Voorderweert",
+        "description": "No description available",
+        "freebase_id": "/m/03npkh6"
+    },
+    {
+        "wikidata_id": "Q672888",
+        "name": "Haren",
+        "description": "part of the City of Brussels, Belgium",
+        "freebase_id": "/m/0282ql9"
+    },
+    {
+        "wikidata_id": "Q236185",
+        "name": "Blue Banana",
+        "description": "concentration of dense populations from North West England to Milan",
+        "freebase_id": "/m/025vfdf"
+    },
+    {
+        "wikidata_id": "Q3518345",
+        "name": "Herresbach",
+        "description": "Herresbach, a village in the municipality of Amel, Belgium, belongs to the German-speaking community of Belgium.",
+        "freebase_id": "/m/0128412b"
+    },
+    {
+        "wikidata_id": "Q2673939",
+        "name": "Mazy",
+        "description": "section of Gembloux, Belgium",
+        "freebase_id": "/m/011l61zr"
+    },
+    {
+        "wikidata_id": "Q3402988",
+        "name": "Groenendael Priory",
+        "description": "former monastery in Belgium",
+        "freebase_id": "/m/0sgg62n"
+    },
+    {
+        "wikidata_id": "Q1948732",
+        "name": "Leopold Quarter",
+        "description": "neighbourhood in Brussels, Belgium",
+        "freebase_id": "/m/047s88_"
+    },
+    {
+        "wikidata_id": "Q2320851",
+        "name": "Tour & Taxis",
+        "description": "former railway station, now mixed-use neighbourhood in Brussels, Belgium",
+        "freebase_id": "/m/0125yg18"
+    },
+    {
+        "wikidata_id": "Q2289943",
+        "name": "La Roue - Het Rad",
+        "description": "neighbourhood in Anderlecht, Brussels, Belgium",
+        "freebase_id": "/m/034f2v"
+    },
+    {
+        "wikidata_id": "Q745604",
+        "name": "Sart-Dames-Avelines",
+        "description": "Section of Villers-la-Ville, Wallonia, Belgium",
+        "freebase_id": "/m/011l6sh1"
+    },
+    {
+        "wikidata_id": "Q693513",
+        "name": "Brasschaat",
+        "description": "municipality in Antwerp, Belgium",
+        "freebase_id": "/m/014gnd"
+    },
+    {
+        "wikidata_id": "Q2637926",
+        "name": "Zandvliet",
+        "description": "town in Belgium, part of Antwerp",
+        "freebase_id": "/m/05b5kgv"
+    },
+    {
+        "wikidata_id": "Q1753171",
+        "name": "Wijnendale",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02vy062"
+    },
+    {
+        "wikidata_id": "Q3049679",
+        "name": "Ezaart",
+        "description": "township in Antwerp, Belgium",
+        "freebase_id": "/m/0zwjfkh"
+    },
+    {
+        "wikidata_id": "Q692597",
+        "name": "Achouffe",
+        "description": "village in Wallonia, Belgium",
+        "freebase_id": "/m/02rvvyc"
+    },
+    {
+        "wikidata_id": "Q3287548",
+        "name": "Marbais",
+        "description": "section of Villers-la-Ville, Wallonia, Belgium",
+        "freebase_id": "/m/0w1fyjh"
+    },
+    {
+        "wikidata_id": "Q21468845",
+        "name": "Rhisnes",
+        "description": "section of Namur, Wallonia",
+        "freebase_id": "/m/0_qlzfl"
+    },
+    {
+        "wikidata_id": "Q5637021",
+        "name": "Hacboister",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0cmb9c_"
+    },
+    {
+        "wikidata_id": "Q2122534",
+        "name": "Quatre Bras",
+        "description": "village in Belgium, where the roads from Brussels to Charleroi and from Nivelles to Namur intersect",
+        "freebase_id": "/m/0394qw"
+    },
+    {
+        "wikidata_id": "Q7178381",
+        "name": "Petit Wasmes",
+        "description": "village in Colfontaine, Belgium",
+        "freebase_id": "/m/0dwrfd"
+    },
+    {
+        "wikidata_id": "Q47926340",
+        "name": "Boekt",
+        "description": "village in Belgium",
+        "freebase_id": "/m/028bxlh"
+    },
+    {
+        "wikidata_id": "Q3321619",
+        "name": "Mont-Saint-Jean",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02z5plq"
+    },
+    {
+        "wikidata_id": "Q3003980",
+        "name": "JR Tildonk",
+        "description": "section of Haacht, Belgium",
+        "freebase_id": "/m/015lpn"
+    },
+    {
+        "wikidata_id": "Q2503343",
+        "name": "Moorsel",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0py2wwj"
+    },
+    {
+        "wikidata_id": "Q3462380",
+        "name": "Saint-Gérard",
+        "description": "section of Mettet, Belgium",
+        "freebase_id": "/m/02py43q"
+    },
+    {
+        "wikidata_id": "Q15241100",
+        "name": "La Cornette",
+        "description": "hamlet in Belgium",
+        "freebase_id": "/m/02plvn0"
+    },
+    {
+        "wikidata_id": "Q2580899",
+        "name": "Eversel",
+        "description": "village in Heusden-Zolder, Belgium",
+        "freebase_id": "/m/05mwmj"
+    },
+    {
+        "wikidata_id": "Q2391194",
+        "name": "Saint-Idesbald",
+        "description": "deelgemeente in West Flanders, Belgium",
+        "freebase_id": "/m/03ydnzv"
+    },
+    {
+        "wikidata_id": "Q18655408",
+        "name": "Weert",
+        "description": "village in Belgium",
+        "freebase_id": "/m/03wg69w"
+    },
+    {
+        "wikidata_id": "Q1296",
+        "name": "Ghent",
+        "description": "city in the province of East Flanders, Belgium",
+        "freebase_id": "/m/037n3"
+    },
+    {
+        "wikidata_id": "Q2180383",
+        "name": "Ossel",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0bh7b4v"
+    },
+    {
+        "wikidata_id": "Q5091523",
+        "name": "Chenogne",
+        "description": "town in Vaux-sur-Sûre, Belgium",
+        "freebase_id": "/m/04gj8td"
+    },
+    {
+        "wikidata_id": "Q3033905",
+        "name": "Dolhain",
+        "description": "town in the municipality Limbourg, Belgium",
+        "freebase_id": "/m/0b6vr4"
+    },
+    {
+        "wikidata_id": "Q2588334",
+        "name": "Red Cloister",
+        "description": "former priory in Auderghem, Belgium",
+        "freebase_id": "/m/0fqnqc8"
+    },
+    {
+        "wikidata_id": "Q13581283",
+        "name": "Maredsous",
+        "description": "village in Anhée, Belgium",
+        "freebase_id": "/m/0c41h03"
+    },
+    {
+        "wikidata_id": "Q2590292",
+        "name": "Berendrecht",
+        "description": "village in Belgium",
+        "freebase_id": "/m/09322c"
+    },
+    {
+        "wikidata_id": "Q2538122",
+        "name": "Schiplaken",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0bh6tj4"
+    },
+    {
+        "wikidata_id": "Q2746117",
+        "name": "Koolkerke",
+        "description": "section of Brugge, Belgium",
+        "freebase_id": "/m/038cr4"
+    },
+    {
+        "wikidata_id": "Q3346559",
+        "name": "Ny",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0j7jbbm"
+    },
+    {
+        "wikidata_id": "Q2672127",
+        "name": "Grotte de Spy",
+        "description": "cave in Belgium",
+        "freebase_id": "/m/087_68"
+    },
+    {
+        "wikidata_id": "Q2653945",
+        "name": "Sart-Saint-Laurent",
+        "description": "section of Fosses-la-Ville, Belgium",
+        "freebase_id": "/m/02qmrkj"
+    },
+    {
+        "wikidata_id": "Q2156457",
+        "name": "Baugnez",
+        "description": "hamlet in Malmedy, Belgium",
+        "freebase_id": "/m/011q8k9y"
+    },
+    {
+        "wikidata_id": "Q7702357",
+        "name": "Terhand",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0679g2"
+    },
+    {
+        "wikidata_id": "Q3110337",
+        "name": "Golzinne",
+        "description": "village in Belgium",
+        "freebase_id": "/m/0g9_50n"
+    },
+    {
+        "wikidata_id": "Q21103490",
+        "name": "Zemst-Laar",
+        "description": "village in Zemst, Belgium",
+        "freebase_id": "/m/0bh6ymg"
+    },
+    {
+        "wikidata_id": "Q2218822",
+        "name": "Xhoffraix",
+        "description": "human settlement in Malmedy, Belgium",
+        "freebase_id": "/m/0_1fv5_"
+    },
+    {
+        "wikidata_id": "Q2957553",
+        "name": "Chapois",
+        "description": "village in Ciney, Belgium",
+        "freebase_id": "/m/04g17q6"
+    },
+    {
+        "wikidata_id": "Q2598913",
+        "name": "Wilmarsdonk",
+        "description": "village in Belgium",
+        "freebase_id": "/m/02q3xs5"
+    },
+    {
+        "wikidata_id": "Q2373653",
+        "name": "Celles",
+        "description": "section and village of Houyet, Belgium",
+        "freebase_id": "/m/05h3kk7"
+    },
+    {
+        "wikidata_id": "Q2315320",
+        "name": "Marbehan",
+        "description": "village in Belgium",
+        "freebase_id": "/m/04lj_j7"
+    },
+    {
+        "wikidata_id": "Q109451666",
+        "name": "Zalfen",
+        "description": "hamlet in Belgium",
+        "freebase_id": "/m/0287sp_"
+    },
+    {
+        "wikidata_id": "Q3140313",
+        "name": "Hooge",
+        "description": "village in Belgium, today part of the city of Ypres",
+        "freebase_id": "/m/0134qxxk"
+    },
+    {
+        "wikidata_id": "Q668630",
+        "name": "Péruwelz",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qj3"
+    },
+    {
+        "wikidata_id": "Q668861",
+        "name": "Le Rœulx",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q5x"
+    },
+    {
+        "wikidata_id": "Q669186",
+        "name": "Thuin",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qdn"
+    },
+    {
+        "wikidata_id": "Q220145",
+        "name": "Mouscron",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017ptp"
+    },
+    {
+        "wikidata_id": "Q713170",
+        "name": "Chiny",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017x0y"
+    },
+    {
+        "wikidata_id": "Q650239",
+        "name": "Philippeville",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017snw"
+    },
+    {
+        "wikidata_id": "Q670500",
+        "name": "Jodoigne",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qq4"
+    },
+    {
+        "wikidata_id": "Q683141",
+        "name": "Hannut",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wgc"
+    },
+    {
+        "wikidata_id": "Q269908",
+        "name": "Marche-en-Famenne",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wvl"
+    },
+    {
+        "wikidata_id": "Q268219",
+        "name": "Ronse",
+        "description": "municipality in East Flanders, Belgium",
+        "freebase_id": "/m/0149t8"
+    },
+    {
+        "wikidata_id": "Q651811",
+        "name": "Tielt",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145qk"
+    },
+    {
+        "wikidata_id": "Q506707",
+        "name": "Veurne",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145vl"
+    },
+    {
+        "wikidata_id": "Q271783",
+        "name": "Turnhout",
+        "description": "municipality in Antwerp, Belgium",
+        "freebase_id": "/m/014ltj"
+    },
+    {
+        "wikidata_id": "Q666238",
+        "name": "Enghien",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q53"
+    },
+    {
+        "wikidata_id": "Q270633",
+        "name": "Torhout",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/0144f5"
+    },
+    {
+        "wikidata_id": "Q194037",
+        "name": "Seraing",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017vwh"
+    },
+    {
+        "wikidata_id": "Q667862",
+        "name": "Leuze-en-Hainaut",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qgm"
+    },
+    {
+        "wikidata_id": "Q464454",
+        "name": "Geel",
+        "description": "city in Antwerp province, Belgium",
+        "freebase_id": "/m/014lmj"
+    },
+    {
+        "wikidata_id": "Q134121",
+        "name": "Namur",
+        "description": "capital of Wallonia, Belgium",
+        "freebase_id": "/m/017sk9"
+    },
+    {
+        "wikidata_id": "Q581246",
+        "name": "Dilsen-Stokkem",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017nw5"
+    },
+    {
+        "wikidata_id": "Q152748",
+        "name": "Sankt Vith",
+        "description": "city in Wallonia, East Belgium",
+        "freebase_id": "/m/017w6d"
+    },
+    {
+        "wikidata_id": "Q392337",
+        "name": "Izegem",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145jg"
+    },
+    {
+        "wikidata_id": "Q217216",
+        "name": "Q217216",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wxt"
+    },
+    {
+        "wikidata_id": "Q696585",
+        "name": "Herk-de-Stad",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017nmq"
+    },
+    {
+        "wikidata_id": "Q151831",
+        "name": "Eupen",
+        "description": "municipality of Belgium",
+        "freebase_id": "/m/017w1k"
+    },
+    {
+        "wikidata_id": "Q711474",
+        "name": "Waremme",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wj7"
+    },
+    {
+        "wikidata_id": "Q688781",
+        "name": "Mortsel",
+        "description": "municipality in Antwerp, Belgium",
+        "freebase_id": "/m/014h0n"
+    },
+    {
+        "wikidata_id": "Q273442",
+        "name": "Aarschot",
+        "description": "city in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014w7n"
+    },
+    {
+        "wikidata_id": "Q497697",
+        "name": "Durbuy",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wsp"
+    },
+    {
+        "wikidata_id": "Q242407",
+        "name": "Beringen",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017nkb"
+    },
+    {
+        "wikidata_id": "Q226941",
+        "name": "Q226941",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/01487h"
+    },
+    {
+        "wikidata_id": "Q713088",
+        "name": "Aubange",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wmk"
+    },
+    {
+        "wikidata_id": "Q720478",
+        "name": "Fosses-la-Ville",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017sgz"
+    },
+    {
+        "wikidata_id": "Q204547",
+        "name": "Waregem",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/01457f"
+    },
+    {
+        "wikidata_id": "Q210003",
+        "name": "Halle",
+        "description": "city and municipality in Flemish Brabant, Belgium",
+        "freebase_id": "/m/016jfg"
+    },
+    {
+        "wikidata_id": "Q385026",
+        "name": "Ninove",
+        "description": "municipality in East Flanders, Belgium",
+        "freebase_id": "/m/01486s"
+    },
+    {
+        "wikidata_id": "Q118958",
+        "name": "Leuven",
+        "description": "capital city of Flemish Brabant, Belgium",
+        "freebase_id": "/m/0k6bt"
+    },
+    {
+        "wikidata_id": "Q737077",
+        "name": "Mesen",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145zf"
+    },
+    {
+        "wikidata_id": "Q461436",
+        "name": "Halen",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017nly"
+    },
+    {
+        "wikidata_id": "Q194366",
+        "name": "Lommel",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017ny1"
+    },
+    {
+        "wikidata_id": "Q159838",
+        "name": "Malmedy",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w4c"
+    },
+    {
+        "wikidata_id": "Q665761",
+        "name": "Comines-Warneton",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017pt8"
+    },
+    {
+        "wikidata_id": "Q506739",
+        "name": "Limbourg",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w3k"
+    },
+    {
+        "wikidata_id": "Q462985",
+        "name": "Soignies",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q72"
+    },
+    {
+        "wikidata_id": "Q275863",
+        "name": "Bree",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017nvt"
+    },
+    {
+        "wikidata_id": "Q456550",
+        "name": "Tienen",
+        "description": "municipality in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014wl1"
+    },
+    {
+        "wikidata_id": "Q326771",
+        "name": "Couvin",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017smp"
+    },
+    {
+        "wikidata_id": "Q318418",
+        "name": "Vilvoorde",
+        "description": "city in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014qry"
+    },
+    {
+        "wikidata_id": "Q159974",
+        "name": "La Roche-en-Ardenne",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wtt"
+    },
+    {
+        "wikidata_id": "Q497764",
+        "name": "Rochefort",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017sb0"
+    },
+    {
+        "wikidata_id": "Q162022",
+        "name": "Mechelen",
+        "description": "city in the province of Antwerp, Belgium",
+        "freebase_id": "/m/014h9r"
+    },
+    {
+        "wikidata_id": "Q190113",
+        "name": "Tongeren",
+        "description": "former city and municipality in Limburg, Belgium",
+        "freebase_id": "/m/017p44"
+    },
+    {
+        "wikidata_id": "Q468920",
+        "name": "Stavelot",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w77"
+    },
+    {
+        "wikidata_id": "Q333466",
+        "name": "Andenne",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017sdj"
+    },
+    {
+        "wikidata_id": "Q108247",
+        "name": "Dinant",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017s6y"
+    },
+    {
+        "wikidata_id": "Q329642",
+        "name": "Ottignies-Louvain-la-Neuve",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qst"
+    },
+    {
+        "wikidata_id": "Q213224",
+        "name": "Menen",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/01456m"
+    },
+    {
+        "wikidata_id": "Q323408",
+        "name": "Damme",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/0144cj"
+    },
+    {
+        "wikidata_id": "Q666696",
+        "name": "Fontaine-l'Évêque",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017pk2"
+    },
+    {
+        "wikidata_id": "Q329621",
+        "name": "Beauraing",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017s5q"
+    },
+    {
+        "wikidata_id": "Q227070",
+        "name": "Zoutleeuw",
+        "description": "city in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014wlg"
+    },
+    {
+        "wikidata_id": "Q202954",
+        "name": "Verviers",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w97"
+    },
+    {
+        "wikidata_id": "Q314922",
+        "name": "Fleurus",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017pjb"
+    },
+    {
+        "wikidata_id": "Q456495",
+        "name": "Virton",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017x4c"
+    },
+    {
+        "wikidata_id": "Q499313",
+        "name": "Deinze",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/014978"
+    },
+    {
+        "wikidata_id": "Q724638",
+        "name": "Hoogstraten",
+        "description": "municipality in Antwerp, Belgium",
+        "freebase_id": "/m/014lpb"
+    },
+    {
+        "wikidata_id": "Q499599",
+        "name": "Hamont-Achel",
+        "description": "municipality in Limburg, Belgium",
+        "freebase_id": "/m/017nwk"
+    },
+    {
+        "wikidata_id": "Q318532",
+        "name": "Wervik",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145_m"
+    },
+    {
+        "wikidata_id": "Q207095",
+        "name": "Huy",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017syz"
+    },
+    {
+        "wikidata_id": "Q736085",
+        "name": "Peer",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/055ql2"
+    },
+    {
+        "wikidata_id": "Q456490",
+        "name": "Ciney",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017s6j"
+    },
+    {
+        "wikidata_id": "Q211033",
+        "name": "Herstal",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017vtl"
+    },
+    {
+        "wikidata_id": "Q497565",
+        "name": "Walcourt",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017spn"
+    },
+    {
+        "wikidata_id": "Q173219",
+        "name": "Tournai",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qjx"
+    },
+    {
+        "wikidata_id": "Q181314",
+        "name": "Wavre",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qxd"
+    },
+    {
+        "wikidata_id": "Q650135",
+        "name": "Neufchâteau",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w_1"
+    },
+    {
+        "wikidata_id": "Q328104",
+        "name": "Blankenberge",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0144c2"
+    },
+    {
+        "wikidata_id": "Q650274",
+        "name": "Houffalize",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wqn"
+    },
+    {
+        "wikidata_id": "Q211572",
+        "name": "La Louvière",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q5h"
+    },
+    {
+        "wikidata_id": "Q623310",
+        "name": "Nieuwpoort",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145v5"
+    },
+    {
+        "wikidata_id": "Q499588",
+        "name": "Poperinge",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/0145zv"
+    },
+    {
+        "wikidata_id": "Q383723",
+        "name": "Herentals",
+        "description": "city in Antwerp, Belgium",
+        "freebase_id": "/m/014ln8"
+    },
+    {
+        "wikidata_id": "Q499532",
+        "name": "Geraardsbergen",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/014859"
+    },
+    {
+        "wikidata_id": "Q110989",
+        "name": "Maaseik",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017nyg"
+    },
+    {
+        "wikidata_id": "Q497549",
+        "name": "Tubize",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qvr"
+    },
+    {
+        "wikidata_id": "Q499594",
+        "name": "Ans",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017vnn"
+    },
+    {
+        "wikidata_id": "Q215244",
+        "name": "Diksmuide",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145b9"
+    },
+    {
+        "wikidata_id": "Q241898",
+        "name": "Bilzen",
+        "description": "former city in Limburg, Belgium",
+        "freebase_id": "/m/017n_v"
+    },
+    {
+        "wikidata_id": "Q713740",
+        "name": "Saint-Hubert",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/08rp2z"
+    },
+    {
+        "wikidata_id": "Q713300",
+        "name": "Florenville",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017x1p"
+    },
+    {
+        "wikidata_id": "Q478797",
+        "name": "Harelbeke",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/01455f"
+    },
+    {
+        "wikidata_id": "Q668950",
+        "name": "Saint-Ghislain",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017psw"
+    },
+    {
+        "wikidata_id": "Q223927",
+        "name": "Gembloux",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017sjw"
+    },
+    {
+        "wikidata_id": "Q683465",
+        "name": "Herve",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017w20"
+    },
+    {
+        "wikidata_id": "Q499609",
+        "name": "Borgloon",
+        "description": "former city in Limburg, Belgium",
+        "freebase_id": "/m/017p07"
+    },
+    {
+        "wikidata_id": "Q211037",
+        "name": "Roeselare",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145l3"
+    },
+    {
+        "wikidata_id": "Q319463",
+        "name": "Nivelles",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qr_"
+    },
+    {
+        "wikidata_id": "Q517899",
+        "name": "Genappe",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qn9"
+    },
+    {
+        "wikidata_id": "Q667790",
+        "name": "Lessines",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q69"
+    },
+    {
+        "wikidata_id": "Q724283",
+        "name": "Essen",
+        "description": "municipality in Antwerp, Belgium",
+        "freebase_id": "/m/016pzy"
+    },
+    {
+        "wikidata_id": "Q95100",
+        "name": "Beaumont",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q7x"
+    },
+    {
+        "wikidata_id": "Q943599",
+        "name": "Scourmont Abbey",
+        "description": "Trappist Abbey in Belgium",
+        "freebase_id": "/m/0405jz9"
+    },
+    {
+        "wikidata_id": "Q12460",
+        "name": "Lier",
+        "description": "city in Antwerp province, Belgium",
+        "freebase_id": "/m/03j1dq"
+    },
+    {
+        "wikidata_id": "Q5411834",
+        "name": "Eurofest '75",
+        "description": "european International Youth Conference",
+        "freebase_id": "/m/0gzkj1"
+    },
+    {
+        "wikidata_id": "Q102728",
+        "name": "Ypres",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145__"
+    },
+    {
+        "wikidata_id": "Q95318",
+        "name": "Chièvres",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017p84"
+    },
+    {
+        "wikidata_id": "Q674954",
+        "name": "De Panne",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/0145tc"
+    },
+    {
+        "wikidata_id": "Q713498",
+        "name": "Martelange",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017wmy"
+    },
+    {
+        "wikidata_id": "Q333872",
+        "name": "Chevetogne Abbey",
+        "description": "abbey",
+        "freebase_id": "/m/02qn6s4"
+    },
+    {
+        "wikidata_id": "Q2820330",
+        "name": "Soleilmont Abbey",
+        "description": "church building in Gilly, Belgium",
+        "freebase_id": "/m/04ljv4q"
+    },
+    {
+        "wikidata_id": "Q95144",
+        "name": "Châtelet",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017ph6"
+    },
+    {
+        "wikidata_id": "Q95011",
+        "name": "Antoing",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017qf1"
+    },
+    {
+        "wikidata_id": "Q244959",
+        "name": "Baarle-Hertog",
+        "description": "municipality in Antwerp, Belgium",
+        "freebase_id": "/m/014lkz"
+    },
+    {
+        "wikidata_id": "Q175033",
+        "name": "Affligem Abbey",
+        "description": "historic religious building located in Belgium",
+        "freebase_id": "/m/09y8y2"
+    },
+    {
+        "wikidata_id": "Q711046",
+        "name": "Stoumont",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017w7n"
+    },
+    {
+        "wikidata_id": "Q12988",
+        "name": "Knokke-Heist",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/0144dc"
+    },
+    {
+        "wikidata_id": "Q240",
+        "name": "Brussels-Capital Region",
+        "description": "city and region of Belgium",
+        "freebase_id": "/m/02rhpm"
+    },
+    {
+        "wikidata_id": "Q12994",
+        "name": "Bruges",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0k424"
+    },
+    {
+        "wikidata_id": "Q95129",
+        "name": "Braine-le-Comte",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q4c"
+    },
+    {
+        "wikidata_id": "Q12995",
+        "name": "Kortrijk",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/01pbf3"
+    },
+    {
+        "wikidata_id": "Q465545",
+        "name": "Koksijde",
+        "description": "municipality in West Flanders, Belgium",
+        "freebase_id": "/m/0145ts"
+    },
+    {
+        "wikidata_id": "Q2820277",
+        "name": "Chimay Abbey",
+        "description": "abbey in Chimay, Hainaut, Belgium",
+        "freebase_id": "/m/0415dx4"
+    },
+    {
+        "wikidata_id": "Q2083761",
+        "name": "Rochefort Abbey",
+        "description": "Cistercian abbey in the town of Rochefort, Belgium",
+        "freebase_id": "/m/0405h_8"
+    },
+    {
+        "wikidata_id": "Q2820645",
+        "name": "Brecht Abbey",
+        "description": "trappist abbey in the same town",
+        "freebase_id": "/m/0405sct"
+    },
+    {
+        "wikidata_id": "Q12996",
+        "name": "Ostend",
+        "description": "coastal city in West Flanders, Belgium",
+        "freebase_id": "/m/0145g9"
+    },
+    {
+        "wikidata_id": "Q665868",
+        "name": "Louvain-la-Neuve",
+        "description": "city in the municipality of Ottignies-Louvain-la-Neuve, Belgium",
+        "freebase_id": "/m/01spzb"
+    },
+    {
+        "wikidata_id": "Q12440",
+        "name": "Eeklo",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/0148k4"
+    },
+    {
+        "wikidata_id": "Q968769",
+        "name": "Klaarland Priory",
+        "description": "monastery",
+        "freebase_id": "/m/03d4m5k"
+    },
+    {
+        "wikidata_id": "Q650206",
+        "name": "Vresse-sur-Semois",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017sbv"
+    },
+    {
+        "wikidata_id": "Q95380",
+        "name": "Q95380",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017q8r"
+    },
+    {
+        "wikidata_id": "Q835128",
+        "name": "Oudenburg",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145gs"
+    },
+    {
+        "wikidata_id": "Q83407",
+        "name": "Mons",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/0fm88"
+    },
+    {
+        "wikidata_id": "Q81046",
+        "name": "Q81046",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017pgr"
+    },
+    {
+        "wikidata_id": "Q13121",
+        "name": "Aalst",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/01483r"
+    },
+    {
+        "wikidata_id": "Q180775",
+        "name": "Molenbeek-Saint-Jean",
+        "description": "municipality in the Brussels-Capital Region, Belgium",
+        "freebase_id": "/m/013vjh"
+    },
+    {
+        "wikidata_id": "Q387774",
+        "name": "Abdij Keizersberg",
+        "description": "abbey in Leuven, Belgium",
+        "freebase_id": "/m/0465yby"
+    },
+    {
+        "wikidata_id": "Q13122",
+        "name": "Dendermonde",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/0148ds"
+    },
+    {
+        "wikidata_id": "Q630478",
+        "name": "Rixensart",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017qvc"
+    },
+    {
+        "wikidata_id": "Q2719216",
+        "name": "Maredsous Abbey",
+        "description": "Belgian Benedictine monastery",
+        "freebase_id": "/m/0bdxtk"
+    },
+    {
+        "wikidata_id": "Q743236",
+        "name": "Diest",
+        "description": "municipality in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014wbb"
+    },
+    {
+        "wikidata_id": "Q822790",
+        "name": "Lo-Reninge",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145cw"
+    },
+    {
+        "wikidata_id": "Q1941795",
+        "name": "Achel Abbey",
+        "description": "abbey on the border between Belgium and the Netherlands",
+        "freebase_id": "/m/0405gtz"
+    },
+    {
+        "wikidata_id": "Q37792",
+        "name": "Sint-Truiden",
+        "description": "municipality in Belgium",
+        "freebase_id": "/m/017nqd"
+    },
+    {
+        "wikidata_id": "Q12892",
+        "name": "Antwerp",
+        "description": "municipality in the province of Antwerp, Belgium",
+        "freebase_id": "/m/0fydw"
+    },
+    {
+        "wikidata_id": "Q13127",
+        "name": "Sint-Niklaas",
+        "description": "municipality in East Flanders, Belgium",
+        "freebase_id": "/m/0149z3"
+    },
+    {
+        "wikidata_id": "Q2721548",
+        "name": "Westmalle Abbey",
+        "description": "monastery in Westmalle, Belgium",
+        "freebase_id": "/m/0285lb_"
+    },
+    {
+        "wikidata_id": "Q111901161",
+        "name": "Brussels",
+        "description": "largest city of Belgium",
+        "freebase_id": "/m/0177z"
+    },
+    {
+        "wikidata_id": "Q49743",
+        "name": "Visé",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017vy0"
+    },
+    {
+        "wikidata_id": "Q7432749",
+        "name": "Schooneveld",
+        "description": "basin in the Netherlands",
+        "freebase_id": "/m/05_gtb"
+    },
+    {
+        "wikidata_id": "Q34021",
+        "name": "Bastogne",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017wp1"
+    },
+    {
+        "wikidata_id": "Q12910",
+        "name": "Lokeren",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/0149yd"
+    },
+    {
+        "wikidata_id": "Q666335",
+        "name": "Erquelinnes",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017q94"
+    },
+    {
+        "wikidata_id": "Q74925",
+        "name": "Lobbes Abbey",
+        "description": "abbey in Belgium",
+        "freebase_id": "/m/027x785"
+    },
+    {
+        "wikidata_id": "Q668187",
+        "name": "Momignies",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017qcg"
+    },
+    {
+        "wikidata_id": "Q668815",
+        "name": "Quiévrain",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017psg"
+    },
+    {
+        "wikidata_id": "Q667091",
+        "name": "Honnelles",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017ppq"
+    },
+    {
+        "wikidata_id": "Q932020",
+        "name": "Scherpenheuvel-Zichem",
+        "description": "city in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014wjv"
+    },
+    {
+        "wikidata_id": "Q58780",
+        "name": "Hasselt",
+        "description": "city in Limburg, Belgium",
+        "freebase_id": "/m/017411"
+    },
+    {
+        "wikidata_id": "Q815948",
+        "name": "Q815948",
+        "description": "city in West Flanders, Belgium",
+        "freebase_id": "/m/0145f1"
+    },
+    {
+        "wikidata_id": "Q12992",
+        "name": "Oudenaarde",
+        "description": "city in East Flanders, Belgium",
+        "freebase_id": "/m/0149sw"
+    },
+    {
+        "wikidata_id": "Q1170767",
+        "name": "Saint Peter's Abbey",
+        "description": "former monastery in Ghent, Belgium",
+        "freebase_id": "/m/012hchv0"
+    },
+    {
+        "wikidata_id": "Q943502",
+        "name": "Landen",
+        "description": "city in Flemish Brabant, Belgium",
+        "freebase_id": "/m/014wgy"
+    },
+    {
+        "wikidata_id": "Q160709",
+        "name": "Hotton",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017wtf"
+    },
+    {
+        "wikidata_id": "Q95096",
+        "name": "Ath",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017p6k"
+    },
+    {
+        "wikidata_id": "Q713319",
+        "name": "Gouvy",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017wq8"
+    },
+    {
+        "wikidata_id": "Q12886",
+        "name": "Anderlecht",
+        "description": "municipality in the Brussels-Capital Region, Belgium",
+        "freebase_id": "/m/013vdz"
+    },
+    {
+        "wikidata_id": "Q95112",
+        "name": "Bernissart",
+        "description": "municipality in Wallonia, Belgium",
+        "freebase_id": "/m/017p7c"
+    },
+    {
+        "wikidata_id": "Q666393",
+        "name": "Estaimpuis",
+        "description": "municipality in Hainaut, Belgium",
+        "freebase_id": "/m/017qg7"
+    },
+    {
+        "wikidata_id": "Q95121",
+        "name": "Binche",
+        "description": "city in Wallonia, Belgium",
+        "freebase_id": "/m/017q8b"
+    }
+]

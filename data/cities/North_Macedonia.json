@@ -1,0 +1,2624 @@
+[
+    {
+        "wikidata_id": "Q614871",
+        "name": "Labuništa",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/058q37p"
+    },
+    {
+        "wikidata_id": "Q3406626",
+        "name": "Prolet",
+        "description": "apartment settlement in Skopje",
+        "freebase_id": "/m/02w6h_w"
+    },
+    {
+        "wikidata_id": "Q3135622",
+        "name": "Koprišnica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c54fm"
+    },
+    {
+        "wikidata_id": "Q164741",
+        "name": "Ljubojno",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0f1fwy"
+    },
+    {
+        "wikidata_id": "Q1184573",
+        "name": "Delogoždi",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0bwgv36"
+    },
+    {
+        "wikidata_id": "Q785414",
+        "name": "Stipona",
+        "description": "village",
+        "freebase_id": "/m/0100dpgk"
+    },
+    {
+        "wikidata_id": "Q221320",
+        "name": "Rusinovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f6pd8"
+    },
+    {
+        "wikidata_id": "Q260237",
+        "name": "Sarčievo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0cp1jyy"
+    },
+    {
+        "wikidata_id": "Q2379840",
+        "name": "Kurbinovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_x5str"
+    },
+    {
+        "wikidata_id": "Q2916575",
+        "name": "Kosturino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_lg7ch"
+    },
+    {
+        "wikidata_id": "Q738174",
+        "name": "Dragoš",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f5l1b"
+    },
+    {
+        "wikidata_id": "Q1093012",
+        "name": "Mojanci",
+        "description": "village in Aračinovo Municipality, North Macedonia",
+        "freebase_id": "/m/0k3n1ct"
+    },
+    {
+        "wikidata_id": "Q736126",
+        "name": "Vrben",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0n49wb2"
+    },
+    {
+        "wikidata_id": "Q266953",
+        "name": "Bansko",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/088_vj"
+    },
+    {
+        "wikidata_id": "Q2564102",
+        "name": "Sopište",
+        "description": "village and seat of Sopište Municipality, Macedonia",
+        "freebase_id": "/m/02rh_9v"
+    },
+    {
+        "wikidata_id": "Q1290199",
+        "name": "Galičnik",
+        "description": "village in Mavrovo i Rostuše Municipality, Macedonia",
+        "freebase_id": "/m/05ql2j"
+    },
+    {
+        "wikidata_id": "Q2603922",
+        "name": "Gradsko",
+        "description": "village and seat of Gradsko Municipality, Macedonia",
+        "freebase_id": "/m/0279rff"
+    },
+    {
+        "wikidata_id": "Q3039772",
+        "name": "Raštani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkzc6h"
+    },
+    {
+        "wikidata_id": "Q1291243",
+        "name": "Lesnovo monastery",
+        "description": "monastery in North Macedonia",
+        "freebase_id": "/m/012z56bm"
+    },
+    {
+        "wikidata_id": "Q1655649",
+        "name": "Deljadrovci",
+        "description": "village in Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/010f61h7"
+    },
+    {
+        "wikidata_id": "Q2658975",
+        "name": "Gradec",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0zwm0d1"
+    },
+    {
+        "wikidata_id": "Q667351",
+        "name": "Sekirnik",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04gpq34"
+    },
+    {
+        "wikidata_id": "Q2658955",
+        "name": "Blatec",
+        "description": "village in Vinica Municipality, North Macedonia",
+        "freebase_id": "/m/0zwk1_j"
+    },
+    {
+        "wikidata_id": "Q990071",
+        "name": "Modrič",
+        "description": "settlement in North Macedonia",
+        "freebase_id": "/m/0swl6tr"
+    },
+    {
+        "wikidata_id": "Q367964",
+        "name": "Kališta",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/09gj3d1"
+    },
+    {
+        "wikidata_id": "Q1278384",
+        "name": "Kičevo Monastery",
+        "description": "monastery",
+        "freebase_id": "/m/0dw798"
+    },
+    {
+        "wikidata_id": "Q645644",
+        "name": "Rotino",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/010fhy8z"
+    },
+    {
+        "wikidata_id": "Q1575020",
+        "name": "Bunardžik",
+        "description": "village in Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/010fjjjl"
+    },
+    {
+        "wikidata_id": "Q1899572",
+        "name": "Vevčani",
+        "description": "village and seat of Vevčani Municipality, North Macedonia",
+        "freebase_id": "/m/02rh_gn"
+    },
+    {
+        "wikidata_id": "Q12297291",
+        "name": "Matejče Monastery",
+        "description": "Orthodox monastery in Matejče, North Macedonia",
+        "freebase_id": "/m/011q3bxy"
+    },
+    {
+        "wikidata_id": "Q869850",
+        "name": "Crnobuki",
+        "description": "village",
+        "freebase_id": "/m/010fc32g"
+    },
+    {
+        "wikidata_id": "Q3355006",
+        "name": "Orah",
+        "description": "village in Staro Nagoričane Municipality, Macedonia",
+        "freebase_id": "/m/0dddrxx"
+    },
+    {
+        "wikidata_id": "Q3040677",
+        "name": "Konče",
+        "description": "village and seat of Konče Municipality, Macedonia",
+        "freebase_id": "/m/02q5340"
+    },
+    {
+        "wikidata_id": "Q1040282",
+        "name": "Mitrašinci",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/010f7qgm"
+    },
+    {
+        "wikidata_id": "Q850382",
+        "name": "Brvenica",
+        "description": "village and seat of Brvenica Municipality, Macedonia",
+        "freebase_id": "/m/02q4mtt"
+    },
+    {
+        "wikidata_id": "Q260544",
+        "name": "Brajčino",
+        "description": "village in North-Macedonia",
+        "freebase_id": "/m/02rv0xx"
+    },
+    {
+        "wikidata_id": "Q615321",
+        "name": "Orlanci",
+        "description": "village in Aračinovo Municipality, Macedonia",
+        "freebase_id": "/m/0k3lvg1"
+    },
+    {
+        "wikidata_id": "Q1371168",
+        "name": "Stobi",
+        "description": "archaeological site in North Macedonia, ancient town of Paeonia",
+        "freebase_id": "/m/04_n34"
+    },
+    {
+        "wikidata_id": "Q164216",
+        "name": "Monastery of Saint Naum",
+        "description": "monastery",
+        "freebase_id": "/m/09t6j8"
+    },
+    {
+        "wikidata_id": "Q3039152",
+        "name": "Dračevica",
+        "description": "village in Demir Kapija Municipality, Macedonia",
+        "freebase_id": "/m/03c5417"
+    },
+    {
+        "wikidata_id": "Q850337",
+        "name": "Brusnik,  Bitola",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jk_kbv"
+    },
+    {
+        "wikidata_id": "Q2479406",
+        "name": "Zelenikovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02rh_l2"
+    },
+    {
+        "wikidata_id": "Q641831",
+        "name": "Grušino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k3h0cx"
+    },
+    {
+        "wikidata_id": "Q3409927",
+        "name": "Saraj",
+        "description": "neighbourhood of Skopje and seat of Saraj Municipality, Macedonia",
+        "freebase_id": "/m/02q4fq6"
+    },
+    {
+        "wikidata_id": "Q1040880",
+        "name": "Mačevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fcy05"
+    },
+    {
+        "wikidata_id": "Q1040867",
+        "name": "Smojmirovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010ffn9m"
+    },
+    {
+        "wikidata_id": "Q1040873",
+        "name": "Ratevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f5vj7"
+    },
+    {
+        "wikidata_id": "Q282785",
+        "name": "Ajvatovci",
+        "description": "human settlement",
+        "freebase_id": "/m/010ffllw"
+    },
+    {
+        "wikidata_id": "Q1289669",
+        "name": "Lešok Monastery",
+        "description": "monastery",
+        "freebase_id": "/m/043kw4j"
+    },
+    {
+        "wikidata_id": "Q2740572",
+        "name": "Želino",
+        "description": "village and seat of Želino Municipality, Macedonia",
+        "freebase_id": "/m/02rh_m3"
+    },
+    {
+        "wikidata_id": "Q1778268",
+        "name": "Kodžadžik",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/07k8jd7"
+    },
+    {
+        "wikidata_id": "Q2544152",
+        "name": "Taor",
+        "description": "village in Zelenikovo Municipality, North Macedonia",
+        "freebase_id": "/m/0d3fjj"
+    },
+    {
+        "wikidata_id": "Q221636",
+        "name": "Dvorište",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0k3ndbs"
+    },
+    {
+        "wikidata_id": "Q2281457",
+        "name": "Radiovce",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/03gz_q9"
+    },
+    {
+        "wikidata_id": "Q568011",
+        "name": "Kukurečani",
+        "description": "village in the Republic of North Macedonia",
+        "freebase_id": "/m/0gys97f"
+    },
+    {
+        "wikidata_id": "Q3087537",
+        "name": "Petrovec",
+        "description": "village and seat of Petrovec Municipality, Macedonia",
+        "freebase_id": "/m/026f5gl"
+    },
+    {
+        "wikidata_id": "Q6435333",
+        "name": "Kozle",
+        "description": "neighbourhood in Karpoš Municipality",
+        "freebase_id": "/m/0hhtjhq"
+    },
+    {
+        "wikidata_id": "Q2658934",
+        "name": "Grljani",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0zwm04w"
+    },
+    {
+        "wikidata_id": "Q2658930",
+        "name": "Istibanja",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0zwq4t6"
+    },
+    {
+        "wikidata_id": "Q915991",
+        "name": "Vrutok",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0fpjm4x"
+    },
+    {
+        "wikidata_id": "Q338216",
+        "name": "Čegrane",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03y1ttd"
+    },
+    {
+        "wikidata_id": "Q2305137",
+        "name": "Srpci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkwpml"
+    },
+    {
+        "wikidata_id": "Q2535034",
+        "name": "Vrapčište",
+        "description": "village and seat of Vrapčište Municipality, Macedonia",
+        "freebase_id": "/m/02rh_jc"
+    },
+    {
+        "wikidata_id": "Q374264",
+        "name": "Mavrovi Anovi",
+        "description": "village in Mavrovo and Rostuša Municipality, North Macedonia",
+        "freebase_id": "/m/0gyt17y"
+    },
+    {
+        "wikidata_id": "Q2658983",
+        "name": "Laki",
+        "description": "village in Vinica Municipality, Macedonia",
+        "freebase_id": "/m/0zwjftp"
+    },
+    {
+        "wikidata_id": "Q391691",
+        "name": "Šipkovica",
+        "description": "village in Tetovo Municipality, North Macedonia",
+        "freebase_id": "/m/0gywcnh"
+    },
+    {
+        "wikidata_id": "Q26300",
+        "name": "Vrteška",
+        "description": "village in Karbinci, Republic of Macedonia",
+        "freebase_id": "/m/0gyvhbh"
+    },
+    {
+        "wikidata_id": "Q1781281",
+        "name": "Kondovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0b_zqwv"
+    },
+    {
+        "wikidata_id": "Q2990706",
+        "name": "Karbinci",
+        "description": "village and seat of Karbinci Municipality, Macedonia",
+        "freebase_id": "/m/02q4p3_"
+    },
+    {
+        "wikidata_id": "Q2027841",
+        "name": "Novo Selo",
+        "description": "village and seat of Novo Selo Municipality, Macedonia",
+        "freebase_id": "/m/026lbpy"
+    },
+    {
+        "wikidata_id": "Q22582663",
+        "name": "Psacha Monastery",
+        "description": "orthodox monastery",
+        "freebase_id": "/m/0_qlcxn"
+    },
+    {
+        "wikidata_id": "Q869863",
+        "name": "Crnovec",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fcw14"
+    },
+    {
+        "wikidata_id": "Q3040262",
+        "name": "Plasnica",
+        "description": "village and seat of Plasnica Municipality, Macedonia",
+        "freebase_id": "/m/02qc40q"
+    },
+    {
+        "wikidata_id": "Q2658960",
+        "name": "Kalimanci",
+        "description": "village in Vinica Municipality, Macedonia",
+        "freebase_id": "/m/0zwl1vg"
+    },
+    {
+        "wikidata_id": "Q2895145",
+        "name": "Belčišta",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/074930"
+    },
+    {
+        "wikidata_id": "Q3040647",
+        "name": "Medžitlija",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0bbyspn"
+    },
+    {
+        "wikidata_id": "Q1643334",
+        "name": "Bogovinje",
+        "description": "village and seat of Bogovinje Municipality, Macedonia",
+        "freebase_id": "/m/02q4msf"
+    },
+    {
+        "wikidata_id": "Q1276520",
+        "name": "Saint Jovan Bigorski Monastery",
+        "description": "monastery in North Macedonia",
+        "freebase_id": "/m/0dw6m7"
+    },
+    {
+        "wikidata_id": "Q2374100",
+        "name": "Pretor",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_x6kdc"
+    },
+    {
+        "wikidata_id": "Q1007469",
+        "name": "Lojane",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0h_dzpt"
+    },
+    {
+        "wikidata_id": "Q1007540",
+        "name": "Srbinovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gyrxkt"
+    },
+    {
+        "wikidata_id": "Q54452",
+        "name": "Kumanovo",
+        "description": "town and seat of Kumanovo Municipality, Macedonia",
+        "freebase_id": "/m/04xs0d"
+    },
+    {
+        "wikidata_id": "Q2658951",
+        "name": "Leski",
+        "description": "village in Vinica Municipality, Macedonia",
+        "freebase_id": "/m/0zwl20j"
+    },
+    {
+        "wikidata_id": "Q1026744",
+        "name": "Dolno Srpci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04210fh"
+    },
+    {
+        "wikidata_id": "Q1026763",
+        "name": "Podmočani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_yhxjq"
+    },
+    {
+        "wikidata_id": "Q2990800",
+        "name": "Rosoman",
+        "description": "village and seat of Rosoman Municipality, Macedonia",
+        "freebase_id": "/m/02rh_8t"
+    },
+    {
+        "wikidata_id": "Q2990830",
+        "name": "Zrnovci",
+        "description": "village and seat of Zrnovci Municipality, Macedonia",
+        "freebase_id": "/m/02rh_mg"
+    },
+    {
+        "wikidata_id": "Q2378380",
+        "name": "Dolneni",
+        "description": "village and seat of Dolneni Municipality, Macedonia",
+        "freebase_id": "/m/02q4nmh"
+    },
+    {
+        "wikidata_id": "Q1280954",
+        "name": "Karpino Monastery",
+        "description": "monastery",
+        "freebase_id": "/m/09g6jtx"
+    },
+    {
+        "wikidata_id": "Q913309",
+        "name": "Trebište",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/09g83y7"
+    },
+    {
+        "wikidata_id": "Q1021618",
+        "name": "Radolišta",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/05mvhvz"
+    },
+    {
+        "wikidata_id": "Q12907108",
+        "name": "Kisela Jabuka",
+        "description": "village in Greater Skopje, North Macedonia",
+        "freebase_id": "/m/0zbyc7n"
+    },
+    {
+        "wikidata_id": "Q527976",
+        "name": "Rajčani",
+        "description": "village",
+        "freebase_id": "/m/02z4gc3"
+    },
+    {
+        "wikidata_id": "Q1283696",
+        "name": "Saint Panteleimon",
+        "description": "monastery",
+        "freebase_id": "/m/02qwfcd"
+    },
+    {
+        "wikidata_id": "Q15231075",
+        "name": "Arhiljevica",
+        "description": "lost medieval village and monastery",
+        "freebase_id": "/m/0zdq7qt"
+    },
+    {
+        "wikidata_id": "Q1261206",
+        "name": "Church of St. Panteleimon",
+        "description": "church in Gorno Nerezi, Republic of Macedonia",
+        "freebase_id": "/m/03c8ym4"
+    },
+    {
+        "wikidata_id": "Q1571791",
+        "name": "Tekija",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f9h0w"
+    },
+    {
+        "wikidata_id": "Q635671",
+        "name": "Obednik",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0c3xrjb"
+    },
+    {
+        "wikidata_id": "Q2661071",
+        "name": "Treskavec Monastery",
+        "description": "monastery in North Macedonia",
+        "freebase_id": "/m/05b5cz0"
+    },
+    {
+        "wikidata_id": "Q2006315",
+        "name": "Vasilevo",
+        "description": "village and seat of Vasilevo Municipality, Macedonia",
+        "freebase_id": "/m/02rh_f8"
+    },
+    {
+        "wikidata_id": "Q1021804",
+        "name": "Lukovo",
+        "description": "village in Struga Municipality, North Macedonia",
+        "freebase_id": "/m/0gys40p"
+    },
+    {
+        "wikidata_id": "Q1027713",
+        "name": "Draslajca",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04n2ywc"
+    },
+    {
+        "wikidata_id": "Q1027709",
+        "name": "Idrizovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03mb3np"
+    },
+    {
+        "wikidata_id": "Q1027721",
+        "name": "Nerezi",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c8db9"
+    },
+    {
+        "wikidata_id": "Q1027704",
+        "name": "Radožda",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04m_v53"
+    },
+    {
+        "wikidata_id": "Q3657715",
+        "name": "Prosek",
+        "description": "archaeological site in Macedonia",
+        "freebase_id": "/m/03cfvf1"
+    },
+    {
+        "wikidata_id": "Q3084391",
+        "name": "Jegunovce",
+        "description": "village and seat of Jegunovce Municipality, Macedonia",
+        "freebase_id": "/m/05xwbc"
+    },
+    {
+        "wikidata_id": "Q2990795",
+        "name": "Rankovce",
+        "description": "village and seat of Rankovce Municipality, Macedonia",
+        "freebase_id": "/m/02qc4rs"
+    },
+    {
+        "wikidata_id": "Q2986132",
+        "name": "Marko's Monastery",
+        "description": "monastery in Macedonia",
+        "freebase_id": "/m/0cmb00n"
+    },
+    {
+        "wikidata_id": "Q851414",
+        "name": "Budinarci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k3nk43"
+    },
+    {
+        "wikidata_id": "Q790410",
+        "name": "Barešani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jky8qg"
+    },
+    {
+        "wikidata_id": "Q977687",
+        "name": "Velušina",
+        "description": "village",
+        "freebase_id": "/m/010fkscg"
+    },
+    {
+        "wikidata_id": "Q626840",
+        "name": "Aračinovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0cc9hr"
+    },
+    {
+        "wikidata_id": "Q1396930",
+        "name": "Mavrovo",
+        "description": "village in Mavrovo and Rostuša Municipality, North Macedonia",
+        "freebase_id": "/m/02qc36y"
+    },
+    {
+        "wikidata_id": "Q890640",
+        "name": "Bogomila",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0g53ch9"
+    },
+    {
+        "wikidata_id": "Q608807",
+        "name": "Capari",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/08t9gx"
+    },
+    {
+        "wikidata_id": "Q2740543",
+        "name": "Bosilovo",
+        "description": "village and seat of Bosilovo Municipality, Macedonia",
+        "freebase_id": "/m/02q4mt3"
+    },
+    {
+        "wikidata_id": "Q3086082",
+        "name": "Novaci",
+        "description": "village and seat of Novaci Municipality, Macedonia",
+        "freebase_id": "/m/02qc3ky"
+    },
+    {
+        "wikidata_id": "Q3086672",
+        "name": "Sasa",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02pjp76"
+    },
+    {
+        "wikidata_id": "Q1283734",
+        "name": "Osogovo Monastery",
+        "description": "monastery",
+        "freebase_id": "/m/0bm9tsr"
+    },
+    {
+        "wikidata_id": "Q341735",
+        "name": "Čučer-Sandevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q4myy"
+    },
+    {
+        "wikidata_id": "Q2668475",
+        "name": "Jakimovo",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0zwmx4d"
+    },
+    {
+        "wikidata_id": "Q2668427",
+        "name": "Pekljani",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0zwrwy5"
+    },
+    {
+        "wikidata_id": "Q2668437",
+        "name": "Trsino",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0zwq9nj"
+    },
+    {
+        "wikidata_id": "Q657863",
+        "name": "Klisura",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c549v"
+    },
+    {
+        "wikidata_id": "Q846163",
+        "name": "Forino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0hhr67h"
+    },
+    {
+        "wikidata_id": "Q1272807",
+        "name": "Džepčište",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/047dqy9"
+    },
+    {
+        "wikidata_id": "Q686266",
+        "name": "Pokrvenik",
+        "description": "village",
+        "freebase_id": "/m/0_x8wbs"
+    },
+    {
+        "wikidata_id": "Q6092339",
+        "name": "Itadava",
+        "description": "Dacian fortified settlement",
+        "freebase_id": "/m/0gffy97"
+    },
+    {
+        "wikidata_id": "Q3070266",
+        "name": "Zrze Monastery",
+        "description": "monastery in North Macedonia",
+        "freebase_id": "/m/0hnd2jc"
+    },
+    {
+        "wikidata_id": "Q1042326",
+        "name": "Vladimirovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fdm5y"
+    },
+    {
+        "wikidata_id": "Q1053477",
+        "name": "Centar Župa",
+        "description": "village and seat of Centar Župa Municipality, Macedonia",
+        "freebase_id": "/m/02q4mvh"
+    },
+    {
+        "wikidata_id": "Q849091",
+        "name": "Bratin Dol",
+        "description": "village",
+        "freebase_id": "/m/010f4ycd"
+    },
+    {
+        "wikidata_id": "Q653186",
+        "name": "Tearce",
+        "description": "village and seat of Tearce Municipality, Macedonia",
+        "freebase_id": "/m/02rh_d7"
+    },
+    {
+        "wikidata_id": "Q2658948",
+        "name": "Lipec",
+        "description": "village in Vinica Municipality, Macedonia",
+        "freebase_id": "/m/0zwrww4"
+    },
+    {
+        "wikidata_id": "Q2603928",
+        "name": "Krivogaštani",
+        "description": "village and seat of Krivogaštani Municipality, Macedonia",
+        "freebase_id": "/m/091fkr"
+    },
+    {
+        "wikidata_id": "Q804083",
+        "name": "Bistrica",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/0jkyxkw"
+    },
+    {
+        "wikidata_id": "Q144465",
+        "name": "Zajas",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02rh_k1"
+    },
+    {
+        "wikidata_id": "Q2884879",
+        "name": "Barovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c4v0c"
+    },
+    {
+        "wikidata_id": "Q2921481",
+        "name": "Budimirci",
+        "description": "village in Novaci Municipality, Macedonia",
+        "freebase_id": "/m/09vxn6"
+    },
+    {
+        "wikidata_id": "Q3025651",
+        "name": "Dejlovce",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0100s3fj"
+    },
+    {
+        "wikidata_id": "Q3040641",
+        "name": "Kravari",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jl1wvt"
+    },
+    {
+        "wikidata_id": "Q2904791",
+        "name": "Bistrenci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c4vk7"
+    },
+    {
+        "wikidata_id": "Q2904932",
+        "name": "Bitovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0bhc5tp"
+    },
+    {
+        "wikidata_id": "Q2990779",
+        "name": "Dragobrašte",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/08gdkm"
+    },
+    {
+        "wikidata_id": "Q3027881",
+        "name": "Dihovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0h0wd_"
+    },
+    {
+        "wikidata_id": "Q3039752",
+        "name": "Trn",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkzp27"
+    },
+    {
+        "wikidata_id": "Q2910373",
+        "name": "Bonče",
+        "description": "village in Prilep Municipality, North Macedonia",
+        "freebase_id": "/m/087n9n"
+    },
+    {
+        "wikidata_id": "Q3074412",
+        "name": "Zlatari",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/0x0mx9b"
+    },
+    {
+        "wikidata_id": "Q3039334",
+        "name": "Dren",
+        "description": "village in Demir Kapija Municipality, North Macedonia",
+        "freebase_id": "/m/03c542m"
+    },
+    {
+        "wikidata_id": "Q2922590",
+        "name": "Bučin",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0cml34"
+    },
+    {
+        "wikidata_id": "Q2922591",
+        "name": "Bučinci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fhsff"
+    },
+    {
+        "wikidata_id": "Q2922678",
+        "name": "Bujkovci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fg269"
+    },
+    {
+        "wikidata_id": "Q2909486",
+        "name": "Bolno",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/0_v3w_9"
+    },
+    {
+        "wikidata_id": "Q3072852",
+        "name": "Čiflik",
+        "description": "village in Demir Kapija Municipality, Macedonia",
+        "freebase_id": "/m/03c4txy"
+    },
+    {
+        "wikidata_id": "Q2990805",
+        "name": "Krushevo",
+        "description": "village in Vinica Municipality, North Macedonia",
+        "freebase_id": "/m/0zwrdcn"
+    },
+    {
+        "wikidata_id": "Q2731405",
+        "name": "Zletovo",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/0c0xp0"
+    },
+    {
+        "wikidata_id": "Q3039464",
+        "name": "Čelopek",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/03d3b40"
+    },
+    {
+        "wikidata_id": "Q3011600",
+        "name": "Dabnica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0kmkwx5"
+    },
+    {
+        "wikidata_id": "Q3074406",
+        "name": "Leva Reka",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0y68n2t"
+    },
+    {
+        "wikidata_id": "Q3074395",
+        "name": "Staravina",
+        "description": "village in Novaci Municipality, Macedonia",
+        "freebase_id": "/m/0gyvrzh"
+    },
+    {
+        "wikidata_id": "Q2926373",
+        "name": "Brčevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/08vkjt"
+    },
+    {
+        "wikidata_id": "Q3039697",
+        "name": "Vratnica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04smlj"
+    },
+    {
+        "wikidata_id": "Q3039336",
+        "name": "Dren",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0knsld6"
+    },
+    {
+        "wikidata_id": "Q2893469",
+        "name": "Bešište",
+        "description": "village in Prilep Municipality, Macedonia",
+        "freebase_id": "/m/0k0tldz"
+    },
+    {
+        "wikidata_id": "Q3033396",
+        "name": "Dobrošte",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0g54skx"
+    },
+    {
+        "wikidata_id": "Q3033415",
+        "name": "Dobruševo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gywswf"
+    },
+    {
+        "wikidata_id": "Q3039715",
+        "name": "Lavci",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/0h97nsj"
+    },
+    {
+        "wikidata_id": "Q3039702",
+        "name": "Nižepole",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/0jl15wg"
+    },
+    {
+        "wikidata_id": "Q3039734",
+        "name": "Žabeni",
+        "description": "village in Bitola Municipality, Macedonia",
+        "freebase_id": "/m/0jkzxvs"
+    },
+    {
+        "wikidata_id": "Q3044268",
+        "name": "Luke",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/02q249z"
+    },
+    {
+        "wikidata_id": "Q3041207",
+        "name": "Orehovo",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/010f5ptr"
+    },
+    {
+        "wikidata_id": "Q3034181",
+        "name": "Dolna Bela Crkva",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0wyqjsx"
+    },
+    {
+        "wikidata_id": "Q3034185",
+        "name": "Dolna Banjica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gyr52b"
+    },
+    {
+        "wikidata_id": "Q3034209",
+        "name": "Dolno Egri",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fgzqm"
+    },
+    {
+        "wikidata_id": "Q3034204",
+        "name": "Dupeni",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03hl4wy"
+    },
+    {
+        "wikidata_id": "Q3034231",
+        "name": "Dolno Perovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_v5v_7"
+    },
+    {
+        "wikidata_id": "Q3034235",
+        "name": "Dolno Sonje",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03m6wb0"
+    },
+    {
+        "wikidata_id": "Q3074432",
+        "name": "Kriveni",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/0_xbjff"
+    },
+    {
+        "wikidata_id": "Q3074493",
+        "name": "Gorno Dupeni",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/0_t_tlg"
+    },
+    {
+        "wikidata_id": "Q3071702",
+        "name": "German",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q24j4"
+    },
+    {
+        "wikidata_id": "Q2964074",
+        "name": "Šlegovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q1pn7"
+    },
+    {
+        "wikidata_id": "Q2720683",
+        "name": "Katlanovo",
+        "description": "village in Petrovec Municipality, Macedonia",
+        "freebase_id": "/m/0412gkf"
+    },
+    {
+        "wikidata_id": "Q3044844",
+        "name": "Ilinden",
+        "description": "village/town and seat of Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/02q4p2m"
+    },
+    {
+        "wikidata_id": "Q3044293",
+        "name": "Lipkovo",
+        "description": "village in Lipkovo Municipality, North Macedonia",
+        "freebase_id": "/m/02p8gfl"
+    },
+    {
+        "wikidata_id": "Q3038634",
+        "name": "Dragarino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f70b7"
+    },
+    {
+        "wikidata_id": "Q3038673",
+        "name": "Dragožani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fc3cy"
+    },
+    {
+        "wikidata_id": "Q3038684",
+        "name": "Dragomance",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04y8fyt"
+    },
+    {
+        "wikidata_id": "Q2895108",
+        "name": "Belovodica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k0ps5v"
+    },
+    {
+        "wikidata_id": "Q2964611",
+        "name": "Šurlenci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0y6knj5"
+    },
+    {
+        "wikidata_id": "Q3039766",
+        "name": "Poeševo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jl1hf5"
+    },
+    {
+        "wikidata_id": "Q3034238",
+        "name": "Dolno Orizari",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/0jky_fb"
+    },
+    {
+        "wikidata_id": "Q3074453",
+        "name": "Gorno Krušje",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/0_v9g84"
+    },
+    {
+        "wikidata_id": "Q3039399",
+        "name": "Drevenik",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fjj_b"
+    },
+    {
+        "wikidata_id": "Q3039531",
+        "name": "Drmeni",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0wyqzlm"
+    },
+    {
+        "wikidata_id": "Q3062829",
+        "name": "Ezerani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_v1mtw"
+    },
+    {
+        "wikidata_id": "Q3039741",
+        "name": "Gabalavci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jl14f6"
+    },
+    {
+        "wikidata_id": "Q3039706",
+        "name": "Logovardi",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/05szcn8"
+    },
+    {
+        "wikidata_id": "Q3039723",
+        "name": "Magarevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jl1vml"
+    },
+    {
+        "wikidata_id": "Q3039691",
+        "name": "Sekirani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jl1hfr"
+    },
+    {
+        "wikidata_id": "Q3039730",
+        "name": "Ostrec",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jk_n76"
+    },
+    {
+        "wikidata_id": "Q3039757",
+        "name": "Oleveni",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkw2ws"
+    },
+    {
+        "wikidata_id": "Q3039816",
+        "name": "Trpejca",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0bysl7"
+    },
+    {
+        "wikidata_id": "Q3039876",
+        "name": "Pirok",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c93jk"
+    },
+    {
+        "wikidata_id": "Q3040155",
+        "name": "Drvoš",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fchwv"
+    },
+    {
+        "wikidata_id": "Q3040250",
+        "name": "Rostuša",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02qc334"
+    },
+    {
+        "wikidata_id": "Q2990729",
+        "name": "Lozovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02qc2vj"
+    },
+    {
+        "wikidata_id": "Q3040671",
+        "name": "Jargulica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/080lx_0"
+    },
+    {
+        "wikidata_id": "Q3040658",
+        "name": "Kišava",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/05qwj8"
+    },
+    {
+        "wikidata_id": "Q3040651",
+        "name": "Optičari",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jl02rn"
+    },
+    {
+        "wikidata_id": "Q3041179",
+        "name": "Kažani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fcxds"
+    },
+    {
+        "wikidata_id": "Q2883808",
+        "name": "Barakovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02qcpl_"
+    },
+    {
+        "wikidata_id": "Q3074442",
+        "name": "Nakolec",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0j28hf0"
+    },
+    {
+        "wikidata_id": "Q3041202",
+        "name": "Evla",
+        "description": "village in Resen Municipality, North Macedonia",
+        "freebase_id": "/m/05f53tc"
+    },
+    {
+        "wikidata_id": "Q2910882",
+        "name": "Borievo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f4y43"
+    },
+    {
+        "wikidata_id": "Q3073867",
+        "name": "Gorno Orizari",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/0by18q8"
+    },
+    {
+        "wikidata_id": "Q2837072",
+        "name": "Alinci",
+        "description": "village in Prilep Municipality, North Macedonia",
+        "freebase_id": "/m/0k0tb_k"
+    },
+    {
+        "wikidata_id": "Q2837078",
+        "name": "Alinci",
+        "description": "village in Mogila Municipality, North Macedonia",
+        "freebase_id": "/m/05zlrjc"
+    },
+    {
+        "wikidata_id": "Q3044233",
+        "name": "Kuklica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03gtnfq"
+    },
+    {
+        "wikidata_id": "Q3044227",
+        "name": "Studeničani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02rh_c6"
+    },
+    {
+        "wikidata_id": "Q3044259",
+        "name": "Tabanovce",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02qhkgp"
+    },
+    {
+        "wikidata_id": "Q3044314",
+        "name": "Polaki",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0c01ypw"
+    },
+    {
+        "wikidata_id": "Q3039686",
+        "name": "Kamenjane",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/027p0bt"
+    },
+    {
+        "wikidata_id": "Q2990817",
+        "name": "Čaška",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q4mv4"
+    },
+    {
+        "wikidata_id": "Q3071349",
+        "name": "Glažnja",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0100fx_z"
+    },
+    {
+        "wikidata_id": "Q2740563",
+        "name": "Kanino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkz9ts"
+    },
+    {
+        "wikidata_id": "Q2740573",
+        "name": "Elšani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/09cmzn"
+    },
+    {
+        "wikidata_id": "Q2740577",
+        "name": "Oslomej",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02qc3st"
+    },
+    {
+        "wikidata_id": "Q2740727",
+        "name": "Krstoar",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkxn99"
+    },
+    {
+        "wikidata_id": "Q2740558",
+        "name": "Trnovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jkxn8t"
+    },
+    {
+        "wikidata_id": "Q2967494",
+        "name": "Stalkovica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q24d0"
+    },
+    {
+        "wikidata_id": "Q2967567",
+        "name": "Štrbovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0g9x6x"
+    },
+    {
+        "wikidata_id": "Q2967564",
+        "name": "Štuka",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fhf4g"
+    },
+    {
+        "wikidata_id": "Q3048192",
+        "name": "Ednokukjevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fbz0r"
+    },
+    {
+        "wikidata_id": "Q3072630",
+        "name": "Runica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_yj_9z"
+    },
+    {
+        "wikidata_id": "Q3072695",
+        "name": "Iberli",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c545q"
+    },
+    {
+        "wikidata_id": "Q3072887",
+        "name": "Prždevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c54mt"
+    },
+    {
+        "wikidata_id": "Q2916581",
+        "name": "Gradešnica",
+        "description": "village in Novaci Municipality, Macedonia",
+        "freebase_id": "/m/04ybkb5"
+    },
+    {
+        "wikidata_id": "Q3039158",
+        "name": "Dračevo",
+        "description": "village in Kisela Voda Municipality",
+        "freebase_id": "/m/047bmrt"
+    },
+    {
+        "wikidata_id": "Q2899112",
+        "name": "Berovci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k0jnhs"
+    },
+    {
+        "wikidata_id": "Q2742143",
+        "name": "Malovište",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fb546"
+    },
+    {
+        "wikidata_id": "Q2740567",
+        "name": "Turnovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/047b1_7"
+    },
+    {
+        "wikidata_id": "Q3073200",
+        "name": "Košarka",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c54f8"
+    },
+    {
+        "wikidata_id": "Q2731411",
+        "name": "Staro Nagoričane",
+        "description": "village and seat of Staro Nagoričane Municipality, Macedonia",
+        "freebase_id": "/m/02rh_bj"
+    },
+    {
+        "wikidata_id": "Q2891106",
+        "name": "Bač",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0ggrlh"
+    },
+    {
+        "wikidata_id": "Q2900015",
+        "name": "Besvica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c4v2s"
+    },
+    {
+        "wikidata_id": "Q2921689",
+        "name": "Bukovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/043jzbn"
+    },
+    {
+        "wikidata_id": "Q3074420",
+        "name": "Grnčari",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0x2bybw"
+    },
+    {
+        "wikidata_id": "Q2894177",
+        "name": "Bela Crkva",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0cml8p"
+    },
+    {
+        "wikidata_id": "Q3073232",
+        "name": "Konopište",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/04y7xph"
+    },
+    {
+        "wikidata_id": "Q2894537",
+        "name": "Belica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0glrf_j"
+    },
+    {
+        "wikidata_id": "Q3074920",
+        "name": "Žitoše",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gyvx0w"
+    },
+    {
+        "wikidata_id": "Q3076100",
+        "name": "Vejce",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012vnfxh"
+    },
+    {
+        "wikidata_id": "Q2866056",
+        "name": "Arvati",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0wxnv3f"
+    },
+    {
+        "wikidata_id": "Q3076396",
+        "name": "Vešala",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0drwbbt"
+    },
+    {
+        "wikidata_id": "Q2866308",
+        "name": "Asamati",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0wxwgwp"
+    },
+    {
+        "wikidata_id": "Q3074427",
+        "name": "Gorna Bela Crkva",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0wynfq5"
+    },
+    {
+        "wikidata_id": "Q3074436",
+        "name": "Sopotsko",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0j29hxp"
+    },
+    {
+        "wikidata_id": "Q3074459",
+        "name": "Rajca",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_vbb2g"
+    },
+    {
+        "wikidata_id": "Q2883573",
+        "name": "Banjane",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0131jc7w"
+    },
+    {
+        "wikidata_id": "Q3135871",
+        "name": "Velestovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0c40jn1"
+    },
+    {
+        "wikidata_id": "Q3138696",
+        "name": "Oteševo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0h3r_63"
+    },
+    {
+        "wikidata_id": "Q3084350",
+        "name": "Popovjani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02qc7cn"
+    },
+    {
+        "wikidata_id": "Q3084373",
+        "name": "Vraneštica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02rh_hb"
+    },
+    {
+        "wikidata_id": "Q3084451",
+        "name": "Velmej",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03nq4f0"
+    },
+    {
+        "wikidata_id": "Q3084553",
+        "name": "Gorno Egri",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f513x"
+    },
+    {
+        "wikidata_id": "Q3084544",
+        "name": "Svinište",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fbkpm"
+    },
+    {
+        "wikidata_id": "Q3084584",
+        "name": "Ljubaništa",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0c3vnch"
+    },
+    {
+        "wikidata_id": "Q3084593",
+        "name": "Miravci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0ddndn"
+    },
+    {
+        "wikidata_id": "Q3084602",
+        "name": "Metimir",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010ffltg"
+    },
+    {
+        "wikidata_id": "Q3084612",
+        "name": "Korešnica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c54kd"
+    },
+    {
+        "wikidata_id": "Q3084651",
+        "name": "Hamzali",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04gtjf4"
+    },
+    {
+        "wikidata_id": "Q3084628",
+        "name": "Zlokukjani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fbl3h"
+    },
+    {
+        "wikidata_id": "Q3084688",
+        "name": "Presil",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0dc70d"
+    },
+    {
+        "wikidata_id": "Q3135769",
+        "name": "Krani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0jwvbkb"
+    },
+    {
+        "wikidata_id": "Q3085401",
+        "name": "Gopeš",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f57rq"
+    },
+    {
+        "wikidata_id": "Q3085453",
+        "name": "Lisolaj",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f4mrw"
+    },
+    {
+        "wikidata_id": "Q3085462",
+        "name": "Monospitovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fl08h"
+    },
+    {
+        "wikidata_id": "Q3085471",
+        "name": "Staro Zmirnovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fdzmm"
+    },
+    {
+        "wikidata_id": "Q3085993",
+        "name": "Carev Dvor",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03cfb4m"
+    },
+    {
+        "wikidata_id": "Q3085895",
+        "name": "Morodvis",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/09ggb5v"
+    },
+    {
+        "wikidata_id": "Q3085936",
+        "name": "Krklino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010ff9bs"
+    },
+    {
+        "wikidata_id": "Q3085958",
+        "name": "Streževo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f88ng"
+    },
+    {
+        "wikidata_id": "Q3085964",
+        "name": "Nova Maala",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04gqzzy"
+    },
+    {
+        "wikidata_id": "Q3085971",
+        "name": "Sredno Egri",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fcxm7"
+    },
+    {
+        "wikidata_id": "Q3086004",
+        "name": "Petralinci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04f0gz7"
+    },
+    {
+        "wikidata_id": "Q3086012",
+        "name": "Rakliš",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04q2pq3"
+    },
+    {
+        "wikidata_id": "Q3086022",
+        "name": "Novo Zmirnovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f6k4x"
+    },
+    {
+        "wikidata_id": "Q3086047",
+        "name": "Karamani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fflcd"
+    },
+    {
+        "wikidata_id": "Q3086068",
+        "name": "Lažec",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f70cp"
+    },
+    {
+        "wikidata_id": "Q3086075",
+        "name": "Oblakovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f51kd"
+    },
+    {
+        "wikidata_id": "Q3084643",
+        "name": "Porodin",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fjjyx"
+    },
+    {
+        "wikidata_id": "Q3086664",
+        "name": "Kosovo Dabje",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0462s8w"
+    },
+    {
+        "wikidata_id": "Q3087557",
+        "name": "Žegljane",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04yh08n"
+    },
+    {
+        "wikidata_id": "Q3087575",
+        "name": "Pelince",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04gjpp_"
+    },
+    {
+        "wikidata_id": "Q3298739",
+        "name": "Drugovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q4nmv"
+    },
+    {
+        "wikidata_id": "Q3086058",
+        "name": "Radovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04gv21q"
+    },
+    {
+        "wikidata_id": "Q3087532",
+        "name": "Markova Sušica",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0cm9c32"
+    },
+    {
+        "wikidata_id": "Q3087548",
+        "name": "Koince",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/09vxjs"
+    },
+    {
+        "wikidata_id": "Q3377612",
+        "name": "Petrino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_yhntd"
+    },
+    {
+        "wikidata_id": "Q3133887",
+        "name": "Miladinovci",
+        "description": "village in Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/010fchmz"
+    },
+    {
+        "wikidata_id": "Q3119241",
+        "name": "Gečerlija",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010fc3dn"
+    },
+    {
+        "wikidata_id": "Q3134249",
+        "name": "Mrševci",
+        "description": "village in Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/010f954f"
+    },
+    {
+        "wikidata_id": "Q3085068",
+        "name": "Ilino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_v7l3j"
+    },
+    {
+        "wikidata_id": "Q3136404",
+        "name": "Leskoec",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0407pwy"
+    },
+    {
+        "wikidata_id": "Q3085445",
+        "name": "Konjsko",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/047nvxd"
+    },
+    {
+        "wikidata_id": "Q3112563",
+        "name": "Popova Šapka",
+        "description": "mountain in Republic of Macedonia",
+        "freebase_id": "/m/0fq003y"
+    },
+    {
+        "wikidata_id": "Q3133772",
+        "name": "Orašac",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gyx1zk"
+    },
+    {
+        "wikidata_id": "Q3085920",
+        "name": "Saraj",
+        "description": "village in Bosilovo Municipality, Macedonia",
+        "freebase_id": "/m/04gprnn"
+    },
+    {
+        "wikidata_id": "Q3086440",
+        "name": "Slivovo",
+        "description": "village in the Debarca municipality of North Macedonia",
+        "freebase_id": "/m/04y98hx"
+    },
+    {
+        "wikidata_id": "Q3090955",
+        "name": "Govrlevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/025_f9m"
+    },
+    {
+        "wikidata_id": "Q3090914",
+        "name": "Malotino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/09vxkt"
+    },
+    {
+        "wikidata_id": "Q3084622",
+        "name": "Lera",
+        "description": "village in Bitola Municipality, Macedonia",
+        "freebase_id": "/m/010f8km8"
+    },
+    {
+        "wikidata_id": "Q3086030",
+        "name": "Kurija",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04y8c0z"
+    },
+    {
+        "wikidata_id": "Q3219868",
+        "name": "Lavci",
+        "description": "village in Resen Municipality, Macedonia",
+        "freebase_id": "/m/0_gx3nf"
+    },
+    {
+        "wikidata_id": "Q3112804",
+        "name": "Guǵakovo",
+        "description": "historical village in Prilep Municipality, Macedonia",
+        "freebase_id": "/m/0kfx3wd"
+    },
+    {
+        "wikidata_id": "Q3094773",
+        "name": "Galičani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k98zgj"
+    },
+    {
+        "wikidata_id": "Q3134491",
+        "name": "Oraovica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_yfvw5"
+    },
+    {
+        "wikidata_id": "Q12285722",
+        "name": "Malesia",
+        "description": "geographical region in North Macedonia",
+        "freebase_id": "/m/0gfdr07"
+    },
+    {
+        "wikidata_id": "Q3135795",
+        "name": "Papradište",
+        "description": "village in Čaška Municipality, North Macedonia",
+        "freebase_id": "/m/03d4h45"
+    },
+    {
+        "wikidata_id": "Q3087065",
+        "name": "Trnovac",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_v50d_"
+    },
+    {
+        "wikidata_id": "Q3134331",
+        "name": "Gorno Nerezi",
+        "description": "village in Karpoš Municipality, Macedonia",
+        "freebase_id": "/m/0cvrpc"
+    },
+    {
+        "wikidata_id": "Q3135740",
+        "name": "Stenje",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04ygwxs"
+    },
+    {
+        "wikidata_id": "Q3080079",
+        "name": "Furka",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02pxgl8"
+    },
+    {
+        "wikidata_id": "Q3516647",
+        "name": "Češinovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q4mxk"
+    },
+    {
+        "wikidata_id": "Q3084463",
+        "name": "Mogila",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/025sbfy"
+    },
+    {
+        "wikidata_id": "Q3135761",
+        "name": "Kalen",
+        "description": "village in Prilep Municipality, Macedonia",
+        "freebase_id": "/m/025tvxk"
+    },
+    {
+        "wikidata_id": "Q3135500",
+        "name": "Robovo",
+        "description": "village in Bosilovo Municipality, North Macedonia",
+        "freebase_id": "/m/010f51f_"
+    },
+    {
+        "wikidata_id": "Q3135774",
+        "name": "Čelevec",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c4tvt"
+    },
+    {
+        "wikidata_id": "Q46187190",
+        "name": "Uscana",
+        "description": "ancient city of the Penestae",
+        "freebase_id": "/m/03qd9sb"
+    },
+    {
+        "wikidata_id": "Q3085908",
+        "name": "Snegovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f8t8k"
+    },
+    {
+        "wikidata_id": "Q3085886",
+        "name": "Kremenica",
+        "description": "village in the Bitola Municipality of North Macedonia",
+        "freebase_id": "/m/010fcgwg"
+    },
+    {
+        "wikidata_id": "Q3135749",
+        "name": "Slivnica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03hjq6d"
+    },
+    {
+        "wikidata_id": "Q3134168",
+        "name": "Marino",
+        "description": "village in Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/010fgyxv"
+    },
+    {
+        "wikidata_id": "Q3136230",
+        "name": "Kosel",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0cm1j0"
+    },
+    {
+        "wikidata_id": "Q3136390",
+        "name": "Lagadin",
+        "description": "village in Ohrid Municipality, Macedonia",
+        "freebase_id": "/m/010gpl4z"
+    },
+    {
+        "wikidata_id": "Q3133561",
+        "name": "Kučkovo",
+        "description": "village in Ǵorče Petrov Municipality, Macedonia",
+        "freebase_id": "/m/0bbx_m7"
+    },
+    {
+        "wikidata_id": "Q3135618",
+        "name": "Vitolište",
+        "description": "village in Prilep Municipality, Macedonia",
+        "freebase_id": "/m/0cylp1"
+    },
+    {
+        "wikidata_id": "Q3135766",
+        "name": "Veprčani",
+        "description": "village in Prilep Municipality, Macedonia",
+        "freebase_id": "/m/0k8x6sx"
+    },
+    {
+        "wikidata_id": "Q3136412",
+        "name": "Smilevo",
+        "description": "village in Demir Hisar Municipality, North Macedonia",
+        "freebase_id": "/m/0b91f3"
+    },
+    {
+        "wikidata_id": "Q3135988",
+        "name": "Kozjak",
+        "description": "village in the Resen Municipality of North Macedonia",
+        "freebase_id": "/m/0wyrzf_"
+    },
+    {
+        "wikidata_id": "Q3084670",
+        "name": "Gradec",
+        "description": "village in Southeastern, North Macedonia",
+        "freebase_id": "/m/0bbxwlv"
+    },
+    {
+        "wikidata_id": "Q3084563",
+        "name": "Peštani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/090yt6"
+    },
+    {
+        "wikidata_id": "Q3134776",
+        "name": "Podareš",
+        "description": "village in Radoviš Municipality, North Macedonia",
+        "freebase_id": "/m/0gyr7f2"
+    },
+    {
+        "wikidata_id": "Q3136896",
+        "name": "Lazaropole",
+        "description": "village in Mavrovo and Rostuša Municipality, North Macedonia",
+        "freebase_id": "/m/0bmcy0"
+    },
+    {
+        "wikidata_id": "Q3136335",
+        "name": "Novo Lagovo",
+        "description": "village in Prilep, North Macedonia",
+        "freebase_id": "/m/0k0rcr0"
+    },
+    {
+        "wikidata_id": "Q3136314",
+        "name": "Topolčani",
+        "description": "village in the Prilep Municipality of North Macedonia",
+        "freebase_id": "/m/0gyrvlj"
+    },
+    {
+        "wikidata_id": "Q3133696",
+        "name": "Četirce",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012hckhd"
+    },
+    {
+        "wikidata_id": "Q3133754",
+        "name": "Karabičane",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012hckkh"
+    },
+    {
+        "wikidata_id": "Q3133744",
+        "name": "Nikuljane",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012963fz"
+    },
+    {
+        "wikidata_id": "Q3133687",
+        "name": "Vračevce",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0100cyhl"
+    },
+    {
+        "wikidata_id": "Q3133931",
+        "name": "Cvilance",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0h3px9d"
+    },
+    {
+        "wikidata_id": "Q3133743",
+        "name": "Strnovac",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012hdcbm"
+    },
+    {
+        "wikidata_id": "Q3134057",
+        "name": "Mralino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f5_nf"
+    },
+    {
+        "wikidata_id": "Q3134556",
+        "name": "Injevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_ykllj"
+    },
+    {
+        "wikidata_id": "Q3135652",
+        "name": "Volkovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k8yp4_"
+    },
+    {
+        "wikidata_id": "Q3085983",
+        "name": "Sopotnica",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0dc6bq"
+    },
+    {
+        "wikidata_id": "Q3139599",
+        "name": "Samokov",
+        "description": "village in Makedonski Brod Municipality, North Macedonia",
+        "freebase_id": "/m/0gyth2k"
+    },
+    {
+        "wikidata_id": "Q162019",
+        "name": "Makedonska Kamenica",
+        "description": "town and seat of Makedonska Kamenica Municipality, Macedonia",
+        "freebase_id": "/m/026vn8t"
+    },
+    {
+        "wikidata_id": "Q3085433",
+        "name": "Ramna",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f5p8g"
+    },
+    {
+        "wikidata_id": "Q3084400",
+        "name": "Volkovija",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/011l4t47"
+    },
+    {
+        "wikidata_id": "Q3134074",
+        "name": "Kadino",
+        "description": "village in Ilinden Municipality, Macedonia",
+        "freebase_id": "/m/010f7mk4"
+    },
+    {
+        "wikidata_id": "Q3134959",
+        "name": "Marvinci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010gr0by"
+    },
+    {
+        "wikidata_id": "Q3134979",
+        "name": "Negorci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0x25x4x"
+    },
+    {
+        "wikidata_id": "Q3135183",
+        "name": "Kukliš",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gytxw1"
+    },
+    {
+        "wikidata_id": "Q3135127",
+        "name": "Veljusa",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/064m85k"
+    },
+    {
+        "wikidata_id": "Q3135261",
+        "name": "Selemli",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010gpqpg"
+    },
+    {
+        "wikidata_id": "Q3135323",
+        "name": "Murtino",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gystw8"
+    },
+    {
+        "wikidata_id": "Q3135302",
+        "name": "Vodoča",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012htk19"
+    },
+    {
+        "wikidata_id": "Q3135442",
+        "name": "Staro Baldovci",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/010f9ync"
+    },
+    {
+        "wikidata_id": "Q3135570",
+        "name": "Novačani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/06607nf"
+    },
+    {
+        "wikidata_id": "Q3135656",
+        "name": "Jankovec",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0c01jym"
+    },
+    {
+        "wikidata_id": "Q3135608",
+        "name": "Podmol",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/09drfw"
+    },
+    {
+        "wikidata_id": "Q3135583",
+        "name": "Strmaševo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03c54q6"
+    },
+    {
+        "wikidata_id": "Q3135642",
+        "name": "Preljubje",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0_v2870"
+    },
+    {
+        "wikidata_id": "Q3086039",
+        "name": "Ǵavato, Bitola",
+        "description": "village in Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/010f5kyn"
+    },
+    {
+        "wikidata_id": "Q3110142",
+        "name": "Golemo Konjari",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0kg09kc"
+    },
+    {
+        "wikidata_id": "Q3110140",
+        "name": "Golem Radobil",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0ch2r94"
+    },
+    {
+        "wikidata_id": "Q3135754",
+        "name": "Vrpsko",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k7_1x2"
+    },
+    {
+        "wikidata_id": "Q3135788",
+        "name": "Veselčani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k8r1f4"
+    },
+    {
+        "wikidata_id": "Q3136057",
+        "name": "Čaloševo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/012smxcn"
+    },
+    {
+        "wikidata_id": "Q3136002",
+        "name": "Velgošti",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/02q9wz_"
+    },
+    {
+        "wikidata_id": "Q3136011",
+        "name": "Volkoderi",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0wymp19"
+    },
+    {
+        "wikidata_id": "Q3136283",
+        "name": "Čumovo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0k0kvqj"
+    },
+    {
+        "wikidata_id": "Q3136271",
+        "name": "Krušeani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0bx4_5"
+    },
+    {
+        "wikidata_id": "Q3136225",
+        "name": "Vapila",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0c3zf35"
+    },
+    {
+        "wikidata_id": "Q3136324",
+        "name": "Loznani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/04zvhfv"
+    },
+    {
+        "wikidata_id": "Q3136266",
+        "name": "Vogjani",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/025t744"
+    },
+    {
+        "wikidata_id": "Q3136344",
+        "name": "Mešeišta",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0gyw1xx"
+    },
+    {
+        "wikidata_id": "Q3084839",
+        "name": "Zavoj",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/03d5ys4"
+    },
+    {
+        "wikidata_id": "Q3084634",
+        "name": "Slatino",
+        "description": "village in Debrca Municipality, Macedonia",
+        "freebase_id": "/m/0gvvmbw"
+    },
+    {
+        "wikidata_id": "Q3136357",
+        "name": "Makovo",
+        "description": "village in Novaci Municipality, Macedonia",
+        "freebase_id": "/m/0m0pv4x"
+    },
+    {
+        "wikidata_id": "Q3236664",
+        "name": "Leskoec",
+        "description": "village in Resen Municipality, North Macedonia",
+        "freebase_id": "/m/0wysljs"
+    },
+    {
+        "wikidata_id": "Q3136738",
+        "name": "Tresonče",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/025z049"
+    },
+    {
+        "wikidata_id": "Q3137049",
+        "name": "Rogačevo",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0h0n3f"
+    },
+    {
+        "wikidata_id": "Q3137093",
+        "name": "Raotince",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/05xww9"
+    },
+    {
+        "wikidata_id": "Q3086743",
+        "name": "Selnik",
+        "description": "village in North Macedonia",
+        "freebase_id": "/m/0465330"
+    },
+    {
+        "wikidata_id": "Q20438577",
+        "name": "Q20438577",
+        "description": "No description available",
+        "freebase_id": "/m/0jl1hf5"
+    },
+    {
+        "wikidata_id": "Q3135718",
+        "name": "Izbišta",
+        "description": "village in Macedonia",
+        "freebase_id": "/m/0b__f9x"
+    },
+    {
+        "wikidata_id": "Q157061",
+        "name": "Gevgelija",
+        "description": "town and seat of Gevgelija Municipality, Macedonia",
+        "freebase_id": "/m/07lt2r"
+    },
+    {
+        "wikidata_id": "Q384",
+        "name": "Skopje",
+        "description": "capital city of North Macedonia",
+        "freebase_id": "/m/07bbc"
+    },
+    {
+        "wikidata_id": "Q366907",
+        "name": "Sveti Nikole",
+        "description": "town and seat of Sveti Nikole Municipality, Macedonia",
+        "freebase_id": "/m/0c8wsk"
+    },
+    {
+        "wikidata_id": "Q157024",
+        "name": "Tetovo",
+        "description": "town and seat of Tetovo Municipality, North Macedonia",
+        "freebase_id": "/m/041yj5"
+    },
+    {
+        "wikidata_id": "Q928405",
+        "name": "Vinica",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/07nssd"
+    },
+    {
+        "wikidata_id": "Q158088",
+        "name": "Kavadarci",
+        "description": "town and seat of Kavadarci Municipality, North Macedonia",
+        "freebase_id": "/m/07pcf6"
+    },
+    {
+        "wikidata_id": "Q5989498",
+        "name": "Idomenae",
+        "description": "ancient Paeonian town",
+        "freebase_id": "/m/03cg0qs"
+    },
+    {
+        "wikidata_id": "Q164954",
+        "name": "Negotino",
+        "description": "town and seat of Negotino Municipality, Macedonia",
+        "freebase_id": "/m/08qbxs"
+    },
+    {
+        "wikidata_id": "Q157034",
+        "name": "Kruševo",
+        "description": "town and seat of Kruševo Municipality, Macedonia",
+        "freebase_id": "/m/07v66j"
+    },
+    {
+        "wikidata_id": "Q157050",
+        "name": "Veles",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/066cgf"
+    },
+    {
+        "wikidata_id": "Q157058",
+        "name": "Gostivar",
+        "description": "town and seat of Gostivar Municipality, North Macedonia",
+        "freebase_id": "/m/04w0jr"
+    },
+    {
+        "wikidata_id": "Q157032",
+        "name": "Prilep",
+        "description": "city and seat of Prilep Municipality, North Macedonia",
+        "freebase_id": "/m/04xtgq"
+    },
+    {
+        "wikidata_id": "Q1977737",
+        "name": "Kratovo",
+        "description": "town and seat of Kratovo Municipality, Macedonia",
+        "freebase_id": "/m/09sz1f"
+    },
+    {
+        "wikidata_id": "Q2884464",
+        "name": "Bargala",
+        "description": "Late Roman city in Macedonia",
+        "freebase_id": "/m/02z8nw_"
+    },
+    {
+        "wikidata_id": "Q156858",
+        "name": "Struga",
+        "description": "city in North Macedonia",
+        "freebase_id": "/m/038q89"
+    },
+    {
+        "wikidata_id": "Q2232673",
+        "name": "Tauresium",
+        "description": "ancient city and site near Gradiste, North Macedonia",
+        "freebase_id": "/m/03cfvxp"
+    },
+    {
+        "wikidata_id": "Q157246",
+        "name": "Bitola",
+        "description": "town and seat of Bitola Municipality, North Macedonia",
+        "freebase_id": "/m/01814"
+    },
+    {
+        "wikidata_id": "Q756645",
+        "name": "Valandovo",
+        "description": "town in Macedonia",
+        "freebase_id": "/m/0b5500"
+    },
+    {
+        "wikidata_id": "Q956963",
+        "name": "Dojran",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/051bpy"
+    },
+    {
+        "wikidata_id": "Q1014699",
+        "name": "Demir Kapija",
+        "description": "town and seat of Demir Kapija Municipality, Macedonia",
+        "freebase_id": "/m/0c93kf"
+    },
+    {
+        "wikidata_id": "Q157738",
+        "name": "Delčevo",
+        "description": "town and seat of Delčevo Municipality, Macedonia",
+        "freebase_id": "/m/0bftmm"
+    },
+    {
+        "wikidata_id": "Q161827",
+        "name": "Resen",
+        "description": "town and seat of Resen Municipality, Macedonia",
+        "freebase_id": "/m/0890tk"
+    },
+    {
+        "wikidata_id": "Q1996455",
+        "name": "Demir Hisar",
+        "description": "town in Macedonia",
+        "freebase_id": "/m/02q4n43"
+    },
+    {
+        "wikidata_id": "Q689820",
+        "name": "Debar",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/04xbv_"
+    },
+    {
+        "wikidata_id": "Q147243",
+        "name": "Štip",
+        "description": "city in the eastern part of North Macedonia",
+        "freebase_id": "/m/07v71f"
+    },
+    {
+        "wikidata_id": "Q162009",
+        "name": "Makedonski Brod",
+        "description": "town and seat of Makedonski Brod Municipality, Macedonia",
+        "freebase_id": "/m/0c0kbh"
+    },
+    {
+        "wikidata_id": "Q4774767",
+        "name": "Antigonia",
+        "description": "ancient city of Paeonia",
+        "freebase_id": "/m/0c3khb"
+    },
+    {
+        "wikidata_id": "Q827047",
+        "name": "Berovo",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/051994"
+    },
+    {
+        "wikidata_id": "Q991318",
+        "name": "Radoviš",
+        "description": "city in North Macedonia",
+        "freebase_id": "/m/0c0jr0"
+    },
+    {
+        "wikidata_id": "Q48814",
+        "name": "Strumica",
+        "description": "city in North Macedonia",
+        "freebase_id": "/m/07pb0m"
+    },
+    {
+        "wikidata_id": "Q751948",
+        "name": "Bogdanci",
+        "description": "town and seat of Bogdanci Municipality, Macedonia",
+        "freebase_id": "/m/0b5535"
+    },
+    {
+        "wikidata_id": "Q2929164",
+        "name": "Bylazora",
+        "description": "ancient city of Paeonia",
+        "freebase_id": "/m/05d3h9"
+    },
+    {
+        "wikidata_id": "Q162952",
+        "name": "Pehčevo",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/0gxwdg"
+    },
+    {
+        "wikidata_id": "Q214344",
+        "name": "Kočani",
+        "description": "town and seat of Kočani Municipality, North Macedonia",
+        "freebase_id": "/m/03hjnm"
+    },
+    {
+        "wikidata_id": "Q1223508",
+        "name": "Ohrid",
+        "description": "town and seat of Ohrid Municipality, North Macedonia",
+        "freebase_id": "/m/02zj4v"
+    },
+    {
+        "wikidata_id": "Q1991722",
+        "name": "Probištip",
+        "description": "town and seat of Probištip Municipality, Macedonia",
+        "freebase_id": "/m/0c8wzx"
+    },
+    {
+        "wikidata_id": "Q578396",
+        "name": "Kriva Palanka",
+        "description": "town in North Macedonia",
+        "freebase_id": "/m/07rzpg"
+    },
+    {
+        "wikidata_id": "Q158079",
+        "name": "Kičevo",
+        "description": "town and seat of Kičevo Municipality, Macedonia",
+        "freebase_id": "/m/04zdb9"
+    }
+]

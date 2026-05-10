@@ -1,0 +1,4580 @@
+[
+    {
+        "wikidata_id": "Q463384",
+        "name": "Bulqizë",
+        "description": "town of Albania",
+        "freebase_id": "/m/043prsp"
+    },
+    {
+        "wikidata_id": "Q574153",
+        "name": "Borsh",
+        "description": "village in Himarë, Albania",
+        "freebase_id": "/m/04yg2gk"
+    },
+    {
+        "wikidata_id": "Q461313",
+        "name": "Burrel",
+        "description": "town in Albania",
+        "freebase_id": "/m/01rybf"
+    },
+    {
+        "wikidata_id": "Q3298862",
+        "name": "Cerja",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/041423_"
+    },
+    {
+        "wikidata_id": "Q3299032",
+        "name": "Goricë e Madhe",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/04142cl"
+    },
+    {
+        "wikidata_id": "Q4958015",
+        "name": "Bratilë",
+        "description": "village in Elbasan, Albania",
+        "freebase_id": "/m/0cmdytp"
+    },
+    {
+        "wikidata_id": "Q5064244",
+        "name": "Cerice",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdjpy"
+    },
+    {
+        "wikidata_id": "Q4900338",
+        "name": "Bezhan",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0bby4vy"
+    },
+    {
+        "wikidata_id": "Q4998863",
+        "name": "Burimas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg9fk"
+    },
+    {
+        "wikidata_id": "Q4960377",
+        "name": "Bregas",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0drwgn9"
+    },
+    {
+        "wikidata_id": "Q4868223",
+        "name": "Bastar i Mesëm",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmc3_q"
+    },
+    {
+        "wikidata_id": "Q4868221",
+        "name": "Bastar-Murriz",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmd_tz"
+    },
+    {
+        "wikidata_id": "Q3299045",
+        "name": "Dolna Gorica",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/041425q"
+    },
+    {
+        "wikidata_id": "Q3299155",
+        "name": "Bajzë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0gsm1f"
+    },
+    {
+        "wikidata_id": "Q5064511",
+        "name": "Cerkovinë",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0bbx_ml"
+    },
+    {
+        "wikidata_id": "Q3701803",
+        "name": "Kreshpan",
+        "description": "village in Fier, Albania",
+        "freebase_id": "/m/0q3y32h"
+    },
+    {
+        "wikidata_id": "Q4010084",
+        "name": "Vermosh",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0b6n32c"
+    },
+    {
+        "wikidata_id": "Q18705",
+        "name": "Bajram Curri",
+        "description": "town in Kukës County, Albania",
+        "freebase_id": "/m/02r2mp"
+    },
+    {
+        "wikidata_id": "Q2633814",
+        "name": "Tërthorë",
+        "description": "Municipal unit in Kukës County, Albania",
+        "freebase_id": "/m/04y8zt2"
+    },
+    {
+        "wikidata_id": "Q3300115",
+        "name": "Tuminec",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0640p7m"
+    },
+    {
+        "wikidata_id": "Q4984091",
+        "name": "Budaç",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czdczg"
+    },
+    {
+        "wikidata_id": "Q3301091",
+        "name": "Starje",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/03md5kh"
+    },
+    {
+        "wikidata_id": "Q12758543",
+        "name": "Shirgj Church",
+        "description": "Ruins of a church and cultural monument in Northern Albania",
+        "freebase_id": "/m/0ddb_s0"
+    },
+    {
+        "wikidata_id": "Q19307",
+        "name": "Çorovodë",
+        "description": "main city of Skrapar District, Albania",
+        "freebase_id": "/m/078864"
+    },
+    {
+        "wikidata_id": "Q3300094",
+        "name": "Gollomboç",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/041420x"
+    },
+    {
+        "wikidata_id": "Q7588939",
+        "name": "St. John the Baptist Monastery, Moscopole",
+        "description": "Christian orthodox monastery in Moscopole, Albania",
+        "freebase_id": "/m/0dgqrvr"
+    },
+    {
+        "wikidata_id": "Q4696217",
+        "name": "Ahmetaq",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfqlk"
+    },
+    {
+        "wikidata_id": "Q919200",
+        "name": "Theth",
+        "description": "human settlement in Albania",
+        "freebase_id": "/m/0ch18yt"
+    },
+    {
+        "wikidata_id": "Q743016",
+        "name": "Ballsh",
+        "description": "town in Fier County, Albania",
+        "freebase_id": "/m/03dxh0"
+    },
+    {
+        "wikidata_id": "Q303567",
+        "name": "Barbas",
+        "description": "human settlement in Albania",
+        "freebase_id": "/m/0gmcd1y"
+    },
+    {
+        "wikidata_id": "Q3605",
+        "name": "Krrabë",
+        "description": "town in Tirana County, central Albania",
+        "freebase_id": "/m/04zz59w"
+    },
+    {
+        "wikidata_id": "Q4976973",
+        "name": "Brrar",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgxlw"
+    },
+    {
+        "wikidata_id": "Q3301467",
+        "name": "Verniku",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/010vsp3c"
+    },
+    {
+        "wikidata_id": "Q3301587",
+        "name": "Zaroshkë",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/010rk5lk"
+    },
+    {
+        "wikidata_id": "Q4724749",
+        "name": "Ali Demi neighborhood",
+        "description": "neighborhood of Tirana",
+        "freebase_id": "/m/0ddfnnr"
+    },
+    {
+        "wikidata_id": "Q3715379",
+        "name": "Drisht",
+        "description": "Albanian village with notable medieval history",
+        "freebase_id": "/m/064mhbv"
+    },
+    {
+        "wikidata_id": "Q2713321",
+        "name": "Buz",
+        "description": "municipal unit in Gjirokastër, Albania",
+        "freebase_id": "/m/04y6bcq"
+    },
+    {
+        "wikidata_id": "Q7590363",
+        "name": "St. Mary's Monastery, Kakome",
+        "description": "historic site in Kakome",
+        "freebase_id": "/m/0dgn5g0"
+    },
+    {
+        "wikidata_id": "Q4930812",
+        "name": "Blush",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0bbvk1g"
+    },
+    {
+        "wikidata_id": "Q114257",
+        "name": "Elbasan",
+        "description": "city in Albania",
+        "freebase_id": "/m/01vmj2"
+    },
+    {
+        "wikidata_id": "Q4837493",
+        "name": "Baban",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0bbwy6r"
+    },
+    {
+        "wikidata_id": "Q817140",
+        "name": "Bilisht",
+        "description": "town of Albania",
+        "freebase_id": "/m/08mxzb"
+    },
+    {
+        "wikidata_id": "Q18730",
+        "name": "Cërrik",
+        "description": "town in Elbasan, Albania",
+        "freebase_id": "/m/0261m3x"
+    },
+    {
+        "wikidata_id": "Q372872",
+        "name": "Delvinë",
+        "description": "town in Vlorë County, southern Albania",
+        "freebase_id": "/m/09_6sk"
+    },
+    {
+        "wikidata_id": "Q1119439",
+        "name": "Qeparo",
+        "description": "human settlement in Albania",
+        "freebase_id": "/m/0crfl12"
+    },
+    {
+        "wikidata_id": "Q5269933",
+        "name": "Dhuvjan Monastery",
+        "description": "byzantine monastery in southern Albania",
+        "freebase_id": "/m/0czblxt"
+    },
+    {
+        "wikidata_id": "Q18731",
+        "name": "Konispol",
+        "description": "town in Albania",
+        "freebase_id": "/m/0fc6px"
+    },
+    {
+        "wikidata_id": "Q2911983",
+        "name": "Ish-Blloku",
+        "description": "upmarket area in Tirana, Albania",
+        "freebase_id": "/m/0cnxp2j"
+    },
+    {
+        "wikidata_id": "Q4730422",
+        "name": "Allambres",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmf4gk"
+    },
+    {
+        "wikidata_id": "Q4884752",
+        "name": "Beltojë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwvg_4"
+    },
+    {
+        "wikidata_id": "Q1157723",
+        "name": "Dajt",
+        "description": "human settlement in Albania",
+        "freebase_id": "/m/04z_2my"
+    },
+    {
+        "wikidata_id": "Q4663567",
+        "name": "Abat",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0ch2026"
+    },
+    {
+        "wikidata_id": "Q4732503",
+        "name": "Allias",
+        "description": "F-22 Raptor Nicholas A. Bartell YF",
+        "freebase_id": "/m/0fpjq_q"
+    },
+    {
+        "wikidata_id": "Q1088844",
+        "name": "Qytezë",
+        "description": "human settlement",
+        "freebase_id": "/m/0ch52jl"
+    },
+    {
+        "wikidata_id": "Q6488374",
+        "name": "Laprakë",
+        "description": "neighbourhood of Tirana, Albania",
+        "freebase_id": "/m/0cm9l5b"
+    },
+    {
+        "wikidata_id": "Q1474989",
+        "name": "Ardenica Monastery",
+        "description": "church building in Lushnjë municipality, Albania",
+        "freebase_id": "/m/09v6gy6"
+    },
+    {
+        "wikidata_id": "Q4784614",
+        "name": "Arbanë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf6lj"
+    },
+    {
+        "wikidata_id": "Q4882200",
+        "name": "Belesovë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmd1_4"
+    },
+    {
+        "wikidata_id": "Q4945516",
+        "name": "Boriç i Vogël",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czf0b4"
+    },
+    {
+        "wikidata_id": "Q4838017",
+        "name": "Babrru",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcwt0"
+    },
+    {
+        "wikidata_id": "Q170244",
+        "name": "Berat",
+        "description": "city located in south-central Albania",
+        "freebase_id": "/m/01m3lg"
+    },
+    {
+        "wikidata_id": "Q605160",
+        "name": "Kamëz",
+        "description": "city in Albania",
+        "freebase_id": "/m/047mxmv"
+    },
+    {
+        "wikidata_id": "Q4997208",
+        "name": "Bulçesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gtxw54"
+    },
+    {
+        "wikidata_id": "Q4732245",
+        "name": "Allgjate",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf4kd"
+    },
+    {
+        "wikidata_id": "Q3302903",
+        "name": "Zhulat",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/02r3y2w"
+    },
+    {
+        "wikidata_id": "Q1007449",
+        "name": "Drymades",
+        "description": "village in Himarë, Albania",
+        "freebase_id": "/m/0bmg1bh"
+    },
+    {
+        "wikidata_id": "Q1007425",
+        "name": "Rrogozhinë",
+        "description": "town in Albania",
+        "freebase_id": "/m/026144q"
+    },
+    {
+        "wikidata_id": "Q4806105",
+        "name": "Ashtë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwtld0"
+    },
+    {
+        "wikidata_id": "Q212680",
+        "name": "Lushnjë",
+        "description": "city in Fier County, Albania",
+        "freebase_id": "/m/01sw_v"
+    },
+    {
+        "wikidata_id": "Q4960370",
+        "name": "Breg-Shkozë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgnyt"
+    },
+    {
+        "wikidata_id": "Q2021660",
+        "name": "Shiroka",
+        "description": "Albanian village at Lake Scutari",
+        "freebase_id": "/m/0gwzwjg"
+    },
+    {
+        "wikidata_id": "Q5209067",
+        "name": "Daias",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbr8v"
+    },
+    {
+        "wikidata_id": "Q1007556",
+        "name": "Këlcyrë",
+        "description": "town of Albania",
+        "freebase_id": "/m/02rbp8c"
+    },
+    {
+        "wikidata_id": "Q5209885",
+        "name": "Dajt, Zall-Bastar",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbt24"
+    },
+    {
+        "wikidata_id": "Q18793",
+        "name": "Ersekë",
+        "description": "town and former municipality in southeastern Albania",
+        "freebase_id": "/m/027bw8d"
+    },
+    {
+        "wikidata_id": "Q5002538",
+        "name": "Butkë",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0cz9tgl"
+    },
+    {
+        "wikidata_id": "Q5003471",
+        "name": "Buzuq",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdpq2"
+    },
+    {
+        "wikidata_id": "Q2351296",
+        "name": "Bathorë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0fn84t"
+    },
+    {
+        "wikidata_id": "Q991288",
+        "name": "Koplik",
+        "description": "town in Albania",
+        "freebase_id": "/m/06tx1s"
+    },
+    {
+        "wikidata_id": "Q18791",
+        "name": "Shijak",
+        "description": "town in Albania",
+        "freebase_id": "/m/02614z5"
+    },
+    {
+        "wikidata_id": "Q652896",
+        "name": "Vorë",
+        "description": "town of Albania",
+        "freebase_id": "/m/043k9zk"
+    },
+    {
+        "wikidata_id": "Q3305697",
+        "name": "Fushëbardhë",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0799_z"
+    },
+    {
+        "wikidata_id": "Q4860610",
+        "name": "Bargulum",
+        "description": "No description available",
+        "freebase_id": "/m/07s4rpm"
+    },
+    {
+        "wikidata_id": "Q5212648",
+        "name": "Damjan-Fortuz",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf9r0"
+    },
+    {
+        "wikidata_id": "Q4896215",
+        "name": "Besh",
+        "description": "village in Tirana County, Albania",
+        "freebase_id": "/m/0gmgr1v"
+    },
+    {
+        "wikidata_id": "Q636952",
+        "name": "Fterrë",
+        "description": "human settlement",
+        "freebase_id": "/m/076zckq"
+    },
+    {
+        "wikidata_id": "Q1021607",
+        "name": "Valbonë",
+        "description": "human settlement in Albania",
+        "freebase_id": "/m/04gvlk2"
+    },
+    {
+        "wikidata_id": "Q2506513",
+        "name": "Saraqinisht",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0bh8_6j"
+    },
+    {
+        "wikidata_id": "Q3304129",
+        "name": "Ziçisht",
+        "description": "village in Albania",
+        "freebase_id": "/m/03gwhs2"
+    },
+    {
+        "wikidata_id": "Q4881887",
+        "name": "Belaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jw_17f"
+    },
+    {
+        "wikidata_id": "Q134613",
+        "name": "Selenicë",
+        "description": "town in Albania",
+        "freebase_id": "/m/0262mvn"
+    },
+    {
+        "wikidata_id": "Q190897",
+        "name": "Fier",
+        "description": "town in Fier County, Albania",
+        "freebase_id": "/m/02n8jc"
+    },
+    {
+        "wikidata_id": "Q116341",
+        "name": "Korçë",
+        "description": "city in Albania",
+        "freebase_id": "/m/014jx9"
+    },
+    {
+        "wikidata_id": "Q3303027",
+        "name": "Plasë",
+        "description": "Albanian village",
+        "freebase_id": "/m/07lvr4"
+    },
+    {
+        "wikidata_id": "Q4919458",
+        "name": "Bizë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcdwv"
+    },
+    {
+        "wikidata_id": "Q4903694",
+        "name": "Bickë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0bbw8_6"
+    },
+    {
+        "wikidata_id": "Q4852571",
+        "name": "Balshaban",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgr0x"
+    },
+    {
+        "wikidata_id": "Q1787536",
+        "name": "Vau i Dejës",
+        "description": "town in Albania",
+        "freebase_id": "/m/04zxr8x"
+    },
+    {
+        "wikidata_id": "Q4998114",
+        "name": "Buranje",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgfkv"
+    },
+    {
+        "wikidata_id": "Q4859772",
+        "name": "Barbullojë",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0nd2rqq"
+    },
+    {
+        "wikidata_id": "Q5004742",
+        "name": "Bzhetë-Makaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czdntr"
+    },
+    {
+        "wikidata_id": "Q5004743",
+        "name": "Bzhetë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czcp0d"
+    },
+    {
+        "wikidata_id": "Q5005091",
+        "name": "Bërdicë e Sipërme",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwt_k8"
+    },
+    {
+        "wikidata_id": "Q5005088",
+        "name": "Bërdicë e Mesme",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwqzpc"
+    },
+    {
+        "wikidata_id": "Q5005089",
+        "name": "Bërdicë e Madhe",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwwn5n"
+    },
+    {
+        "wikidata_id": "Q3304150",
+        "name": "Arrëz",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0bbz2xq"
+    },
+    {
+        "wikidata_id": "Q3304702",
+        "name": "Vllahat",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0jw_1y0"
+    },
+    {
+        "wikidata_id": "Q83285",
+        "name": "Durrës",
+        "description": "city in Albania",
+        "freebase_id": "/m/01n2gr"
+    },
+    {
+        "wikidata_id": "Q816187",
+        "name": "Belsh",
+        "description": "town in Albania",
+        "freebase_id": "/m/04yfjm4"
+    },
+    {
+        "wikidata_id": "Q4926425",
+        "name": "Blezence",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdmqh"
+    },
+    {
+        "wikidata_id": "Q5064178",
+        "name": "Cerenishte",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcwr7"
+    },
+    {
+        "wikidata_id": "Q4866118",
+        "name": "Barç 2",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmckq3"
+    },
+    {
+        "wikidata_id": "Q4866117",
+        "name": "Barç 1",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcjs3"
+    },
+    {
+        "wikidata_id": "Q4605814",
+        "name": "Ishull-Lezhë",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0nd4kyk"
+    },
+    {
+        "wikidata_id": "Q19689",
+        "name": "Tirana",
+        "description": "capital and the largest city of Albania",
+        "freebase_id": "/m/07m_f"
+    },
+    {
+        "wikidata_id": "Q3298817",
+        "name": "Diellas",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/041424p"
+    },
+    {
+        "wikidata_id": "Q5064773",
+        "name": "Cerove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcq9m"
+    },
+    {
+        "wikidata_id": "Q4997160",
+        "name": "Bultice",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf8l2"
+    },
+    {
+        "wikidata_id": "Q159610",
+        "name": "Vlorë",
+        "description": "city in Albania",
+        "freebase_id": "/m/01vmyj"
+    },
+    {
+        "wikidata_id": "Q4958068",
+        "name": "Bratosh",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czf1l9"
+    },
+    {
+        "wikidata_id": "Q729834",
+        "name": "Selcë e Poshtme",
+        "description": "human settlement",
+        "freebase_id": "/m/026bkq2"
+    },
+    {
+        "wikidata_id": "Q131638",
+        "name": "Shkodër",
+        "description": "city in northwestern Albania",
+        "freebase_id": "/m/01qmvz"
+    },
+    {
+        "wikidata_id": "Q947125",
+        "name": "Orikum",
+        "description": "town in Albania",
+        "freebase_id": "/m/04z_wt4"
+    },
+    {
+        "wikidata_id": "Q622764",
+        "name": "Himarë",
+        "description": "town in Albania",
+        "freebase_id": "/m/0560th"
+    },
+    {
+        "wikidata_id": "Q622764",
+        "name": "Himarë",
+        "description": "town in Albania",
+        "freebase_id": "/m/0dgqb41"
+    },
+    {
+        "wikidata_id": "Q1945622",
+        "name": "Divjakë",
+        "description": "town in Fier County, Albania",
+        "freebase_id": "/m/04y7sl_"
+    },
+    {
+        "wikidata_id": "Q567311",
+        "name": "Borovë",
+        "description": "human settlement",
+        "freebase_id": "/m/0cz8l4t"
+    },
+    {
+        "wikidata_id": "Q4859774",
+        "name": "Barbullush",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwrq29"
+    },
+    {
+        "wikidata_id": "Q7156966",
+        "name": "The New Bazaar",
+        "description": "Neighborhood and market of Tirana",
+        "freebase_id": "/m/0cmcpsy"
+    },
+    {
+        "wikidata_id": "Q991268",
+        "name": "Mamurras",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/0f6j_6"
+    },
+    {
+        "wikidata_id": "Q4937982",
+        "name": "Bogë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czcdnw"
+    },
+    {
+        "wikidata_id": "Q223154",
+        "name": "Peshkopi",
+        "description": "town in Dibër Municipality, Albania",
+        "freebase_id": "/m/012bztbx"
+    },
+    {
+        "wikidata_id": "Q223154",
+        "name": "Peshkopi",
+        "description": "town in Dibër Municipality, Albania",
+        "freebase_id": "/m/02n8l7"
+    },
+    {
+        "wikidata_id": "Q4959042",
+        "name": "Braçanj",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/095mfc"
+    },
+    {
+        "wikidata_id": "Q851060",
+        "name": "Lin",
+        "description": "human settlement",
+        "freebase_id": "/m/0dlkcbq"
+    },
+    {
+        "wikidata_id": "Q7809101",
+        "name": "Tirana 2",
+        "description": "administrative unit of Tirana, Albania",
+        "freebase_id": "/m/0gmct15"
+    },
+    {
+        "wikidata_id": "Q5566049",
+        "name": "Gjorm",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0bs8kr9"
+    },
+    {
+        "wikidata_id": "Q6812251",
+        "name": "Melgushë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwwmtp"
+    },
+    {
+        "wikidata_id": "Q6794311",
+        "name": "Mavrovë",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/03hjf02"
+    },
+    {
+        "wikidata_id": "Q5316768",
+        "name": "Durrës Street",
+        "description": "Street in Tirana, Albania",
+        "freebase_id": "/m/0dgp7b4"
+    },
+    {
+        "wikidata_id": "Q5521388",
+        "name": "Ganjollë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwy4kg"
+    },
+    {
+        "wikidata_id": "Q6668060",
+        "name": "Lohë e Poshtme",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz82_p"
+    },
+    {
+        "wikidata_id": "Q5225541",
+        "name": "Darshen",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcjv5"
+    },
+    {
+        "wikidata_id": "Q6425508",
+        "name": "Kodër e Kuqe",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdjsp"
+    },
+    {
+        "wikidata_id": "Q6432304",
+        "name": "Korite",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdw74"
+    },
+    {
+        "wikidata_id": "Q6427334",
+        "name": "Kolkondas",
+        "description": "village in Fier, Albania",
+        "freebase_id": "/m/0cc5bs6"
+    },
+    {
+        "wikidata_id": "Q6743283",
+        "name": "Mali Hebaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwzf_5"
+    },
+    {
+        "wikidata_id": "Q6743324",
+        "name": "Mali i Gjymtit",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwzwqh"
+    },
+    {
+        "wikidata_id": "Q6530429",
+        "name": "Leskove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdmqv"
+    },
+    {
+        "wikidata_id": "Q6845199",
+        "name": "Mihajas-Cirme",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg9f6"
+    },
+    {
+        "wikidata_id": "Q6428105",
+        "name": "Koman",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0fq25gt"
+    },
+    {
+        "wikidata_id": "Q5580755",
+        "name": "Golimbas",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0cmcfzc"
+    },
+    {
+        "wikidata_id": "Q6301755",
+        "name": "Jubicë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czbq3p"
+    },
+    {
+        "wikidata_id": "Q6449348",
+        "name": "Kuç",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0dd9c47"
+    },
+    {
+        "wikidata_id": "Q6434813",
+        "name": "Kovacanj",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcmgj"
+    },
+    {
+        "wikidata_id": "Q6896360",
+        "name": "Mollas",
+        "description": "municipal unit in Skrapar, Albania",
+        "freebase_id": "/m/0gmfjsn"
+    },
+    {
+        "wikidata_id": "Q6813572",
+        "name": "Melove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmbj0j"
+    },
+    {
+        "wikidata_id": "Q6440908",
+        "name": "Ktosh",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czcvwm"
+    },
+    {
+        "wikidata_id": "Q5584525",
+        "name": "Goranxi",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0czf8kz"
+    },
+    {
+        "wikidata_id": "Q6353613",
+        "name": "Kalldrun",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czc4n7"
+    },
+    {
+        "wikidata_id": "Q6436665",
+        "name": "Krekeze",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmd_rx"
+    },
+    {
+        "wikidata_id": "Q6699870",
+        "name": "Lugë-Shalqizë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmh5l2"
+    },
+    {
+        "wikidata_id": "Q5316653",
+        "name": "Durisht",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf9qp"
+    },
+    {
+        "wikidata_id": "Q6353897",
+        "name": "Kallmet",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcxxn"
+    },
+    {
+        "wikidata_id": "Q6799022",
+        "name": "Mazrek",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwr9sf"
+    },
+    {
+        "wikidata_id": "Q5610410",
+        "name": "Gror",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg1k3"
+    },
+    {
+        "wikidata_id": "Q6442626",
+        "name": "Kukël",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwxxwn"
+    },
+    {
+        "wikidata_id": "Q6482862",
+        "name": "Lanabregas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbr8h"
+    },
+    {
+        "wikidata_id": "Q6435897",
+        "name": "Krajne",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0gmd242"
+    },
+    {
+        "wikidata_id": "Q6488111",
+        "name": "Lapardha 1",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmf1nh"
+    },
+    {
+        "wikidata_id": "Q6488113",
+        "name": "Lapardha 2",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfs3j"
+    },
+    {
+        "wikidata_id": "Q6357346",
+        "name": "Kamicë-Flakë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czdr6k"
+    },
+    {
+        "wikidata_id": "Q6816757",
+        "name": "Mendrak",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmd2vx"
+    },
+    {
+        "wikidata_id": "Q5566002",
+        "name": "Gjergovice",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmf3js"
+    },
+    {
+        "wikidata_id": "Q6439430",
+        "name": "Krushove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmg8kr"
+    },
+    {
+        "wikidata_id": "Q5609178",
+        "name": "Grilë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8th1"
+    },
+    {
+        "wikidata_id": "Q5429386",
+        "name": "Fage",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcjvj"
+    },
+    {
+        "wikidata_id": "Q5610393",
+        "name": "Gropat e Selcës",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cmcd_r"
+    },
+    {
+        "wikidata_id": "Q6502460",
+        "name": "Lavdar",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfs35"
+    },
+    {
+        "wikidata_id": "Q6447311",
+        "name": "Kurtës",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0bs9bzd"
+    },
+    {
+        "wikidata_id": "Q5448225",
+        "name": "Fikas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmch_3"
+    },
+    {
+        "wikidata_id": "Q6721685",
+        "name": "Mabë",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0nd3ht8"
+    },
+    {
+        "wikidata_id": "Q6706548",
+        "name": "Luz i Madh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/05dqhb"
+    },
+    {
+        "wikidata_id": "Q5494000",
+        "name": "Fravesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgdrm"
+    },
+    {
+        "wikidata_id": "Q5601529",
+        "name": "Grebllesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgr_k"
+    },
+    {
+        "wikidata_id": "Q5611938",
+        "name": "Grudë e Re",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8z2j"
+    },
+    {
+        "wikidata_id": "Q5620600",
+        "name": "Gurëz",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0gmgclg"
+    },
+    {
+        "wikidata_id": "Q5607821",
+        "name": "Greve",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmbszp"
+    },
+    {
+        "wikidata_id": "Q6349319",
+        "name": "Kakavijë",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0cc9978"
+    },
+    {
+        "wikidata_id": "Q5506805",
+        "name": "Fshat i Ri",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwvb5q"
+    },
+    {
+        "wikidata_id": "Q6349623",
+        "name": "Kakos",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfkpp"
+    },
+    {
+        "wikidata_id": "Q6530347",
+        "name": "Leshnicë e Sipërme",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/04cx44x"
+    },
+    {
+        "wikidata_id": "Q6350611",
+        "name": "Kalanjas",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfwgs"
+    },
+    {
+        "wikidata_id": "Q6098045",
+        "name": "Ivanaj",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czbbyz"
+    },
+    {
+        "wikidata_id": "Q6555226",
+        "name": "Linzë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgr17"
+    },
+    {
+        "wikidata_id": "Q6436356",
+        "name": "Kraste",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmg62y"
+    },
+    {
+        "wikidata_id": "Q6826650",
+        "name": "Mezhgoran",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0bh83kv"
+    },
+    {
+        "wikidata_id": "Q5607345",
+        "name": "Gremsh",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdfg5"
+    },
+    {
+        "wikidata_id": "Q5566017",
+        "name": "Gjeç-Kodër",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmghn7"
+    },
+    {
+        "wikidata_id": "Q5566053",
+        "name": "Gjysylkanë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdy4y"
+    },
+    {
+        "wikidata_id": "Q6439621",
+        "name": "Kryezi",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf6l5"
+    },
+    {
+        "wikidata_id": "Q5214891",
+        "name": "Donofrosë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmddjk"
+    },
+    {
+        "wikidata_id": "Q5569775",
+        "name": "Glinë",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0czf5n6"
+    },
+    {
+        "wikidata_id": "Q5565978",
+        "name": "Gjashtë",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0dln9ps"
+    },
+    {
+        "wikidata_id": "Q5435391",
+        "name": "Farkë e Vogël",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfzp5"
+    },
+    {
+        "wikidata_id": "Q5435394",
+        "name": "Farkë e Madhe",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfysj"
+    },
+    {
+        "wikidata_id": "Q5984955",
+        "name": "Ibë e Poshtme",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmflt0"
+    },
+    {
+        "wikidata_id": "Q5213010",
+        "name": "Damës, Gjirokastër",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/06znj2t"
+    },
+    {
+        "wikidata_id": "Q5590724",
+        "name": "Grabom",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0nbv650"
+    },
+    {
+        "wikidata_id": "Q6428255",
+        "name": "Kombinat",
+        "description": "suburb of Tirana",
+        "freebase_id": "/m/0cm9wl8"
+    },
+    {
+        "wikidata_id": "Q5286712",
+        "name": "Dobresh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfksv"
+    },
+    {
+        "wikidata_id": "Q6711245",
+        "name": "Lëkurës",
+        "description": "village in Vlorë County, Albania",
+        "freebase_id": "/m/0dll1_v"
+    },
+    {
+        "wikidata_id": "Q6480518",
+        "name": "Lalm",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg2jw"
+    },
+    {
+        "wikidata_id": "Q5307848",
+        "name": "Dritas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmct61"
+    },
+    {
+        "wikidata_id": "Q6799023",
+        "name": "Mazrek",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbzx_"
+    },
+    {
+        "wikidata_id": "Q6301749",
+        "name": "Jube",
+        "description": "village in Durrës, Albania",
+        "freebase_id": "/m/0gmbl2j"
+    },
+    {
+        "wikidata_id": "Q6824277",
+        "name": "Metoq",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0drypt9"
+    },
+    {
+        "wikidata_id": "Q5439255",
+        "name": "Façesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcd2m"
+    },
+    {
+        "wikidata_id": "Q6349711",
+        "name": "Kakunj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbt1g"
+    },
+    {
+        "wikidata_id": "Q5249716",
+        "name": "Dedaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czb1q_"
+    },
+    {
+        "wikidata_id": "Q5612404",
+        "name": "Gryke Manati",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0b6dcwn"
+    },
+    {
+        "wikidata_id": "Q6749177",
+        "name": "Mangull",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcgy9"
+    },
+    {
+        "wikidata_id": "Q6695033",
+        "name": "Luaras",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0bbvlzy"
+    },
+    {
+        "wikidata_id": "Q5610391",
+        "name": "Gropaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf_pl"
+    },
+    {
+        "wikidata_id": "Q6826629",
+        "name": "Mezez",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg55q"
+    },
+    {
+        "wikidata_id": "Q6165820",
+        "name": "Javor",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cm8816"
+    },
+    {
+        "wikidata_id": "Q5297727",
+        "name": "Dorez",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg0qd"
+    },
+    {
+        "wikidata_id": "Q6449344",
+        "name": "Kuç, Skrapar",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmd6p5"
+    },
+    {
+        "wikidata_id": "Q6694963",
+        "name": "Luadh",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmh2v7"
+    },
+    {
+        "wikidata_id": "Q5552228",
+        "name": "Germenje",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmc943"
+    },
+    {
+        "wikidata_id": "Q6435456",
+        "name": "Koçaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbs5p"
+    },
+    {
+        "wikidata_id": "Q5305794",
+        "name": "Dramosh",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8l21"
+    },
+    {
+        "wikidata_id": "Q5445227",
+        "name": "Ferraj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbpn1"
+    },
+    {
+        "wikidata_id": "Q5291258",
+        "name": "Domje",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdbp0"
+    },
+    {
+        "wikidata_id": "Q5291256",
+        "name": "Domje, Bërxullë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdjsb"
+    },
+    {
+        "wikidata_id": "Q6557292",
+        "name": "Liqeth",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmbwy7"
+    },
+    {
+        "wikidata_id": "Q5678075",
+        "name": "Hasan",
+        "description": "village in Durrës, Albania",
+        "freebase_id": "/m/0gmg_gg"
+    },
+    {
+        "wikidata_id": "Q5648181",
+        "name": "Hani i Hotit",
+        "description": "Border crossing point in Albania",
+        "freebase_id": "/m/0nc7dty"
+    },
+    {
+        "wikidata_id": "Q5591865",
+        "name": "Gradec, Skrapar",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfkqc"
+    },
+    {
+        "wikidata_id": "Q6885381",
+        "name": "Mjull Bathore",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg2j5"
+    },
+    {
+        "wikidata_id": "Q6431134",
+        "name": "Koplik i Sipërm",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czc8f9"
+    },
+    {
+        "wikidata_id": "Q6885910",
+        "name": "Mner i Siperm",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfwl9"
+    },
+    {
+        "wikidata_id": "Q5269786",
+        "name": "Dhorës",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfxp3"
+    },
+    {
+        "wikidata_id": "Q5269526",
+        "name": "Dheu i Lehtë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwx6j3"
+    },
+    {
+        "wikidata_id": "Q5263295",
+        "name": "Derviçan",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0cz8v6h"
+    },
+    {
+        "wikidata_id": "Q5619868",
+        "name": "Gurazez",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcpb8"
+    },
+    {
+        "wikidata_id": "Q6447716",
+        "name": "Kus, Bërzhitë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgbdw"
+    },
+    {
+        "wikidata_id": "Q5382488",
+        "name": "Epicaria",
+        "description": "former settlement in ancient Illyria",
+        "freebase_id": "/m/07s3x8z"
+    },
+    {
+        "wikidata_id": "Q5566001",
+        "name": "Gjergjovë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmc6h7"
+    },
+    {
+        "wikidata_id": "Q5620280",
+        "name": "Gurrë e Vogël",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbm18"
+    },
+    {
+        "wikidata_id": "Q6550229",
+        "name": "Linaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz9k25"
+    },
+    {
+        "wikidata_id": "Q6366673",
+        "name": "Kapinove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmg0nb"
+    },
+    {
+        "wikidata_id": "Q5566050",
+        "name": "Gjormë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8r9q"
+    },
+    {
+        "wikidata_id": "Q5998479",
+        "name": "Iljas",
+        "description": "village in Albania",
+        "freebase_id": "/m/0dgpnnd"
+    },
+    {
+        "wikidata_id": "Q6472136",
+        "name": "Lagje e Re",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdw8k"
+    },
+    {
+        "wikidata_id": "Q5743896",
+        "name": "Herraj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdlrw"
+    },
+    {
+        "wikidata_id": "Q5601538",
+        "name": "Grecë",
+        "description": "village in Pezë, Tirana, Albania",
+        "freebase_id": "/m/0gmczl0"
+    },
+    {
+        "wikidata_id": "Q6520678",
+        "name": "Lekël",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0cc7c50"
+    },
+    {
+        "wikidata_id": "Q5389261",
+        "name": "Erind",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0bh728s"
+    },
+    {
+        "wikidata_id": "Q6787734",
+        "name": "Matogjin",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0cmdpqt"
+    },
+    {
+        "wikidata_id": "Q6704173",
+        "name": "Lundër",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf_p7"
+    },
+    {
+        "wikidata_id": "Q5316862",
+        "name": "Dush",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/04z_9gx"
+    },
+    {
+        "wikidata_id": "Q6950178",
+        "name": "Mënik",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbv1z"
+    },
+    {
+        "wikidata_id": "Q5903837",
+        "name": "Hormovë",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0c4264b"
+    },
+    {
+        "wikidata_id": "Q5269932",
+        "name": "Dhuvjan",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0czd34d"
+    },
+    {
+        "wikidata_id": "Q5510008",
+        "name": "Fushas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcyrl"
+    },
+    {
+        "wikidata_id": "Q5510032",
+        "name": "Fushë e Kërçikëve",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdslv"
+    },
+    {
+        "wikidata_id": "Q5510033",
+        "name": "Fushë-Prezë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmftp9"
+    },
+    {
+        "wikidata_id": "Q6814165",
+        "name": "Melçan",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0cz8sl9"
+    },
+    {
+        "wikidata_id": "Q6909374",
+        "name": "Moravë",
+        "description": "Berat County, Albania",
+        "freebase_id": "/m/0gmfyqp"
+    },
+    {
+        "wikidata_id": "Q6421185",
+        "name": "Kllojke",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmghmk"
+    },
+    {
+        "wikidata_id": "Q6089430",
+        "name": "Isufmuçaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgs_6"
+    },
+    {
+        "wikidata_id": "Q5255387",
+        "name": "Demiraj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8n0n"
+    },
+    {
+        "wikidata_id": "Q6453745",
+        "name": "Kërçukje",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmd2z0"
+    },
+    {
+        "wikidata_id": "Q6447717",
+        "name": "Kus, Kashar",
+        "description": "village in the administrative unit of Kashar, Tirana municipality, Albania",
+        "freebase_id": "/m/0gmgzf9"
+    },
+    {
+        "wikidata_id": "Q5314700",
+        "name": "Duncke",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfj0r"
+    },
+    {
+        "wikidata_id": "Q6435248",
+        "name": "Kozhnjë e Sipërme",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cmbw4d"
+    },
+    {
+        "wikidata_id": "Q6740657",
+        "name": "Mal i Jushit",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwzdtq"
+    },
+    {
+        "wikidata_id": "Q8068740",
+        "name": "Zelevizhde",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmczhx"
+    },
+    {
+        "wikidata_id": "Q7538652",
+        "name": "Slanicë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmf3k3"
+    },
+    {
+        "wikidata_id": "Q7190495",
+        "name": "Picall",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgdrz"
+    },
+    {
+        "wikidata_id": "Q7943133",
+        "name": "Vrion",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0dr_td7"
+    },
+    {
+        "wikidata_id": "Q7939349",
+        "name": "Vodëz",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdywd"
+    },
+    {
+        "wikidata_id": "Q7249934",
+        "name": "Prongji",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/043n43h"
+    },
+    {
+        "wikidata_id": "Q7499096",
+        "name": "Shishtavec Municipality",
+        "description": "municipal unit in Kukës, Albania",
+        "freebase_id": "/m/0h3lddq"
+    },
+    {
+        "wikidata_id": "Q7245656",
+        "name": "Priske e Madhe",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbqjj"
+    },
+    {
+        "wikidata_id": "Q7245657",
+        "name": "Priske e Vogel",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfkt5"
+    },
+    {
+        "wikidata_id": "Q7538959",
+        "name": "Slatinje",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfnlt"
+    },
+    {
+        "wikidata_id": "Q7563180",
+        "name": "Sopot",
+        "description": "settlement in Stravaj, Librazhd District",
+        "freebase_id": "/m/02psvx9"
+    },
+    {
+        "wikidata_id": "Q7919650",
+        "name": "Vendreshë e Madhe",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgkk5"
+    },
+    {
+        "wikidata_id": "Q7919651",
+        "name": "Vendreshë e Malit",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgnxc"
+    },
+    {
+        "wikidata_id": "Q7919652",
+        "name": "Vendreshë e Vogël",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgn24"
+    },
+    {
+        "wikidata_id": "Q7574008",
+        "name": "Spathar",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfsxj"
+    },
+    {
+        "wikidata_id": "Q8065512",
+        "name": "Zall-Mner",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfs5z"
+    },
+    {
+        "wikidata_id": "Q7915291",
+        "name": "Vanë",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0cm9bk0"
+    },
+    {
+        "wikidata_id": "Q7040522",
+        "name": "Nishice",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcs63"
+    },
+    {
+        "wikidata_id": "Q7071491",
+        "name": "Nënshat",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwyz8x"
+    },
+    {
+        "wikidata_id": "Q7563161",
+        "name": "Sopik",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0nccszj"
+    },
+    {
+        "wikidata_id": "Q7165046",
+        "name": "Pentar",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwth_6"
+    },
+    {
+        "wikidata_id": "Q7939095",
+        "name": "Vlushë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmh0xh"
+    },
+    {
+        "wikidata_id": "Q8067698",
+        "name": "Zbarqë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmd18c"
+    },
+    {
+        "wikidata_id": "Q7537100",
+        "name": "Skutër",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmc5rp"
+    },
+    {
+        "wikidata_id": "Q6934197",
+        "name": "Mullet",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/03mblym"
+    },
+    {
+        "wikidata_id": "Q7075160",
+        "name": "Oblikë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8m4f"
+    },
+    {
+        "wikidata_id": "Q7901627",
+        "name": "Urë e Shtrenjtë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0bznnp"
+    },
+    {
+        "wikidata_id": "Q7923191",
+        "name": "Veseshte",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmg0np"
+    },
+    {
+        "wikidata_id": "Q7611506",
+        "name": "Stermas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgckr"
+    },
+    {
+        "wikidata_id": "Q7623212",
+        "name": "Strenec",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfjs9"
+    },
+    {
+        "wikidata_id": "Q7265816",
+        "name": "Qafë-Gradë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz9yj_"
+    },
+    {
+        "wikidata_id": "Q7503346",
+        "name": "Shpat i Sipërm",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmcncs"
+    },
+    {
+        "wikidata_id": "Q7918896",
+        "name": "Veleshnje",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcrbr"
+    },
+    {
+        "wikidata_id": "Q3394403",
+        "name": "Devol",
+        "description": "ancient town in Albania",
+        "freebase_id": "/m/04z_79t"
+    },
+    {
+        "wikidata_id": "Q7309851",
+        "name": "Rehovicë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmbytz"
+    },
+    {
+        "wikidata_id": "Q8065551",
+        "name": "Zaloshnjë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmbkzy"
+    },
+    {
+        "wikidata_id": "Q7922571",
+        "name": "Verri",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg7xw"
+    },
+    {
+        "wikidata_id": "Q7195567",
+        "name": "Pinet",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdzxs"
+    },
+    {
+        "wikidata_id": "Q7783100",
+        "name": "Thermidava",
+        "description": "archaeological site",
+        "freebase_id": "/m/07s56h_"
+    },
+    {
+        "wikidata_id": "Q7319921",
+        "name": "Reç",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8pdl"
+    },
+    {
+        "wikidata_id": "Q7427503",
+        "name": "Sauqet",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmd_tm"
+    },
+    {
+        "wikidata_id": "Q8073414",
+        "name": "Zogas",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfvdl"
+    },
+    {
+        "wikidata_id": "Q7234152",
+        "name": "Postenan",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0cc7_hv"
+    },
+    {
+        "wikidata_id": "Q7209300",
+        "name": "Polene",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgpzq"
+    },
+    {
+        "wikidata_id": "Q8071244",
+        "name": "Zhurje",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdthg"
+    },
+    {
+        "wikidata_id": "Q7503352",
+        "name": "Shpatë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgrzw"
+    },
+    {
+        "wikidata_id": "Q7782837",
+        "name": "Therepel",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgfkh"
+    },
+    {
+        "wikidata_id": "Q7503344",
+        "name": "Shpat",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdnpy"
+    },
+    {
+        "wikidata_id": "Q7169131",
+        "name": "Perlat",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0cmby9_"
+    },
+    {
+        "wikidata_id": "Q8071870",
+        "name": "Zikxhafaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0bmfg70"
+    },
+    {
+        "wikidata_id": "Q7280545",
+        "name": "Radimisht",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/03chwh4"
+    },
+    {
+        "wikidata_id": "Q7620936",
+        "name": "Straficke",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcdtd"
+    },
+    {
+        "wikidata_id": "Q7071195",
+        "name": "Nymphaeum",
+        "description": "ancient Greek colony in Illyria",
+        "freebase_id": "/m/0bbvgxp"
+    },
+    {
+        "wikidata_id": "Q8077785",
+        "name": "Çorrotat",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcq9z"
+    },
+    {
+        "wikidata_id": "Q7923328",
+        "name": "Vesqi",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbw_r"
+    },
+    {
+        "wikidata_id": "Q7506049",
+        "name": "Shëngjin i Vogël",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmbyyx"
+    },
+    {
+        "wikidata_id": "Q7506052",
+        "name": "Shënkoll, Baldushk",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmcjtv"
+    },
+    {
+        "wikidata_id": "Q7504371",
+        "name": "Shtish-Tufinë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgr_6"
+    },
+    {
+        "wikidata_id": "Q7448503",
+        "name": "Selitë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfysw"
+    },
+    {
+        "wikidata_id": "Q7139769",
+        "name": "Parret",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg9h1"
+    },
+    {
+        "wikidata_id": "Q7856763",
+        "name": "Tushemisht",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0nbt8lw"
+    },
+    {
+        "wikidata_id": "Q7314331",
+        "name": "Reps",
+        "description": "town in Lezhë, Albania",
+        "freebase_id": "/m/0gmfj4y"
+    },
+    {
+        "wikidata_id": "Q7704010",
+        "name": "Terrove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmg638"
+    },
+    {
+        "wikidata_id": "Q7375558",
+        "name": "Rrash-Kullaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz81qd"
+    },
+    {
+        "wikidata_id": "Q7900344",
+        "name": "Ure",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg8nl"
+    },
+    {
+        "wikidata_id": "Q7267411",
+        "name": "Qeshibas",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfj0d"
+    },
+    {
+        "wikidata_id": "Q7267497",
+        "name": "Qestorat",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0bmhrrs"
+    },
+    {
+        "wikidata_id": "Q7375563",
+        "name": "Rromas",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfjs_"
+    },
+    {
+        "wikidata_id": "Q6944435",
+        "name": "Muzhak",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcs5s"
+    },
+    {
+        "wikidata_id": "Q7943398",
+        "name": "Vukatanë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0gjc76s"
+    },
+    {
+        "wikidata_id": "Q7504377",
+        "name": "Shtuf",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8qjt"
+    },
+    {
+        "wikidata_id": "Q7089877",
+        "name": "Omaraj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czbmlh"
+    },
+    {
+        "wikidata_id": "Q7102908",
+        "name": "Orizaj",
+        "description": "village in the administrative unit of Otllak, Berat municipality, Berat County, Albania",
+        "freebase_id": "/m/0gmbt_v"
+    },
+    {
+        "wikidata_id": "Q7036749",
+        "name": "Nikç",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cmbfz9"
+    },
+    {
+        "wikidata_id": "Q7126728",
+        "name": "Palaq",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfsy_"
+    },
+    {
+        "wikidata_id": "Q7506054",
+        "name": "Shënkoll, Petrelë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmghmx"
+    },
+    {
+        "wikidata_id": "Q7375550",
+        "name": "Rragam",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwx592"
+    },
+    {
+        "wikidata_id": "Q7447583",
+        "name": "Selckë",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0bhbm4j"
+    },
+    {
+        "wikidata_id": "Q7624823",
+        "name": "Stror",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfph9"
+    },
+    {
+        "wikidata_id": "Q7879187",
+        "name": "Ullinjas",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgxjf"
+    },
+    {
+        "wikidata_id": "Q7166991",
+        "name": "Percellesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmf8kr"
+    },
+    {
+        "wikidata_id": "Q6941229",
+        "name": "Mushan",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwvkch"
+    },
+    {
+        "wikidata_id": "Q7909478",
+        "name": "Vale",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmghk4"
+    },
+    {
+        "wikidata_id": "Q7102907",
+        "name": "Orizaj",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmc1cb"
+    },
+    {
+        "wikidata_id": "Q7265811",
+        "name": "Qafmollë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcgxz"
+    },
+    {
+        "wikidata_id": "Q7935944",
+        "name": "Vishanji",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmcgwl"
+    },
+    {
+        "wikidata_id": "Q7375553",
+        "name": "Rranxë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwybk3"
+    },
+    {
+        "wikidata_id": "Q7936372",
+        "name": "Visoce",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmc_dp"
+    },
+    {
+        "wikidata_id": "Q6935256",
+        "name": "Mumajes",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcxx9"
+    },
+    {
+        "wikidata_id": "Q7493445",
+        "name": "Sheldi",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwrq_2"
+    },
+    {
+        "wikidata_id": "Q8073411",
+        "name": "Zogaj",
+        "description": "settlement in Shkodër, Albania",
+        "freebase_id": "/m/0nbv9s9"
+    },
+    {
+        "wikidata_id": "Q6939701",
+        "name": "Murt",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcpdp"
+    },
+    {
+        "wikidata_id": "Q7447573",
+        "name": "Selbë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmcmj0"
+    },
+    {
+        "wikidata_id": "Q6938732",
+        "name": "Muriqan",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz8k06"
+    },
+    {
+        "wikidata_id": "Q8077666",
+        "name": "Çerkezë-Morinë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcv0v"
+    },
+    {
+        "wikidata_id": "Q7853897",
+        "name": "Turbohove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmfc9x"
+    },
+    {
+        "wikidata_id": "Q7375546",
+        "name": "Rraboshtë",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0b6jddz"
+    },
+    {
+        "wikidata_id": "Q7267367",
+        "name": "Qeha",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmckr4"
+    },
+    {
+        "wikidata_id": "Q7267776",
+        "name": "Qinam",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcwtc"
+    },
+    {
+        "wikidata_id": "Q7930163",
+        "name": "Vilez",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfrd1"
+    },
+    {
+        "wikidata_id": "Q7107301",
+        "name": "Osoje",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmgry4"
+    },
+    {
+        "wikidata_id": "Q7490279",
+        "name": "Sharove",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmctzc"
+    },
+    {
+        "wikidata_id": "Q7200167",
+        "name": "Pjetroshan",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czbs_8"
+    },
+    {
+        "wikidata_id": "Q6929547",
+        "name": "Mreg",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cmcd_d"
+    },
+    {
+        "wikidata_id": "Q7785129",
+        "name": "Thirrë",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0ndx1zf"
+    },
+    {
+        "wikidata_id": "Q7909035",
+        "name": "Vakumone",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmd7p1"
+    },
+    {
+        "wikidata_id": "Q8064439",
+        "name": "Zagorë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8747"
+    },
+    {
+        "wikidata_id": "Q7095593",
+        "name": "Opar",
+        "description": "village of Korce in Albania",
+        "freebase_id": "/m/0ds6dc8"
+    },
+    {
+        "wikidata_id": "Q7375331",
+        "name": "Rozavere",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmh6fw"
+    },
+    {
+        "wikidata_id": "Q7495610",
+        "name": "Shesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgq1k"
+    },
+    {
+        "wikidata_id": "Q7499527",
+        "name": "Shkjezë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwxgj5"
+    },
+    {
+        "wikidata_id": "Q7448504",
+        "name": "Selitë Mali",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbzyb"
+    },
+    {
+        "wikidata_id": "Q3338715",
+        "name": "Dagnum",
+        "description": "town, bishopric and medieval fortress in Albania",
+        "freebase_id": "/m/064ljzy"
+    },
+    {
+        "wikidata_id": "Q6941283",
+        "name": "Mushqeta",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmc3_c"
+    },
+    {
+        "wikidata_id": "Q7499517",
+        "name": "Shkallë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmcftc"
+    },
+    {
+        "wikidata_id": "Q7944565",
+        "name": "Vërzhezhe",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmflr_"
+    },
+    {
+        "wikidata_id": "Q6933390",
+        "name": "Mukaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdglr"
+    },
+    {
+        "wikidata_id": "Q7280132",
+        "name": "Radesh",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdvdn"
+    },
+    {
+        "wikidata_id": "Q6943373",
+        "name": "Mustafakoçaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbpmq"
+    },
+    {
+        "wikidata_id": "Q7494584",
+        "name": "Sheqës",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmd4pd"
+    },
+    {
+        "wikidata_id": "Q7494441",
+        "name": "Sheper",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0by0w86"
+    },
+    {
+        "wikidata_id": "Q6966426",
+        "name": "Nartë",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0bmf51m"
+    },
+    {
+        "wikidata_id": "Q7179663",
+        "name": "Peze e Vogel",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmc7c7"
+    },
+    {
+        "wikidata_id": "Q7179660",
+        "name": "Peze Helmes",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmbj1z"
+    },
+    {
+        "wikidata_id": "Q7179661",
+        "name": "Peze e Madhe",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmh5lf"
+    },
+    {
+        "wikidata_id": "Q7198525",
+        "name": "Pistull",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwx3lx"
+    },
+    {
+        "wikidata_id": "Q8063473",
+        "name": "Zaberzan i Ri",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdffv"
+    },
+    {
+        "wikidata_id": "Q7635927",
+        "name": "Sukë Dajç",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwzntz"
+    },
+    {
+        "wikidata_id": "Q7280228",
+        "name": "Radhesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfnmw"
+    },
+    {
+        "wikidata_id": "Q7525273",
+        "name": "Sinë",
+        "description": "village in Dibër, Albania",
+        "freebase_id": "/m/0dgpd82"
+    },
+    {
+        "wikidata_id": "Q7506050",
+        "name": "Shëngjin",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmgds9"
+    },
+    {
+        "wikidata_id": "Q7206306",
+        "name": "Pocestë",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0czbzn8"
+    },
+    {
+        "wikidata_id": "Q7207231",
+        "name": "Podë",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/05zl9yb"
+    },
+    {
+        "wikidata_id": "Q7490481",
+        "name": "Sharrë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg_7l"
+    },
+    {
+        "wikidata_id": "Q7848059",
+        "name": "Trush",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwt59w"
+    },
+    {
+        "wikidata_id": "Q7918798",
+        "name": "Velan",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz80r4"
+    },
+    {
+        "wikidata_id": "Q7204917",
+        "name": "Plezhë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwrlhv"
+    },
+    {
+        "wikidata_id": "Q7942616",
+        "name": "Vrap",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmclmp"
+    },
+    {
+        "wikidata_id": "Q7919032",
+        "name": "Velinaj",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8slp"
+    },
+    {
+        "wikidata_id": "Q7139613",
+        "name": "Parpuje",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmd6qy"
+    },
+    {
+        "wikidata_id": "Q7194833",
+        "name": "Pinar",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdrsz"
+    },
+    {
+        "wikidata_id": "Q7309850",
+        "name": "Rehovë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmddj6"
+    },
+    {
+        "wikidata_id": "Q7157061",
+        "name": "Paçram",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwr63g"
+    },
+    {
+        "wikidata_id": "Q7141979",
+        "name": "Pashkashesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmh4pk"
+    },
+    {
+        "wikidata_id": "Q7142226",
+        "name": "Paskuqan Fushe",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfj23"
+    },
+    {
+        "wikidata_id": "Q7142227",
+        "name": "Paskuqan Kodër",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmfltc"
+    },
+    {
+        "wikidata_id": "Q7126764",
+        "name": "Palasë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czf7_c"
+    },
+    {
+        "wikidata_id": "Q7878150",
+        "name": "Ujanik",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmbmv8"
+    },
+    {
+        "wikidata_id": "Q7248375",
+        "name": "Progonat",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0hgmtpj"
+    },
+    {
+        "wikidata_id": "Q7253124",
+        "name": "Prush",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmg72x"
+    },
+    {
+        "wikidata_id": "Q16897738",
+        "name": "Zojz",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0nbtk1v"
+    },
+    {
+        "wikidata_id": "Q13047615",
+        "name": "Vishaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgyl9"
+    },
+    {
+        "wikidata_id": "Q2542521",
+        "name": "Lukovë",
+        "description": "village and municipality on the Albanian Riviera",
+        "freebase_id": "/m/04zvnqn"
+    },
+    {
+        "wikidata_id": "Q991340",
+        "name": "Vuno",
+        "description": "village in Vlorë County, Albania",
+        "freebase_id": "/m/0czc_6h"
+    },
+    {
+        "wikidata_id": "Q16355465",
+        "name": "Rrakull",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xc9n6"
+    },
+    {
+        "wikidata_id": "Q16355552",
+        "name": "Rrikaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x8b6n"
+    },
+    {
+        "wikidata_id": "Q16355779",
+        "name": "Fliballie",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x7q06"
+    },
+    {
+        "wikidata_id": "Q16361557",
+        "name": "Vithkuq",
+        "description": "village in Albania",
+        "freebase_id": "/m/04y87v9"
+    },
+    {
+        "wikidata_id": "Q16356889",
+        "name": "Golemas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x5ld1"
+    },
+    {
+        "wikidata_id": "Q16357378",
+        "name": "Habilaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xc28k"
+    },
+    {
+        "wikidata_id": "Q16357666",
+        "name": "Shtodhër",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x7p__"
+    },
+    {
+        "wikidata_id": "Q16358539",
+        "name": "Spanesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x95z6"
+    },
+    {
+        "wikidata_id": "Q16358869",
+        "name": "Stërbeg",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x74zs"
+    },
+    {
+        "wikidata_id": "Q3244513",
+        "name": "Gërdec",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/03wgnfb"
+    },
+    {
+        "wikidata_id": "Q16359570",
+        "name": "Thartor",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xd8cy"
+    },
+    {
+        "wikidata_id": "Q18639113",
+        "name": "Ballutaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xfdsp"
+    },
+    {
+        "wikidata_id": "Q18639117",
+        "name": "Bardhor",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bff8f"
+    },
+    {
+        "wikidata_id": "Q18639142",
+        "name": "Bulçesh, Kamëz",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bcqx2"
+    },
+    {
+        "wikidata_id": "Q18639234",
+        "name": "Frutikulturë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bd713"
+    },
+    {
+        "wikidata_id": "Q18639265",
+        "name": "Hallull",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bdf94"
+    },
+    {
+        "wikidata_id": "Q18639412",
+        "name": "Kryeluz",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012dwd5t"
+    },
+    {
+        "wikidata_id": "Q18639425",
+        "name": "Laknas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bd6mq"
+    },
+    {
+        "wikidata_id": "Q18639437",
+        "name": "Levanaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bd34c"
+    },
+    {
+        "wikidata_id": "Q16347657",
+        "name": "Mborje",
+        "description": "village of Korçë in Albania",
+        "freebase_id": "/m/02q0_v9"
+    },
+    {
+        "wikidata_id": "Q18639508",
+        "name": "Memollaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bd83l"
+    },
+    {
+        "wikidata_id": "Q18639688",
+        "name": "Rrostej",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012f_fv_"
+    },
+    {
+        "wikidata_id": "Q18639729",
+        "name": "Shargë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bdfdh"
+    },
+    {
+        "wikidata_id": "Q18639848",
+        "name": "Valias",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012bd67r"
+    },
+    {
+        "wikidata_id": "Q18639926",
+        "name": "Zashtik",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x95yy"
+    },
+    {
+        "wikidata_id": "Q804891",
+        "name": "Balecium",
+        "description": "Catholic titular see",
+        "freebase_id": "/m/0h_91lt"
+    },
+    {
+        "wikidata_id": "Q3567546",
+        "name": "Epidamnos",
+        "description": "the Greek colonial city in South Illyria",
+        "freebase_id": "/m/03kq64"
+    },
+    {
+        "wikidata_id": "Q188694",
+        "name": "Butrint",
+        "description": "ancient city of Albania",
+        "freebase_id": "/m/018mk9"
+    },
+    {
+        "wikidata_id": "Q15240694",
+        "name": "Kudhës",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0dgns79"
+    },
+    {
+        "wikidata_id": "Q15244017",
+        "name": "Maknor",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdzy3"
+    },
+    {
+        "wikidata_id": "Q16361689",
+        "name": "Vorrozen",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x76lz"
+    },
+    {
+        "wikidata_id": "Q13037340",
+        "name": "Ballaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x66v0"
+    },
+    {
+        "wikidata_id": "Q16362861",
+        "name": "Çollakaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xdvfr"
+    },
+    {
+        "wikidata_id": "Q16351043",
+        "name": "Bobot",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz8hwm"
+    },
+    {
+        "wikidata_id": "Q3301125",
+        "name": "Helmës",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmdx5m"
+    },
+    {
+        "wikidata_id": "Q16355959",
+        "name": "Salari",
+        "description": "community in Albania",
+        "freebase_id": "/m/0ch4qyr"
+    },
+    {
+        "wikidata_id": "Q15203533",
+        "name": "Boriç i Madh",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czd8_b"
+    },
+    {
+        "wikidata_id": "Q728519",
+        "name": "Oricum",
+        "description": "ancient city and archaeological site in Albania",
+        "freebase_id": "/m/03qf0wk"
+    },
+    {
+        "wikidata_id": "Q3299499",
+        "name": "Boboshticë",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/010xdkfk"
+    },
+    {
+        "wikidata_id": "Q15272311",
+        "name": "Renc",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0gh8stv"
+    },
+    {
+        "wikidata_id": "Q15262409",
+        "name": "Nivan",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0479933"
+    },
+    {
+        "wikidata_id": "Q18346313",
+        "name": "Qerret, Kavajë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x69jd"
+    },
+    {
+        "wikidata_id": "Q1723764",
+        "name": "Kaninë",
+        "description": "human settlement",
+        "freebase_id": "/m/0ds5jtx"
+    },
+    {
+        "wikidata_id": "Q18352000",
+        "name": "Mamël, Kavajë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/012dwgqb"
+    },
+    {
+        "wikidata_id": "Q2617941",
+        "name": "Hoçisht",
+        "description": "municipal unit in Korçë, Albania",
+        "freebase_id": "/m/04yd60m"
+    },
+    {
+        "wikidata_id": "Q757298",
+        "name": "Moscopole",
+        "description": "village and former city in southern Albania",
+        "freebase_id": "/m/056xvw"
+    },
+    {
+        "wikidata_id": "Q17508945",
+        "name": "Beden, Kavajë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xclc2"
+    },
+    {
+        "wikidata_id": "Q17510115",
+        "name": "Agonas",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x5h1f"
+    },
+    {
+        "wikidata_id": "Q264188",
+        "name": "Shushicë",
+        "description": "village and former municipality of Albania",
+        "freebase_id": "/m/04_0kjr"
+    },
+    {
+        "wikidata_id": "Q1751023",
+        "name": "Dardhë",
+        "description": "settlement in Korça, Albania",
+        "freebase_id": "/m/0bm9vlk"
+    },
+    {
+        "wikidata_id": "Q12906241",
+        "name": "Drenovicë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmg63z"
+    },
+    {
+        "wikidata_id": "Q3301112",
+        "name": "Goriçan",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmh1zh"
+    },
+    {
+        "wikidata_id": "Q3301205",
+        "name": "Goriçan-Çlirim",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmh4nw"
+    },
+    {
+        "wikidata_id": "Q12905811",
+        "name": "Bllatë e Sipërme",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0nbtx7n"
+    },
+    {
+        "wikidata_id": "Q18359262",
+        "name": "Vilë-Ballaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xbvly"
+    },
+    {
+        "wikidata_id": "Q12907903",
+        "name": "Krotinë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf8j0"
+    },
+    {
+        "wikidata_id": "Q12908772",
+        "name": "Munushtir",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmdsjd"
+    },
+    {
+        "wikidata_id": "Q12909809",
+        "name": "Protoduar",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmg__q"
+    },
+    {
+        "wikidata_id": "Q12910141",
+        "name": "Samaticë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmgxj2"
+    },
+    {
+        "wikidata_id": "Q3301718",
+        "name": "Backë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmdzvp"
+    },
+    {
+        "wikidata_id": "Q3301736",
+        "name": "Sevran i Madh",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmffcj"
+    },
+    {
+        "wikidata_id": "Q3301181",
+        "name": "Banaj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0805cnd"
+    },
+    {
+        "wikidata_id": "Q16842743",
+        "name": "Hekal",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdhtw"
+    },
+    {
+        "wikidata_id": "Q13655778",
+        "name": "Olympe",
+        "description": "ancient city in present-day Albania",
+        "freebase_id": "/m/07s87jt"
+    },
+    {
+        "wikidata_id": "Q3302896",
+        "name": "Çetë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf9n6"
+    },
+    {
+        "wikidata_id": "Q13043481",
+        "name": "Nikaia, Illyria",
+        "description": "Ancient settlement in Albania",
+        "freebase_id": "/m/07s5kq3"
+    },
+    {
+        "wikidata_id": "Q3302993",
+        "name": "Dovolan",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0115n879"
+    },
+    {
+        "wikidata_id": "Q12910835",
+        "name": "Sqepur",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf_mj"
+    },
+    {
+        "wikidata_id": "Q3303136",
+        "name": "Vërnicë",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/011cc9pj"
+    },
+    {
+        "wikidata_id": "Q628181",
+        "name": "Libonik",
+        "description": "village and former municipality of Albania",
+        "freebase_id": "/m/04y7ydw"
+    },
+    {
+        "wikidata_id": "Q18149988",
+        "name": "Cikallesh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x98dc"
+    },
+    {
+        "wikidata_id": "Q11001990",
+        "name": "Kardhiq",
+        "description": "village in Albania.",
+        "freebase_id": "/m/0c3zdfl"
+    },
+    {
+        "wikidata_id": "Q18378403",
+        "name": "Mushnikë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x6g4_"
+    },
+    {
+        "wikidata_id": "Q3298748",
+        "name": "Labovë e Madhe",
+        "description": "village in Albania",
+        "freebase_id": "/m/09rtxv4"
+    },
+    {
+        "wikidata_id": "Q3302976",
+        "name": "Herbel",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0ds22y8"
+    },
+    {
+        "wikidata_id": "Q3301490",
+        "name": "Lajthizë",
+        "description": "village in Albania",
+        "freebase_id": "/m/010r8rt0"
+    },
+    {
+        "wikidata_id": "Q16359531",
+        "name": "Karpen",
+        "description": "Albanian village",
+        "freebase_id": "/m/010xfcxz"
+    },
+    {
+        "wikidata_id": "Q2968550",
+        "name": "Berat Citadel",
+        "description": "neighberhood of Berat, cultural heritage monument of Albania",
+        "freebase_id": "/m/04zws_j"
+    },
+    {
+        "wikidata_id": "Q18165056",
+        "name": "Kalush",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/010xd0fd"
+    },
+    {
+        "wikidata_id": "Q15240926",
+        "name": "Kuç",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwzjp1"
+    },
+    {
+        "wikidata_id": "Q13045408",
+        "name": "Samrish i Ri",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwzmpq"
+    },
+    {
+        "wikidata_id": "Q13047308",
+        "name": "Vallas",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz8rjp"
+    },
+    {
+        "wikidata_id": "Q2463516",
+        "name": "Tzernicus",
+        "description": "ancient name of an area in northern Albania",
+        "freebase_id": "/m/0130270l"
+    },
+    {
+        "wikidata_id": "Q285899",
+        "name": "Velçan",
+        "description": "village and former municipality of Albania",
+        "freebase_id": "/m/04y6skq"
+    },
+    {
+        "wikidata_id": "Q18387006",
+        "name": "Patk-Milot",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/011c58mw"
+    },
+    {
+        "wikidata_id": "Q18387627",
+        "name": "Peqinaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x97qm"
+    },
+    {
+        "wikidata_id": "Q15232743",
+        "name": "Kakrukë",
+        "description": "village in Berat, Albania",
+        "freebase_id": "/m/0gmdppq"
+    },
+    {
+        "wikidata_id": "Q18639112",
+        "name": "Ballashen-Pojanë",
+        "description": "village in Tirana County, Albania",
+        "freebase_id": "/m/012bdhkt"
+    },
+    {
+        "wikidata_id": "Q18639382",
+        "name": "Kodrasej",
+        "description": "settlement in Tirana, Albania",
+        "freebase_id": "/m/012bcq1z"
+    },
+    {
+        "wikidata_id": "Q18639510",
+        "name": "Memzotaj",
+        "description": "settlement in Durrës, Albania",
+        "freebase_id": "/m/012dwc3l"
+    },
+    {
+        "wikidata_id": "Q18639516",
+        "name": "Mengaj",
+        "description": "settlement in Tirana, Albania",
+        "freebase_id": "/m/012bf1ws"
+    },
+    {
+        "wikidata_id": "Q15213905",
+        "name": "Dhrovjan",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0czch8n"
+    },
+    {
+        "wikidata_id": "Q18390757",
+        "name": "Zanbishë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xcbx2"
+    },
+    {
+        "wikidata_id": "Q18391102",
+        "name": "Zikularaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x8hgn"
+    },
+    {
+        "wikidata_id": "Q377400",
+        "name": "Bardhaj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmd5j_"
+    },
+    {
+        "wikidata_id": "Q3301103",
+        "name": "Çorrush",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/0479qh2"
+    },
+    {
+        "wikidata_id": "Q1021579",
+        "name": "Velipojë",
+        "description": "village and a former municipality of Albania",
+        "freebase_id": "/m/0261406"
+    },
+    {
+        "wikidata_id": "Q15098984",
+        "name": "Stegopul",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/0yp29bk"
+    },
+    {
+        "wikidata_id": "Q18164880",
+        "name": "Gërmej",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x64c3"
+    },
+    {
+        "wikidata_id": "Q18164904",
+        "name": "Gosë e Vogël",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x7s0c"
+    },
+    {
+        "wikidata_id": "Q18164978",
+        "name": "Hemenraj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x63wz"
+    },
+    {
+        "wikidata_id": "Q18165075",
+        "name": "Koçaj-Sheshaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xc83w"
+    },
+    {
+        "wikidata_id": "Q18165739",
+        "name": "Kryemdhenj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/011c6f3j"
+    },
+    {
+        "wikidata_id": "Q18165746",
+        "name": "Kryezi, Kavajë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x7pcr"
+    },
+    {
+        "wikidata_id": "Q781463",
+        "name": "Phoenice",
+        "description": "ancient city and archaeological site in Albania",
+        "freebase_id": "/m/0dkblx"
+    },
+    {
+        "wikidata_id": "Q454510",
+        "name": "Amantia",
+        "description": "ancient city in Epirus",
+        "freebase_id": "/m/026tbc7"
+    },
+    {
+        "wikidata_id": "Q13037810",
+        "name": "Bukaq",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x881f"
+    },
+    {
+        "wikidata_id": "Q13037899",
+        "name": "Calabërzez",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgnyg"
+    },
+    {
+        "wikidata_id": "Q3304993",
+        "name": "Vuleza",
+        "description": "village in Albania",
+        "freebase_id": "/m/0hgpjww"
+    },
+    {
+        "wikidata_id": "Q13038065",
+        "name": "Damarkaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x715f"
+    },
+    {
+        "wikidata_id": "Q16897722",
+        "name": "Zahrisht",
+        "description": "village in Kukës, Albania",
+        "freebase_id": "/m/0_s0dxd"
+    },
+    {
+        "wikidata_id": "Q18394382",
+        "name": "Tilaj, Kavajë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xfdlx"
+    },
+    {
+        "wikidata_id": "Q10838387",
+        "name": "Q10838387",
+        "description": "No description available",
+        "freebase_id": "/m/04y6h4t"
+    },
+    {
+        "wikidata_id": "Q12282552",
+        "name": "Kapshticë",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0nbqfbc"
+    },
+    {
+        "wikidata_id": "Q13043682",
+        "name": "Oblikë e Sipërme",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz8nbq"
+    },
+    {
+        "wikidata_id": "Q15240841",
+        "name": "Kurte",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0czf0bj"
+    },
+    {
+        "wikidata_id": "Q13039787",
+        "name": "Harizaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xb8jt"
+    },
+    {
+        "wikidata_id": "Q13039825",
+        "name": "Hasdushk",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x6wcd"
+    },
+    {
+        "wikidata_id": "Q13040606",
+        "name": "Kanaparaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xc973"
+    },
+    {
+        "wikidata_id": "Q13040868",
+        "name": "Koder Babrru",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmffgh"
+    },
+    {
+        "wikidata_id": "Q16352602",
+        "name": "Poliçan",
+        "description": "village in Gjirokastër, Albania",
+        "freebase_id": "/m/012s8hjb"
+    },
+    {
+        "wikidata_id": "Q13041334",
+        "name": "Kërçukaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xdj7l"
+    },
+    {
+        "wikidata_id": "Q13041659",
+        "name": "Lis-Patros",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x7pfd"
+    },
+    {
+        "wikidata_id": "Q13042799",
+        "name": "Methasanaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x6vh5"
+    },
+    {
+        "wikidata_id": "Q16972362",
+        "name": "Çetë, Kavajë",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010lsjc9"
+    },
+    {
+        "wikidata_id": "Q2633875",
+        "name": "Fierzë",
+        "description": "municipal unit in Shkodër, Albania",
+        "freebase_id": "/m/04_0hsd"
+    },
+    {
+        "wikidata_id": "Q13043709",
+        "name": "Okshtun",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xcb1l"
+    },
+    {
+        "wikidata_id": "Q2713473",
+        "name": "Lazarat",
+        "description": "village in Albania",
+        "freebase_id": "/m/04y8q5y"
+    },
+    {
+        "wikidata_id": "Q13047577",
+        "name": "Vidhgar",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz9kfq"
+    },
+    {
+        "wikidata_id": "Q15242374",
+        "name": "Lin",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0dln38f"
+    },
+    {
+        "wikidata_id": "Q505703",
+        "name": "Apollonia",
+        "description": "ancient city in modern Albania",
+        "freebase_id": "/m/05xd5y"
+    },
+    {
+        "wikidata_id": "Q1790776",
+        "name": "Ksamil",
+        "description": "village in Albania",
+        "freebase_id": "/m/092v9h"
+    },
+    {
+        "wikidata_id": "Q16896886",
+        "name": "Ndermjetes",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmglfg"
+    },
+    {
+        "wikidata_id": "Q16886684",
+        "name": "Mujos",
+        "description": "One of the oldest neighbourhoods of Tirana County",
+        "freebase_id": "/m/0cmcll8"
+    },
+    {
+        "wikidata_id": "Q13045174",
+        "name": "Rreth-Greth",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x69cp"
+    },
+    {
+        "wikidata_id": "Q13045653",
+        "name": "Sharrdushk",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xczc1"
+    },
+    {
+        "wikidata_id": "Q13045775",
+        "name": "Shkozet",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xfj0t"
+    },
+    {
+        "wikidata_id": "Q13046303",
+        "name": "Spille",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010xbwbn"
+    },
+    {
+        "wikidata_id": "Q16348691",
+        "name": "Mlik",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/010x768h"
+    },
+    {
+        "wikidata_id": "Q13040429",
+        "name": "Juban",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jwr8xh"
+    },
+    {
+        "wikidata_id": "Q13046915",
+        "name": "Tragjas",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0br_pf1"
+    },
+    {
+        "wikidata_id": "Q15243100",
+        "name": "Lumë",
+        "description": "village in Kukës, Albania",
+        "freebase_id": "/m/0l8n1tp"
+    },
+    {
+        "wikidata_id": "Q16359537",
+        "name": "Stan i Ri",
+        "description": "village in Albania",
+        "freebase_id": "/m/010xfcxz"
+    },
+    {
+        "wikidata_id": "Q7862254",
+        "name": "Tërbaç",
+        "description": "village in Albania",
+        "freebase_id": "/m/0bryphp"
+    },
+    {
+        "wikidata_id": "Q6378434",
+        "name": "Katundas",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmcyp2"
+    },
+    {
+        "wikidata_id": "Q5434457",
+        "name": "Faqekuq",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmgzbw"
+    },
+    {
+        "wikidata_id": "Q6433250",
+        "name": "Kosmaç",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jwtmpp"
+    },
+    {
+        "wikidata_id": "Q7597135",
+        "name": "Stajkë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0jwvk9x"
+    },
+    {
+        "wikidata_id": "Q7375557",
+        "name": "Rrapshë",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czd1ft"
+    },
+    {
+        "wikidata_id": "Q5593958",
+        "name": "Gramsh",
+        "description": "village in Lezhë, Albania",
+        "freebase_id": "/m/0nd30cq"
+    },
+    {
+        "wikidata_id": "Q5262634",
+        "name": "Derje",
+        "description": "village in Tirana district, Albania",
+        "freebase_id": "/m/0gmdfg_"
+    },
+    {
+        "wikidata_id": "Q5607547",
+        "name": "Grepckë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmgwmg"
+    },
+    {
+        "wikidata_id": "Q6435247",
+        "name": "Kozhnjë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cm9r2p"
+    },
+    {
+        "wikidata_id": "Q5493751",
+        "name": "Frashtan",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czf7gm"
+    },
+    {
+        "wikidata_id": "Q7267395",
+        "name": "Qereshnik",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfsxw"
+    },
+    {
+        "wikidata_id": "Q6530346",
+        "name": "Leshnicë e Poshtme",
+        "description": "village in Albania",
+        "freebase_id": "/m/02wvx_d"
+    },
+    {
+        "wikidata_id": "Q6760846",
+        "name": "Margëlliç",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/0bmdxt_"
+    },
+    {
+        "wikidata_id": "Q6667982",
+        "name": "Lohe e Sipërme",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz8w3r"
+    },
+    {
+        "wikidata_id": "Q5286710",
+        "name": "Dobrenj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmg7wh"
+    },
+    {
+        "wikidata_id": "Q5587568",
+        "name": "Gostenckë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmg_5w"
+    },
+    {
+        "wikidata_id": "Q12061138",
+        "name": "Lëpushë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cm8d7j"
+    },
+    {
+        "wikidata_id": "Q5591870",
+        "name": "Gradec",
+        "description": "village in Berat County (Gjerbës), Albania",
+        "freebase_id": "/m/0gmcb2x"
+    },
+    {
+        "wikidata_id": "Q6427399",
+        "name": "Kollovoz",
+        "description": "village in Kukës County, Albania",
+        "freebase_id": "/m/0j64v4b"
+    },
+    {
+        "wikidata_id": "Q6558831",
+        "name": "Lishan i Sipërm",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0hgrd_y"
+    },
+    {
+        "wikidata_id": "Q5517631",
+        "name": "Gajtan",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jw_3h_"
+    },
+    {
+        "wikidata_id": "Q7206227",
+        "name": "Pobrat",
+        "description": "village in Elbasan County, Albania",
+        "freebase_id": "/m/0gmgzc6"
+    },
+    {
+        "wikidata_id": "Q5508739",
+        "name": "Funarës",
+        "description": "village in Elbasan County, Albania",
+        "freebase_id": "/m/0glsj0q"
+    },
+    {
+        "wikidata_id": "Q7943433",
+        "name": "Vukpalaj",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czf2vy"
+    },
+    {
+        "wikidata_id": "Q7130060",
+        "name": "Panarit",
+        "description": "village in Korçë, Albania",
+        "freebase_id": "/m/0bmjy0r"
+    },
+    {
+        "wikidata_id": "Q7601461",
+        "name": "Staraveckë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfsx5"
+    },
+    {
+        "wikidata_id": "Q6427774",
+        "name": "Kolonjë",
+        "description": "village in Albania",
+        "freebase_id": "/m/03d9b80"
+    },
+    {
+        "wikidata_id": "Q7375565",
+        "name": "Rrushkull",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jwrw55"
+    },
+    {
+        "wikidata_id": "Q7939350",
+        "name": "Vodëz e Sipërme",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmbs_0"
+    },
+    {
+        "wikidata_id": "Q5565972",
+        "name": "Gjadër",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0dljp0q"
+    },
+    {
+        "wikidata_id": "Q8075603",
+        "name": "Zvërnec",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0gyrd8z"
+    },
+    {
+        "wikidata_id": "Q5584376",
+        "name": "Goraj",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czbnp4"
+    },
+    {
+        "wikidata_id": "Q4850868",
+        "name": "Balibardhë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfvdz"
+    },
+    {
+        "wikidata_id": "Q6180581",
+        "name": "Jeran",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czdkmc"
+    },
+    {
+        "wikidata_id": "Q7851788",
+        "name": "Tujan",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgs_k"
+    },
+    {
+        "wikidata_id": "Q7427239",
+        "name": "Sauk",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmg55c"
+    },
+    {
+        "wikidata_id": "Q6378435",
+        "name": "Katundi i Ri",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmgykz"
+    },
+    {
+        "wikidata_id": "Q7040793",
+        "name": "Nishovë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmghjg"
+    },
+    {
+        "wikidata_id": "Q7265808",
+        "name": "Qafë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmd17b"
+    },
+    {
+        "wikidata_id": "Q7447587",
+        "name": "Selcë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cm7txh"
+    },
+    {
+        "wikidata_id": "Q7908962",
+        "name": "Vajush",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czb5tj"
+    },
+    {
+        "wikidata_id": "Q6356874",
+        "name": "Kamenicë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0crfpjz"
+    },
+    {
+        "wikidata_id": "Q7458109",
+        "name": "Sevran i Vogël",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfg6n"
+    },
+    {
+        "wikidata_id": "Q5455483",
+        "name": "Fitore",
+        "description": "village in Albania",
+        "freebase_id": "/m/05zlgtr"
+    },
+    {
+        "wikidata_id": "Q7142044",
+        "name": "Pashtraj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmdw7w"
+    },
+    {
+        "wikidata_id": "Q6080695",
+        "name": "Ishull-Shëngjin",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0nd32ch"
+    },
+    {
+        "wikidata_id": "Q12761375",
+        "name": "Shishtavec",
+        "description": "village in Kukës County, Albania",
+        "freebase_id": "/m/02w_j5x"
+    },
+    {
+        "wikidata_id": "Q7386176",
+        "name": "Rërëz",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmg_66"
+    },
+    {
+        "wikidata_id": "Q6374830",
+        "name": "Kastrat",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czbbz9"
+    },
+    {
+        "wikidata_id": "Q5290037",
+        "name": "Domën",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdk0w"
+    },
+    {
+        "wikidata_id": "Q7334581",
+        "name": "Rinas",
+        "description": "village in Durrës County, Albania",
+        "freebase_id": "/m/025sn70"
+    },
+    {
+        "wikidata_id": "Q5213007",
+        "name": "Damës",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/06znhqv"
+    },
+    {
+        "wikidata_id": "Q5611949",
+        "name": "Gruemirë",
+        "description": "village in Shkodër, Albania",
+        "freebase_id": "/m/0cz9qtc"
+    },
+    {
+        "wikidata_id": "Q7938039",
+        "name": "Viçidol",
+        "description": "village in Albania",
+        "freebase_id": "/m/0dlk_k3"
+    },
+    {
+        "wikidata_id": "Q12276982",
+        "name": "Gjinovec",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/011c66ws"
+    },
+    {
+        "wikidata_id": "Q4860609",
+        "name": "Bargullas",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfnlg"
+    },
+    {
+        "wikidata_id": "Q6743724",
+        "name": "Malind",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf9mj"
+    },
+    {
+        "wikidata_id": "Q7245651",
+        "name": "Prishtë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmg70g"
+    },
+    {
+        "wikidata_id": "Q7447471",
+        "name": "Selan",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmbl_5"
+    },
+    {
+        "wikidata_id": "Q4725550",
+        "name": "Aliaj",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czb2dy"
+    },
+    {
+        "wikidata_id": "Q4998511",
+        "name": "Burgajet",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0ndjklh"
+    },
+    {
+        "wikidata_id": "Q12288914",
+        "name": "Novosejë",
+        "description": "village in Kukës County, Albania",
+        "freebase_id": "/m/0w64ptk"
+    },
+    {
+        "wikidata_id": "Q7941792",
+        "name": "Vorfë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czbf5z"
+    },
+    {
+        "wikidata_id": "Q7264753",
+        "name": "Pëllumbas",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gwz8_s"
+    },
+    {
+        "wikidata_id": "Q7837355",
+        "name": "Trebël",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf9mw"
+    },
+    {
+        "wikidata_id": "Q5447260",
+        "name": "Fier-Seman",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/0268xpb"
+    },
+    {
+        "wikidata_id": "Q5591861",
+        "name": "Gradec",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czdt02"
+    },
+    {
+        "wikidata_id": "Q8059665",
+        "name": "Yrshek",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmgvrl"
+    },
+    {
+        "wikidata_id": "Q6950181",
+        "name": "Mëshqerrë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jwyq__"
+    },
+    {
+        "wikidata_id": "Q7943142",
+        "name": "Vrith",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czbt7s"
+    },
+    {
+        "wikidata_id": "Q7943436",
+        "name": "Vukël",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cmcj5p"
+    },
+    {
+        "wikidata_id": "Q7943728",
+        "name": "Vuç-Kurtaj",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czcv25"
+    },
+    {
+        "wikidata_id": "Q13039622",
+        "name": "Grykë-Orosh",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/04yfbg4"
+    },
+    {
+        "wikidata_id": "Q13040564",
+        "name": "Kallmet i Madh",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/09v9ry4"
+    },
+    {
+        "wikidata_id": "Q6912276",
+        "name": "Morinë",
+        "description": "village in Kukës County, Albania",
+        "freebase_id": "/m/09v3g5k"
+    },
+    {
+        "wikidata_id": "Q4853299",
+        "name": "Bamatat",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0cm84hq"
+    },
+    {
+        "wikidata_id": "Q4784212",
+        "name": "Arapaj",
+        "description": "village in Durrës County, Albania",
+        "freebase_id": "/m/0dry3_3"
+    },
+    {
+        "wikidata_id": "Q5303836",
+        "name": "Doç-Rrepisht",
+        "description": "village in Albania",
+        "freebase_id": "/m/0czc8fp"
+    },
+    {
+        "wikidata_id": "Q7264756",
+        "name": "Përparim",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfjrz"
+    },
+    {
+        "wikidata_id": "Q5455152",
+        "name": "Fishtë",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0ch2x68"
+    },
+    {
+        "wikidata_id": "Q5312707",
+        "name": "Dukat",
+        "description": "village in Albania",
+        "freebase_id": "/m/0brz5lv"
+    },
+    {
+        "wikidata_id": "Q6431193",
+        "name": "Koprenckë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmc86_"
+    },
+    {
+        "wikidata_id": "Q10977320",
+        "name": "Zabërzan",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmdhrg"
+    },
+    {
+        "wikidata_id": "Q5319313",
+        "name": "Dyrmish",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf4g6"
+    },
+    {
+        "wikidata_id": "Q7943132",
+        "name": "Vrinë",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/05f4jx7"
+    },
+    {
+        "wikidata_id": "Q11315624",
+        "name": "Kërçisht i Sipërm",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0115kd3b"
+    },
+    {
+        "wikidata_id": "Q8070620",
+        "name": "Zhapokikë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfbdp"
+    },
+    {
+        "wikidata_id": "Q7498968",
+        "name": "Shirq",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jww10_"
+    },
+    {
+        "wikidata_id": "Q8065510",
+        "name": "Zall-Dajt",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmgq1x"
+    },
+    {
+        "wikidata_id": "Q7075310",
+        "name": "Obot",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz8pfz"
+    },
+    {
+        "wikidata_id": "Q7503351",
+        "name": "Shpatanj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmh3sf"
+    },
+    {
+        "wikidata_id": "Q7536330",
+        "name": "Skore",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gx_vcd"
+    },
+    {
+        "wikidata_id": "Q4937646",
+        "name": "Bogiq",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0czcq2p"
+    },
+    {
+        "wikidata_id": "Q7264752",
+        "name": "Pëllumbas",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmg7xj"
+    },
+    {
+        "wikidata_id": "Q6154198",
+        "name": "Janicat",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cp0_0z"
+    },
+    {
+        "wikidata_id": "Q12283177",
+        "name": "Klenjë",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/011c9t2t"
+    },
+    {
+        "wikidata_id": "Q7630096",
+        "name": "Stërbeq",
+        "description": "village in Koplik Albania",
+        "freebase_id": "/m/0czf570"
+    },
+    {
+        "wikidata_id": "Q6426915",
+        "name": "Kokë-Papaj",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cz7wh9"
+    },
+    {
+        "wikidata_id": "Q7194545",
+        "name": "Pilur",
+        "description": "village in Vlorë County, Albania",
+        "freebase_id": "/m/0dgnnkp"
+    },
+    {
+        "wikidata_id": "Q7916076",
+        "name": "Varosh",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdy4l"
+    },
+    {
+        "wikidata_id": "Q12285761",
+        "name": "Ostren i Vogël",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/011bk6h1"
+    },
+    {
+        "wikidata_id": "Q6813701",
+        "name": "Melckë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmd_rk"
+    },
+    {
+        "wikidata_id": "Q8044014",
+        "name": "Xhuxhë",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0bm9fl6"
+    },
+    {
+        "wikidata_id": "Q5064507",
+        "name": "Cerkovica",
+        "description": "village in Albania",
+        "freebase_id": "/m/04d_m4r"
+    },
+    {
+        "wikidata_id": "Q4973249",
+        "name": "Brojë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cm9vkh"
+    },
+    {
+        "wikidata_id": "Q6729528",
+        "name": "Mafsheq",
+        "description": "village in Durrës County, Albania",
+        "freebase_id": "/m/09v84zc"
+    },
+    {
+        "wikidata_id": "Q5460220",
+        "name": "Floq",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf4fw"
+    },
+    {
+        "wikidata_id": "Q5286998",
+        "name": "Dobër",
+        "description": "settlement in Albania",
+        "freebase_id": "/m/0cz8dsr"
+    },
+    {
+        "wikidata_id": "Q7506036",
+        "name": "Shytaj",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmddl_"
+    },
+    {
+        "wikidata_id": "Q7359495",
+        "name": "Rog",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmddhw"
+    },
+    {
+        "wikidata_id": "Q13039714",
+        "name": "Hajdaraj",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/010xfdjy"
+    },
+    {
+        "wikidata_id": "Q7380633",
+        "name": "Rusan",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/0g9yg8k"
+    },
+    {
+        "wikidata_id": "Q11325170",
+        "name": "Kërçisht i Poshtëm",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0115m_th"
+    },
+    {
+        "wikidata_id": "Q16357567",
+        "name": "Shtanë",
+        "description": "village in Kukës County, Albania",
+        "freebase_id": "/m/013cd05v"
+    },
+    {
+        "wikidata_id": "Q12904529",
+        "name": "Jaupas",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmh5j0"
+    },
+    {
+        "wikidata_id": "Q18746",
+        "name": "Roskovec",
+        "description": "town in Fier County, Albania",
+        "freebase_id": "/m/0278lbx"
+    },
+    {
+        "wikidata_id": "Q12906243",
+        "name": "Drenovë",
+        "description": "village in Albania",
+        "freebase_id": "/m/01111787"
+    },
+    {
+        "wikidata_id": "Q18777",
+        "name": "Gramsh",
+        "description": "town in Albania",
+        "freebase_id": "/m/0gcqf6"
+    },
+    {
+        "wikidata_id": "Q18737",
+        "name": "Rrëshen",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/0278lgp"
+    },
+    {
+        "wikidata_id": "Q13046621",
+        "name": "Tale",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0zg7jhx"
+    },
+    {
+        "wikidata_id": "Q18749",
+        "name": "Memaliaj",
+        "description": "town in Albania",
+        "freebase_id": "/m/06547s"
+    },
+    {
+        "wikidata_id": "Q19310",
+        "name": "Pukë",
+        "description": "capital of the Pukë municipality in northern Albania",
+        "freebase_id": "/m/0gcq8r"
+    },
+    {
+        "wikidata_id": "Q16840741",
+        "name": "Grabovë e Sipërme",
+        "description": "village in Elbasan County, Albania",
+        "freebase_id": "/m/0_s307b"
+    },
+    {
+        "wikidata_id": "Q2401418",
+        "name": "Albanopolis",
+        "description": "city in Epirus Nova, Roman Macedon",
+        "freebase_id": "/m/03qcd8p"
+    },
+    {
+        "wikidata_id": "Q56755112",
+        "name": "Thronium",
+        "description": "ancient city of Epirus",
+        "freebase_id": "/m/03qf0hw"
+    },
+    {
+        "wikidata_id": "Q278613",
+        "name": "Klos, Mat",
+        "description": "town in Dibër of Albania",
+        "freebase_id": "/m/0fc5dg"
+    },
+    {
+        "wikidata_id": "Q7131531",
+        "name": "Panormos",
+        "description": "ancient city of Epirus",
+        "freebase_id": "/m/07s8vz7"
+    },
+    {
+        "wikidata_id": "Q3304954",
+        "name": "Dimale",
+        "description": "Ancient town in Illyria",
+        "freebase_id": "/m/03h4wvw"
+    },
+    {
+        "wikidata_id": "Q18774",
+        "name": "Kuçovë",
+        "description": "City in Albania",
+        "freebase_id": "/m/07h213"
+    },
+    {
+        "wikidata_id": "Q18768",
+        "name": "Laç",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/02613gb"
+    },
+    {
+        "wikidata_id": "Q18772",
+        "name": "Librazhd",
+        "description": "town in Albania",
+        "freebase_id": "/m/01d0mg"
+    },
+    {
+        "wikidata_id": "Q13044411",
+        "name": "Posten",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmchy1"
+    },
+    {
+        "wikidata_id": "Q6436354",
+        "name": "Krasta",
+        "description": "town in Albania",
+        "freebase_id": "/m/0jk_2sh"
+    },
+    {
+        "wikidata_id": "Q18579971",
+        "name": "Novaj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmgdn4"
+    },
+    {
+        "wikidata_id": "Q15273324",
+        "name": "Alk",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0zgbsnj"
+    },
+    {
+        "wikidata_id": "Q13037304",
+        "name": "Bago, Kavajë",
+        "description": "village in Albania",
+        "freebase_id": "/m/010xc8y3"
+    },
+    {
+        "wikidata_id": "Q16896907",
+        "name": "Nikollarë",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmf2k2"
+    },
+    {
+        "wikidata_id": "Q13045182",
+        "name": "Rripë",
+        "description": "village in Dibër County, Albania",
+        "freebase_id": "/m/0g53sj6"
+    },
+    {
+        "wikidata_id": "Q606485",
+        "name": "Shëngjin",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/0119f4kw"
+    },
+    {
+        "wikidata_id": "Q81631",
+        "name": "Tepelena",
+        "description": "town in Albania",
+        "freebase_id": "/m/0gd289"
+    },
+    {
+        "wikidata_id": "Q18738",
+        "name": "Libohovë",
+        "description": "town and municipality in Albania",
+        "freebase_id": "/m/0bd989"
+    },
+    {
+        "wikidata_id": "Q13038074",
+        "name": "Darragjat",
+        "description": "village in Albania",
+        "freebase_id": "/m/0jwx6w_"
+    },
+    {
+        "wikidata_id": "Q7140274",
+        "name": "Parthus",
+        "description": "ancient city of the Illyrians, unlocated",
+        "freebase_id": "/m/07s3_b9"
+    },
+    {
+        "wikidata_id": "Q642856",
+        "name": "Përmet",
+        "description": "town of Albania",
+        "freebase_id": "/m/025rv32"
+    },
+    {
+        "wikidata_id": "Q169160",
+        "name": "Lezhë",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/02n8fl"
+    },
+    {
+        "wikidata_id": "Q821023",
+        "name": "Peqin",
+        "description": "town in Albania",
+        "freebase_id": "/m/0g8zpk"
+    },
+    {
+        "wikidata_id": "Q54987289",
+        "name": "Marqinet",
+        "description": "village in Albania",
+        "freebase_id": "/m/012bcxv0"
+    },
+    {
+        "wikidata_id": "Q2542534",
+        "name": "Trebisht",
+        "description": "municipal unit in Dibër, Albania",
+        "freebase_id": "/m/04y6n3f"
+    },
+    {
+        "wikidata_id": "Q16835611",
+        "name": "Dobruzhe",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmfh2d"
+    },
+    {
+        "wikidata_id": "Q4800844",
+        "name": "Artichia",
+        "description": "unlocated ancient city of Epirus",
+        "freebase_id": "/m/07s9htx"
+    },
+    {
+        "wikidata_id": "Q958899",
+        "name": "Krumë",
+        "description": "town in Kukës County, Albania",
+        "freebase_id": "/m/05jlp8"
+    },
+    {
+        "wikidata_id": "Q18709",
+        "name": "Patos",
+        "description": "town in Fier County, Albania",
+        "freebase_id": "/m/047tvc"
+    },
+    {
+        "wikidata_id": "Q1021800",
+        "name": "Leskovik",
+        "description": "municipality of Albania",
+        "freebase_id": "/m/04y6jpn"
+    },
+    {
+        "wikidata_id": "Q15225758",
+        "name": "Hot",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cmcx34"
+    },
+    {
+        "wikidata_id": "Q13039149",
+        "name": "Frakull e Madhe",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/04yfvyq"
+    },
+    {
+        "wikidata_id": "Q1524575",
+        "name": "Ura Vajgurore",
+        "description": "town in Albania in Dimal municipality",
+        "freebase_id": "/m/04yh1rf"
+    },
+    {
+        "wikidata_id": "Q194164",
+        "name": "Krujë",
+        "description": "town in north central Albania",
+        "freebase_id": "/m/043_hv"
+    },
+    {
+        "wikidata_id": "Q13044034",
+        "name": "Patok",
+        "description": "village in Lezhë County, Albania",
+        "freebase_id": "/m/0gmdnsg"
+    },
+    {
+        "wikidata_id": "Q16348727",
+        "name": "Moglicë",
+        "description": "village in Elbasan County, Albania",
+        "freebase_id": "/m/012rcv07"
+    },
+    {
+        "wikidata_id": "Q46702",
+        "name": "Kavajë",
+        "description": "city of Albania",
+        "freebase_id": "/m/01tg13"
+    },
+    {
+        "wikidata_id": "Q210197",
+        "name": "Kukës",
+        "description": "city in Kukës County, Albania",
+        "freebase_id": "/m/01j_k7"
+    },
+    {
+        "wikidata_id": "Q19259",
+        "name": "Rubik",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/0h1mtx"
+    },
+    {
+        "wikidata_id": "Q516116",
+        "name": "Fushë-Arrëz",
+        "description": "town of Albania",
+        "freebase_id": "/m/04zvf9q"
+    },
+    {
+        "wikidata_id": "Q173690",
+        "name": "Gjirokastër",
+        "description": "town in Albania",
+        "freebase_id": "/m/01qv6v"
+    },
+    {
+        "wikidata_id": "Q19258",
+        "name": "Prrenjas",
+        "description": "town in Elbasan County, Albania",
+        "freebase_id": "/m/04yfg4f"
+    },
+    {
+        "wikidata_id": "Q18751",
+        "name": "Poliçan",
+        "description": "city in Albania",
+        "freebase_id": "/m/03y7rgt"
+    },
+    {
+        "wikidata_id": "Q6425013",
+        "name": "Kocul",
+        "description": "village in Vlorë, Albania",
+        "freebase_id": "/m/03pt6r"
+    },
+    {
+        "wikidata_id": "Q616927",
+        "name": "Kurbnesh",
+        "description": "city in Lezhë County, Albania",
+        "freebase_id": "/m/0n_bgxg"
+    },
+    {
+        "wikidata_id": "Q16356331",
+        "name": "Seferaj",
+        "description": "village in Albania",
+        "freebase_id": "/m/010xbmcv"
+    },
+    {
+        "wikidata_id": "Q597122",
+        "name": "Fushë-Krujë",
+        "description": "town and former municipality of Albania",
+        "freebase_id": "/m/03qhvwx"
+    },
+    {
+        "wikidata_id": "Q959799",
+        "name": "Antigonia",
+        "description": "ancient town of Epirus",
+        "freebase_id": "/m/0b7671"
+    },
+    {
+        "wikidata_id": "Q16358340",
+        "name": "Ibë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmfjvr"
+    },
+    {
+        "wikidata_id": "Q16359256",
+        "name": "Tamarë",
+        "description": "village in Albania",
+        "freebase_id": "/m/0cmctzh"
+    },
+    {
+        "wikidata_id": "Q16846796",
+        "name": "Ibro",
+        "description": "village in Albania",
+        "freebase_id": "/m/0gmbl_w"
+    },
+    {
+        "wikidata_id": "Q18639496",
+        "name": "Marikaj",
+        "description": "village in Albania",
+        "freebase_id": "/m/012bd97m"
+    },
+    {
+        "wikidata_id": "Q772248",
+        "name": "Maliq",
+        "description": "town in Albania",
+        "freebase_id": "/m/0fgw81"
+    },
+    {
+        "wikidata_id": "Q16351260",
+        "name": "Pajan",
+        "description": "village in Tirana, Albania",
+        "freebase_id": "/m/0gmdvh4"
+    },
+    {
+        "wikidata_id": "Q7456025",
+        "name": "Sesarethus",
+        "description": "ancient city in Illyria",
+        "freebase_id": "/m/0b77q2n"
+    },
+    {
+        "wikidata_id": "Q18343834",
+        "name": "Menkulas",
+        "description": "village in Albania",
+        "freebase_id": "/m/011qdk_s"
+    },
+    {
+        "wikidata_id": "Q15243161",
+        "name": "Luzaj",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmc6hl"
+    },
+    {
+        "wikidata_id": "Q16349484",
+        "name": "Muçaj",
+        "description": "village in Fier County, Albania",
+        "freebase_id": "/m/012bd25c"
+    },
+    {
+        "wikidata_id": "Q14916773",
+        "name": "Dushnik",
+        "description": "village in Berat County, Albania",
+        "freebase_id": "/m/0gmfwhg"
+    },
+    {
+        "wikidata_id": "Q15188520",
+        "name": "Pustec",
+        "description": "village in Albania",
+        "freebase_id": "/m/06ztx91"
+    },
+    {
+        "wikidata_id": "Q73639",
+        "name": "Pogradec",
+        "description": "city in southeastern Albania",
+        "freebase_id": "/m/02mx2l"
+    },
+    {
+        "wikidata_id": "Q5408356",
+        "name": "Eugenium",
+        "description": "unlocated ancient village or fort in Illyria",
+        "freebase_id": "/m/07s4vf9"
+    },
+    {
+        "wikidata_id": "Q5114891",
+        "name": "Chrysondyon",
+        "description": "ancient Greek city",
+        "freebase_id": "/m/03wj00r"
+    },
+    {
+        "wikidata_id": "Q193226",
+        "name": "Sarandë",
+        "description": "City of Albania",
+        "freebase_id": "/m/03yxbm"
+    }
+]

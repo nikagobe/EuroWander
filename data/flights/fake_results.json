@@ -1,0 +1,128 @@
+﻿{
+  "search_parameters": {
+    "engine": "google_flights",
+    "departure_id": "/m/05qtj",
+    "arrival_id": "/m/01f62",
+    "outbound_date": "2026-06-15",
+    "currency": "EUR",
+    "type": "2"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Beauvais Airport", "id": "BVA", "time": "2026-06-15 10:45" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 12:30" },
+          "duration": 105,
+          "airplane": "Boeing 737",
+          "airline": "Ryanair",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+          "travel_class": "Economy",
+          "flight_number": "FR 3122",
+          "legroom": "30 in"
+        }
+      ],
+      "total_duration": 105,
+      "price": 37,
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+      "booking_token": "fake-best-token-1"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Charles de Gaulle Airport", "id": "CDG", "time": "2026-06-15 10:15" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 12:10" },
+          "duration": 115,
+          "airplane": "Airbus A321",
+          "airline": "Vueling",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+          "travel_class": "Economy",
+          "flight_number": "VY 8243",
+          "legroom": "29 in"
+        }
+      ],
+      "total_duration": 115,
+      "price": 50,
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+      "booking_token": "fake-best-token-2"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Orly Airport", "id": "ORY", "time": "2026-06-15 13:40" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 15:20" },
+          "duration": 100,
+          "airplane": "Airbus A320neo",
+          "airline": "Transavia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TO.png",
+          "travel_class": "Economy",
+          "flight_number": "TO 4754",
+          "legroom": ""
+        }
+      ],
+      "total_duration": 100,
+      "price": 61,
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TO.png",
+      "booking_token": "fake-best-token-3"
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Beauvais Airport", "id": "BVA", "time": "2026-06-15 18:20" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 20:05" },
+          "duration": 105,
+          "airplane": "Boeing 737",
+          "airline": "Ryanair",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+          "travel_class": "Economy",
+          "flight_number": "FR 6375",
+          "legroom": "30 in"
+        }
+      ],
+      "total_duration": 105,
+      "price": 42,
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+      "booking_token": "fake-other-token-1"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Orly Airport", "id": "ORY", "time": "2026-06-15 06:30" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 08:10" },
+          "duration": 100,
+          "airplane": "Airbus A320",
+          "airline": "Vueling",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+          "travel_class": "Economy",
+          "flight_number": "VY 8003",
+          "legroom": "29 in"
+        }
+      ],
+      "total_duration": 100,
+      "price": 56,
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+      "booking_token": "fake-other-token-2"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Charles de Gaulle Airport", "id": "CDG", "time": "2026-06-15 07:15" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 09:00" },
+          "duration": 105,
+          "airplane": "Airbus A321",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 1148",
+          "legroom": "29 in"
+        }
+      ],
+      "total_duration": 105,
+      "price": 86,
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "booking_token": "fake-other-token-3"
+    }
+  ]
+}
