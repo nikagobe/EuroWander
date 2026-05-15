@@ -9,7 +9,9 @@
         "wikidata_id": "Q2620021",
         "name": "Ellange",
         "description": "town in the commune of Mondorf-les-Bains in Luxembourg",
-        "freebase_id": "/m/0d3bb8"
+        "freebase_id": "/m/0d3bb8",
+        "lat": 49.516666666,
+        "lng": 6.3
     },
     {
         "wikidata_id": "Q236185",
@@ -21,2112 +23,2816 @@
         "wikidata_id": "Q609734",
         "name": "Girst",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0cynw0"
+        "freebase_id": "/m/0cynw0",
+        "lat": 49.766666666,
+        "lng": 6.5
     },
     {
         "wikidata_id": "Q933478",
         "name": "Hagelsdorf",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/04y9n1q"
+        "freebase_id": "/m/04y9n1q",
+        "lat": 49.683333333,
+        "lng": 6.366666666
     },
     {
         "wikidata_id": "Q2451720",
         "name": "Gare",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fhjyh"
+        "freebase_id": "/m/0fhjyh",
+        "lat": 49.6016,
+        "lng": 6.1316
     },
     {
         "wikidata_id": "Q1441935",
         "name": "Remerschen",
         "description": "former commune and small wine-growing town in south-eastern Luxembourg",
-        "freebase_id": "/m/05ywkx"
+        "freebase_id": "/m/05ywkx",
+        "lat": 49.488333,
+        "lng": 6.350833
     },
     {
         "wikidata_id": "Q568868",
         "name": "Kahler",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d6gs2"
+        "freebase_id": "/m/0d6gs2",
+        "lat": 49.63,
+        "lng": 5.91666667
     },
     {
         "wikidata_id": "Q3246729",
         "name": "Windhof",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/03c_dg5"
+        "freebase_id": "/m/03c_dg5",
+        "lat": 49.633333333,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q2517573",
         "name": "Leithum",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/080ng59"
+        "freebase_id": "/m/080ng59",
+        "lat": 50.16083,
+        "lng": 6.108889
     },
     {
         "wikidata_id": "Q1821038",
         "name": "Cents",
         "description": "quarter of Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fjlpg"
+        "freebase_id": "/m/0fjlpg",
+        "lat": 49.61575,
+        "lng": 6.159330555
     },
     {
         "wikidata_id": "Q3109618",
         "name": "Limpach",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0czmb2"
+        "freebase_id": "/m/0czmb2",
+        "lat": 49.566666666,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q640141",
         "name": "Binsfeld",
         "description": "village in Weiswampach, Luxembourg",
-        "freebase_id": "/m/0cxplh"
+        "freebase_id": "/m/0cxplh",
+        "lat": 50.116666666,
+        "lng": 6.033333333
     },
     {
         "wikidata_id": "Q520311",
         "name": "Bettel",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d3cjq"
+        "freebase_id": "/m/0d3cjq",
+        "lat": 49.916666666,
+        "lng": 6.233333333
     },
     {
         "wikidata_id": "Q947942",
         "name": "Bascharage",
         "description": "village in south-western Luxembourg",
-        "freebase_id": "/m/08ggm4"
+        "freebase_id": "/m/08ggm4",
+        "lat": 49.566666666,
+        "lng": 5.916666666
     },
     {
         "wikidata_id": "Q733655",
         "name": "Dellen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29xn"
+        "freebase_id": "/m/0d29xn",
+        "lat": 49.866666666,
+        "lng": 5.966666666
     },
     {
         "wikidata_id": "Q2451652",
         "name": "Rollingergrund-North Belair",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fjm0l"
+        "freebase_id": "/m/0fjm0l",
+        "lat": 49.616666666,
+        "lng": 6.1
     },
     {
         "wikidata_id": "Q979888",
         "name": "Medernach",
         "description": "village",
-        "freebase_id": "/m/08dstv"
+        "freebase_id": "/m/08dstv",
+        "lat": 49.81,
+        "lng": 6.215
     },
     {
         "wikidata_id": "Q634362",
         "name": "Oberpallen",
         "description": "town",
-        "freebase_id": "/m/0d29rc"
+        "freebase_id": "/m/0d29rc",
+        "lat": 49.729444444,
+        "lng": 5.841111111
     },
     {
         "wikidata_id": "Q2451683",
         "name": "Muhlenbach",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fhj_b"
+        "freebase_id": "/m/0fhj_b",
+        "lat": 49.63167,
+        "lng": 6.11917
     },
     {
         "wikidata_id": "Q1016073",
         "name": "Steinheim",
         "description": "village in Luxemburg",
-        "freebase_id": "/m/0cyny2"
+        "freebase_id": "/m/0cyny2",
+        "lat": 49.8167,
+        "lng": 6.48333
     },
     {
         "wikidata_id": "Q13102943",
         "name": "Hobscheid",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/08gh4t"
+        "freebase_id": "/m/08gh4t",
+        "lat": 49.688333,
+        "lng": 5.915
     },
     {
         "wikidata_id": "Q1016094",
         "name": "Limpertsberg",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0dh5_s"
+        "freebase_id": "/m/0dh5_s",
+        "lat": 49.620833,
+        "lng": 6.121667
     },
     {
         "wikidata_id": "Q1016090",
         "name": "Merkholtz",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/02vrlnq"
+        "freebase_id": "/m/02vrlnq",
+        "lat": 49.961388888,
+        "lng": 5.980555555
     },
     {
         "wikidata_id": "Q2451619",
         "name": "North Bonnevoie-Verlorenkost",
         "description": "quarter of Luxembourg City",
-        "freebase_id": "/m/0fjm40"
+        "freebase_id": "/m/0fjm40",
+        "lat": 49.59735,
+        "lng": 6.148011111
     },
     {
         "wikidata_id": "Q1016185",
         "name": "Marienthal",
         "description": "village in the commune of Helperknapp, in western Luxembourg",
-        "freebase_id": "/m/0d243n"
+        "freebase_id": "/m/0d243n",
+        "lat": 49.71,
+        "lng": 6.062
     },
     {
         "wikidata_id": "Q1016176",
         "name": "Roder",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0263_90"
+        "freebase_id": "/m/0263_90",
+        "lat": 50.05,
+        "lng": 6.08333333
     },
     {
         "wikidata_id": "Q2451628",
         "name": "South Bonnevoie",
         "description": "quarter of Luxembourg City",
-        "freebase_id": "/m/0fjm3b"
+        "freebase_id": "/m/0fjm3b",
+        "lat": 49.597,
+        "lng": 6.14
     },
     {
         "wikidata_id": "Q1016242",
         "name": "Eschweiler",
         "description": "village in Junglinster, Luxembourg",
-        "freebase_id": "/m/0d08m8"
+        "freebase_id": "/m/0d08m8",
+        "lat": 49.711,
+        "lng": 6.311
     },
     {
         "wikidata_id": "Q1016214",
         "name": "Pfaffenthal",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0dh5zp"
+        "freebase_id": "/m/0dh5zp",
+        "lat": 49.615833333,
+        "lng": 6.131944444
     },
     {
         "wikidata_id": "Q1016195",
         "name": "Weimerskirch",
         "description": "district of Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0dh68g"
+        "freebase_id": "/m/0dh68g",
+        "lat": 49.628,
+        "lng": 6.135
     },
     {
         "wikidata_id": "Q1016248",
         "name": "Neudorf-Weimershof",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fjm1z"
+        "freebase_id": "/m/0fjm1z",
+        "lat": 49.620461111,
+        "lng": 6.1625
     },
     {
         "wikidata_id": "Q1016587",
         "name": "Stolzembourg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3cbh"
+        "freebase_id": "/m/0d3cbh",
+        "lat": 49.966666666,
+        "lng": 6.166666666
     },
     {
         "wikidata_id": "Q2668864",
         "name": "Christnach",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0cynzh"
+        "freebase_id": "/m/0cynzh",
+        "lat": 49.788611,
+        "lng": 6.273056
     },
     {
         "wikidata_id": "Q818991",
         "name": "Bereldange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0n6r"
+        "freebase_id": "/m/0d0n6r",
+        "lat": 49.65694,
+        "lng": 6.1275
     },
     {
         "wikidata_id": "Q652899",
         "name": "Pettingen",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d23q3"
+        "freebase_id": "/m/0d23q3",
+        "lat": 49.771111,
+        "lng": 6.106944
     },
     {
         "wikidata_id": "Q645669",
         "name": "Ansembourg",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0gw6jd"
+        "freebase_id": "/m/0gw6jd",
+        "lat": 49.702222,
+        "lng": 6.040278
     },
     {
         "wikidata_id": "Q1017315",
         "name": "Buschdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0z0z"
+        "freebase_id": "/m/0d0z0z",
+        "lat": 49.75,
+        "lng": 6.0
     },
     {
         "wikidata_id": "Q1017435",
         "name": "Heiderscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/08dxkd"
+        "freebase_id": "/m/08dxkd",
+        "lat": 49.8875,
+        "lng": 5.977777777
     },
     {
         "wikidata_id": "Q642351",
         "name": "Aspelt",
         "description": "town",
-        "freebase_id": "/m/0czm1r"
+        "freebase_id": "/m/0czm1r",
+        "lat": 49.516666666,
+        "lng": 6.216666666
     },
     {
         "wikidata_id": "Q1966656",
         "name": "Ville Haute",
         "description": "quarter in central Luxembourg City",
-        "freebase_id": "/m/0fjlzj"
+        "freebase_id": "/m/0fjlzj",
+        "lat": 49.612,
+        "lng": 6.129
     },
     {
         "wikidata_id": "Q1026517",
         "name": "Gilsdorf",
         "description": "village",
-        "freebase_id": "/m/0cxp_g"
+        "freebase_id": "/m/0cxp_g",
+        "lat": 49.866666666,
+        "lng": 6.183333333
     },
     {
         "wikidata_id": "Q494042",
         "name": "Holler",
         "description": "village in Weiswampach, Luxembourg",
-        "freebase_id": "/m/0qfv90c"
+        "freebase_id": "/m/0qfv90c",
+        "lat": 50.12,
+        "lng": 6.04
     },
     {
         "wikidata_id": "Q919671",
         "name": "Buderscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gkl"
+        "freebase_id": "/m/0d3gkl",
+        "lat": 49.933889,
+        "lng": 5.938333
     },
     {
         "wikidata_id": "Q814666",
         "name": "Beidweiler",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/04rk5j"
+        "freebase_id": "/m/04rk5j",
+        "lat": 49.716666666,
+        "lng": 6.3
     },
     {
         "wikidata_id": "Q9169032",
         "name": "Berg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d087v"
+        "freebase_id": "/m/0d087v",
+        "lat": 49.6825,
+        "lng": 6.358333
     },
     {
         "wikidata_id": "Q1026497",
         "name": "Wasserbillig",
         "description": "town",
-        "freebase_id": "/m/04m0xb"
+        "freebase_id": "/m/04m0xb",
+        "lat": 49.716666666,
+        "lng": 6.5
     },
     {
         "wikidata_id": "Q2895177",
         "name": "Belvaux",
         "description": "town in the commune of Sanem in Luxembourg",
-        "freebase_id": "/m/0c_dkt"
+        "freebase_id": "/m/0c_dkt",
+        "lat": 49.516666666,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q2249640",
         "name": "Meispelt",
         "description": "No description available",
-        "freebase_id": "/m/0d6gxl"
+        "freebase_id": "/m/0d6gxl",
+        "lat": 49.69,
+        "lng": 6.055556
     },
     {
         "wikidata_id": "Q205731",
         "name": "Hamm",
         "description": "former commune of Luxembourg",
-        "freebase_id": "/m/059pj4"
+        "freebase_id": "/m/059pj4",
+        "lat": 49.607,
+        "lng": 6.169
     },
     {
         "wikidata_id": "Q881001",
         "name": "Camp Ashcan",
         "description": "WWII Allied prisoner-of-war camp in Luxembourg; overseen by American authorities for interrogation of Nazi suspects, some of whom were transferred to Nuremberg as defendants in the International Military Tribunal and subsequent Nuremberg Trials",
-        "freebase_id": "/m/0wyhnx7"
+        "freebase_id": "/m/0wyhnx7",
+        "lat": 49.505,
+        "lng": 6.28
     },
     {
         "wikidata_id": "Q2223005",
         "name": "Angelsberg",
         "description": "small town in Luxembourg",
-        "freebase_id": "/m/0d2350"
+        "freebase_id": "/m/0d2350",
+        "lat": 49.764167,
+        "lng": 6.160833
     },
     {
         "wikidata_id": "Q583718",
         "name": "Kirchberg",
         "description": "quarter in Luxembourg City, the capital of Luxembourg",
-        "freebase_id": "/m/03vhlv"
+        "freebase_id": "/m/03vhlv",
+        "lat": 49.6275,
+        "lng": 6.145555555
     },
     {
         "wikidata_id": "Q644082",
         "name": "Hagen",
         "description": "town",
-        "freebase_id": "/m/0cx3wg"
+        "freebase_id": "/m/0cx3wg",
+        "lat": 49.65,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q2928300",
         "name": "Burange",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/02vqt_m"
+        "freebase_id": "/m/02vqt_m",
+        "lat": 49.483333333,
+        "lng": 6.1
     },
     {
         "wikidata_id": "Q2451662",
         "name": "Belair",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fjlr7"
+        "freebase_id": "/m/0fjlr7",
+        "lat": 49.612680555,
+        "lng": 6.114169444
     },
     {
         "wikidata_id": "Q2908603",
         "name": "Bofferdange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d23cz"
+        "freebase_id": "/m/0d23cz",
+        "lat": 49.683333333,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q769810",
         "name": "Livange",
         "description": "town",
-        "freebase_id": "/m/0c_dg9"
+        "freebase_id": "/m/0c_dg9",
+        "lat": 49.533333333,
+        "lng": 6.116666666
     },
     {
         "wikidata_id": "Q587103",
         "name": "Wintrange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3bc9"
+        "freebase_id": "/m/0d3bc9",
+        "lat": 49.5,
+        "lng": 6.35
     },
     {
         "wikidata_id": "Q646658",
         "name": "Schrondweiler",
         "description": "village",
-        "freebase_id": "/m/0d23xn"
+        "freebase_id": "/m/0d23xn",
+        "lat": 49.8,
+        "lng": 6.166666666
     },
     {
         "wikidata_id": "Q1900195",
         "name": "Oberanven",
         "description": "small town in the commune of Niederanven, in central Luxembourg",
-        "freebase_id": "/m/0d0mp1"
+        "freebase_id": "/m/0d0mp1",
+        "lat": 49.658056,
+        "lng": 6.245278
     },
     {
         "wikidata_id": "Q1016081",
         "name": "Foetz",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0czm68"
+        "freebase_id": "/m/0czm68",
+        "lat": 49.516666666,
+        "lng": 6.016666666
     },
     {
         "wikidata_id": "Q1444135",
         "name": "Rodange",
         "description": "town in the commune of Pétange, in south-western Luxembourg",
-        "freebase_id": "/m/0czm8c"
+        "freebase_id": "/m/0czm8c",
+        "lat": 49.546666666,
+        "lng": 5.839722222
     },
     {
         "wikidata_id": "Q3112451",
         "name": "Trintange",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d3bfc"
+        "freebase_id": "/m/0d3bfc",
+        "lat": 49.57083,
+        "lng": 6.28056
     },
     {
         "wikidata_id": "Q278454",
         "name": "Wilwerwiltz",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/08kmn1"
+        "freebase_id": "/m/08kmn1",
+        "lat": 49.98,
+        "lng": 5.99
     },
     {
         "wikidata_id": "Q283425",
         "name": "Cruchten",
         "description": "section of Nommern, Luxembourg",
-        "freebase_id": "/m/0d23w8"
+        "freebase_id": "/m/0d23w8",
+        "lat": 49.8,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q892805",
         "name": "Bonnevoie",
         "description": "neighborhood of Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0dh5ym"
+        "freebase_id": "/m/0dh5ym",
+        "lat": 49.594722222,
+        "lng": 6.139444444
     },
     {
         "wikidata_id": "Q848606",
         "name": "Bourglinster",
         "description": "town",
-        "freebase_id": "/m/0d08ll"
+        "freebase_id": "/m/0d08ll",
+        "lat": 49.7,
+        "lng": 6.216666666
     },
     {
         "wikidata_id": "Q1463952",
         "name": "Titelberg",
         "description": "oppidum",
-        "freebase_id": "/m/02z1scf"
+        "freebase_id": "/m/02z1scf",
+        "lat": 49.5375,
+        "lng": 5.8625
     },
     {
         "wikidata_id": "Q1988543",
         "name": "Capellen",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/07npr4"
+        "freebase_id": "/m/07npr4",
+        "lat": 49.644444444,
+        "lng": 5.989722222
     },
     {
         "wikidata_id": "Q986394",
         "name": "Eschweiler",
         "description": "village in Wiltz, Luxembourg",
-        "freebase_id": "/m/055r50"
+        "freebase_id": "/m/055r50",
+        "lat": 49.997222222,
+        "lng": 5.947222222
     },
     {
         "wikidata_id": "Q1128237",
         "name": "Consthum",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/08dqw5"
+        "freebase_id": "/m/08dqw5",
+        "lat": 49.973611111,
+        "lng": 6.052777777
     },
     {
         "wikidata_id": "Q2884742",
         "name": "Munsbach",
         "description": "town in the commune of Schuttrange in Luxembourg",
-        "freebase_id": "/m/0d0mzr"
+        "freebase_id": "/m/0d0mzr",
+        "lat": 49.630833,
+        "lng": 6.2675
     },
     {
         "wikidata_id": "Q896630",
         "name": "Brachtenbach",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxppc"
+        "freebase_id": "/m/0cxppc",
+        "lat": 50.016666666,
+        "lng": 5.916666666
     },
     {
         "wikidata_id": "Q519726",
         "name": "Clausen",
         "description": "quarter of Luxembourg-City",
-        "freebase_id": "/m/0dh6gd"
+        "freebase_id": "/m/0dh6gd",
+        "lat": 49.6139,
+        "lng": 6.1424
     },
     {
         "wikidata_id": "Q219089",
         "name": "Soleuvre",
         "description": "town",
-        "freebase_id": "/m/0c_dlv"
+        "freebase_id": "/m/0c_dlv",
+        "lat": 49.533333333,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q1016205",
         "name": "Grund",
         "description": "quarter in Luxembourg City, the capital of Luxembourg",
-        "freebase_id": "/m/0dh6dm"
+        "freebase_id": "/m/0dh6dm",
+        "lat": 49.611,
+        "lng": 6.136
     },
     {
         "wikidata_id": "Q1899845",
         "name": "Eschdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gsw"
+        "freebase_id": "/m/0d3gsw",
+        "lat": 49.884166666,
+        "lng": 5.934722222
     },
     {
         "wikidata_id": "Q1957428",
         "name": "Rolling, Bous",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d3b86"
+        "freebase_id": "/m/0d3b86",
+        "lat": 49.55,
+        "lng": 6.316666666
     },
     {
         "wikidata_id": "Q301316",
         "name": "Insenborn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45s_"
+        "freebase_id": "/m/0d45s_",
+        "lat": 49.9,
+        "lng": 5.883333333
     },
     {
         "wikidata_id": "Q2804045",
         "name": "Canach",
         "description": "town in Grevenmacher, Grand Duchy of Luxembourg",
-        "freebase_id": "/m/03ymyd"
+        "freebase_id": "/m/03ymyd",
+        "lat": 49.6,
+        "lng": 6.333333333
     },
     {
         "wikidata_id": "Q1333496",
         "name": "Hosingen",
         "description": "town",
-        "freebase_id": "/m/04rk6m"
+        "freebase_id": "/m/04rk6m",
+        "lat": 50.013888888,
+        "lng": 6.090277777
     },
     {
         "wikidata_id": "Q634854",
         "name": "Knaphoscheid",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d3gj6"
+        "freebase_id": "/m/0d3gj6",
+        "lat": 50.016666666,
+        "lng": 5.966666666
     },
     {
         "wikidata_id": "Q1991257",
         "name": "Pulvermuhl",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fjlyv"
+        "freebase_id": "/m/0fjlyv",
+        "lat": 49.608880555,
+        "lng": 6.151630555
     },
     {
         "wikidata_id": "Q2694867",
         "name": "Assel",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d3b6h"
+        "freebase_id": "/m/0d3b6h",
+        "lat": 49.55,
+        "lng": 6.316666666
     },
     {
         "wikidata_id": "Q2373856",
         "name": "Grevels",
         "description": "No description available",
-        "freebase_id": "/m/0cwxkw"
+        "freebase_id": "/m/0cwxkw",
+        "lat": 49.85,
+        "lng": 5.916666666
     },
     {
         "wikidata_id": "Q2639277",
         "name": "Beggen",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fhjvv"
+        "freebase_id": "/m/0fhjvv",
+        "lat": 49.64355,
+        "lng": 6.130511111
     },
     {
         "wikidata_id": "Q667210",
         "name": "Harlange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jvr"
+        "freebase_id": "/m/0d2jvr",
+        "lat": 49.931111111,
+        "lng": 5.787777777
     },
     {
         "wikidata_id": "Q2609947",
         "name": "Schouweiler",
         "description": "town in south-western Luxembourg",
-        "freebase_id": "/m/0cx3qn"
+        "freebase_id": "/m/0cx3qn",
+        "lat": 49.583333333,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q546228",
         "name": "Derenbach",
         "description": "town",
-        "freebase_id": "/m/0cxpqd"
+        "freebase_id": "/m/0cxpqd",
+        "lat": 50.016666666,
+        "lng": 5.883333333
     },
     {
         "wikidata_id": "Q2737180",
         "name": "Altlinster",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d08jv"
+        "freebase_id": "/m/0d08jv",
+        "lat": 49.716666666,
+        "lng": 6.216666666
     },
     {
         "wikidata_id": "Q661632",
         "name": "Hupperdange",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0dcbp6"
+        "freebase_id": "/m/0dcbp6",
+        "lat": 50.1,
+        "lng": 6.066666666
     },
     {
         "wikidata_id": "Q1026551",
         "name": "Dillingen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cy9x3"
+        "freebase_id": "/m/0cy9x3",
+        "lat": 49.85,
+        "lng": 6.316666666
     },
     {
         "wikidata_id": "Q1026524",
         "name": "Hivange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwxdv"
+        "freebase_id": "/m/0cwxdv",
+        "lat": 49.605,
+        "lng": 5.928333333
     },
     {
         "wikidata_id": "Q1026546",
         "name": "Lellig",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08s5"
+        "freebase_id": "/m/0d08s5",
+        "lat": 49.716666666,
+        "lng": 6.433333333
     },
     {
         "wikidata_id": "Q1026543",
         "name": "Wickrange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0czmdh"
+        "freebase_id": "/m/0czmdh",
+        "lat": 49.54214,
+        "lng": 6.02085
     },
     {
         "wikidata_id": "Q1923887",
         "name": "Stegen",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0cxq8h"
+        "freebase_id": "/m/0cxq8h",
+        "lat": 49.833333333,
+        "lng": 6.166666666
     },
     {
         "wikidata_id": "Q3057893",
         "name": "Belval",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/02vw152"
+        "freebase_id": "/m/02vw152",
+        "lat": 49.500277777,
+        "lng": 5.957222222
     },
     {
         "wikidata_id": "Q1863909",
         "name": "Keispelt",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0cx3yy"
+        "freebase_id": "/m/0cx3yy",
+        "lat": 49.693889,
+        "lng": 6.068333
     },
     {
         "wikidata_id": "Q1827640",
         "name": "Greiveldange",
         "description": "community in Luxembourg",
-        "freebase_id": "/m/0d3bcn"
+        "freebase_id": "/m/0d3bcn",
+        "lat": 49.583333333,
+        "lng": 6.366666666
     },
     {
         "wikidata_id": "Q22284",
         "name": "Bettborn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29yb"
+        "freebase_id": "/m/0d29yb",
+        "lat": 49.79528,
+        "lng": 5.94111
     },
     {
         "wikidata_id": "Q2451733",
         "name": "Eich",
         "description": "quarter in northern Luxembourg City",
-        "freebase_id": "/m/0d2j9l"
+        "freebase_id": "/m/0d2j9l",
+        "lat": 49.629,
+        "lng": 6.132
     },
     {
         "wikidata_id": "Q946442",
         "name": "Roodt-sur-Syre",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d08b8"
+        "freebase_id": "/m/0d08b8",
+        "lat": 49.666666666,
+        "lng": 6.3
     },
     {
         "wikidata_id": "Q2443388",
         "name": "Oberfeulen",
         "description": "No description available",
-        "freebase_id": "/m/0cxqdm"
+        "freebase_id": "/m/0cxqdm",
+        "lat": 49.85,
+        "lng": 6.033333333
     },
     {
         "wikidata_id": "Q1401963",
         "name": "Burmerange",
         "description": "municipality of Luxembourg",
-        "freebase_id": "/m/08gfzt"
+        "freebase_id": "/m/08gfzt",
+        "lat": 49.484722222,
+        "lng": 6.322222222
     },
     {
         "wikidata_id": "Q122913",
         "name": "Ermsdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/08dsmv"
+        "freebase_id": "/m/08dsmv",
+        "lat": 49.828888888,
+        "lng": 6.221388888
     },
     {
         "wikidata_id": "Q1402001",
         "name": "Heinerscheid",
         "description": "former commune in Luxembourg",
-        "freebase_id": "/m/08dqy9"
+        "freebase_id": "/m/08dqy9",
+        "lat": 50.09611,
+        "lng": 6.08806
     },
     {
         "wikidata_id": "Q2887692",
         "name": "Bastendorf",
         "description": "former commune of Luxembourg in Diekirch",
-        "freebase_id": "/m/08kmk5"
+        "freebase_id": "/m/08kmk5",
+        "lat": 49.890556,
+        "lng": 6.163056
     },
     {
         "wikidata_id": "Q1311018",
         "name": "Eischen",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0cx3nt"
+        "freebase_id": "/m/0cx3nt",
+        "lat": 49.684422222,
+        "lng": 5.878147222
     },
     {
         "wikidata_id": "Q985153",
         "name": "Rosport",
         "description": "former municipality in Luxembourg",
-        "freebase_id": "/m/08fzkk"
+        "freebase_id": "/m/08fzkk",
+        "lat": 49.805555555,
+        "lng": 6.502777777
     },
     {
         "wikidata_id": "Q819508",
         "name": "Bergem",
         "description": "town",
-        "freebase_id": "/m/0cwxh1"
+        "freebase_id": "/m/0cwxh1",
+        "lat": 49.516666666,
+        "lng": 6.05
     },
     {
         "wikidata_id": "Q751569",
         "name": "Niederkorn",
         "description": "town",
-        "freebase_id": "/m/0czl__"
+        "freebase_id": "/m/0czl__",
+        "lat": 49.536111111,
+        "lng": 5.890833333
     },
     {
         "wikidata_id": "Q301573",
         "name": "Bivels",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0gg9w83"
+        "freebase_id": "/m/0gg9w83",
+        "lat": 49.96,
+        "lng": 6.19
     },
     {
         "wikidata_id": "Q1994712",
         "name": "Gasperich",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0dh5y_"
+        "freebase_id": "/m/0dh5y_",
+        "lat": 49.591,
+        "lng": 6.123
     },
     {
         "wikidata_id": "Q2906411",
         "name": "Hachiville",
         "description": "human settlement in Wincrange, Luxembourg",
-        "freebase_id": "/m/0cxprt"
+        "freebase_id": "/m/0cxprt",
+        "lat": 50.1075,
+        "lng": 5.922778
     },
     {
         "wikidata_id": "Q991918",
         "name": "Brouch",
         "description": "town",
-        "freebase_id": "/m/0d0z0m"
+        "freebase_id": "/m/0d0z0m",
+        "lat": 49.7357,
+        "lng": 6.0201
     },
     {
         "wikidata_id": "Q196812",
         "name": "Cessange",
         "description": "quarter of Luxembourg City",
-        "freebase_id": "/m/0dh69j"
+        "freebase_id": "/m/0dh69j",
+        "lat": 49.589166666,
+        "lng": 6.105
     },
     {
         "wikidata_id": "Q734284",
         "name": "Remich",
         "description": "city and commune in Luxembourg",
-        "freebase_id": "/m/058vb4"
+        "freebase_id": "/m/058vb4",
+        "lat": 49.544444444,
+        "lng": 6.366666666
     },
     {
         "wikidata_id": "Q1624823",
         "name": "Hollerich",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0d2jdc"
+        "freebase_id": "/m/0d2jdc",
+        "lat": 49.599,
+        "lng": 6.12
     },
     {
         "wikidata_id": "Q3112408",
         "name": "Niederfeulen",
         "description": "No description available",
-        "freebase_id": "/m/0dcb82"
+        "freebase_id": "/m/0dcb82",
+        "lat": 49.855,
+        "lng": 6.046944
     },
     {
         "wikidata_id": "Q5210859",
         "name": "Ricciacum",
         "description": "ancient settlement and road station of the Treveri, located at modern Dalheim in Luxembourg",
-        "freebase_id": "/m/0ggbjx2"
+        "freebase_id": "/m/0ggbjx2",
+        "lat": 49.539399,
+        "lng": 6.256482
     },
     {
         "wikidata_id": "Q1369887",
         "name": "Clemency",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/055r14"
+        "freebase_id": "/m/055r14",
+        "lat": 49.595833333,
+        "lng": 5.875
     },
     {
         "wikidata_id": "Q972183",
         "name": "Bavigne",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45pj"
+        "freebase_id": "/m/0d45pj",
+        "lat": 49.92,
+        "lng": 5.846944444
     },
     {
         "wikidata_id": "Q2691679",
         "name": "Oberwampach",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0cxpw_"
+        "freebase_id": "/m/0cxpw_",
+        "lat": 50.016666666,
+        "lng": 5.866666666
     },
     {
         "wikidata_id": "Q2691811",
         "name": "Reuler",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0dcbk2"
+        "freebase_id": "/m/0dcbk2",
+        "lat": 50.05,
+        "lng": 6.033333333
     },
     {
         "wikidata_id": "Q1016078",
         "name": "Lasauvage",
         "description": "town",
-        "freebase_id": "/m/0czlzm"
+        "freebase_id": "/m/0czlzm",
+        "lat": 49.523611,
+        "lng": 5.835278
     },
     {
         "wikidata_id": "Q1016123",
         "name": "Ehnen",
         "description": "town",
-        "freebase_id": "/m/0d08t6"
+        "freebase_id": "/m/0d08t6",
+        "lat": 49.6,
+        "lng": 6.383333333
     },
     {
         "wikidata_id": "Q3216538",
         "name": "Lallange",
         "description": "district in the city of Esch-sur-Alzette in Luxembourg",
-        "freebase_id": "/m/02z4j7f"
+        "freebase_id": "/m/02z4j7f",
+        "lat": 49.510555555,
+        "lng": 5.990833333
     },
     {
         "wikidata_id": "Q1994689",
         "name": "Dommeldange",
         "description": "quarter of Luxembourg-City",
-        "freebase_id": "/m/0fjlmr"
+        "freebase_id": "/m/0fjlmr",
+        "lat": 49.635061111,
+        "lng": 6.137738888
     },
     {
         "wikidata_id": "Q774592",
         "name": "Neunhausen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/08dxn_"
+        "freebase_id": "/m/08dxn_",
+        "lat": 49.876666666,
+        "lng": 5.885555555
     },
     {
         "wikidata_id": "Q332592",
         "name": "Mecher",
         "description": "village in Lac de la Haute-Sûre, Luxembourg",
-        "freebase_id": "/m/0d2jxg"
+        "freebase_id": "/m/0d2jxg",
+        "lat": 49.923,
+        "lng": 5.873
     },
     {
         "wikidata_id": "Q545028",
         "name": "Brandenbourg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwxc3"
+        "freebase_id": "/m/0cwxc3",
+        "lat": 49.916666666,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q702704",
         "name": "Abbey of Echternach",
         "description": "monastery",
-        "freebase_id": "/m/0d5x6p"
+        "freebase_id": "/m/0d5x6p",
+        "lat": 49.813889,
+        "lng": 6.4225
     },
     {
         "wikidata_id": "Q571701",
         "name": "Untereisenbach",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcbr_"
+        "freebase_id": "/m/0dcbr_",
+        "lat": 50.0,
+        "lng": 6.15
     },
     {
         "wikidata_id": "Q959340",
         "name": "Hassel",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0ndb"
+        "freebase_id": "/m/0d0ndb",
+        "lat": 49.55,
+        "lng": 6.216666666
     },
     {
         "wikidata_id": "Q1016106",
         "name": "Pontpierre",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwxj3"
+        "freebase_id": "/m/0cwxj3",
+        "lat": 49.533333333,
+        "lng": 6.033333333
     },
     {
         "wikidata_id": "Q787438",
         "name": "Grundhof",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwx8p"
+        "freebase_id": "/m/0cwx8p",
+        "lat": 49.831944444,
+        "lng": 6.329722222
     },
     {
         "wikidata_id": "Q2284667",
         "name": "Roedgen",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0czmcg"
+        "freebase_id": "/m/0czmcg",
+        "lat": 49.574444,
+        "lng": 6.034167
     },
     {
         "wikidata_id": "Q2257694",
         "name": "Osweiler",
         "description": "town in the Luxembourgish commune of Rosport-Mompach",
-        "freebase_id": "/m/0cynx1"
+        "freebase_id": "/m/0cynx1",
+        "lat": 49.786667,
+        "lng": 6.440833
     },
     {
         "wikidata_id": "Q2620951",
         "name": "Goetzingen",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/0d6g_p"
+        "freebase_id": "/m/0d6g_p",
+        "lat": 49.666666666,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q525708",
         "name": "Merl",
         "description": "quarter in Luxembourg City, Luxembourg",
-        "freebase_id": "/m/0fjlp3"
+        "freebase_id": "/m/0fjlp3",
+        "lat": 49.603,
+        "lng": 6.096
     },
     {
         "wikidata_id": "Q2537178",
         "name": "Schoos",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d235q"
+        "freebase_id": "/m/0d235q",
+        "lat": 49.750555555,
+        "lng": 6.169166666
     },
     {
         "wikidata_id": "Q2060643",
         "name": "Imbringen",
         "description": "commune in Luxemburg",
-        "freebase_id": "/m/0d08pf"
+        "freebase_id": "/m/0d08pf",
+        "lat": 49.7,
+        "lng": 6.2
     },
     {
         "wikidata_id": "Q2180001",
         "name": "Mullendorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0n4_"
+        "freebase_id": "/m/0d0n4_",
+        "lat": 49.683333333,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q2651976",
         "name": "Roodt-sur-Eisch",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d6h11"
+        "freebase_id": "/m/0d6h11",
+        "lat": 49.693056,
+        "lng": 6.0
     },
     {
         "wikidata_id": "Q2564415",
         "name": "Buschrodt",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2q35"
+        "freebase_id": "/m/0d2q35",
+        "lat": 49.833333333,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q2351743",
         "name": "Medingen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0m7s"
+        "freebase_id": "/m/0d0m7s",
+        "lat": 49.566666666,
+        "lng": 6.25
     },
     {
         "wikidata_id": "Q2649967",
         "name": "Rodenbourg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08ps"
+        "freebase_id": "/m/0d08ps",
+        "lat": 49.683333333,
+        "lng": 6.283333333
     },
     {
         "wikidata_id": "Q3049504",
         "name": "Eisenborn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08ly"
+        "freebase_id": "/m/0d08ly",
+        "lat": 49.689444444,
+        "lng": 6.186388888
     },
     {
         "wikidata_id": "Q3109434",
         "name": "Sonlez",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d466z"
+        "freebase_id": "/m/0d466z",
+        "lat": 49.963888888,
+        "lng": 5.823611111
     },
     {
         "wikidata_id": "Q2371301",
         "name": "Schweich",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29sf"
+        "freebase_id": "/m/0d29sf",
+        "lat": 49.722454,
+        "lng": 5.926432
     },
     {
         "wikidata_id": "Q2908595",
         "name": "Boevange",
         "description": "human settlement in Luxembourg",
-        "freebase_id": "/m/08hh1x"
+        "freebase_id": "/m/08hh1x",
+        "lat": 50.05,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q2234520",
         "name": "Senningerberg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0ms4"
+        "freebase_id": "/m/0d0ms4",
+        "lat": 49.649738888,
+        "lng": 6.227261111
     },
     {
         "wikidata_id": "Q2517590",
         "name": "Wolwelange",
         "description": "village in Rambrouch, Luxembourg",
-        "freebase_id": "/m/0d2jr3"
+        "freebase_id": "/m/0d2jr3",
+        "lat": 49.828611,
+        "lng": 5.764722
     },
     {
         "wikidata_id": "Q1825120",
         "name": "Eschette",
         "description": "hamlet in Luxembourg",
-        "freebase_id": "/m/0gkzyh4"
+        "freebase_id": "/m/0gkzyh4",
+        "lat": 49.8225,
+        "lng": 5.886944444
     },
     {
         "wikidata_id": "Q1880583",
         "name": "Dahl",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gnc"
+        "freebase_id": "/m/0d3gnc",
+        "lat": 49.93,
+        "lng": 5.97
     },
     {
         "wikidata_id": "Q11786529",
         "name": "Muhlbach",
         "description": "hamlet in Luxembourg",
-        "freebase_id": "/m/0d0m8g"
+        "freebase_id": "/m/0d0m8g",
+        "lat": 49.587,
+        "lng": 6.2457
     },
     {
         "wikidata_id": "Q3112420",
         "name": "Koetschette",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jnq"
+        "freebase_id": "/m/0d2jnq",
+        "lat": 49.838055555,
+        "lng": 5.839444444
     },
     {
         "wikidata_id": "Q3112404",
         "name": "Reichlange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2p_r"
+        "freebase_id": "/m/0d2p_r",
+        "lat": 49.766666666,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q3112467",
         "name": "Lannen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2pz0"
+        "freebase_id": "/m/0d2pz0",
+        "lat": 49.783333333,
+        "lng": 5.833333333
     },
     {
         "wikidata_id": "Q3112427",
         "name": "Welfrange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3b97"
+        "freebase_id": "/m/0d3b97",
+        "lat": 49.533333333,
+        "lng": 6.283333333
     },
     {
         "wikidata_id": "Q2573803",
         "name": "Waldhof",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d6h24"
+        "freebase_id": "/m/0d6h24",
+        "lat": 49.656944444,
+        "lng": 6.188055555
     },
     {
         "wikidata_id": "Q2217356",
         "name": "Lamadelaine",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0czm7p"
+        "freebase_id": "/m/0czm7p",
+        "lat": 49.5475,
+        "lng": 5.855277777
     },
     {
         "wikidata_id": "Q1998454",
         "name": "Reimberg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29_1"
+        "freebase_id": "/m/0d29_1",
+        "lat": 49.8,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q1546119",
         "name": "Grevenknapp",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0z1n"
+        "freebase_id": "/m/0d0z1n",
+        "lat": 49.75,
+        "lng": 6.033333333
     },
     {
         "wikidata_id": "Q3246443",
         "name": "Wahlhausen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpdz"
+        "freebase_id": "/m/0cxpdz",
+        "lat": 49.983333333,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q2234839",
         "name": "Nagem",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2pzc"
+        "freebase_id": "/m/0d2pzc",
+        "lat": 49.783333333,
+        "lng": 5.85
     },
     {
         "wikidata_id": "Q1985712",
         "name": "Altrier",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cy9yv"
+        "freebase_id": "/m/0cy9yv",
+        "lat": 49.75,
+        "lng": 6.333333333
     },
     {
         "wikidata_id": "Q2862480",
         "name": "Longsdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/063yvb1"
+        "freebase_id": "/m/063yvb1",
+        "lat": 49.8975,
+        "lng": 6.2066
     },
     {
         "wikidata_id": "Q2415890",
         "name": "Fingig",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwx6l"
+        "freebase_id": "/m/0cwx6l",
+        "lat": 49.602222222,
+        "lng": 5.9
     },
     {
         "wikidata_id": "Q3057497",
         "name": "Ersange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3bdp"
+        "freebase_id": "/m/0d3bdp",
+        "lat": 49.566666666,
+        "lng": 6.283333333
     },
     {
         "wikidata_id": "Q2674796",
         "name": "Arsdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jjy"
+        "freebase_id": "/m/0d2jjy",
+        "lat": 49.860277777,
+        "lng": 5.842777777
     },
     {
         "wikidata_id": "Q2480852",
         "name": "Stockem",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcbzw"
+        "freebase_id": "/m/0dcbzw",
+        "lat": 50.078333,
+        "lng": 5.956944
     },
     {
         "wikidata_id": "Q2675610",
         "name": "Hautcharage",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cx3vf"
+        "freebase_id": "/m/0cx3vf",
+        "lat": 49.576111111,
+        "lng": 5.91
     },
     {
         "wikidata_id": "Q2077064",
         "name": "Kautenbach",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/08kmlm"
+        "freebase_id": "/m/08kmlm",
+        "lat": 49.95,
+        "lng": 6.02
     },
     {
         "wikidata_id": "Q2201147",
         "name": "Munschecker",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08sj"
+        "freebase_id": "/m/0d08sj",
+        "lat": 49.7,
+        "lng": 6.45
     },
     {
         "wikidata_id": "Q3141034",
         "name": "Hostert",
         "description": "village in Rambrouch, Luxembourg",
-        "freebase_id": "/m/0d2jn0"
+        "freebase_id": "/m/0d2jn0",
+        "lat": 49.81,
+        "lng": 5.865833333
     },
     {
         "wikidata_id": "Q2897170",
         "name": "Beringen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d23nr"
+        "freebase_id": "/m/0d23nr",
+        "lat": 49.76,
+        "lng": 6.12
     },
     {
         "wikidata_id": "Q2520134",
         "name": "Hautbellain",
         "description": "village in Troisvierges, Luxembourg",
-        "freebase_id": "/m/0dcbw2"
+        "freebase_id": "/m/0dcbw2",
+        "lat": 50.15,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q3192136",
         "name": "Kalborn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/02rg4c8"
+        "freebase_id": "/m/02rg4c8",
+        "lat": 50.1,
+        "lng": 6.116666666
     },
     {
         "wikidata_id": "Q2030737",
         "name": "Holzthum",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcbm4"
+        "freebase_id": "/m/0dcbm4",
+        "lat": 49.983333333,
+        "lng": 6.066666666
     },
     {
         "wikidata_id": "Q1859708",
         "name": "Beyren",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08f1"
+        "freebase_id": "/m/0d08f1",
+        "lat": 49.633333333,
+        "lng": 6.333333333
     },
     {
         "wikidata_id": "Q2317193",
         "name": "Nocher",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gps"
+        "freebase_id": "/m/0d3gps",
+        "lat": 49.95,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q2521755",
         "name": "Bigonville",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jk8"
+        "freebase_id": "/m/0d2jk8",
+        "lat": 49.85,
+        "lng": 5.792222222
     },
     {
         "wikidata_id": "Q2350374",
         "name": "Ingeldorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxqc7"
+        "freebase_id": "/m/0cxqc7",
+        "lat": 49.853333333,
+        "lng": 6.134722222
     },
     {
         "wikidata_id": "Q2029793",
         "name": "Asselborn",
         "description": "town in Wincrange, Luxembourg",
-        "freebase_id": "/m/0cxpmk"
+        "freebase_id": "/m/0cxpmk",
+        "lat": 50.0962,
+        "lng": 5.9752
     },
     {
         "wikidata_id": "Q2112848",
         "name": "Neuhäusgen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0m_s"
+        "freebase_id": "/m/0d0m_s",
+        "lat": 49.625,
+        "lng": 6.236
     },
     {
         "wikidata_id": "Q2084576",
         "name": "Wallendorf-Pont",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0f5q_4"
+        "freebase_id": "/m/0f5q_4",
+        "lat": 49.8741,
+        "lng": 6.2905
     },
     {
         "wikidata_id": "Q2896946",
         "name": "Berchem",
         "description": "village in Roeser, Luxembourg",
-        "freebase_id": "/m/0c_dbw"
+        "freebase_id": "/m/0c_dbw",
+        "lat": 49.533333333,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q2280255",
         "name": "Lieler",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcbpk"
+        "freebase_id": "/m/0dcbpk",
+        "lat": 50.116666666,
+        "lng": 6.116666666
     },
     {
         "wikidata_id": "Q2925153",
         "name": "Nocher-Route",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gqg"
+        "freebase_id": "/m/0d3gqg",
+        "lat": 49.946388888,
+        "lng": 5.978461111
     },
     {
         "wikidata_id": "Q2572503",
         "name": "Helmsange",
         "description": "village in Walferdange, Luxembourg",
-        "freebase_id": "/m/0d0n7s"
+        "freebase_id": "/m/0d0n7s",
+        "lat": 49.66014,
+        "lng": 6.14052
     },
     {
         "wikidata_id": "Q2323581",
         "name": "Doncols",
         "description": "section of Winseler, Luxembourg",
-        "freebase_id": "/m/0d45x3"
+        "freebase_id": "/m/0d45x3",
+        "lat": 49.972777777,
+        "lng": 5.8425
     },
     {
         "wikidata_id": "Q2463132",
         "name": "Findel",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0mx9"
+        "freebase_id": "/m/0d0mx9",
+        "lat": 49.62776,
+        "lng": 6.20205
     },
     {
         "wikidata_id": "Q2658248",
         "name": "Pintsch",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gyt"
+        "freebase_id": "/m/0d3gyt",
+        "lat": 49.992777777,
+        "lng": 6.011111111
     },
     {
         "wikidata_id": "Q3121108",
         "name": "Weilerbach",
         "description": "village in Berdorf, Luxembourg",
-        "freebase_id": "/m/0cyb0l"
+        "freebase_id": "/m/0cyb0l",
+        "lat": 49.833333333,
+        "lng": 6.383333333
     },
     {
         "wikidata_id": "Q1828890",
         "name": "Warken",
         "description": "village in Ettelbruck, Luxembourg",
-        "freebase_id": "/m/0cxqd8"
+        "freebase_id": "/m/0cxqd8",
+        "lat": 49.858889,
+        "lng": 6.090556
     },
     {
         "wikidata_id": "Q1850641",
         "name": "Drauffelt",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxphc"
+        "freebase_id": "/m/0cxphc",
+        "lat": 50.016666666,
+        "lng": 6.0
     },
     {
         "wikidata_id": "Q2479477",
         "name": "Noerdange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29q_"
+        "freebase_id": "/m/0d29q_",
+        "lat": 49.741666666,
+        "lng": 5.923611111
     },
     {
         "wikidata_id": "Q2680402",
         "name": "Rippig",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cy9yh"
+        "freebase_id": "/m/0cy9yh",
+        "lat": 49.733333333,
+        "lng": 6.316666666
     },
     {
         "wikidata_id": "Q2018699",
         "name": "Mullerthal",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cw8gf"
+        "freebase_id": "/m/0cw8gf",
+        "lat": 49.7902688,
+        "lng": 6.3071067
     },
     {
         "wikidata_id": "Q2927541",
         "name": "Budersberg",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0czm0q"
+        "freebase_id": "/m/0czm0q",
+        "lat": 49.5,
+        "lng": 6.066666666
     },
     {
         "wikidata_id": "Q1953115",
         "name": "Ernzen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d239x"
+        "freebase_id": "/m/0d239x",
+        "lat": 49.772778,
+        "lng": 6.218611
     },
     {
         "wikidata_id": "Q2784034",
         "name": "Welscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwxw5"
+        "freebase_id": "/m/0cwxw5",
+        "lat": 49.883333333,
+        "lng": 6.066666666
     },
     {
         "wikidata_id": "Q2938664",
         "name": "Mensdorf",
         "description": "village in Betzdorf, Luxembourg",
-        "freebase_id": "/m/0d088x"
+        "freebase_id": "/m/0d088x",
+        "lat": 49.65,
+        "lng": 6.3
     },
     {
         "wikidata_id": "Q3057428",
         "name": "Erpeldange",
         "description": "small town in the commune of Bous, in south-eastern Luxembourg",
-        "freebase_id": "/m/0d3b7j"
+        "freebase_id": "/m/0d3b7j",
+        "lat": 49.5448,
+        "lng": 6.3266
     },
     {
         "wikidata_id": "Q2055272",
         "name": "Herborn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cynt9"
+        "freebase_id": "/m/0cynt9",
+        "lat": 49.733333333,
+        "lng": 6.433333333
     },
     {
         "wikidata_id": "Q2708173",
         "name": "Michelau",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxq62"
+        "freebase_id": "/m/0cxq62",
+        "lat": 49.9,
+        "lng": 6.1
     },
     {
         "wikidata_id": "Q2385037",
         "name": "Oberdonven",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08jh"
+        "freebase_id": "/m/0d08jh",
+        "lat": 49.65,
+        "lng": 6.4
     },
     {
         "wikidata_id": "Q2606309",
         "name": "Doennange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpr3"
+        "freebase_id": "/m/0cxpr3",
+        "lat": 50.066666666,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q3246505",
         "name": "Merscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gty"
+        "freebase_id": "/m/0d3gty",
+        "lat": 49.872,
+        "lng": 5.969
     },
     {
         "wikidata_id": "Q2463642",
         "name": "Holtz",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jmb"
+        "freebase_id": "/m/0d2jmb",
+        "lat": 49.806111111,
+        "lng": 5.790555555
     },
     {
         "wikidata_id": "Q3092783",
         "name": "Hollenfels",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d241v"
+        "freebase_id": "/m/0d241v",
+        "lat": 49.716666666,
+        "lng": 6.05
     },
     {
         "wikidata_id": "Q2285597",
         "name": "Alscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d4p2f"
+        "freebase_id": "/m/0d4p2f",
+        "lat": 49.966666666,
+        "lng": 6.016666666
     },
     {
         "wikidata_id": "Q2206498",
         "name": "Nachtmanderscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0640ng2"
+        "freebase_id": "/m/0640ng2",
+        "lat": 49.947631,
+        "lng": 6.127967
     },
     {
         "wikidata_id": "Q3073008",
         "name": "Fischbach",
         "description": "village in the commune of Heinerscheid, northern Luxembourg",
-        "freebase_id": "/m/0dcbn5"
+        "freebase_id": "/m/0dcbn5",
+        "lat": 50.0755,
+        "lng": 6.0654
     },
     {
         "wikidata_id": "Q3246508",
         "name": "Weiler",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3cc5"
+        "freebase_id": "/m/0d3cc5",
+        "lat": 49.962,
+        "lng": 6.123
     },
     {
         "wikidata_id": "Q2171239",
         "name": "Berlé",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45w1"
+        "freebase_id": "/m/0d45w1",
+        "lat": 49.951666666,
+        "lng": 5.857222222
     },
     {
         "wikidata_id": "Q2019917",
         "name": "Greisch",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d6h0q"
+        "freebase_id": "/m/0d6h0q",
+        "lat": 49.716666666,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q2627033",
         "name": "Fennange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0czlw1"
+        "freebase_id": "/m/0czlw1",
+        "lat": 49.516666666,
+        "lng": 6.083333333
     },
     {
         "wikidata_id": "Q2525872",
         "name": "Holzem",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0cx3td"
+        "freebase_id": "/m/0cx3td",
+        "lat": 49.616666666,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q204317",
         "name": "Echternach",
         "description": "city and commune in Luxembourg",
-        "freebase_id": "/m/02_j8h"
+        "freebase_id": "/m/02_j8h",
+        "lat": 49.811666666,
+        "lng": 6.421666666
     },
     {
         "wikidata_id": "Q2827709",
         "name": "Ahn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08sw"
+        "freebase_id": "/m/0d08sw",
+        "lat": 49.628056,
+        "lng": 6.422222
     },
     {
         "wikidata_id": "Q2404602",
         "name": "Linger",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cx3sc"
+        "freebase_id": "/m/0cx3sc",
+        "lat": 49.564722222,
+        "lng": 5.885277777
     },
     {
         "wikidata_id": "Q2331788",
         "name": "Dondelange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/06lprq"
+        "freebase_id": "/m/06lprq",
+        "lat": 49.6881,
+        "lng": 6.0307
     },
     {
         "wikidata_id": "Q2662275",
         "name": "Weicherdange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcblg"
+        "freebase_id": "/m/0dcblg",
+        "lat": 50.033333333,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q2299179",
         "name": "Platen",
         "description": "place in Préizerdaul, Luxembourg",
-        "freebase_id": "/m/0d29zc"
+        "freebase_id": "/m/0d29zc",
+        "lat": 49.783333333,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q2172208",
         "name": "Nothum",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45qx"
+        "freebase_id": "/m/0d45qx",
+        "lat": 49.94,
+        "lng": 5.882222222
     },
     {
         "wikidata_id": "Q3039480",
         "name": "Drinklange",
         "description": "village in Troisvierges, Luxembourg",
-        "freebase_id": "/m/0dcbvd"
+        "freebase_id": "/m/0dcbvd",
+        "lat": 50.133333333,
+        "lng": 6.016666666
     },
     {
         "wikidata_id": "Q2753449",
         "name": "Basbellain",
         "description": "village in Troisvierges, Luxembourg",
-        "freebase_id": "/m/0cxphq"
+        "freebase_id": "/m/0cxphq",
+        "lat": 50.15,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q2462144",
         "name": "Hoesdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxqfn"
+        "freebase_id": "/m/0cxqfn",
+        "lat": 49.883333333,
+        "lng": 6.25
     },
     {
         "wikidata_id": "Q2674976",
         "name": "Olm",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/02z5x66"
+        "freebase_id": "/m/02z5x66",
+        "lat": 49.65,
+        "lng": 6.0
     },
     {
         "wikidata_id": "Q3246634",
         "name": "Pratz",
         "description": "village in Préizerdaul, Luxembourg",
-        "freebase_id": "/m/0d29zq"
+        "freebase_id": "/m/0d29zq",
+        "lat": 49.8,
+        "lng": 5.933333333
     },
     {
         "wikidata_id": "Q3247752",
         "name": "Deiffelt",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcbyh"
+        "freebase_id": "/m/0dcbyh",
+        "lat": 50.066666666,
+        "lng": 5.966666666
     },
     {
         "wikidata_id": "Q3057429",
         "name": "Erpeldange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gh5"
+        "freebase_id": "/m/0d3gh5",
+        "lat": 49.9779,
+        "lng": 5.9461
     },
     {
         "wikidata_id": "Q2388862",
         "name": "Lipperscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcb0j"
+        "freebase_id": "/m/0dcb0j",
+        "lat": 49.916666666,
+        "lng": 6.083333333
     },
     {
         "wikidata_id": "Q2104320",
         "name": "Baschleiden",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gfg"
+        "freebase_id": "/m/0d3gfg",
+        "lat": 49.898055555,
+        "lng": 5.817777777
     },
     {
         "wikidata_id": "Q3041356",
         "name": "Nospelt",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cx3zm"
+        "freebase_id": "/m/0cx3zm",
+        "lat": 49.675278,
+        "lng": 6.008056
     },
     {
         "wikidata_id": "Q2210214",
         "name": "Colpach-Bas",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29vk"
+        "freebase_id": "/m/0d29vk",
+        "lat": 49.75,
+        "lng": 5.833333333
     },
     {
         "wikidata_id": "Q2210416",
         "name": "Surré",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gft"
+        "freebase_id": "/m/0d3gft",
+        "lat": 49.901388888,
+        "lng": 5.779166666
     },
     {
         "wikidata_id": "Q1903325",
         "name": "Tétange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0czm46"
+        "freebase_id": "/m/0czm46",
+        "lat": 49.476667,
+        "lng": 6.039444
     },
     {
         "wikidata_id": "Q2686503",
         "name": "Gralingen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3c9g"
+        "freebase_id": "/m/0d3c9g",
+        "lat": 49.933333333,
+        "lng": 6.1
     },
     {
         "wikidata_id": "Q2910203",
         "name": "Bonnal",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45sn"
+        "freebase_id": "/m/0d45sn",
+        "lat": 49.902222222,
+        "lng": 5.886111111
     },
     {
         "wikidata_id": "Q2193302",
         "name": "Bilsdorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jkz"
+        "freebase_id": "/m/0d2jkz",
+        "lat": 49.856111111,
+        "lng": 5.823611111
     },
     {
         "wikidata_id": "Q1977353",
         "name": "Enscherange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3gw_"
+        "freebase_id": "/m/0d3gw_",
+        "lat": 49.983333333,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q2776327",
         "name": "Howald",
         "description": "town in the commune of Hesperange, Luxembourg",
-        "freebase_id": "/m/0cwb0z"
+        "freebase_id": "/m/0cwb0z",
+        "lat": 49.585,
+        "lng": 6.141388888
     },
     {
         "wikidata_id": "Q2443753",
         "name": "Urspelt",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0gkzdtv"
+        "freebase_id": "/m/0gkzdtv",
+        "lat": 50.06666667,
+        "lng": 6.03333333
     },
     {
         "wikidata_id": "Q2292318",
         "name": "Dickweiler",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cynvb"
+        "freebase_id": "/m/0cynvb",
+        "lat": 49.783333333,
+        "lng": 6.466666666
     },
     {
         "wikidata_id": "Q2313751",
         "name": "Haller",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cyn_j"
+        "freebase_id": "/m/0cyn_j",
+        "lat": 49.816666666,
+        "lng": 6.283333333
     },
     {
         "wikidata_id": "Q2586273",
         "name": "Noertrange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45y4"
+        "freebase_id": "/m/0d45y4",
+        "lat": 49.979166666,
+        "lng": 5.909444444
     },
     {
         "wikidata_id": "Q2936219",
         "name": "Perlé",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jpr"
+        "freebase_id": "/m/0d2jpr",
+        "lat": 49.809166666,
+        "lng": 5.766111111
     },
     {
         "wikidata_id": "Q2319938",
         "name": "Sprinkange",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d6gnz"
+        "freebase_id": "/m/0d6gnz",
+        "lat": 49.5796,
+        "lng": 5.9656
     },
     {
         "wikidata_id": "Q2735581",
         "name": "Burden",
         "description": "village in northern Luxembourg",
-        "freebase_id": "/m/0cxq95"
+        "freebase_id": "/m/0cxq95",
+        "lat": 49.882222222,
+        "lng": 6.097222222
     },
     {
         "wikidata_id": "Q5907215",
         "name": "Hoscheid-Dickt",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwxs2"
+        "freebase_id": "/m/0cwxs2",
+        "lat": 49.974,
+        "lng": 6.09
     },
     {
         "wikidata_id": "Q2129480",
         "name": "Rombach-Martelange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jqs"
+        "freebase_id": "/m/0d2jqs",
+        "lat": 49.833888888,
+        "lng": 5.741666666
     },
     {
         "wikidata_id": "Q2056162",
         "name": "Fentange",
         "description": "village in Hesperange, Luxembourg",
-        "freebase_id": "/m/0d0mcc"
+        "freebase_id": "/m/0d0mcc",
+        "lat": 49.566666666,
+        "lng": 6.15
     },
     {
         "wikidata_id": "Q3246473",
         "name": "Reuland",
         "description": "village in Heffingen, Luxembourg",
-        "freebase_id": "/m/0d238h"
+        "freebase_id": "/m/0d238h",
+        "lat": 49.75,
+        "lng": 6.266666666
     },
     {
         "wikidata_id": "Q3051810",
         "name": "Elvange",
         "description": "village in Schengen, Luxembourg",
-        "freebase_id": "/m/0d3b8k"
+        "freebase_id": "/m/0d3b8k",
+        "lat": 49.5053,
+        "lng": 6.316
     },
     {
         "wikidata_id": "Q3246477",
         "name": "Schwiedelbrouch",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0ddy7v"
+        "freebase_id": "/m/0ddy7v",
+        "lat": 49.830398,
+        "lng": 5.855003
     },
     {
         "wikidata_id": "Q3246491",
         "name": "Rumlange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpy0"
+        "freebase_id": "/m/0cxpy0",
+        "lat": 50.083333333,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q3246493",
         "name": "Troine",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpz2"
+        "freebase_id": "/m/0cxpz2",
+        "lat": 50.066666666,
+        "lng": 5.883333333
     },
     {
         "wikidata_id": "Q3246515",
         "name": "Niederwampach",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpvk"
+        "freebase_id": "/m/0cxpvk",
+        "lat": 50.016666666,
+        "lng": 5.85
     },
     {
         "wikidata_id": "Q3246619",
         "name": "Michelbouch",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2q2h"
+        "freebase_id": "/m/0d2q2h",
+        "lat": 49.816666666,
+        "lng": 6.016666666
     },
     {
         "wikidata_id": "Q2899173",
         "name": "Berschbach",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d23pf"
+        "freebase_id": "/m/0d23pf",
+        "lat": 49.75,
+        "lng": 6.116666666
     },
     {
         "wikidata_id": "Q2445562",
         "name": "Tarchamps",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45rl"
+        "freebase_id": "/m/0d45rl",
+        "lat": 49.949444444,
+        "lng": 5.794722222
     },
     {
         "wikidata_id": "Q3247122",
         "name": "Bleesbruck",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwxb2"
+        "freebase_id": "/m/0cwxb2",
+        "lat": 49.8724,
+        "lng": 6.189
     },
     {
         "wikidata_id": "Q3246512",
         "name": "Weidingen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45v0"
+        "freebase_id": "/m/0d45v0",
+        "lat": 49.971666666,
+        "lng": 5.94
     },
     {
         "wikidata_id": "Q2909466",
         "name": "Bollenduerfer Bréck",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cy9zw"
+        "freebase_id": "/m/0cy9zw",
+        "lat": 49.8496,
+        "lng": 6.3581
     },
     {
         "wikidata_id": "Q2984485",
         "name": "Colpach-Haut",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d29vy"
+        "freebase_id": "/m/0d29vy",
+        "lat": 49.766666666,
+        "lng": 5.816666666
     },
     {
         "wikidata_id": "Q2196577",
         "name": "Schlindermanderscheid",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxq6f"
+        "freebase_id": "/m/0cxq6f",
+        "lat": 49.933333333,
+        "lng": 6.066666666
     },
     {
         "wikidata_id": "Q1858106",
         "name": "Lullange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0dcbz5"
+        "freebase_id": "/m/0dcbz5",
+        "lat": 50.066666666,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q1874731",
         "name": "Bour",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0gw6lt"
+        "freebase_id": "/m/0gw6lt",
+        "lat": 49.701388888,
+        "lng": 6.018888888
     },
     {
         "wikidata_id": "Q2023075",
         "name": "Huncherange",
         "description": "section of Bettembourg, Luxembourg",
-        "freebase_id": "/m/0czlww"
+        "freebase_id": "/m/0czlww",
+        "lat": 49.516666666,
+        "lng": 6.066666666
     },
     {
         "wikidata_id": "Q1982041",
         "name": "Kaundorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d45qk"
+        "freebase_id": "/m/0d45qk",
+        "lat": 49.92,
+        "lng": 5.901111111
     },
     {
         "wikidata_id": "Q3075132",
         "name": "Folschette",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d2jl_"
+        "freebase_id": "/m/0d2jl_",
+        "lat": 49.813611111,
+        "lng": 5.873333333
     },
     {
         "wikidata_id": "Q2383961",
         "name": "Goeblange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d6g_b"
+        "freebase_id": "/m/0d6g_b",
+        "lat": 49.669722222,
+        "lng": 5.964722222
     },
     {
         "wikidata_id": "Q2592380",
         "name": "Syren",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwp35"
+        "freebase_id": "/m/0cwp35",
+        "lat": 49.566666666,
+        "lng": 6.216666666
     },
     {
         "wikidata_id": "Q2513485",
         "name": "Hamiville",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpsh"
+        "freebase_id": "/m/0cxpsh",
+        "lat": 50.047388888,
+        "lng": 5.901194444
     },
     {
         "wikidata_id": "Q215826",
         "name": "Grevenmacher",
         "description": "commune in Luxembourg",
-        "freebase_id": "/m/07np8r"
+        "freebase_id": "/m/07np8r",
+        "lat": 49.680555555,
+        "lng": 6.441666666
     },
     {
         "wikidata_id": "Q2238050",
         "name": "Moestroff",
         "description": "village in Bettendorf, Luxembourg",
-        "freebase_id": "/m/0cxp_t"
+        "freebase_id": "/m/0cxp_t",
+        "lat": 49.866666666,
+        "lng": 6.233333333
     },
     {
         "wikidata_id": "Q2387290",
         "name": "Reckange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d23rv"
+        "freebase_id": "/m/0d23rv",
+        "lat": 49.751569444,
+        "lng": 6.085811111
     },
     {
         "wikidata_id": "Q3198234",
         "name": "Koedange",
         "description": "hamlet in Luxembourg",
-        "freebase_id": "/m/0ds36rp"
+        "freebase_id": "/m/0ds36rp",
+        "lat": 49.735277777,
+        "lng": 6.208611111
     },
     {
         "wikidata_id": "Q2131071",
         "name": "Boxhorn",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxpp0"
+        "freebase_id": "/m/0cxpp0",
+        "lat": 50.082715,
+        "lng": 5.992438
     },
     {
         "wikidata_id": "Q2514438",
         "name": "Eppeldorf",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cxq7t"
+        "freebase_id": "/m/0cxq7t",
+        "lat": 49.85,
+        "lng": 6.25
     },
     {
         "wikidata_id": "Q2801334",
         "name": "Siebenaler",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/02x1kfy"
+        "freebase_id": "/m/02x1kfy",
+        "lat": 50.016666666,
+        "lng": 6.033333333
     },
     {
         "wikidata_id": "Q2195042",
         "name": "Übersyren",
         "description": "town in schuttrange",
-        "freebase_id": "/m/0d0n1v"
+        "freebase_id": "/m/0d0n1v",
+        "lat": 49.632,
+        "lng": 6.276
     },
     {
         "wikidata_id": "Q914847",
         "name": "Rumelange",
         "description": "commune in Luxembourg",
-        "freebase_id": "/m/07np07"
+        "freebase_id": "/m/07np07",
+        "lat": 49.459722222,
+        "lng": 6.030555555
     },
     {
         "wikidata_id": "Q2552134",
         "name": "Senningen",
         "description": "small town in Niederanven, Luxembourg",
-        "freebase_id": "/m/0d0mrt"
+        "freebase_id": "/m/0d0mrt",
+        "lat": 49.645833,
+        "lng": 6.239167
     },
     {
         "wikidata_id": "Q1026539",
         "name": "Gosseldange",
         "description": "town",
-        "freebase_id": "/m/0d23b7"
+        "freebase_id": "/m/0d23b7",
+        "lat": 49.733333333,
+        "lng": 6.116666666
     },
     {
         "wikidata_id": "Q1026535",
         "name": "Hellange",
         "description": "town",
-        "freebase_id": "/m/0czm2t"
+        "freebase_id": "/m/0czm2t",
+        "lat": 49.5,
+        "lng": 6.15
     },
     {
         "wikidata_id": "Q1026530",
         "name": "Niederpallen",
         "description": "town",
-        "freebase_id": "/m/0d2p_1"
+        "freebase_id": "/m/0d2p_1",
+        "lat": 49.75,
+        "lng": 5.916666666
     },
     {
         "wikidata_id": "Q2640199",
         "name": "Rollingen",
         "description": "town in Mersch, Luxembourg",
-        "freebase_id": "/m/0d23sw"
+        "freebase_id": "/m/0d23sw",
+        "lat": 49.740019444,
+        "lng": 6.112780555
     },
     {
         "wikidata_id": "Q2690761",
         "name": "Scheidgen",
         "description": "town in the commune of Consdorf, in eastern Luxembourg",
-        "freebase_id": "/m/0cyb4h"
+        "freebase_id": "/m/0cyb4h",
+        "lat": 49.766666666,
+        "lng": 6.366666666
     },
     {
         "wikidata_id": "Q1969566",
         "name": "Hoffelt",
         "description": "town in Wincrange, Luxembourg",
-        "freebase_id": "/m/0cxptj"
+        "freebase_id": "/m/0cxptj",
+        "lat": 50.1,
+        "lng": 5.916666666
     },
     {
         "wikidata_id": "Q2123050",
         "name": "Wilwerdange",
         "description": "town in the commune of Troisvierges, in Luxembourg",
-        "freebase_id": "/m/0cxpjr"
+        "freebase_id": "/m/0cxpjr",
+        "lat": 50.133333333,
+        "lng": 6.016666666
     },
     {
         "wikidata_id": "Q2574685",
         "name": "Gonderange",
         "description": "town in Junglinster, Luxembourg",
-        "freebase_id": "/m/0d08nc"
+        "freebase_id": "/m/0d08nc",
+        "lat": 49.691666666,
+        "lng": 6.249166666
     },
     {
         "wikidata_id": "Q2644202",
         "name": "Noertzange",
         "description": "small town in Luxembourg",
-        "freebase_id": "/m/0cywwd"
+        "freebase_id": "/m/0cywwd",
+        "lat": 49.516666666,
+        "lng": 6.05
     },
     {
         "wikidata_id": "Q1813658",
         "name": "Ospern",
         "description": "No description available",
-        "freebase_id": "/m/0d2p_d"
+        "freebase_id": "/m/0d2p_d",
+        "lat": 49.78,
+        "lng": 5.9
     },
     {
         "wikidata_id": "Q985478",
         "name": "Steinfort",
         "description": "commune in Luxembourg",
-        "freebase_id": "/m/08ghcz"
+        "freebase_id": "/m/08ghcz",
+        "lat": 49.66,
+        "lng": 5.915555555
     },
     {
         "wikidata_id": "Q2183322",
         "name": "Everlange",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d2q02"
+        "freebase_id": "/m/0d2q02",
+        "lat": 49.766666666,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q144260",
         "name": "Alzingen",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d0mb5"
+        "freebase_id": "/m/0d0mb5",
+        "lat": 49.566666666,
+        "lng": 6.166666666
     },
     {
         "wikidata_id": "Q2624283",
         "name": "Niederdonven",
         "description": "town in the commune of Flaxweiler in Luxembourg",
-        "freebase_id": "/m/0d08gs"
+        "freebase_id": "/m/0d08gs",
+        "lat": 49.633333333,
+        "lng": 6.4
     },
     {
         "wikidata_id": "Q2893442",
         "name": "Bech-Kleinmacher",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d3bgr"
+        "freebase_id": "/m/0d3bgr",
+        "lat": 49.533333333,
+        "lng": 6.35
     },
     {
         "wikidata_id": "Q2325885",
         "name": "Moersdorf",
         "description": "town in the commune of Mompach, in eastern Luxembourg",
-        "freebase_id": "/m/0cynt_"
+        "freebase_id": "/m/0cynt_",
+        "lat": 49.745555555,
+        "lng": 6.500555555
     },
     {
         "wikidata_id": "Q13101377",
         "name": "Altmünster Abbey",
         "description": "former Benedictine monastery in Luxembourg City",
-        "freebase_id": "/m/0y628mh"
+        "freebase_id": "/m/0y628mh",
+        "lat": 49.6133,
+        "lng": 6.1424
     },
     {
         "wikidata_id": "Q3058880",
         "name": "Itzig",
         "description": "town in the commune of Hesperange, Luxembourg",
-        "freebase_id": "/m/0d0mfs"
+        "freebase_id": "/m/0d0mfs",
+        "lat": 49.583333333,
+        "lng": 6.166666666
     },
     {
         "wikidata_id": "Q2320701",
         "name": "Wecker",
         "description": "small town in the commune of Biwer, Luxembourg",
-        "freebase_id": "/m/0d08cp"
+        "freebase_id": "/m/0d08cp",
+        "lat": 49.683333333,
+        "lng": 6.383333333
     },
     {
         "wikidata_id": "Q2083907",
         "name": "Helmdange",
         "description": "Town in Luxembourg",
-        "freebase_id": "/m/0d23d9"
+        "freebase_id": "/m/0d23d9",
+        "lat": 49.683333333,
+        "lng": 6.15
     },
     {
         "wikidata_id": "Q879165",
         "name": "Bivange",
         "description": "town in the commune of Roeser, Luxembourg",
-        "freebase_id": "/m/0c_dc6"
+        "freebase_id": "/m/0c_dc6",
+        "lat": 49.55,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q2019553",
         "name": "Kleinbettingen",
         "description": "section of Steinfort, Luxembourg",
-        "freebase_id": "/m/0cx3y6"
+        "freebase_id": "/m/0cx3y6",
+        "lat": 49.645833333,
+        "lng": 5.9155
     },
     {
         "wikidata_id": "Q2896919",
         "name": "Berbourg",
         "description": "small town in Luxembourg",
-        "freebase_id": "/m/0d08rh"
+        "freebase_id": "/m/0d08rh",
+        "lat": 49.733333333,
+        "lng": 6.4
     },
     {
         "wikidata_id": "Q2980663",
         "name": "Eselborn",
         "description": "No description available",
-        "freebase_id": "/m/0dcbg_"
+        "freebase_id": "/m/0dcbg_",
+        "lat": 50.066666666,
+        "lng": 6.0
     },
     {
         "wikidata_id": "Q2392751",
         "name": "Rameldange",
         "description": "town in central Luxembourg",
-        "freebase_id": "/m/0d0mpr"
+        "freebase_id": "/m/0d0mpr",
+        "lat": 49.65,
+        "lng": 6.233333333
     },
     {
         "wikidata_id": "Q2125441",
         "name": "Hovelange",
         "description": "town in Beckerich, Luxembourg",
-        "freebase_id": "/m/0d29p7"
+        "freebase_id": "/m/0d29p7",
+        "lat": 49.721944444,
+        "lng": 5.906388888
     },
     {
         "wikidata_id": "Q1636270",
         "name": "Huldange",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cwx3q"
+        "freebase_id": "/m/0cwx3q",
+        "lat": 50.166666666,
+        "lng": 6.016666666
     },
     {
         "wikidata_id": "Q2193764",
         "name": "Schoenfels",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d23t6"
+        "freebase_id": "/m/0d23t6",
+        "lat": 49.716666666,
+        "lng": 6.1
     },
     {
         "wikidata_id": "Q2702474",
         "name": "Crauthem",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0c_ddl"
+        "freebase_id": "/m/0c_ddl",
+        "lat": 49.533333333,
+        "lng": 6.15
     },
     {
         "wikidata_id": "Q2104959",
         "name": "Moutfort",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d0m8t"
+        "freebase_id": "/m/0d0m8t",
+        "lat": 49.583333333,
+        "lng": 6.25
     },
     {
         "wikidata_id": "Q1026554",
         "name": "Schrassig",
         "description": "town in the commune of Schuttrange, Luxembourg",
-        "freebase_id": "/m/0d0n0g"
+        "freebase_id": "/m/0d0n0g",
+        "lat": 49.609444,
+        "lng": 6.258333
     },
     {
         "wikidata_id": "Q1842",
         "name": "Luxembourg",
         "description": "capital and largest city of Luxembourg",
-        "freebase_id": "/m/0fq8f"
+        "freebase_id": "/m/0fq8f",
+        "lat": 49.610555555,
+        "lng": 6.132777777
     },
     {
         "wikidata_id": "Q1601313",
         "name": "Heisdorf",
         "description": "town in the commune of Steinsel, Luxembourg",
-        "freebase_id": "/m/0d0n3l"
+        "freebase_id": "/m/0d0n3l",
+        "lat": 49.673,
+        "lng": 6.139
     },
     {
         "wikidata_id": "Q2458292",
         "name": "Hunsdorf",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d23dn"
+        "freebase_id": "/m/0d23dn",
+        "lat": 49.7,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q1954674",
         "name": "Kockelscheuer",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0c_df8"
+        "freebase_id": "/m/0c_df8",
+        "lat": 49.566666666,
+        "lng": 6.116666666
     },
     {
         "wikidata_id": "Q16010",
         "name": "Esch-sur-Alzette",
         "description": "city in Luxembourg",
-        "freebase_id": "/m/01kj75"
+        "freebase_id": "/m/01kj75",
+        "lat": 49.496944444,
+        "lng": 5.980555555
     },
     {
         "wikidata_id": "Q1978246",
         "name": "Wormeldange-Haut",
         "description": "No description available",
-        "freebase_id": "/m/0d08tx"
+        "freebase_id": "/m/0d08tx",
+        "lat": 49.610175,
+        "lng": 6.399536111
     },
     {
         "wikidata_id": "Q2906167",
         "name": "Blaschette",
         "description": "town in Lorentzweiler, Luxembourg",
-        "freebase_id": "/m/0d23c8"
+        "freebase_id": "/m/0d23c8",
+        "lat": 49.7,
+        "lng": 6.166666666
     },
     {
         "wikidata_id": "Q746740",
         "name": "Fouhren",
         "description": "town",
-        "freebase_id": "/m/08kmgz"
+        "freebase_id": "/m/08kmgz",
+        "lat": 49.911944,
+        "lng": 6.194722
     },
     {
         "wikidata_id": "Q286909",
         "name": "Ehlange-sur-Mess",
         "description": "town",
-        "freebase_id": "/m/0czm91"
+        "freebase_id": "/m/0czm91",
+        "lat": 49.548055555,
+        "lng": 6.014722222
     },
     {
         "wikidata_id": "Q2609731",
         "name": "Olingen",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d0897"
+        "freebase_id": "/m/0d0897",
+        "lat": 49.683333333,
+        "lng": 6.316666666
     },
     {
         "wikidata_id": "Q3112459",
         "name": "Machtum",
         "description": "No description available",
-        "freebase_id": "/m/0d08tk"
+        "freebase_id": "/m/0d08tk",
+        "lat": 49.65,
+        "lng": 6.433333333
     },
     {
         "wikidata_id": "Q613576",
         "name": "Altwies",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d3b9y"
+        "freebase_id": "/m/0d3b9y",
+        "lat": 49.516666666,
+        "lng": 6.25
     },
     {
         "wikidata_id": "Q2718955",
         "name": "Peppange",
         "description": "town in Roeser, Luxembourg",
-        "freebase_id": "/m/0c_dg_"
+        "freebase_id": "/m/0c_dg_",
+        "lat": 49.516666666,
+        "lng": 6.133333333
     },
     {
         "wikidata_id": "Q2314501",
         "name": "Born",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0cynrl"
+        "freebase_id": "/m/0cynrl",
+        "lat": 49.759444444,
+        "lng": 6.5125
     },
     {
         "wikidata_id": "Q2900171",
         "name": "Bettange-sur-Mess",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0cx3pm"
+        "freebase_id": "/m/0cx3pm",
+        "lat": 49.583333333,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q1016114",
         "name": "Marnach",
         "description": "town",
-        "freebase_id": "/m/04rk5x"
+        "freebase_id": "/m/04rk5x",
+        "lat": 50.053508,
+        "lng": 6.061436
     },
     {
         "wikidata_id": "Q629079",
         "name": "Oetrange",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d0m94"
+        "freebase_id": "/m/0d0m94",
+        "lat": 49.6,
+        "lng": 6.266666666
     },
     {
         "wikidata_id": "Q2584585",
         "name": "Bridel",
         "description": "town in the commune of Kopstal, central Luxembourg",
-        "freebase_id": "/m/0cx3rp"
+        "freebase_id": "/m/0cx3rp",
+        "lat": 49.65,
+        "lng": 6.083333333
     },
     {
         "wikidata_id": "Q798747",
         "name": "Mondorf-les-Bains",
         "description": "municipality of Luxembourg",
-        "freebase_id": "/m/08gg33"
+        "freebase_id": "/m/08gg33",
+        "lat": 49.506944444,
+        "lng": 6.280555555
     },
     {
         "wikidata_id": "Q3111462",
         "name": "Gostingen",
         "description": "village in Luxembourg",
-        "freebase_id": "/m/0d08fd"
+        "freebase_id": "/m/0d08fd",
+        "lat": 49.616666666,
+        "lng": 6.35
     },
     {
         "wikidata_id": "Q2010019",
         "name": "Oberkorn",
         "description": "town in the commune of Differdange in Luxembourg",
-        "freebase_id": "/m/0czm0b"
+        "freebase_id": "/m/0czm0b",
+        "lat": 49.516666666,
+        "lng": 5.9
     },
     {
         "wikidata_id": "Q1993686",
         "name": "Schandel",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d2q13"
+        "freebase_id": "/m/0d2q13",
+        "lat": 49.8,
+        "lng": 5.983333333
     },
     {
         "wikidata_id": "Q1854815",
         "name": "Ehlerange",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0c_dl4"
+        "freebase_id": "/m/0c_dl4",
+        "lat": 49.52,
+        "lng": 5.96
     },
     {
         "wikidata_id": "Q2301509",
         "name": "Hostert",
         "description": "small town in Niederanven, Luxembourg",
-        "freebase_id": "/m/0d0mnc"
+        "freebase_id": "/m/0d0mnc",
+        "lat": 49.657,
+        "lng": 6.233
     },
     {
         "wikidata_id": "Q16012",
         "name": "Differdange",
         "description": "Commune in Luxembourg",
-        "freebase_id": "/m/07nnz2"
+        "freebase_id": "/m/07nnz2",
+        "lat": 49.5222,
+        "lng": 5.8917
     },
     {
         "wikidata_id": "Q1819383",
         "name": "Filsdorf",
         "description": "town in Remich, Luxembourg",
-        "freebase_id": "/m/0d3b8x"
+        "freebase_id": "/m/0d3b8x",
+        "lat": 49.53,
+        "lng": 6.24
     },
     {
         "wikidata_id": "Q5881262",
         "name": "Hollerich-Bonnevoie",
         "description": "Legal name for the then-commune of Hollerich",
-        "freebase_id": "/m/02z19q5"
+        "freebase_id": "/m/02z19q5",
+        "lat": 49.601,
+        "lng": 6.119
     },
     {
         "wikidata_id": "Q618072",
         "name": "Ernster",
         "description": "town in Luxembourg",
-        "freebase_id": "/m/0d0mmp"
+        "freebase_id": "/m/0d0mmp",
+        "lat": 49.683333333,
+        "lng": 6.25
     },
     {
         "wikidata_id": "Q634958",
         "name": "Roodt",
         "description": "town",
-        "freebase_id": "/m/0d29wz"
+        "freebase_id": "/m/0d29wz",
+        "lat": 49.793061111,
+        "lng": 5.821930555
     },
     {
         "wikidata_id": "Q3112439",
         "name": "Rippweiler",
         "description": "small town in Luxembourg",
-        "freebase_id": "/m/0d2q0f"
+        "freebase_id": "/m/0d2q0f",
+        "lat": 49.75,
+        "lng": 5.95
     },
     {
         "wikidata_id": "Q1888973",
         "name": "Godbrange",
         "description": "village in central Luxembourg",
-        "freebase_id": "/m/0d08n0"
+        "freebase_id": "/m/0d08n0",
+        "lat": 49.733333333,
+        "lng": 6.233333333
     },
     {
         "wikidata_id": "Q16014",
         "name": "Dudelange",
         "description": "commune in Luxembourg",
-        "freebase_id": "/m/04rk7c"
+        "freebase_id": "/m/04rk7c",
+        "lat": 49.483333333,
+        "lng": 6.083333333
     },
     {
         "wikidata_id": "Q1895827",
         "name": "Schwebsange",
         "description": "small town in Luxembourg",
-        "freebase_id": "/m/0d3bj3"
+        "freebase_id": "/m/0d3bj3",
+        "lat": 49.516666666,
+        "lng": 6.35
     },
     {
         "wikidata_id": "Q1401816",
         "name": "Hoscheid",
         "description": "town",
-        "freebase_id": "/m/08dss2"
+        "freebase_id": "/m/08dss2",
+        "lat": 49.947222222,
+        "lng": 6.080555555
     },
     {
         "wikidata_id": "Q1017402",
         "name": "Frisange",
         "description": "commune in Esch-sur-Alzette, Luxembourg",
-        "freebase_id": "/m/08gjjt"
+        "freebase_id": "/m/08gjjt",
+        "lat": 49.515,
+        "lng": 6.19167
     },
     {
         "wikidata_id": "Q3112476",
         "name": "Moesdorf",
         "description": "town in Mersch, Luxembourg",
-        "freebase_id": "/m/0d23ps"
+        "freebase_id": "/m/0d23ps",
+        "lat": 49.766666666,
+        "lng": 6.116666666
     }
 ]

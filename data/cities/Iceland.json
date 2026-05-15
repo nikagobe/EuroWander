@@ -3,115 +3,153 @@
         "wikidata_id": "Q5923570",
         "name": "Hraunhreppur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0k28zyw"
+        "freebase_id": "/m/0k28zyw",
+        "lat": 64.698,
+        "lng": -22.042
     },
     {
         "wikidata_id": "Q2133209",
         "name": "Raufarhöfn",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04jmb_2"
+        "freebase_id": "/m/04jmb_2",
+        "lat": 66.45,
+        "lng": -15.95
     },
     {
         "wikidata_id": "Q192898",
         "name": "Selfoss",
         "description": "city in Iceland",
-        "freebase_id": "/m/0g9_9c"
+        "freebase_id": "/m/0g9_9c",
+        "lat": 63.932169444,
+        "lng": -21.000227777
     },
     {
         "wikidata_id": "Q3342356",
         "name": "Njarðvík",
         "description": "town in South Constituency, Iceland",
-        "freebase_id": "/m/04g1y_3"
+        "freebase_id": "/m/04g1y_3",
+        "lat": 63.980833333,
+        "lng": -22.514444444
     },
     {
         "wikidata_id": "Q7596728",
         "name": "Stafholtstungnahreppur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0n4b1m4"
+        "freebase_id": "/m/0n4b1m4",
+        "lat": 64.7667,
+        "lng": -21.65
     },
     {
         "wikidata_id": "Q1584168",
         "name": "Reykholt",
         "description": "village in Western Iceland",
-        "freebase_id": "/m/033sy6"
+        "freebase_id": "/m/033sy6",
+        "lat": 64.666666666,
+        "lng": -21.3
     },
     {
         "wikidata_id": "Q1010183",
         "name": "Kirkjubæjarklaustur",
         "description": "village in Iceland",
-        "freebase_id": "/m/033bct"
+        "freebase_id": "/m/033bct",
+        "lat": 63.766666666,
+        "lng": -18.066666666
     },
     {
         "wikidata_id": "Q276537",
         "name": "Borgarnes",
         "description": "town in Iceland",
-        "freebase_id": "/m/033cfn"
+        "freebase_id": "/m/033cfn",
+        "lat": 64.543055555,
+        "lng": -21.9125
     },
     {
         "wikidata_id": "Q1764",
         "name": "Reykjavík",
         "description": "capital and largest city in Iceland",
-        "freebase_id": "/m/06flg"
+        "freebase_id": "/m/06flg",
+        "lat": 64.1475,
+        "lng": -21.935
     },
     {
         "wikidata_id": "Q176728",
         "name": "Neskaupstaður",
         "description": "city in Iceland",
-        "freebase_id": "/m/05ptbg"
+        "freebase_id": "/m/05ptbg",
+        "lat": 65.150586111,
+        "lng": -13.698969444
     },
     {
         "wikidata_id": "Q103725",
         "name": "Hafnarfjörður",
         "description": "town of Iceland",
-        "freebase_id": "/m/028_ww"
+        "freebase_id": "/m/028_ww",
+        "lat": 64.0671,
+        "lng": -21.93774
     },
     {
         "wikidata_id": "Q292970",
         "name": "Ólafsvík",
         "description": "town in Iceland",
-        "freebase_id": "/m/0342c9"
+        "freebase_id": "/m/0342c9",
+        "lat": 64.894166666,
+        "lng": -23.710833333
     },
     {
         "wikidata_id": "Q3115792",
         "name": "Thingeyri",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/02rq_yx"
+        "freebase_id": "/m/02rq_yx",
+        "lat": 65.879444444,
+        "lng": -23.489166666
     },
     {
         "wikidata_id": "Q804446",
         "name": "Bakkagerði",
         "description": "human settlement",
-        "freebase_id": "/m/04jh3bw"
+        "freebase_id": "/m/04jh3bw",
+        "lat": 65.526111111,
+        "lng": -13.812222222
     },
     {
         "wikidata_id": "Q817118",
         "name": "Höfn",
         "description": "town in Iceland",
-        "freebase_id": "/m/092402"
+        "freebase_id": "/m/092402",
+        "lat": 64.25,
+        "lng": -15.216666666
     },
     {
         "wikidata_id": "Q107398",
         "name": "Akranes",
         "description": "town in Iceland",
-        "freebase_id": "/m/01tnv3"
+        "freebase_id": "/m/01tnv3",
+        "lat": 64.316666666,
+        "lng": -22.1
     },
     {
         "wikidata_id": "Q1602897",
         "name": "Hellissandur",
         "description": "village in Iceland",
-        "freebase_id": "/m/02615py"
+        "freebase_id": "/m/02615py",
+        "lat": 64.915277777,
+        "lng": -23.886111111
     },
     {
         "wikidata_id": "Q7416237",
         "name": "Sandgerðisbót",
         "description": "No description available",
-        "freebase_id": "/m/04y72dw"
+        "freebase_id": "/m/04y72dw",
+        "lat": 65.6946,
+        "lng": -18.1062
     },
     {
         "wikidata_id": "Q2350379",
         "name": "Hjalteyri",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0gw_24t"
+        "freebase_id": "/m/0gw_24t",
+        "lat": 65.851389,
+        "lng": -18.2175
     },
     {
         "wikidata_id": "Q10651603",
@@ -123,307 +161,409 @@
         "wikidata_id": "Q2477627",
         "name": "Rauðilækur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0h3vc6m"
+        "freebase_id": "/m/0h3vc6m",
+        "lat": 63.8475,
+        "lng": -20.4351
     },
     {
         "wikidata_id": "Q2296228",
         "name": "Snæfellsbær",
         "description": "municipality in Iceland",
-        "freebase_id": "/m/03g_fmy"
+        "freebase_id": "/m/03g_fmy",
+        "lat": 64.898,
+        "lng": -23.705
     },
     {
         "wikidata_id": "Q1026867",
         "name": "Reykjahlíð",
         "description": "village",
-        "freebase_id": "/m/033znd"
+        "freebase_id": "/m/033znd",
+        "lat": 65.643611111,
+        "lng": -16.908611111
     },
     {
         "wikidata_id": "Q7534065",
         "name": "Skarð",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04jnqp5"
+        "freebase_id": "/m/04jnqp5",
+        "lat": 64.0049,
+        "lng": -20.095
     },
     {
         "wikidata_id": "Q1019455",
         "name": "Hólar",
         "description": "populated place in Iceland",
-        "freebase_id": "/m/04w0sh"
+        "freebase_id": "/m/04w0sh",
+        "lat": 65.731944444,
+        "lng": -19.113611111
     },
     {
         "wikidata_id": "Q1019443",
         "name": "Reyðarfjörður",
         "description": "town in Iceland",
-        "freebase_id": "/m/091gzq"
+        "freebase_id": "/m/091gzq",
+        "lat": 65.032630555,
+        "lng": -14.220130555
     },
     {
         "wikidata_id": "Q1019466",
         "name": "Sandgerði",
         "description": "municipality in Southern Peninsula, Iceland",
-        "freebase_id": "/m/03g_q4t"
+        "freebase_id": "/m/03g_q4t",
+        "lat": 64.037222222,
+        "lng": -22.702094444
     },
     {
         "wikidata_id": "Q1019452",
         "name": "Stykkishólmur",
         "description": "town in Iceland",
-        "freebase_id": "/m/033zy5"
+        "freebase_id": "/m/033zy5",
+        "lat": 65.075,
+        "lng": -22.725
     },
     {
         "wikidata_id": "Q891664",
         "name": "Bolungarvík",
         "description": "town in Westfjords, Iceland",
-        "freebase_id": "/m/058lpx"
+        "freebase_id": "/m/058lpx",
+        "lat": 66.1575,
+        "lng": -23.250833333
     },
     {
         "wikidata_id": "Q1019448",
         "name": "Vogar",
         "description": "small town in Iceland",
-        "freebase_id": "/m/04lls7"
+        "freebase_id": "/m/04lls7",
+        "lat": 63.981666666,
+        "lng": -22.384722222
     },
     {
         "wikidata_id": "Q213707",
         "name": "Grímsey",
         "description": "human settlement",
-        "freebase_id": "/m/04mk0m"
+        "freebase_id": "/m/04mk0m",
+        "lat": 66.54647955,
+        "lng": -18.004950727
     },
     {
         "wikidata_id": "Q1020276",
         "name": "Búðardalur",
         "description": "village in Iceland",
-        "freebase_id": "/m/033c93"
+        "freebase_id": "/m/033c93",
+        "lat": 65.1081658,
+        "lng": -21.7678836
     },
     {
         "wikidata_id": "Q29042",
         "name": "Akureyri",
         "description": "town in Iceland",
-        "freebase_id": "/m/0pqtf"
+        "freebase_id": "/m/0pqtf",
+        "lat": 65.68353,
+        "lng": -18.0878
     },
     {
         "wikidata_id": "Q2196757",
         "name": "Eyrarbakki",
         "description": "village in South Constituency, Iceland",
-        "freebase_id": "/m/05r14f"
+        "freebase_id": "/m/05r14f",
+        "lat": 63.8753,
+        "lng": -21.149417
     },
     {
         "wikidata_id": "Q1020278",
         "name": "Búðir",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04jhmqs"
+        "freebase_id": "/m/04jhmqs",
+        "lat": 64.8333,
+        "lng": -23.55
     },
     {
         "wikidata_id": "Q2911415",
         "name": "Borðeyri",
         "description": "village in Northwest Constituency, Iceland",
-        "freebase_id": "/m/04jlm26"
+        "freebase_id": "/m/04jlm26",
+        "lat": 65.285833,
+        "lng": -21.265278
     },
     {
         "wikidata_id": "Q2458886",
         "name": "Drangsnes",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0hgqv6y"
+        "freebase_id": "/m/0hgqv6y",
+        "lat": 65.690194,
+        "lng": -21.436414
     },
     {
         "wikidata_id": "Q1639538",
         "name": "Hvammstangi",
         "description": "city",
-        "freebase_id": "/m/09243t"
+        "freebase_id": "/m/09243t",
+        "lat": 65.3972,
+        "lng": -20.9438
     },
     {
         "wikidata_id": "Q944111",
         "name": "Súðavík",
         "description": "settlement in Iceland",
-        "freebase_id": "/m/025_6sl"
+        "freebase_id": "/m/025_6sl",
+        "lat": 66.05,
+        "lng": -23.0
     },
     {
         "wikidata_id": "Q4945017",
         "name": "Borgarhreppur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0k29l3n"
+        "freebase_id": "/m/0k29l3n",
+        "lat": 64.621,
+        "lng": -21.827
     },
     {
         "wikidata_id": "Q1337557",
         "name": "Tálknafjörður",
         "description": "village in Westfjords, Iceland",
-        "freebase_id": "/m/047m528"
+        "freebase_id": "/m/047m528",
+        "lat": 65.62648,
+        "lng": -23.8246
     },
     {
         "wikidata_id": "Q1623305",
         "name": "Hofsós",
         "description": "human settlement",
-        "freebase_id": "/m/0gffc8"
+        "freebase_id": "/m/0gffc8",
+        "lat": 65.9,
+        "lng": -19.433333
     },
     {
         "wikidata_id": "Q2294429",
         "name": "Stokkseyri",
         "description": "town in South Constituency, Iceland",
-        "freebase_id": "/m/027kdn1"
+        "freebase_id": "/m/027kdn1",
+        "lat": 63.835555555,
+        "lng": -21.050555555
     },
     {
         "wikidata_id": "Q5876510",
         "name": "Hof",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04jmchl"
+        "freebase_id": "/m/04jmchl",
+        "lat": 63.906666666,
+        "lng": -16.707222222
     },
     {
         "wikidata_id": "Q5873595",
         "name": "Hlíðar",
         "description": "district in Reykjavík, Iceland",
-        "freebase_id": "/m/0h_bw_y"
+        "freebase_id": "/m/0h_bw_y",
+        "lat": 64.13444444,
+        "lng": -21.91888889
     },
     {
         "wikidata_id": "Q2786513",
         "name": "Reykhólar",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04f1ccf"
+        "freebase_id": "/m/04f1ccf",
+        "lat": 65.44611111,
+        "lng": -22.20805556
     },
     {
         "wikidata_id": "Q783984",
         "name": "Austur-Skaftafellssýsla",
         "description": "city",
-        "freebase_id": "/m/0803jz_"
+        "freebase_id": "/m/0803jz_",
+        "lat": 64.25,
+        "lng": -16.0
     },
     {
         "wikidata_id": "Q3066377",
         "name": "Hrafnagil",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/02r39_5"
+        "freebase_id": "/m/02r39_5",
+        "lat": 65.583333,
+        "lng": -18.066667
     },
     {
         "wikidata_id": "Q773682",
         "name": "Fáskrúðsfjörður",
         "description": "town in Northeast Constituency, Iceland",
-        "freebase_id": "/m/0gh7rch"
+        "freebase_id": "/m/0gh7rch",
+        "lat": 64.93128,
+        "lng": -14.0189
     },
     {
         "wikidata_id": "Q893528",
         "name": "Borgarbyggð",
         "description": "municipality of Iceland",
-        "freebase_id": "/m/03qkszg"
+        "freebase_id": "/m/03qkszg",
+        "lat": 64.616666666,
+        "lng": -21.7
     },
     {
         "wikidata_id": "Q427371",
         "name": "Borgarfjörður Eystri",
         "description": "human settlement",
-        "freebase_id": "/m/0c3zbrx"
+        "freebase_id": "/m/0c3zbrx",
+        "lat": 65.5425,
+        "lng": -13.7814
     },
     {
         "wikidata_id": "Q472822",
         "name": "Grindavík",
         "description": "town in Iceland",
-        "freebase_id": "/m/033d38"
+        "freebase_id": "/m/033d38",
+        "lat": 63.841283333,
+        "lng": -22.437105555
     },
     {
         "wikidata_id": "Q170693",
         "name": "Keflavík",
         "description": "town in Iceland",
-        "freebase_id": "/m/04df2"
+        "freebase_id": "/m/04df2",
+        "lat": 64.001143,
+        "lng": -22.553322
     },
     {
         "wikidata_id": "Q61940445",
         "name": "Mjóifjörður",
         "description": "village in Northeast Constituency, Iceland",
-        "freebase_id": "/m/0922r5"
+        "freebase_id": "/m/0922r5",
+        "lat": 65.2037,
+        "lng": -13.7955
     },
     {
         "wikidata_id": "Q6453178",
         "name": "Kálfafell",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04jm5_k"
+        "freebase_id": "/m/04jm5_k",
+        "lat": 64.18142287,
+        "lng": -15.892686943
     },
     {
         "wikidata_id": "Q591322",
         "name": "Hauganes",
         "description": "human settlement",
-        "freebase_id": "/m/02ppczq"
+        "freebase_id": "/m/02ppczq",
+        "lat": 65.916666666,
+        "lng": -18.3
     },
     {
         "wikidata_id": "Q939109",
         "name": "Bíldudalur",
         "description": "village in Iceland",
-        "freebase_id": "/m/09240h"
+        "freebase_id": "/m/09240h",
+        "lat": 65.683055555,
+        "lng": -23.630555555
     },
     {
         "wikidata_id": "Q1025701",
         "name": "Hveragerðisbær",
         "description": "Municipality of Iceland",
-        "freebase_id": "/m/0318k_"
+        "freebase_id": "/m/0318k_",
+        "lat": 64.0,
+        "lng": -21.2
     },
     {
         "wikidata_id": "Q3481229",
         "name": "Norðurmýri",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0pqrh"
+        "freebase_id": "/m/0pqrh",
+        "lat": 64.139166666,
+        "lng": -21.919166666
     },
     {
         "wikidata_id": "Q1887662",
         "name": "Siglufjörður",
         "description": "town in Northeast Constituency, Iceland",
-        "freebase_id": "/m/01szbf"
+        "freebase_id": "/m/01szbf",
+        "lat": 66.151944444,
+        "lng": -18.908055555
     },
     {
         "wikidata_id": "Q210293",
         "name": "Reykholt",
         "description": "village in Southern Iceland",
-        "freebase_id": "/m/0w1fjx7"
+        "freebase_id": "/m/0w1fjx7",
+        "lat": 64.15,
+        "lng": -19.81666667
     },
     {
         "wikidata_id": "Q2297162",
         "name": "Patreksfjörður",
         "description": "village in Northwest Constituency, Iceland",
-        "freebase_id": "/m/04f2qgd"
+        "freebase_id": "/m/04f2qgd",
+        "lat": 65.59783,
+        "lng": -23.99596
     },
     {
         "wikidata_id": "Q7535468",
         "name": "Skinnastadur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/04jh9x6"
+        "freebase_id": "/m/04jh9x6",
+        "lat": 66.066666666,
+        "lng": -16.433333333
     },
     {
         "wikidata_id": "Q7915994",
         "name": "Varmaland",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0cmc5zb"
+        "freebase_id": "/m/0cmc5zb",
+        "lat": 64.6884,
+        "lng": -21.5961
     },
     {
         "wikidata_id": "Q3480382",
         "name": "Munkaþverá",
         "description": "Monastery in the town of Munkaþverá (Iceland)",
-        "freebase_id": "/m/026czmx"
+        "freebase_id": "/m/026czmx",
+        "lat": 65.54551,
+        "lng": -18.08268
     },
     {
         "wikidata_id": "Q607127",
         "name": "Suðureyri",
         "description": "human settlement",
-        "freebase_id": "/m/04f6bzm"
+        "freebase_id": "/m/04f6bzm",
+        "lat": 66.116666666,
+        "lng": -23.533333333
     },
     {
         "wikidata_id": "Q15199532",
         "name": "Bjarkalundur",
         "description": "No description available",
-        "freebase_id": "/m/0w5nqkt"
+        "freebase_id": "/m/0w5nqkt",
+        "lat": 65.93333333,
+        "lng": -22.16666667
     },
     {
         "wikidata_id": "Q985810",
         "name": "Skógar",
         "description": "town in Iceland",
-        "freebase_id": "/m/033c7y"
+        "freebase_id": "/m/033c7y",
+        "lat": 63.524722222,
+        "lng": -19.506944444
     },
     {
         "wikidata_id": "Q831718",
         "name": "Sauðárkrókur",
         "description": "town in Iceland; seat of Sveitarfélagið Skagafjörður; capital of Northwestern Region",
-        "freebase_id": "/m/04979v"
+        "freebase_id": "/m/04979v",
+        "lat": 65.746111111,
+        "lng": -19.639444444
     },
     {
         "wikidata_id": "Q14453",
         "name": "Egilsstaðir",
         "description": "town in Iceland",
-        "freebase_id": "/m/03drjd"
+        "freebase_id": "/m/03drjd",
+        "lat": 65.26666667,
+        "lng": -14.4
     },
     {
         "wikidata_id": "Q256512",
         "name": "Djúpavík",
         "description": "human settlement",
-        "freebase_id": "/m/03c06m9"
+        "freebase_id": "/m/03c06m9",
+        "lat": 65.944722222,
+        "lng": -21.556944444
     },
     {
         "wikidata_id": "Q3480825",
@@ -435,270 +575,360 @@
         "wikidata_id": "Q2427727",
         "name": "Stöðvarfjörður",
         "description": "village in Northeast Constituency, Iceland",
-        "freebase_id": "/m/091k59"
+        "freebase_id": "/m/091k59",
+        "lat": 64.833333333,
+        "lng": -13.873888888
     },
     {
         "wikidata_id": "Q938046",
         "name": "Hvolsvöllur",
         "description": "city in Iceland",
-        "freebase_id": "/m/033cz4"
+        "freebase_id": "/m/033cz4",
+        "lat": 63.749722222,
+        "lng": -20.233888888
     },
     {
         "wikidata_id": "Q3481814",
         "name": "Nauthólsvík",
         "description": "neighbourhood in Reykjavík with a geothermal beach",
-        "freebase_id": "/m/099vr4"
+        "freebase_id": "/m/099vr4",
+        "lat": 64.1212,
+        "lng": -21.9285
     },
     {
         "wikidata_id": "Q2292590",
         "name": "Hólmavík",
         "description": "town in Iceland",
-        "freebase_id": "/m/0b9bfh"
+        "freebase_id": "/m/0b9bfh",
+        "lat": 65.706388888,
+        "lng": -21.670277777
     },
     {
         "wikidata_id": "Q2924383",
         "name": "Breiðdalsvík",
         "description": "village in Northeast Constituency, Iceland",
-        "freebase_id": "/m/03t5y9"
+        "freebase_id": "/m/03t5y9",
+        "lat": 64.796667,
+        "lng": -14.008333
     },
     {
         "wikidata_id": "Q886944",
         "name": "Bláskógabyggð",
         "description": "municipality of Iceland",
-        "freebase_id": "/m/03g_ydn"
+        "freebase_id": "/m/03g_ydn",
+        "lat": 64.2764,
+        "lng": -20.4009
     },
     {
         "wikidata_id": "Q933640",
         "name": "Kópasker",
         "description": "human settlement",
-        "freebase_id": "/m/04jdg24"
+        "freebase_id": "/m/04jdg24",
+        "lat": 66.3,
+        "lng": -16.45
     },
     {
         "wikidata_id": "Q1678433",
         "name": "Sólheimar Ecovillage",
         "description": "human settlement",
-        "freebase_id": "/m/080b460"
+        "freebase_id": "/m/080b460",
+        "lat": 64.06849444,
+        "lng": -20.64307222
     },
     {
         "wikidata_id": "Q925686",
         "name": "Vopnafjörður",
         "description": "municipality in Eastern Region, Iceland",
-        "freebase_id": "/m/09247f"
+        "freebase_id": "/m/09247f",
+        "lat": 65.75,
+        "lng": -14.85
     },
     {
         "wikidata_id": "Q7061695",
         "name": "Norðurárdalshreppur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0n4b7by"
+        "freebase_id": "/m/0n4b7by",
+        "lat": 64.866667,
+        "lng": -21.25
     },
     {
         "wikidata_id": "Q2509222",
         "name": "Vallanes",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/064lzjc"
+        "freebase_id": "/m/064lzjc",
+        "lat": 65.2,
+        "lng": -14.55
     },
     {
         "wikidata_id": "Q2902079",
         "name": "Bifröst",
         "description": "small settlement in western Iceland",
-        "freebase_id": "/m/03gw31g"
+        "freebase_id": "/m/03gw31g",
+        "lat": 64.766388888,
+        "lng": -21.5525
     },
     {
         "wikidata_id": "Q923224",
         "name": "Þórshöfn",
         "description": "human settlement",
-        "freebase_id": "/m/08x8qr"
+        "freebase_id": "/m/08x8qr",
+        "lat": 66.2,
+        "lng": -15.333333333
     },
     {
         "wikidata_id": "Q1602650",
         "name": "Hella",
         "description": "city in Iceland",
-        "freebase_id": "/m/033cg1"
+        "freebase_id": "/m/033cg1",
+        "lat": 63.8348,
+        "lng": -20.40084
     },
     {
         "wikidata_id": "Q168683",
         "name": "Flúðir",
         "description": "human settlement",
-        "freebase_id": "/m/02rtsz3"
+        "freebase_id": "/m/02rtsz3",
+        "lat": 64.133,
+        "lng": -20.333
     },
     {
         "wikidata_id": "Q139045",
         "name": "Álftanes",
         "description": "town, former municipality on the same-named low-lying peninsula in Greater Reykjavík Area, Iceland",
-        "freebase_id": "/m/08pxz6"
+        "freebase_id": "/m/08pxz6",
+        "lat": 64.107222222,
+        "lng": -22.016388888
     },
     {
         "wikidata_id": "Q1427337",
         "name": "Flateyri",
         "description": "human settlement",
-        "freebase_id": "/m/0gbg36"
+        "freebase_id": "/m/0gbg36",
+        "lat": 66.05,
+        "lng": -23.516666666
     },
     {
         "wikidata_id": "Q922058",
         "name": "Bakkafjörður",
         "description": "human settlement",
-        "freebase_id": "/m/09pll5"
+        "freebase_id": "/m/09pll5",
+        "lat": 66.033333333,
+        "lng": -14.8
     },
     {
         "wikidata_id": "Q615213",
         "name": "Ólafsfjörður",
         "description": "village in Iceland",
-        "freebase_id": "/m/07ghsm"
+        "freebase_id": "/m/07ghsm",
+        "lat": 66.071466666,
+        "lng": -18.653833333
     },
     {
         "wikidata_id": "Q2393994",
         "name": "Laugardælir",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/03m66s4"
+        "freebase_id": "/m/03m66s4",
+        "lat": 63.95,
+        "lng": -20.966667
     },
     {
         "wikidata_id": "Q1366915",
         "name": "Hellnar",
         "description": "human settlement",
-        "freebase_id": "/m/0cmd8ry"
+        "freebase_id": "/m/0cmd8ry",
+        "lat": 64.75,
+        "lng": -23.65
     },
     {
         "wikidata_id": "Q623557",
         "name": "Seyðisfjörður",
         "description": "town in Iceland",
-        "freebase_id": "/m/066x9d"
+        "freebase_id": "/m/066x9d",
+        "lat": 65.26008,
+        "lng": -14.00577
     },
     {
         "wikidata_id": "Q214057",
         "name": "Seltjarnarnes",
         "description": "municipality in Capital Region, Iceland",
-        "freebase_id": "/m/0b9b2z"
+        "freebase_id": "/m/0b9b2z",
+        "lat": 64.154166666,
+        "lng": -22.0
     },
     {
         "wikidata_id": "Q3481804",
         "name": "Kjalarnes",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0283hhr"
+        "freebase_id": "/m/0283hhr",
+        "lat": 64.2406,
+        "lng": -21.8364
     },
     {
         "wikidata_id": "Q163852",
         "name": "Kópavogsbær",
         "description": "city of Iceland",
-        "freebase_id": "/m/02lvqf"
+        "freebase_id": "/m/02lvqf",
+        "lat": 64.111944444,
+        "lng": -21.9
     },
     {
         "wikidata_id": "Q1240428",
         "name": "Skagaströnd",
         "description": "village in Northwestern Region, Iceland",
-        "freebase_id": "/m/09xrqs"
+        "freebase_id": "/m/09xrqs",
+        "lat": 65.82319,
+        "lng": -20.30248
     },
     {
         "wikidata_id": "Q921052",
         "name": "Dalvík",
         "description": "town",
-        "freebase_id": "/m/02545j"
+        "freebase_id": "/m/02545j",
+        "lat": 65.972527777,
+        "lng": -18.533480555
     },
     {
         "wikidata_id": "Q1727215",
         "name": "Reykhólahreppur",
         "description": "municipality of Iceland",
-        "freebase_id": "/m/0czbjz0"
+        "freebase_id": "/m/0czbjz0",
+        "lat": 65.446111111,
+        "lng": -22.208055555
     },
     {
         "wikidata_id": "Q1568128",
         "name": "Hafnir",
         "description": "human settlement",
-        "freebase_id": "/m/0h689_0"
+        "freebase_id": "/m/0h689_0",
+        "lat": 63.932777777,
+        "lng": -22.696111111
     },
     {
         "wikidata_id": "Q6529399",
         "name": "Svalbarðseyri",
         "description": "village in Iceland",
-        "freebase_id": "/m/0hgpqrr"
+        "freebase_id": "/m/0hgpqrr",
+        "lat": 65.746111111,
+        "lng": -18.081111111
     },
     {
         "wikidata_id": "Q1429016",
         "name": "Fljótshlíð",
         "description": "human settlement",
-        "freebase_id": "/m/0bs6fm0"
+        "freebase_id": "/m/0bs6fm0",
+        "lat": 63.72648,
+        "lng": -19.93745
     },
     {
         "wikidata_id": "Q493735",
         "name": "Möðrudalur",
         "description": "human settlement",
-        "freebase_id": "/m/0gh6n1b"
+        "freebase_id": "/m/0gh6n1b",
+        "lat": 65.376944444,
+        "lng": -15.879722222
     },
     {
         "wikidata_id": "Q2412862",
         "name": "Hnífsdalur",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0h_f7yd"
+        "freebase_id": "/m/0h_f7yd",
+        "lat": 66.111667,
+        "lng": -23.134167
     },
     {
         "wikidata_id": "Q13636963",
         "name": "Hvítárholt",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/0rfdw31"
+        "freebase_id": "/m/0rfdw31",
+        "lat": 64.147754,
+        "lng": -20.364289
     },
     {
         "wikidata_id": "Q774048",
         "name": "Arnarstapi",
         "description": "human settlement",
-        "freebase_id": "/m/0ch2hjs"
+        "freebase_id": "/m/0ch2hjs",
+        "lat": 64.76988333,
+        "lng": -23.62232222
     },
     {
         "wikidata_id": "Q887147",
         "name": "Blönduós",
         "description": "Town on northern shore of Iceland",
-        "freebase_id": "/m/07q4r9"
+        "freebase_id": "/m/07q4r9",
+        "lat": 65.666666666,
+        "lng": -20.3
     },
     {
         "wikidata_id": "Q4981921",
         "name": "Brú",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/03gw478"
+        "freebase_id": "/m/03gw478",
+        "lat": 65.11,
+        "lng": -21.0968
     },
     {
         "wikidata_id": "Q765521",
         "name": "Eskifjörður",
         "description": "city",
-        "freebase_id": "/m/02scwgb"
+        "freebase_id": "/m/02scwgb",
+        "lat": 65.072638888,
+        "lng": -14.016669444
     },
     {
         "wikidata_id": "Q419691",
         "name": "Varmahlíð",
         "description": "human settlement",
-        "freebase_id": "/m/03n1hw"
+        "freebase_id": "/m/03n1hw",
+        "lat": 65.5525,
+        "lng": -19.4449
     },
     {
         "wikidata_id": "Q335596",
         "name": "Þorlákshöfn",
         "description": "town in Iceland",
-        "freebase_id": "/m/0747rx"
+        "freebase_id": "/m/0747rx",
+        "lat": 63.85,
+        "lng": -21.366666666
     },
     {
         "wikidata_id": "Q186142",
         "name": "Garðabær",
         "description": "town in Iceland",
-        "freebase_id": "/m/03f9rc"
+        "freebase_id": "/m/03f9rc",
+        "lat": 64.090194,
+        "lng": -21.926357
     },
     {
         "wikidata_id": "Q106896",
         "name": "Ísafjörður",
         "description": "town in Iceland",
-        "freebase_id": "/m/08hg6c"
+        "freebase_id": "/m/08hg6c",
+        "lat": 66.073777777,
+        "lng": -23.141719444
     },
     {
         "wikidata_id": "Q1232324",
         "name": "Djúpivogur",
         "description": "human settlement",
-        "freebase_id": "/m/04jdmp7"
+        "freebase_id": "/m/04jdmp7",
+        "lat": 64.658611111,
+        "lng": -14.283055555
     },
     {
         "wikidata_id": "Q685369",
         "name": "Vík í Mýrdal",
         "description": "human settlement in Iceland",
-        "freebase_id": "/m/033bqk"
+        "freebase_id": "/m/033bqk",
+        "lat": 63.419444444,
+        "lng": -19.009722222
     },
     {
         "wikidata_id": "Q219417",
         "name": "Húsavík",
         "description": "town in Iceland",
-        "freebase_id": "/m/033c61"
+        "freebase_id": "/m/033c61",
+        "lat": 66.043888888,
+        "lng": -17.341666666
     }
 ]

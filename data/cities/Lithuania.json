@@ -3,1369 +3,1825 @@
         "wikidata_id": "Q2681231",
         "name": "Čedasai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq1zv9"
+        "freebase_id": "/m/0fq1zv9",
+        "lat": 56.1031,
+        "lng": 25.4169
     },
     {
         "wikidata_id": "Q1846876",
         "name": "Saločiai",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/0fq2bcv"
+        "freebase_id": "/m/0fq2bcv",
+        "lat": 56.22777778,
+        "lng": 24.41666667
     },
     {
         "wikidata_id": "Q1010326",
         "name": "Panoteriai",
         "description": "town",
-        "freebase_id": "/m/064pm_q"
+        "freebase_id": "/m/064pm_q",
+        "lat": 55.1975,
+        "lng": 24.431111111
     },
     {
         "wikidata_id": "Q393828",
         "name": "Žemaičių Naumiestis",
         "description": "human settlement",
-        "freebase_id": "/m/0fq18d5"
+        "freebase_id": "/m/0fq18d5",
+        "lat": 55.358055555,
+        "lng": 21.7
     },
     {
         "wikidata_id": "Q2638355",
         "name": "Nerimdaičiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7qmsy"
+        "freebase_id": "/m/0h7qmsy",
+        "lat": 56.08305556,
+        "lng": 22.40611111
     },
     {
         "wikidata_id": "Q145508",
         "name": "Preila",
         "description": "human settlement",
-        "freebase_id": "/m/012ccft0"
+        "freebase_id": "/m/012ccft0",
+        "lat": 55.37291944,
+        "lng": 21.06435
     },
     {
         "wikidata_id": "Q707539",
         "name": "Vilna Ghetto",
         "description": "Nazi ghetto in occupied Lithuania",
-        "freebase_id": "/m/099n5t"
+        "freebase_id": "/m/099n5t",
+        "lat": 54.683333333,
+        "lng": 25.316666666
     },
     {
         "wikidata_id": "Q391011",
         "name": "Šalčininkai",
         "description": "city",
-        "freebase_id": "/m/05pc_f"
+        "freebase_id": "/m/05pc_f",
+        "lat": 54.311111111,
+        "lng": 25.380555555
     },
     {
         "wikidata_id": "Q2890008",
         "name": "Gruzdžiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064qjk8"
+        "freebase_id": "/m/064qjk8",
+        "lat": 56.1,
+        "lng": 23.252777777
     },
     {
         "wikidata_id": "Q2012305",
         "name": "Rudamina",
         "description": "small town in Lazdijai District, Lithuania",
-        "freebase_id": "/m/064mmnq"
+        "freebase_id": "/m/064mmnq",
+        "lat": 54.28833,
+        "lng": 23.45167
     },
     {
         "wikidata_id": "Q2356089",
         "name": "Pašušvys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064k5rt"
+        "freebase_id": "/m/064k5rt",
+        "lat": 55.583333333,
+        "lng": 23.591666666
     },
     {
         "wikidata_id": "Q2032600",
         "name": "Karklėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064qlp0"
+        "freebase_id": "/m/064qlp0",
+        "lat": 55.655555555,
+        "lng": 22.569444444
     },
     {
         "wikidata_id": "Q2318590",
         "name": "Kaltanėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gk_kwx"
+        "freebase_id": "/m/0gk_kwx",
+        "lat": 55.256111111,
+        "lng": 25.988888888
     },
     {
         "wikidata_id": "Q1775811",
         "name": "Pažaislis Monastery",
         "description": "monastery complex in Lithuania",
-        "freebase_id": "/m/09bmmn"
+        "freebase_id": "/m/09bmmn",
+        "lat": 54.876,
+        "lng": 24.022
     },
     {
         "wikidata_id": "Q393950",
         "name": "Židikai",
         "description": "human settlement in Samogitia",
-        "freebase_id": "/m/0gwvc8"
+        "freebase_id": "/m/0gwvc8",
+        "lat": 56.320819444,
+        "lng": 22.012277777
     },
     {
         "wikidata_id": "Q19840876",
         "name": "Švenčionys Ghetto",
         "description": "Nazi ghetto in occupied Lithuania",
-        "freebase_id": "/m/0130wvrz"
+        "freebase_id": "/m/0130wvrz",
+        "lat": 55.15,
+        "lng": 26.166666666
     },
     {
         "wikidata_id": "Q391595",
         "name": "Šiluva",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/06cf9r"
+        "freebase_id": "/m/06cf9r",
+        "lat": 55.530555555,
+        "lng": 23.225
     },
     {
         "wikidata_id": "Q392854",
         "name": "Šėta",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064mkd5"
+        "freebase_id": "/m/064mkd5",
+        "lat": 55.280556,
+        "lng": 24.252778
     },
     {
         "wikidata_id": "Q137863",
         "name": "Švenčionys",
         "description": "city of Lithuania",
-        "freebase_id": "/m/0cqlvl"
+        "freebase_id": "/m/0cqlvl",
+        "lat": 55.133333333,
+        "lng": 26.155555555
     },
     {
         "wikidata_id": "Q700112",
         "name": "Kovno Ghetto",
         "description": "Nazi ghetto in occupied Lithuania",
-        "freebase_id": "/m/08xzmr"
+        "freebase_id": "/m/08xzmr",
+        "lat": 54.9,
+        "lng": 23.9
     },
     {
         "wikidata_id": "Q2378501",
         "name": "Sidabravas",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064pppp"
+        "freebase_id": "/m/064pppp",
+        "lat": 55.696944444,
+        "lng": 23.93
     },
     {
         "wikidata_id": "Q2491485",
         "name": "Andrioniškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bxz1gv"
+        "freebase_id": "/m/0bxz1gv",
+        "lat": 55.59722222,
+        "lng": 25.04444444
     },
     {
         "wikidata_id": "Q27892",
         "name": "Neringa",
         "description": "town in Lithuania",
-        "freebase_id": "/m/01s35v"
+        "freebase_id": "/m/01s35v",
+        "lat": 55.5,
+        "lng": 21.1
     },
     {
         "wikidata_id": "Q318686",
         "name": "Radviliškis",
         "description": "city in Lithuania",
-        "freebase_id": "/m/06_s7m"
+        "freebase_id": "/m/06_s7m",
+        "lat": 55.8,
+        "lng": 23.55
     },
     {
         "wikidata_id": "Q2068196",
         "name": "Rimšė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/06zlf6h"
+        "freebase_id": "/m/06zlf6h",
+        "lat": 55.522222222,
+        "lng": 26.444444444
     },
     {
         "wikidata_id": "Q708092",
         "name": "Aukštieji Paneriai",
         "description": "suburb of Vilnius and site of the Ponary massacre",
-        "freebase_id": "/m/02cqpq"
+        "freebase_id": "/m/02cqpq",
+        "lat": 54.6356,
+        "lng": 25.1917
     },
     {
         "wikidata_id": "Q2796128",
         "name": "Lyduvėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064mnwk"
+        "freebase_id": "/m/064mnwk",
+        "lat": 55.508333333,
+        "lng": 23.083333333
     },
     {
         "wikidata_id": "Q647876",
         "name": "Kurtuvėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064qv64"
+        "freebase_id": "/m/064qv64",
+        "lat": 55.830555555,
+        "lng": 23.05
     },
     {
         "wikidata_id": "Q2842342",
         "name": "Žarėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7lfxc"
+        "freebase_id": "/m/0h7lfxc",
+        "lat": 55.8389,
+        "lng": 22.2028
     },
     {
         "wikidata_id": "Q2356406",
         "name": "Dūkštas",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0ghkvg"
+        "freebase_id": "/m/0ghkvg",
+        "lat": 55.516666666,
+        "lng": 26.316666666
     },
     {
         "wikidata_id": "Q2277462",
         "name": "Eržvilkas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0cmcjjy"
+        "freebase_id": "/m/0cmcjjy",
+        "lat": 55.26388889,
+        "lng": 22.70833333
     },
     {
         "wikidata_id": "Q945484",
         "name": "Pasvalys",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0b8486"
+        "freebase_id": "/m/0b8486",
+        "lat": 56.061111111,
+        "lng": 24.4
     },
     {
         "wikidata_id": "Q1646619",
         "name": "Lazdynai",
         "description": "neighborhood in Lithuania, Vilnius City",
-        "freebase_id": "/m/05mtzdn"
+        "freebase_id": "/m/05mtzdn",
+        "lat": 54.667777777,
+        "lng": 25.203055555
     },
     {
         "wikidata_id": "Q391582",
         "name": "Šilalė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g3hxb"
+        "freebase_id": "/m/0g3hxb",
+        "lat": 55.491666666,
+        "lng": 22.183333333
     },
     {
         "wikidata_id": "Q391764",
         "name": "Širvintos",
         "description": "town in Lithuania",
-        "freebase_id": "/m/02r81x"
+        "freebase_id": "/m/02r81x",
+        "lat": 55.05,
+        "lng": 24.95
     },
     {
         "wikidata_id": "Q1949593",
         "name": "Mosėdis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/06t_vh"
+        "freebase_id": "/m/06t_vh",
+        "lat": 56.163066666,
+        "lng": 21.578769444
     },
     {
         "wikidata_id": "Q2219752",
         "name": "Nevarėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7qnpz"
+        "freebase_id": "/m/0h7qnpz",
+        "lat": 56.11111111,
+        "lng": 22.28305556
     },
     {
         "wikidata_id": "Q2180691",
         "name": "Leliūnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7m95f"
+        "freebase_id": "/m/0h7m95f",
+        "lat": 55.475,
+        "lng": 25.4
     },
     {
         "wikidata_id": "Q2202098",
         "name": "Senasis Subačius",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq0kmb"
+        "freebase_id": "/m/0fq0kmb",
+        "lat": 55.73611111,
+        "lng": 24.78055556
     },
     {
         "wikidata_id": "Q3087708",
         "name": "Pašvitinys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064lhzq"
+        "freebase_id": "/m/064lhzq",
+        "lat": 56.161111111,
+        "lng": 23.816666666
     },
     {
         "wikidata_id": "Q2523980",
         "name": "Zapyškis",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/064n0x5"
+        "freebase_id": "/m/064n0x5",
+        "lat": 54.925,
+        "lng": 23.65
     },
     {
         "wikidata_id": "Q1921325",
         "name": "Duokiškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq2gkd"
+        "freebase_id": "/m/0fq2gkd",
+        "lat": 55.73888889,
+        "lng": 25.525
     },
     {
         "wikidata_id": "Q1514004",
         "name": "Karoliniškės",
         "description": "neighborhood in Vilnius, Lithuania",
-        "freebase_id": "/m/0d4rw1"
+        "freebase_id": "/m/0d4rw1",
+        "lat": 54.69,
+        "lng": 25.220555555
     },
     {
         "wikidata_id": "Q2048260",
         "name": "Bartninkai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0fp_t4n"
+        "freebase_id": "/m/0fp_t4n",
+        "lat": 54.50111111,
+        "lng": 23.02555556
     },
     {
         "wikidata_id": "Q1871220",
         "name": "Lukšiai",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/0fp_nz7"
+        "freebase_id": "/m/0fp_nz7",
+        "lat": 54.95,
+        "lng": 23.17
     },
     {
         "wikidata_id": "Q1023852",
         "name": "Vištytis",
         "description": "town in Lithuania",
-        "freebase_id": "/m/02gw46"
+        "freebase_id": "/m/02gw46",
+        "lat": 54.455555555,
+        "lng": 22.719444444
     },
     {
         "wikidata_id": "Q2602739",
         "name": "Miežiškiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq2h8v"
+        "freebase_id": "/m/0fq2h8v",
+        "lat": 55.675,
+        "lng": 24.53333333
     },
     {
         "wikidata_id": "Q2506903",
         "name": "Bagaslaviškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gk_p5j"
+        "freebase_id": "/m/0gk_p5j",
+        "lat": 55.07194444,
+        "lng": 24.76694444
     },
     {
         "wikidata_id": "Q2676835",
         "name": "Gadūnavas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7ppfl"
+        "freebase_id": "/m/0h7ppfl",
+        "lat": 56.06388889,
+        "lng": 22.21111111
     },
     {
         "wikidata_id": "Q1961545",
         "name": "Kamajai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/02718kd"
+        "freebase_id": "/m/02718kd",
+        "lat": 55.816666666,
+        "lng": 25.5
     },
     {
         "wikidata_id": "Q394756",
         "name": "Seda",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0gg77_"
+        "freebase_id": "/m/0gg77_",
+        "lat": 56.163888888,
+        "lng": 22.094444444
     },
     {
         "wikidata_id": "Q3068575",
         "name": "Giedraičiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/026n33h"
+        "freebase_id": "/m/026n33h",
+        "lat": 55.077777777,
+        "lng": 25.258333333
     },
     {
         "wikidata_id": "Q2603461",
         "name": "Žvaigždžiakalnis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gg8tkj"
+        "freebase_id": "/m/0gg8tkj",
+        "lat": 55.291944444,
+        "lng": 25.65
     },
     {
         "wikidata_id": "Q2281467",
         "name": "Luokė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7qltr"
+        "freebase_id": "/m/0h7qltr",
+        "lat": 55.89388889,
+        "lng": 22.525
     },
     {
         "wikidata_id": "Q735138",
         "name": "Kėdainiai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/03gmj4"
+        "freebase_id": "/m/03gmj4",
+        "lat": 55.283333333,
+        "lng": 23.966666666
     },
     {
         "wikidata_id": "Q7178718",
         "name": "Petrašiūnai",
         "description": "neighborhood of Kaunas, Lithuania",
-        "freebase_id": "/m/03c0v7h"
+        "freebase_id": "/m/03c0v7h",
+        "lat": 56.03333333,
+        "lng": 23.95
     },
     {
         "wikidata_id": "Q2153886",
         "name": "Čekiškė",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/064lsk9"
+        "freebase_id": "/m/064lsk9",
+        "lat": 55.158333333,
+        "lng": 23.525
     },
     {
         "wikidata_id": "Q2236454",
         "name": "Užpaliai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7mfdq"
+        "freebase_id": "/m/0h7mfdq",
+        "lat": 55.633333333,
+        "lng": 25.583333333
     },
     {
         "wikidata_id": "Q2337369",
         "name": "Mickūnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bwmcxs"
+        "freebase_id": "/m/0bwmcxs",
+        "lat": 54.70277778,
+        "lng": 25.51111111
     },
     {
         "wikidata_id": "Q2692069",
         "name": "Batakiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0cm982s"
+        "freebase_id": "/m/0cm982s",
+        "lat": 55.35277778,
+        "lng": 22.51111111
     },
     {
         "wikidata_id": "Q2577081",
         "name": "Vilkpėdė",
         "description": "eldership in Vilnius County, Lithuania",
-        "freebase_id": "/m/0h9837_"
+        "freebase_id": "/m/0h9837_",
+        "lat": 54.66888889,
+        "lng": 25.24805556
     },
     {
         "wikidata_id": "Q1953179",
         "name": "Suvainiškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq06h0"
+        "freebase_id": "/m/0fq06h0",
+        "lat": 56.1528,
+        "lng": 25.2806
     },
     {
         "wikidata_id": "Q2014575",
         "name": "Vidiškiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gk_dws"
+        "freebase_id": "/m/0gk_dws",
+        "lat": 55.3081,
+        "lng": 24.8639
     },
     {
         "wikidata_id": "Q1260423",
         "name": "Justiniškės",
         "description": "eldership in Lithuania",
-        "freebase_id": "/m/0b51pz"
+        "freebase_id": "/m/0b51pz",
+        "lat": 54.716666666,
+        "lng": 25.216666666
     },
     {
         "wikidata_id": "Q835856",
         "name": "Kuršėnai",
         "description": "Kuršėnai is a city in northwestern Lithuania, Šiauliai County, Šiauliai district municipality.",
-        "freebase_id": "/m/09mn7x"
+        "freebase_id": "/m/09mn7x",
+        "lat": 56.0,
+        "lng": 22.933333333
     },
     {
         "wikidata_id": "Q2875399",
         "name": "Vandžiogala",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064pzwt"
+        "freebase_id": "/m/064pzwt",
+        "lat": 55.119444444,
+        "lng": 23.961111111
     },
     {
         "wikidata_id": "Q2037259",
         "name": "Nemakščiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064lgvd"
+        "freebase_id": "/m/064lgvd",
+        "lat": 55.430555555,
+        "lng": 22.769444444
     },
     {
         "wikidata_id": "Q1839003",
         "name": "Kriūkai",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/0fq13g2"
+        "freebase_id": "/m/0fq13g2",
+        "lat": 55.06388889,
+        "lng": 23.39722222
     },
     {
         "wikidata_id": "Q1961665",
         "name": "Sasnava",
         "description": "litte town in Lithuania",
-        "freebase_id": "/m/0fq0nx1"
+        "freebase_id": "/m/0fq0nx1",
+        "lat": 54.64722222,
+        "lng": 23.46111111
     },
     {
         "wikidata_id": "Q1894830",
         "name": "Smiltynė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/04t_sv"
+        "freebase_id": "/m/04t_sv",
+        "lat": 55.706111111,
+        "lng": 21.111111111
     },
     {
         "wikidata_id": "Q598119",
         "name": "Rykantai",
         "description": "human settlement",
-        "freebase_id": "/m/03c0zc6"
+        "freebase_id": "/m/03c0zc6",
+        "lat": 54.716666666,
+        "lng": 24.983333333
     },
     {
         "wikidata_id": "Q2869148",
         "name": "Akademija",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/0dd8y50"
+        "freebase_id": "/m/0dd8y50",
+        "lat": 54.89444444,
+        "lng": 23.83611111
     },
     {
         "wikidata_id": "Q2243888",
         "name": "Šimkaičiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0cm7yqn"
+        "freebase_id": "/m/0cm7yqn",
+        "lat": 55.2333,
+        "lng": 23.0
     },
     {
         "wikidata_id": "Q2488773",
         "name": "Pašilė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bs69x_"
+        "freebase_id": "/m/0bs69x_",
+        "lat": 55.60833333,
+        "lng": 22.53611111
     },
     {
         "wikidata_id": "Q2455066",
         "name": "Šeškinė",
         "description": "neighborhood of Vilnius, Lithuania",
-        "freebase_id": "/m/09p5vl"
+        "freebase_id": "/m/09p5vl",
+        "lat": 54.71,
+        "lng": 25.250833333
     },
     {
         "wikidata_id": "Q2026687",
         "name": "Verkiai",
         "description": "eldership in Lithuania",
-        "freebase_id": "/m/0ggz8v"
+        "freebase_id": "/m/0ggz8v",
+        "lat": 54.753055555,
+        "lng": 25.298055555
     },
     {
         "wikidata_id": "Q2771185",
         "name": "Lekėčiai",
         "description": "litte town in Lithuania",
-        "freebase_id": "/m/0fp_6y6"
+        "freebase_id": "/m/0fp_6y6",
+        "lat": 54.98333333,
+        "lng": 23.5
     },
     {
         "wikidata_id": "Q1810033",
         "name": "Barstyčiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq1fby"
+        "freebase_id": "/m/0fq1fby",
+        "lat": 56.160552777,
+        "lng": 21.867458333
     },
     {
         "wikidata_id": "Q1734094",
         "name": "Karmėlava",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/064ky1w"
+        "freebase_id": "/m/064ky1w",
+        "lat": 54.972222222,
+        "lng": 24.066666666
     },
     {
         "wikidata_id": "Q1972915",
         "name": "Žaiginys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064kcg9"
+        "freebase_id": "/m/064kcg9",
+        "lat": 55.491666666,
+        "lng": 23.333333333
     },
     {
         "wikidata_id": "Q2462174",
         "name": "Žalpiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064jtqr"
+        "freebase_id": "/m/064jtqr",
+        "lat": 55.483333333,
+        "lng": 22.861111111
     },
     {
         "wikidata_id": "Q2924771",
         "name": "Panemunėlis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq1l0c"
+        "freebase_id": "/m/0fq1l0c",
+        "lat": 55.91388889,
+        "lng": 25.45
     },
     {
         "wikidata_id": "Q2581287",
         "name": "Žvingiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7nn94"
+        "freebase_id": "/m/0h7nn94",
+        "lat": 55.4,
+        "lng": 22.0169
     },
     {
         "wikidata_id": "Q3000723",
         "name": "Kretingalė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq0brt"
+        "freebase_id": "/m/0fq0brt",
+        "lat": 55.83611111,
+        "lng": 21.18611111
     },
     {
         "wikidata_id": "Q1594489",
         "name": "Merkinė",
         "description": "small town in Alytus County, Lithuania",
-        "freebase_id": "/m/06nvl5"
+        "freebase_id": "/m/06nvl5",
+        "lat": 54.163888888,
+        "lng": 24.186111111
     },
     {
         "wikidata_id": "Q2471043",
         "name": "Pabirze",
         "description": "Lithuanian village",
-        "freebase_id": "/m/0fq2x02"
+        "freebase_id": "/m/0fq2x02",
+        "lat": 56.18888889,
+        "lng": 24.64166667
     },
     {
         "wikidata_id": "Q2548176",
         "name": "Semeliškės",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gky8y6"
+        "freebase_id": "/m/0gky8y6",
+        "lat": 54.666666666,
+        "lng": 24.658333333
     },
     {
         "wikidata_id": "Q1334853",
         "name": "Surviliškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064jy3h"
+        "freebase_id": "/m/064jy3h",
+        "lat": 55.45,
+        "lng": 24.033333333
     },
     {
         "wikidata_id": "Q3068317",
         "name": "Kupreliškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0c3xb_2"
+        "freebase_id": "/m/0c3xb_2",
+        "lat": 56.03888889,
+        "lng": 24.96666667
     },
     {
         "wikidata_id": "Q2137430",
         "name": "Nemunėlio Radviliškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0c3vf0w"
+        "freebase_id": "/m/0c3vf0w",
+        "lat": 56.39722222,
+        "lng": 24.77222222
     },
     {
         "wikidata_id": "Q2191590",
         "name": "Veiviržėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq3b5q"
+        "freebase_id": "/m/0fq3b5q",
+        "lat": 55.6031,
+        "lng": 21.5919
     },
     {
         "wikidata_id": "Q1853799",
         "name": "Tverečius",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0ds6f9c"
+        "freebase_id": "/m/0ds6f9c",
+        "lat": 55.311111,
+        "lng": 26.597222
     },
     {
         "wikidata_id": "Q2436073",
         "name": "Leipalingis",
         "description": "little city in Lithuania",
-        "freebase_id": "/m/064lk2c"
+        "freebase_id": "/m/064lk2c",
+        "lat": 54.086111111,
+        "lng": 23.861111111
     },
     {
         "wikidata_id": "Q6757289",
         "name": "Marcinkonys Ghetto",
         "description": "Nazi ghetto in occupied Lithuania",
-        "freebase_id": "/m/082vsk"
+        "freebase_id": "/m/082vsk",
+        "lat": 54.06111111,
+        "lng": 24.4
     },
     {
         "wikidata_id": "Q1693963",
         "name": "Rokiškis",
         "description": "city in northeastern Lithuania",
-        "freebase_id": "/m/072rtt"
+        "freebase_id": "/m/072rtt",
+        "lat": 55.966666666,
+        "lng": 25.583333333
     },
     {
         "wikidata_id": "Q935042",
         "name": "Griškabūdis",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/0fq0wlx"
+        "freebase_id": "/m/0fq0wlx",
+        "lat": 54.85,
+        "lng": 23.166666666
     },
     {
         "wikidata_id": "Q820024",
         "name": "Kupiškis",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0fvj4t"
+        "freebase_id": "/m/0fvj4t",
+        "lat": 55.83333,
+        "lng": 24.96667
     },
     {
         "wikidata_id": "Q2157268",
         "name": "Jūžintai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fp_glr"
+        "freebase_id": "/m/0fp_glr",
+        "lat": 55.775,
+        "lng": 25.675
     },
     {
         "wikidata_id": "Q2463396",
         "name": "Žygaičiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq22x3"
+        "freebase_id": "/m/0fq22x3",
+        "lat": 55.3139,
+        "lng": 22.0306
     },
     {
         "wikidata_id": "Q1656462",
         "name": "Linkuva",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0g9dw3"
+        "freebase_id": "/m/0g9dw3",
+        "lat": 56.083333333,
+        "lng": 23.966666666
     },
     {
         "wikidata_id": "Q2585174",
         "name": "Kvėdarna",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0cm95z6"
+        "freebase_id": "/m/0cm95z6",
+        "lat": 55.55555556,
+        "lng": 22.0
     },
     {
         "wikidata_id": "Q2614763",
         "name": "Endriejavas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq04q2"
+        "freebase_id": "/m/0fq04q2",
+        "lat": 55.69722222,
+        "lng": 21.72222222
     },
     {
         "wikidata_id": "Q2667459",
         "name": "Aukštadvaris",
         "description": "town in Trakai district municipality in Lithuania",
-        "freebase_id": "/m/06ndgp"
+        "freebase_id": "/m/06ndgp",
+        "lat": 54.580555555,
+        "lng": 24.527777777
     },
     {
         "wikidata_id": "Q304217",
         "name": "Krinčinas",
         "description": "human settlement",
-        "freebase_id": "/m/0fq03sx"
+        "freebase_id": "/m/0fq03sx",
+        "lat": 56.08333333,
+        "lng": 24.525
     },
     {
         "wikidata_id": "Q2044605",
         "name": "Dusetos",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0gg7s7"
+        "freebase_id": "/m/0gg7s7",
+        "lat": 55.75,
+        "lng": 25.85
     },
     {
         "wikidata_id": "Q1025885",
         "name": "Raudonė",
         "description": "town on the Nemunas River in Tauragė County, Lithuania",
-        "freebase_id": "/m/0bb8n5"
+        "freebase_id": "/m/0bb8n5",
+        "lat": 55.09972222,
+        "lng": 23.1325
     },
     {
         "wikidata_id": "Q734122",
         "name": "Kapčiamiestis",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/03bz71h"
+        "freebase_id": "/m/03bz71h",
+        "lat": 54.0,
+        "lng": 23.658333333
     },
     {
         "wikidata_id": "Q2360191",
         "name": "Šaukėnai",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/064mf0l"
+        "freebase_id": "/m/064mf0l",
+        "lat": 55.811111111,
+        "lng": 22.883333333
     },
     {
         "wikidata_id": "Q923393",
         "name": "Lentvaris",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g0l5z"
+        "freebase_id": "/m/0g0l5z",
+        "lat": 54.633333333,
+        "lng": 25.05
     },
     {
         "wikidata_id": "Q1939758",
         "name": "Rusnė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/08f6rh"
+        "freebase_id": "/m/08f6rh",
+        "lat": 55.29722222,
+        "lng": 21.37777778
     },
     {
         "wikidata_id": "Q5349180",
         "name": "Eiguliai",
         "description": "eldership in Kaunas County, Lithuania",
-        "freebase_id": "/m/0gxvrd"
+        "freebase_id": "/m/0gxvrd",
+        "lat": 54.93133,
+        "lng": 23.93243
     },
     {
         "wikidata_id": "Q4993840",
         "name": "Belmontas",
         "description": "suburb of Vilnius, Lithuania",
-        "freebase_id": "/m/0_x72w_"
+        "freebase_id": "/m/0_x72w_",
+        "lat": 54.6811,
+        "lng": 25.3211
     },
     {
         "wikidata_id": "Q2000579",
         "name": "Vabalninkas",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0gdtq1"
+        "freebase_id": "/m/0gdtq1",
+        "lat": 55.983333333,
+        "lng": 24.75
     },
     {
         "wikidata_id": "Q691679",
         "name": "Želva",
         "description": "community in Lithuania",
-        "freebase_id": "/m/0gkxv74"
+        "freebase_id": "/m/0gkxv74",
+        "lat": 55.2189,
+        "lng": 25.0969
     },
     {
         "wikidata_id": "Q225581",
         "name": "Pervalka",
         "description": "small settlement on the Curonian Spit, Neringa Municipality, Klaipėda County, Lithuania",
-        "freebase_id": "/m/012cchtv"
+        "freebase_id": "/m/012cchtv",
+        "lat": 55.41472222,
+        "lng": 21.0975
     },
     {
         "wikidata_id": "Q1890290",
         "name": "Akademija, Kėdainiai",
         "description": "little town in Lithuania",
-        "freebase_id": "/m/0ch16s7"
+        "freebase_id": "/m/0ch16s7",
+        "lat": 55.39722222,
+        "lng": 23.86111111
     },
     {
         "wikidata_id": "Q2375635",
         "name": "Vaškai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq03t7"
+        "freebase_id": "/m/0fq03t7",
+        "lat": 56.1694,
+        "lng": 24.2111
     },
     {
         "wikidata_id": "Q847715",
         "name": "Joniškis",
         "description": "city in northern Lithuania",
-        "freebase_id": "/m/039qr0"
+        "freebase_id": "/m/039qr0",
+        "lat": 56.233333333,
+        "lng": 23.616666666
     },
     {
         "wikidata_id": "Q1023044",
         "name": "Akmenė",
         "description": "city",
-        "freebase_id": "/m/039qtm"
+        "freebase_id": "/m/039qtm",
+        "lat": 56.25,
+        "lng": 22.75
     },
     {
         "wikidata_id": "Q2248234",
         "name": "Darbėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq17hj"
+        "freebase_id": "/m/0fq17hj",
+        "lat": 56.02222222,
+        "lng": 21.25833333
     },
     {
         "wikidata_id": "Q2466123",
         "name": "Šventežeris",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/064ky5_"
+        "freebase_id": "/m/064ky5_",
+        "lat": 54.238888888,
+        "lng": 23.641666666
     },
     {
         "wikidata_id": "Q2853956",
         "name": "Janapolė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7pqfm"
+        "freebase_id": "/m/0h7pqfm",
+        "lat": 55.81388889,
+        "lng": 22.38305556
     },
     {
         "wikidata_id": "Q2568876",
         "name": "Gaurė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0cm84_y"
+        "freebase_id": "/m/0cm84_y",
+        "lat": 55.24166667,
+        "lng": 22.475
     },
     {
         "wikidata_id": "Q2106807",
         "name": "Pociūnėliai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064nh6z"
+        "freebase_id": "/m/064nh6z",
+        "lat": 55.569444444,
+        "lng": 23.869444444
     },
     {
         "wikidata_id": "Q1306335",
         "name": "Marijampolė Free Economic Zone",
         "description": "No description available",
-        "freebase_id": "/m/012hpfsp"
+        "freebase_id": "/m/012hpfsp",
+        "lat": 55.6833,
+        "lng": 21.1833
     },
     {
         "wikidata_id": "Q977255",
         "name": "Plungė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/05x5qt"
+        "freebase_id": "/m/05x5qt",
+        "lat": 55.916666666,
+        "lng": 21.85
     },
     {
         "wikidata_id": "Q956320",
         "name": "Vilkyškiai",
         "description": "human settlement",
-        "freebase_id": "/m/0fq0h92"
+        "freebase_id": "/m/0fq0h92",
+        "lat": 55.1194,
+        "lng": 22.1306
     },
     {
         "wikidata_id": "Q2378647",
         "name": "Ubiškė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7ldph"
+        "freebase_id": "/m/0h7ldph",
+        "lat": 55.9861,
+        "lng": 22.5
     },
     {
         "wikidata_id": "Q1004290",
         "name": "Skuodas",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0b7gx0"
+        "freebase_id": "/m/0b7gx0",
+        "lat": 56.266666666,
+        "lng": 21.533333333
     },
     {
         "wikidata_id": "Q1811561",
         "name": "Seirijai",
         "description": "little town in Dzūkija, Lithuania",
-        "freebase_id": "/m/064qvz5"
+        "freebase_id": "/m/064qvz5",
+        "lat": 54.230555555,
+        "lng": 23.813888888
     },
     {
         "wikidata_id": "Q2615865",
         "name": "Šiauliai Ghetto",
         "description": "Nazi ghetto in occupied Lithuania",
-        "freebase_id": "/m/0jl0vnx"
+        "freebase_id": "/m/0jl0vnx",
+        "lat": 55.9266,
+        "lng": 23.326
     },
     {
         "wikidata_id": "Q975804",
         "name": "Zibalai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gkzc71"
+        "freebase_id": "/m/0gkzc71",
+        "lat": 55.2189,
+        "lng": 25.0969
     },
     {
         "wikidata_id": "Q2188101",
         "name": "Eigirdžiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7pnfd"
+        "freebase_id": "/m/0h7pnfd",
+        "lat": 56.00805556,
+        "lng": 22.36888889
     },
     {
         "wikidata_id": "Q1812412",
         "name": "Vadžgirys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fp_qk9"
+        "freebase_id": "/m/0fp_qk9",
+        "lat": 55.2528,
+        "lng": 22.9194
     },
     {
         "wikidata_id": "Q6314474",
         "name": "Juodupė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/03c28rp"
+        "freebase_id": "/m/03c28rp",
+        "lat": 56.088888888,
+        "lng": 25.611111111
     },
     {
         "wikidata_id": "Q1845764",
         "name": "Palėvenė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq20fb"
+        "freebase_id": "/m/0fq20fb",
+        "lat": 55.83333333,
+        "lng": 24.90277778
     },
     {
         "wikidata_id": "Q2425657",
         "name": "Kuktiškės",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7m81l"
+        "freebase_id": "/m/0h7m81l",
+        "lat": 55.39388889,
+        "lng": 25.67805556
     },
     {
         "wikidata_id": "Q5227984",
         "name": "Daukšiai",
         "description": "small town in Suvalkija, Lithuania",
-        "freebase_id": "/m/0j9q6wj"
+        "freebase_id": "/m/0j9q6wj",
+        "lat": 54.5,
+        "lng": 23.58333333
     },
     {
         "wikidata_id": "Q7130845",
         "name": "Panemunė",
         "description": "suburb of Kaunas, Lithuania",
-        "freebase_id": "/m/03c0v1n"
+        "freebase_id": "/m/03c0v1n",
+        "lat": 54.86111111,
+        "lng": 23.96388889
     },
     {
         "wikidata_id": "Q391491",
         "name": "Šeštokai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/056f3z5"
+        "freebase_id": "/m/056f3z5",
+        "lat": 54.366666666,
+        "lng": 23.433333333
     },
     {
         "wikidata_id": "Q1251216",
         "name": "Dotnuva",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0d9yrq"
+        "freebase_id": "/m/0d9yrq",
+        "lat": 55.366666666,
+        "lng": 23.883333333
     },
     {
         "wikidata_id": "Q2356376",
         "name": "Kavarskas",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0b7ghd"
+        "freebase_id": "/m/0b7ghd",
+        "lat": 55.433333333,
+        "lng": 24.927777777
     },
     {
         "wikidata_id": "Q584733",
         "name": "Mielagėnai",
         "description": "human settlement",
-        "freebase_id": "/m/0ds1n68"
+        "freebase_id": "/m/0ds1n68",
+        "lat": 55.25833333,
+        "lng": 26.43888889
     },
     {
         "wikidata_id": "Q2551696",
         "name": "Pušalotas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq1vmt"
+        "freebase_id": "/m/0fq1vmt",
+        "lat": 55.93333333,
+        "lng": 24.24444444
     },
     {
         "wikidata_id": "Q304740",
         "name": "Igliauka",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0j9lpfk"
+        "freebase_id": "/m/0j9lpfk",
+        "lat": 54.57194444,
+        "lng": 23.65305556
     },
     {
         "wikidata_id": "Q2325589",
         "name": "Šunskai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0fq0fhx"
+        "freebase_id": "/m/0fq0fhx",
+        "lat": 54.6417,
+        "lng": 23.325
     },
     {
         "wikidata_id": "Q643884",
         "name": "Geležiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq2rrj"
+        "freebase_id": "/m/0fq2rrj",
+        "lat": 55.84166667,
+        "lng": 24.7
     },
     {
         "wikidata_id": "Q2198670",
         "name": "Lapės",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064qh2_"
+        "freebase_id": "/m/064qh2_",
+        "lat": 54.977777777,
+        "lng": 24.011111111
     },
     {
         "wikidata_id": "Q1850320",
         "name": "Naujininkai",
         "description": "eldership in Lithuania",
-        "freebase_id": "/m/02z4_7v"
+        "freebase_id": "/m/02z4_7v",
+        "lat": 54.633333333,
+        "lng": 25.25
     },
     {
         "wikidata_id": "Q2313295",
         "name": "Katyčiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq145_"
+        "freebase_id": "/m/0fq145_",
+        "lat": 55.28888889,
+        "lng": 21.82777778
     },
     {
         "wikidata_id": "Q8082771",
         "name": "Šešuoliai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gh64x4"
+        "freebase_id": "/m/0gh64x4",
+        "lat": 55.1781,
+        "lng": 24.9719
     },
     {
         "wikidata_id": "Q4701479",
         "name": "Aknystos",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bx_8rf"
+        "freebase_id": "/m/0bx_8rf",
+        "lat": 55.58333333,
+        "lng": 25.36388889
     },
     {
         "wikidata_id": "Q3114651",
         "name": "Senoji Varėna",
         "description": "village in Lithuania",
-        "freebase_id": "/m/04gm4g0"
+        "freebase_id": "/m/04gm4g0",
+        "lat": 54.25,
+        "lng": 24.55
     },
     {
         "wikidata_id": "Q570649",
         "name": "Antakalnis",
         "description": "eldership in Vilnius, Lithuania",
-        "freebase_id": "/m/0gp761"
+        "freebase_id": "/m/0gp761",
+        "lat": 54.756666666,
+        "lng": 25.3675
     },
     {
         "wikidata_id": "Q394349",
         "name": "Žvėrynas",
         "description": "neighborhood of Vilnius",
-        "freebase_id": "/m/0c5j7m"
+        "freebase_id": "/m/0c5j7m",
+        "lat": 54.692222222,
+        "lng": 25.25
     },
     {
         "wikidata_id": "Q571900",
         "name": "Skirsnemunė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0cjlqy"
+        "freebase_id": "/m/0cjlqy",
+        "lat": 55.1,
+        "lng": 22.9
     },
     {
         "wikidata_id": "Q6466761",
         "name": "Labanoras",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0g55jcr"
+        "freebase_id": "/m/0g55jcr",
+        "lat": 55.26666667,
+        "lng": 25.77222222
     },
     {
         "wikidata_id": "Q391552",
         "name": "Šilai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwm517"
+        "freebase_id": "/m/0bwm517",
+        "lat": 55.492507,
+        "lng": 24.606327
     },
     {
         "wikidata_id": "Q5731454",
         "name": "Turmantas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/026f8pd"
+        "freebase_id": "/m/026f8pd",
+        "lat": 55.693888888,
+        "lng": 26.461111111
     },
     {
         "wikidata_id": "Q5732330",
         "name": "Pabaiskas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/025x9_g"
+        "freebase_id": "/m/025x9_g",
+        "lat": 55.16666667,
+        "lng": 24.76666667
     },
     {
         "wikidata_id": "Q6381966",
         "name": "Kašėtų gyvenvietės",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bwlwlj"
+        "freebase_id": "/m/0bwlwlj",
+        "lat": 54.08388889,
+        "lng": 24.60055556
     },
     {
         "wikidata_id": "Q3500114",
         "name": "Domeikava",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0g9wdwh"
+        "freebase_id": "/m/0g9wdwh",
+        "lat": 54.96666667,
+        "lng": 23.91666667
     },
     {
         "wikidata_id": "Q3500109",
         "name": "Šventybrastis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0fq0nxr"
+        "freebase_id": "/m/0fq0nxr",
+        "lat": 55.4228,
+        "lng": 24.0528
     },
     {
         "wikidata_id": "Q3500119",
         "name": "Laižuva",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7qhxr"
+        "freebase_id": "/m/0h7qhxr",
+        "lat": 56.38111111,
+        "lng": 22.56111111
     },
     {
         "wikidata_id": "Q3500125",
         "name": "Seredžius",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/08j07j"
+        "freebase_id": "/m/08j07j",
+        "lat": 55.083333333,
+        "lng": 23.416666666
     },
     {
         "wikidata_id": "Q3517145",
         "name": "Šimonys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq249v"
+        "freebase_id": "/m/0fq249v",
+        "lat": 55.7389,
+        "lng": 25.1439
     },
     {
         "wikidata_id": "Q2212797",
         "name": "Žasliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/064m97q"
+        "freebase_id": "/m/064m97q",
+        "lat": 54.866666666,
+        "lng": 24.588888888
     },
     {
         "wikidata_id": "Q6275583",
         "name": "Jonionių gyvenvietės",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bwggkt"
+        "freebase_id": "/m/0bwggkt",
+        "lat": 54.15833333,
+        "lng": 24.11944444
     },
     {
         "wikidata_id": "Q5247239",
         "name": "Naujamiestis, Panevėžys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fp_xfd"
+        "freebase_id": "/m/0fp_xfd",
+        "lat": 55.686111111,
+        "lng": 24.15
     },
     {
         "wikidata_id": "Q394093",
         "name": "Žirmūnai",
         "description": "neighborhood of Vilnius",
-        "freebase_id": "/m/0ggzby"
+        "freebase_id": "/m/0ggzby",
+        "lat": 54.72451483,
+        "lng": 25.30947483
     },
     {
         "wikidata_id": "Q2573951",
         "name": "Šnipiškės",
         "description": "neighborhood of Vilnius",
-        "freebase_id": "/m/09qr04"
+        "freebase_id": "/m/09qr04",
+        "lat": 54.7,
+        "lng": 25.283333333
     },
     {
         "wikidata_id": "Q5245383",
         "name": "Smilgiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq30g5"
+        "freebase_id": "/m/0fq30g5",
+        "lat": 55.80277778,
+        "lng": 24.01666667
     },
     {
         "wikidata_id": "Q747228",
         "name": "Ožkabaliai I",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0hn89gc"
+        "freebase_id": "/m/0hn89gc",
+        "lat": 54.49694444,
+        "lng": 22.99305556
     },
     {
         "wikidata_id": "Q4882020",
         "name": "Belazariškiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/04yh74h"
+        "freebase_id": "/m/04yh74h",
+        "lat": 55.261944444,
+        "lng": 24.475833333
     },
     {
         "wikidata_id": "Q8079792",
         "name": "Čiulai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0glptqk"
+        "freebase_id": "/m/0glptqk",
+        "lat": 55.23305556,
+        "lng": 25.63805556
     },
     {
         "wikidata_id": "Q2035013",
         "name": "Kena",
         "description": "village in Lithuania",
-        "freebase_id": "/m/05lfzh"
+        "freebase_id": "/m/05lfzh",
+        "lat": 54.647222,
+        "lng": 25.619444
     },
     {
         "wikidata_id": "Q2477916",
         "name": "Pirčiupiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/03ns8cp"
+        "freebase_id": "/m/03ns8cp",
+        "lat": 54.4,
+        "lng": 24.95
     },
     {
         "wikidata_id": "Q1023872",
         "name": "Raudondvaris",
         "description": "village in Lithuania",
-        "freebase_id": "/m/08j02b"
+        "freebase_id": "/m/08j02b",
+        "lat": 54.943055555,
+        "lng": 23.783333333
     },
     {
         "wikidata_id": "Q3918705",
         "name": "Daujėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq0xhh"
+        "freebase_id": "/m/0fq0xhh",
+        "lat": 55.975,
+        "lng": 24.51944444
     },
     {
         "wikidata_id": "Q9352779",
         "name": "Šilai, Panevėžys",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0134qzzr"
+        "freebase_id": "/m/0134qzzr",
+        "lat": 55.4919,
+        "lng": 24.6081
     },
     {
         "wikidata_id": "Q10992274",
         "name": "Ąžuolynas",
         "description": "Oak wood park in Kaunas, Lithuania",
-        "freebase_id": "/m/03c0x40"
+        "freebase_id": "/m/03c0x40",
+        "lat": 54.8994,
+        "lng": 23.9447
     },
     {
         "wikidata_id": "Q2047414",
         "name": "Palanga",
         "description": "resort town in Lithuania",
-        "freebase_id": "/m/06kbcp"
+        "freebase_id": "/m/06kbcp",
+        "lat": 55.916666666,
+        "lng": 21.066666666
     },
     {
         "wikidata_id": "Q1618132",
         "name": "Užusaliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkqw7"
+        "freebase_id": "/m/0bwkqw7",
+        "lat": 54.98333333,
+        "lng": 24.19722222
     },
     {
         "wikidata_id": "Q5247152",
         "name": "Onuškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/080h63v"
+        "freebase_id": "/m/080h63v",
+        "lat": 54.48611111,
+        "lng": 24.59166667
     },
     {
         "wikidata_id": "Q4735905",
         "name": "Alsėdžiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/03hgwrd"
+        "freebase_id": "/m/03hgwrd",
+        "lat": 56.03333333,
+        "lng": 22.05
     },
     {
         "wikidata_id": "Q2089588",
         "name": "Rudamina",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gkzgjj"
+        "freebase_id": "/m/0gkzgjj",
+        "lat": 54.594444444,
+        "lng": 25.35
     },
     {
         "wikidata_id": "Q261476",
         "name": "Trasninkas",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwfxlv"
+        "freebase_id": "/m/0bwfxlv",
+        "lat": 54.1,
+        "lng": 24.2667
     },
     {
         "wikidata_id": "Q130154",
         "name": "Kretkampis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ngtbrh"
+        "freebase_id": "/m/0ngtbrh",
+        "lat": 55.04,
+        "lng": 23.528
     },
     {
         "wikidata_id": "Q3646791",
         "name": "Jašiūnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/07kc22d"
+        "freebase_id": "/m/07kc22d",
+        "lat": 54.43888889,
+        "lng": 25.31111111
     },
     {
         "wikidata_id": "Q24934",
         "name": "Saugūniškės",
         "description": "village in Vilnius district municipality, Vilnius County, Lithuania",
-        "freebase_id": "/m/0nd56cs"
+        "freebase_id": "/m/0nd56cs",
+        "lat": 54.85,
+        "lng": 25.07805556
     },
     {
         "wikidata_id": "Q265070",
         "name": "Ginučiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bdqdr"
+        "freebase_id": "/m/0bdqdr",
+        "lat": 55.385277777,
+        "lng": 25.994722222
     },
     {
         "wikidata_id": "Q277153",
         "name": "Barysiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0nhgt_r"
+        "freebase_id": "/m/0nhgt_r",
+        "lat": 56.07694444,
+        "lng": 23.54194444
     },
     {
         "wikidata_id": "Q8082717",
         "name": "Šančiai",
         "description": "Subdistrict of Kaunas, Lithuania",
-        "freebase_id": "/m/03c0v9x"
+        "freebase_id": "/m/03c0v9x",
+        "lat": 54.989,
+        "lng": 24.067
     },
     {
         "wikidata_id": "Q8082795",
         "name": "Šiupyliai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/027f9n1"
+        "freebase_id": "/m/027f9n1",
+        "lat": 56.094444444,
+        "lng": 23.15
     },
     {
         "wikidata_id": "Q5247177",
         "name": "Šumskas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bwjqfn"
+        "freebase_id": "/m/0bwjqfn",
+        "lat": 54.6111,
+        "lng": 25.7222
     },
     {
         "wikidata_id": "Q11261272",
         "name": "Gūbriai",
         "description": "village in Samogitia, Lithuania",
-        "freebase_id": "/m/0x0s7rz"
+        "freebase_id": "/m/0x0s7rz",
+        "lat": 55.525,
+        "lng": 22.18388889
     },
     {
         "wikidata_id": "Q2606178",
         "name": "Zalavas",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0b7gv7"
+        "freebase_id": "/m/0b7gv7",
+        "lat": 54.972222,
+        "lng": 25.975
     },
     {
         "wikidata_id": "Q1343789",
         "name": "Upninkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gglvr"
+        "freebase_id": "/m/0gglvr",
+        "lat": 55.083333333,
+        "lng": 24.533333333
     },
     {
         "wikidata_id": "Q3500094",
         "name": "Papilė",
         "description": "town in Šiauliai County, Lithuania",
-        "freebase_id": "/m/03d6ll2"
+        "freebase_id": "/m/03d6ll2",
+        "lat": 56.152777777,
+        "lng": 22.784166666
     },
     {
         "wikidata_id": "Q1916517",
         "name": "Medininkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/025yjsc"
+        "freebase_id": "/m/025yjsc",
+        "lat": 54.538888888,
+        "lng": 25.65
     },
     {
         "wikidata_id": "Q3545473",
         "name": "Tryškiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0g59cd"
+        "freebase_id": "/m/0g59cd",
+        "lat": 56.0667,
+        "lng": 22.5833
     },
     {
         "wikidata_id": "Q1261509",
         "name": "Druskininkai",
         "description": "spa town in Lithuania",
-        "freebase_id": "/m/01s34n"
+        "freebase_id": "/m/01s34n",
+        "lat": 54.020555555,
+        "lng": 23.9725
     },
     {
         "wikidata_id": "Q2353691",
         "name": "Varnupiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0j9phxr"
+        "freebase_id": "/m/0j9phxr",
+        "lat": 54.483333333,
+        "lng": 23.516666666
     },
     {
         "wikidata_id": "Q2640897",
         "name": "Aleksotas",
         "description": "neighborhood of Kaunas, Lithuania",
-        "freebase_id": "/m/0gqk8r"
+        "freebase_id": "/m/0gqk8r",
+        "lat": 54.88333333,
+        "lng": 23.9
     },
     {
         "wikidata_id": "Q3494872",
         "name": "Pavandenė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7l6bc"
+        "freebase_id": "/m/0h7l6bc",
+        "lat": 55.76888889,
+        "lng": 22.48611111
     },
     {
         "wikidata_id": "Q5767486",
         "name": "Stripeikiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bdq4j"
+        "freebase_id": "/m/0bdq4j",
+        "lat": 55.4075,
+        "lng": 25.9386
     },
     {
         "wikidata_id": "Q957536",
         "name": "Buivydiškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0cc5v45"
+        "freebase_id": "/m/0cc5v45",
+        "lat": 54.71944444,
+        "lng": 25.19722222
     },
     {
         "wikidata_id": "Q393931",
         "name": "Žibininkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gl4vf"
+        "freebase_id": "/m/0gl4vf",
+        "lat": 55.966666666,
+        "lng": 21.15
     },
     {
         "wikidata_id": "Q216",
         "name": "Vilnius",
         "description": "capital and largest city of Lithuania",
-        "freebase_id": "/m/07_kq"
+        "freebase_id": "/m/07_kq",
+        "lat": 54.687222222,
+        "lng": 25.28
     },
     {
         "wikidata_id": "Q1058869",
         "name": "Nemėžis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/04gk__b"
+        "freebase_id": "/m/04gk__b",
+        "lat": 54.636111111,
+        "lng": 25.361111111
     },
     {
         "wikidata_id": "Q3117428",
         "name": "Žvirgždaičiai",
         "description": "litte town in Lithuania",
-        "freebase_id": "/m/0fp_6yk"
+        "freebase_id": "/m/0fp_6yk",
+        "lat": 54.7944,
+        "lng": 23.0333
     },
     {
         "wikidata_id": "Q391479",
         "name": "Šeteniai",
         "description": "human settlement",
-        "freebase_id": "/m/047d3f1"
+        "freebase_id": "/m/047d3f1",
+        "lat": 55.394722222,
+        "lng": 24.032777777
     },
     {
         "wikidata_id": "Q3504815",
         "name": "Judrėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fq2bd5"
+        "freebase_id": "/m/0fq2bd5",
+        "lat": 55.58611111,
+        "lng": 21.80277778
     },
     {
         "wikidata_id": "Q5618527",
         "name": "Klovainiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/05p463k"
+        "freebase_id": "/m/05p463k",
+        "lat": 55.93333,
+        "lng": 23.95
     },
     {
         "wikidata_id": "Q5618559",
         "name": "Šiaulėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0754mq"
+        "freebase_id": "/m/0754mq",
+        "lat": 55.6806,
+        "lng": 23.4056
     },
     {
         "wikidata_id": "Q3506125",
         "name": "Apuolė",
         "description": "village in Skuodas district municipality, Lithuania",
-        "freebase_id": "/m/0cmczc0"
+        "freebase_id": "/m/0cmczc0",
+        "lat": 56.24444444,
+        "lng": 21.65555556
     },
     {
         "wikidata_id": "Q289955",
         "name": "Pociūnai",
         "description": "village in Prienai Eldership, Lithuania",
-        "freebase_id": "/m/0nhhjnh"
+        "freebase_id": "/m/0nhhjnh",
+        "lat": 54.64388889,
+        "lng": 24.06694444
     },
     {
         "wikidata_id": "Q3221243",
         "name": "Meškuičiai",
         "description": "community in Lithuania",
-        "freebase_id": "/m/064mwnp"
+        "freebase_id": "/m/064mwnp",
+        "lat": 56.069444444,
+        "lng": 23.475
     },
     {
         "wikidata_id": "Q665266",
         "name": "Ninth Fort",
         "description": "historic fort and temporary Nazi concentration camp in Kaunas, Lithuania",
-        "freebase_id": "/m/05grf"
+        "freebase_id": "/m/05grf",
+        "lat": 54.944722222,
+        "lng": 23.870555555
     },
     {
         "wikidata_id": "Q945499",
         "name": "Užupis",
         "description": "neighborhood and UNESCO World Heritage Site in Vilnius, Lithuania",
-        "freebase_id": "/m/09qr2l"
+        "freebase_id": "/m/09qr2l",
+        "lat": 54.680556,
+        "lng": 25.296944
     },
     {
         "wikidata_id": "Q596251",
         "name": "Viršuliškės",
         "description": "neighborhood of Vilnius",
-        "freebase_id": "/m/0h97zsk"
+        "freebase_id": "/m/0h97zsk",
+        "lat": 54.70573683,
+        "lng": 25.22453083
     },
     {
         "wikidata_id": "Q3545465",
         "name": "Gudžiūnai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/04jnxpp"
+        "freebase_id": "/m/04jnxpp",
+        "lat": 55.508333333,
+        "lng": 23.772222222
     },
     {
         "wikidata_id": "Q1003301",
         "name": "Bukonys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkl7k"
+        "freebase_id": "/m/0bwkl7k",
+        "lat": 55.22222222,
+        "lng": 24.37222222
     },
     {
         "wikidata_id": "Q7861727",
         "name": "Tyruliai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h1gb8h"
+        "freebase_id": "/m/0h1gb8h",
+        "lat": 55.766944444,
+        "lng": 23.338888888
     },
     {
         "wikidata_id": "Q3492204",
         "name": "Palūšė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/08f719"
+        "freebase_id": "/m/08f719",
+        "lat": 55.328055555,
+        "lng": 26.103055555
     },
     {
         "wikidata_id": "Q1993597",
         "name": "Pakerai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/02x5fgy"
+        "freebase_id": "/m/02x5fgy",
+        "lat": 55.883055555,
+        "lng": 21.853055555
     },
     {
         "wikidata_id": "Q2639982",
         "name": "Ablinga",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bmbz1k"
+        "freebase_id": "/m/0bmbz1k",
+        "lat": 55.732222222,
+        "lng": 21.700555555
     },
     {
         "wikidata_id": "Q2357792",
         "name": "Zervynos",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0cp1ll"
+        "freebase_id": "/m/0cp1ll",
+        "lat": 54.116666666,
+        "lng": 24.5
     },
     {
         "wikidata_id": "Q1589770",
@@ -1377,313 +1833,417 @@
         "wikidata_id": "Q17123210",
         "name": "Akmenė Free Economic Zone",
         "description": "No description available",
-        "freebase_id": "/m/012hpfwh"
+        "freebase_id": "/m/012hpfwh",
+        "lat": 56.3061,
+        "lng": 22.8911
     },
     {
         "wikidata_id": "Q445649",
         "name": "Vilnius Old Town",
         "description": "UNESCO World Heritage Site in Vilnius, Lithuania",
-        "freebase_id": "/m/07cw8h"
+        "freebase_id": "/m/07cw8h",
+        "lat": 54.683333333,
+        "lng": 25.283333333
     },
     {
         "wikidata_id": "Q4998174",
         "name": "Burbiškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/08grxw"
+        "freebase_id": "/m/08grxw",
+        "lat": 55.783333333,
+        "lng": 23.883333333
     },
     {
         "wikidata_id": "Q2078087",
         "name": "Kaniūkai",
         "description": "village in Gerviškės Eldership, Lithuania",
-        "freebase_id": "/m/0414__y"
+        "freebase_id": "/m/0414__y",
+        "lat": 54.2825,
+        "lng": 25.240833333
     },
     {
         "wikidata_id": "Q4398144",
         "name": "Žemoji Panemunė",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0fq1yzz"
+        "freebase_id": "/m/0fq1yzz",
+        "lat": 55.0472,
+        "lng": 23.4639
     },
     {
         "wikidata_id": "Q5227826",
         "name": "Daubiškiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0by187_"
+        "freebase_id": "/m/0by187_",
+        "lat": 56.14166667,
+        "lng": 22.79166667
     },
     {
         "wikidata_id": "Q5609826",
         "name": "Gričiupis",
         "description": "eldership in Lithuania",
-        "freebase_id": "/m/03c0tsq"
+        "freebase_id": "/m/03c0tsq",
+        "lat": 54.90361111,
+        "lng": 23.96277778
     },
     {
         "wikidata_id": "Q5016803",
         "name": "Vyžuonos",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h7n4ds"
+        "freebase_id": "/m/0h7n4ds",
+        "lat": 55.586111111,
+        "lng": 25.496944444
     },
     {
         "wikidata_id": "Q268227",
         "name": "Aukštakalnis",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwk8dz"
+        "freebase_id": "/m/0bwk8dz",
+        "lat": 54.34694444,
+        "lng": 24.58111111
     },
     {
         "wikidata_id": "Q3446896",
         "name": "Senieji Trakai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0h719t"
+        "freebase_id": "/m/0h719t",
+        "lat": 54.616666666,
+        "lng": 24.966666666
     },
     {
         "wikidata_id": "Q6981178",
         "name": "Naujamiestis",
         "description": "neighborhood of Vilnius, Lithuania",
-        "freebase_id": "/m/0h972xn"
+        "freebase_id": "/m/0h972xn",
+        "lat": 54.675,
+        "lng": 25.26388889
     },
     {
         "wikidata_id": "Q3515772",
         "name": "Vadaktai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064m6vf"
+        "freebase_id": "/m/064m6vf",
+        "lat": 55.305555555,
+        "lng": 23.986111111
     },
     {
         "wikidata_id": "Q7052783",
         "name": "Vilijampolė",
         "description": "Borough of Kaunas",
-        "freebase_id": "/m/03c0vj2"
+        "freebase_id": "/m/03c0vj2",
+        "lat": 54.916666666,
+        "lng": 23.883333333
     },
     {
         "wikidata_id": "Q677673",
         "name": "Kulva",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwlb07"
+        "freebase_id": "/m/0bwlb07",
+        "lat": 55.10833333,
+        "lng": 24.17777778
     },
     {
         "wikidata_id": "Q8082699",
         "name": "Šakyna",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064nhpd"
+        "freebase_id": "/m/064nhpd",
+        "lat": 56.177777777,
+        "lng": 23.122222222
     },
     {
         "wikidata_id": "Q4473786",
         "name": "Antalieptė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gmc0rk"
+        "freebase_id": "/m/0gmc0rk",
+        "lat": 55.661111111,
+        "lng": 25.866944444
     },
     {
         "wikidata_id": "Q384446",
         "name": "Ramučiai",
         "description": "village in the Kaunas county, Lithuania",
-        "freebase_id": "/m/0ch2ckp"
+        "freebase_id": "/m/0ch2ckp",
+        "lat": 54.94722222,
+        "lng": 24.03055556
     },
     {
         "wikidata_id": "Q1022232",
         "name": "Būtingė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bs7jc"
+        "freebase_id": "/m/0bs7jc",
+        "lat": 56.033333333,
+        "lng": 21.116666666
     },
     {
         "wikidata_id": "Q3183314",
         "name": "Kražiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0chpgv"
+        "freebase_id": "/m/0chpgv",
+        "lat": 55.6,
+        "lng": 22.68333333
     },
     {
         "wikidata_id": "Q3545471",
         "name": "Degsnės",
         "description": "village in Valkininkai Eldership, Lithuania",
-        "freebase_id": "/m/0bwh_pk"
+        "freebase_id": "/m/0bwh_pk",
+        "lat": 54.36666667,
+        "lng": 24.8
     },
     {
         "wikidata_id": "Q1004316",
         "name": "Karkliniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/09v7kq5"
+        "freebase_id": "/m/09v7kq5",
+        "lat": 54.531433333,
+        "lng": 23.167
     },
     {
         "wikidata_id": "Q3758079",
         "name": "Gandrališkės",
         "description": "district in Klaipėda, Lithuania",
-        "freebase_id": "/m/0262d5x"
+        "freebase_id": "/m/0262d5x",
+        "lat": 55.69277778,
+        "lng": 21.14638889
     },
     {
         "wikidata_id": "Q3500143",
         "name": "Tirkšliai",
         "description": "human settlement in the Mažeikiai District Municipality of Lithuania",
-        "freebase_id": "/m/0h7l9cy"
+        "freebase_id": "/m/0h7l9cy",
+        "lat": 56.2639,
+        "lng": 22.3056
     },
     {
         "wikidata_id": "Q1004306",
         "name": "Nida",
         "description": "resort town in Lithuania",
-        "freebase_id": "/m/02px8s"
+        "freebase_id": "/m/02px8s",
+        "lat": 55.303973,
+        "lng": 21.00532
     },
     {
         "wikidata_id": "Q1974906",
         "name": "Didžiasalis",
         "description": "village in Didžiasalis Eldership, Lithuania",
-        "freebase_id": "/m/0ds2lx4"
+        "freebase_id": "/m/0ds2lx4",
+        "lat": 55.319444444,
+        "lng": 26.680555555
     },
     {
         "wikidata_id": "Q1977172",
         "name": "Nemirseta",
         "description": "farm village in Lithuania",
-        "freebase_id": "/m/03d0_wb"
+        "freebase_id": "/m/03d0_wb",
+        "lat": 55.87638889,
+        "lng": 21.06722222
     },
     {
         "wikidata_id": "Q3316406",
         "name": "Žeimelis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/027sf26"
+        "freebase_id": "/m/027sf26",
+        "lat": 56.275,
+        "lng": 23.997
     },
     {
         "wikidata_id": "Q7283262",
         "name": "Raguvėlė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0by0s73"
+        "freebase_id": "/m/0by0s73",
+        "lat": 55.65555556,
+        "lng": 24.66388889
     },
     {
         "wikidata_id": "Q3491468",
         "name": "Babrungas",
         "description": "village in Lithuania",
-        "freebase_id": "/m/03d4h_4"
+        "freebase_id": "/m/03d4h_4",
+        "lat": 55.933333333,
+        "lng": 21.866666666
     },
     {
         "wikidata_id": "Q391555",
         "name": "Šilainiai",
         "description": "neighborhood of Kaunas",
-        "freebase_id": "/m/03c0vdn"
+        "freebase_id": "/m/03c0vdn",
+        "lat": 54.9358,
+        "lng": 23.8592
     },
     {
         "wikidata_id": "Q5764837",
         "name": "Karmazinai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0czb8yh"
+        "freebase_id": "/m/0czb8yh",
+        "lat": 54.81916667,
+        "lng": 24.93111111
     },
     {
         "wikidata_id": "Q4132011",
         "name": "Gaižiūnai",
         "description": "village in Šveicarija Eldership, Lithuania",
-        "freebase_id": "/m/06w968n"
+        "freebase_id": "/m/06w968n",
+        "lat": 55.036111111,
+        "lng": 24.331111111
     },
     {
         "wikidata_id": "Q5765031",
         "name": "Mateikonys",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/04yhgps"
+        "freebase_id": "/m/04yhgps",
+        "lat": 54.188888888,
+        "lng": 25.011111111
     },
     {
         "wikidata_id": "Q5629995",
         "name": "HKP 562 forced labor camp",
         "description": "Forced labor camp during WWII, Vilnius, Lithuania",
-        "freebase_id": "/m/0bqrl2"
+        "freebase_id": "/m/0bqrl2",
+        "lat": 54.67611111,
+        "lng": 25.305
     },
     {
         "wikidata_id": "Q392748",
         "name": "Šveicarija",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkfc8"
+        "freebase_id": "/m/0bwkfc8",
+        "lat": 55.0472,
+        "lng": 24.2611
     },
     {
         "wikidata_id": "Q2594017",
         "name": "Berželė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gtxy3x"
+        "freebase_id": "/m/0gtxy3x",
+        "lat": 55.421944444,
+        "lng": 24.0
     },
     {
         "wikidata_id": "Q570725",
         "name": "Liškiava",
         "description": "village in Lithuania",
-        "freebase_id": "/m/07vn9y"
+        "freebase_id": "/m/07vn9y",
+        "lat": 54.080556,
+        "lng": 24.055556
     },
     {
         "wikidata_id": "Q7403791",
         "name": "Saldutiškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0g53nnv"
+        "freebase_id": "/m/0g53nnv",
+        "lat": 55.35277778,
+        "lng": 25.81388889
     },
     {
         "wikidata_id": "Q3448977",
         "name": "Žaliakalnis",
         "description": "Neighborhood of Kaunas",
-        "freebase_id": "/m/0gw423"
+        "freebase_id": "/m/0gw423",
+        "lat": 54.9,
+        "lng": 23.916666666
     },
     {
         "wikidata_id": "Q5768317",
         "name": "Žvejybos uostas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/03wc1p8"
+        "freebase_id": "/m/03wc1p8",
+        "lat": 55.6789,
+        "lng": 21.15
     },
     {
         "wikidata_id": "Q7360127",
         "name": "Rokėnai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064qvlr"
+        "freebase_id": "/m/064qvlr",
+        "lat": 55.8,
+        "lng": 25.905555555
     },
     {
         "wikidata_id": "Q5768544",
         "name": "Norviliškės",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0gd5sn"
+        "freebase_id": "/m/0gd5sn",
+        "lat": 54.236388888,
+        "lng": 25.76
     },
     {
         "wikidata_id": "Q1893620",
         "name": "Marcinkonys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/06nvlk"
+        "freebase_id": "/m/06nvlk",
+        "lat": 54.061111111,
+        "lng": 24.4
     },
     {
         "wikidata_id": "Q3491464",
         "name": "Mingė",
         "description": "farm village in Lithuania",
-        "freebase_id": "/m/02r83pq"
+        "freebase_id": "/m/02r83pq",
+        "lat": 55.362777777,
+        "lng": 21.282777777
     },
     {
         "wikidata_id": "Q20990",
         "name": "Juodkrantė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/06qyhv"
+        "freebase_id": "/m/06qyhv",
+        "lat": 55.542375,
+        "lng": 21.120072222
     },
     {
         "wikidata_id": "Q5619178",
         "name": "Grinkiškis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064q3bp"
+        "freebase_id": "/m/064q3bp",
+        "lat": 55.555555555,
+        "lng": 23.633333333
     },
     {
         "wikidata_id": "Q3494835",
         "name": "Subartonys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkm42"
+        "freebase_id": "/m/0bwkm42",
+        "lat": 54.2,
+        "lng": 24.1667
     },
     {
         "wikidata_id": "Q2672300",
         "name": "Glitiškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0dm_dr"
+        "freebase_id": "/m/0dm_dr",
+        "lat": 54.986111111,
+        "lng": 25.225
     },
     {
         "wikidata_id": "Q3494848",
         "name": "Maišiagala",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/076w4k2"
+        "freebase_id": "/m/076w4k2",
+        "lat": 54.87222222,
+        "lng": 25.06666667
     },
     {
         "wikidata_id": "Q5240953",
         "name": "Veiveriai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/05q7sft"
+        "freebase_id": "/m/05q7sft",
+        "lat": 54.763888888,
+        "lng": 23.725
     },
     {
         "wikidata_id": "Q6439338",
         "name": "Kruonis",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064lqvn"
+        "freebase_id": "/m/064lqvn",
+        "lat": 54.758333333,
+        "lng": 24.244444444
     },
     {
         "wikidata_id": "Q7476112",
         "name": "Krosna",
         "description": "little town in Lazdijai district municipality in eastern Lithuania",
-        "freebase_id": "/m/0g_qt3"
+        "freebase_id": "/m/0g_qt3",
+        "lat": 54.377777777,
+        "lng": 23.530555555
     },
     {
         "wikidata_id": "Q4698895",
@@ -1695,2448 +2255,3264 @@
         "wikidata_id": "Q392757",
         "name": "Šventoji",
         "description": "seaside resort town in Lithuania",
-        "freebase_id": "/m/043m6hk"
+        "freebase_id": "/m/043m6hk",
+        "lat": 56.025277777,
+        "lng": 21.081666666
     },
     {
         "wikidata_id": "Q12664084",
         "name": "Stalag Luft VI",
         "description": "German prisoner-of-war camp during World War II",
-        "freebase_id": "/m/03mg51j"
+        "freebase_id": "/m/03mg51j",
+        "lat": 55.356389,
+        "lng": 21.522778
     },
     {
         "wikidata_id": "Q5523220",
         "name": "Gargždelė",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0h3v8z6"
+        "freebase_id": "/m/0h3v8z6",
+        "lat": 56.05305556,
+        "lng": 21.61388889
     },
     {
         "wikidata_id": "Q5762985",
         "name": "Katra",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwjf9m"
+        "freebase_id": "/m/0bwjf9m",
+        "lat": 53.98888889,
+        "lng": 24.56888889
     },
     {
         "wikidata_id": "Q5767082",
         "name": "Radžiūnai",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwhq70"
+        "freebase_id": "/m/0bwhq70",
+        "lat": 54.41888889,
+        "lng": 24.63305556
     },
     {
         "wikidata_id": "Q5766040",
         "name": "Kuršiai",
         "description": "village in Valkininkai Eldership, Lithuania",
-        "freebase_id": "/m/0bwfphk"
+        "freebase_id": "/m/0bwfphk",
+        "lat": 54.32444444,
+        "lng": 24.90972222
     },
     {
         "wikidata_id": "Q5766185",
         "name": "Lipliūnai",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch5frs"
+        "freebase_id": "/m/0ch5frs",
+        "lat": 55.30555556,
+        "lng": 23.86388889
     },
     {
         "wikidata_id": "Q5767196",
         "name": "Kaniūkai",
         "description": "village in Kaniava Eldership, Lithuania",
-        "freebase_id": "/m/0bwkrwz"
+        "freebase_id": "/m/0bwkrwz",
+        "lat": 54.10805556,
+        "lng": 24.75805556
     },
     {
         "wikidata_id": "Q5764751",
         "name": "Pasmilgys",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch2cz6"
+        "freebase_id": "/m/0ch2cz6",
+        "lat": 55.30305556,
+        "lng": 23.95222222
     },
     {
         "wikidata_id": "Q5764979",
         "name": "Kabeliai",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwggl5"
+        "freebase_id": "/m/0bwggl5",
+        "lat": 53.95305556,
+        "lng": 24.29694444
     },
     {
         "wikidata_id": "Q5763795",
         "name": "Kašėtos",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwkn5w"
+        "freebase_id": "/m/0bwkn5w",
+        "lat": 54.10722222,
+        "lng": 24.34694444
     },
     {
         "wikidata_id": "Q5767472",
         "name": "Tolkūnai",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwkrx9"
+        "freebase_id": "/m/0bwkrx9",
+        "lat": 54.2719,
+        "lng": 24.3939
     },
     {
         "wikidata_id": "Q5764890",
         "name": "Mardasavas",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwk2j_"
+        "freebase_id": "/m/0bwk2j_",
+        "lat": 54.15111111,
+        "lng": 24.31694444
     },
     {
         "wikidata_id": "Q5764718",
         "name": "Krūminiai",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwkbs1"
+        "freebase_id": "/m/0bwkbs1",
+        "lat": 54.3,
+        "lng": 24.83333333
     },
     {
         "wikidata_id": "Q5766341",
         "name": "Kalviai",
         "description": "village in Kaniava Eldership, Lithuania",
-        "freebase_id": "/m/0bwgjx8"
+        "freebase_id": "/m/0bwgjx8",
+        "lat": 54.03305556,
+        "lng": 24.825
     },
     {
         "wikidata_id": "Q5762889",
         "name": "Perloja",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0dcrrz"
+        "freebase_id": "/m/0dcrrz",
+        "lat": 54.214444444,
+        "lng": 24.414444444
     },
     {
         "wikidata_id": "Q5764045",
         "name": "Stakliškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/043nr98"
+        "freebase_id": "/m/043nr98",
+        "lat": 54.591666666,
+        "lng": 24.319444444
     },
     {
         "wikidata_id": "Q5764573",
         "name": "Lynežeris",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgqlc"
+        "freebase_id": "/m/0bwgqlc",
+        "lat": 54.06111111,
+        "lng": 24.57194444
     },
     {
         "wikidata_id": "Q5767110",
         "name": "Karužai",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwg32k"
+        "freebase_id": "/m/0bwg32k",
+        "lat": 54.26666667,
+        "lng": 23.48333333
     },
     {
         "wikidata_id": "Q5764511",
         "name": "Šatijai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/04zz70p"
+        "freebase_id": "/m/04zz70p",
+        "lat": 54.986111111,
+        "lng": 23.994444444
     },
     {
         "wikidata_id": "Q5764863",
         "name": "Kapiniškiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/06nvwm"
+        "freebase_id": "/m/06nvwm",
+        "lat": 54.033611111,
+        "lng": 24.2925
     },
     {
         "wikidata_id": "Q5764773",
         "name": "Ruminiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch1pb_"
+        "freebase_id": "/m/0ch1pb_",
+        "lat": 55.33138889,
+        "lng": 23.91611111
     },
     {
         "wikidata_id": "Q5764918",
         "name": "Siponiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch5plv"
+        "freebase_id": "/m/0ch5plv",
+        "lat": 55.41666667,
+        "lng": 23.81666667
     },
     {
         "wikidata_id": "Q5765197",
         "name": "Kibyšiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwft2s"
+        "freebase_id": "/m/0bwft2s",
+        "lat": 54.14722222,
+        "lng": 24.08333333
     },
     {
         "wikidata_id": "Q5765084",
         "name": "Rūsingė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwk_wc"
+        "freebase_id": "/m/0bwk_wc",
+        "lat": 54.13472222,
+        "lng": 24.09027778
     },
     {
         "wikidata_id": "Q5765169",
         "name": "Radyščius",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhkp5"
+        "freebase_id": "/m/0bwhkp5",
+        "lat": 54.128,
+        "lng": 24.061
     },
     {
         "wikidata_id": "Q5765510",
         "name": "Pūčkornės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwmfz0"
+        "freebase_id": "/m/0bwmfz0",
+        "lat": 54.364,
+        "lng": 24.758
     },
     {
         "wikidata_id": "Q5765678",
         "name": "Pašiaušė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gg64gs"
+        "freebase_id": "/m/0gg64gs",
+        "lat": 55.51666667,
+        "lng": 23.48333333
     },
     {
         "wikidata_id": "Q5765818",
         "name": "Krakūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0h3whnc"
+        "freebase_id": "/m/0h3whnc",
+        "lat": 54.15,
+        "lng": 25.61666667
     },
     {
         "wikidata_id": "Q5766056",
         "name": "Ąžuolaičiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch1m58"
+        "freebase_id": "/m/0ch1m58",
+        "lat": 55.3444,
+        "lng": 23.8528
     },
     {
         "wikidata_id": "Q5766205",
         "name": "Jasauskai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgc5z"
+        "freebase_id": "/m/0bwgc5z",
+        "lat": 54.10305556,
+        "lng": 24.75305556
     },
     {
         "wikidata_id": "Q5766119",
         "name": "Tubiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch1qbf"
+        "freebase_id": "/m/0ch1qbf",
+        "lat": 55.2967,
+        "lng": 23.9197
     },
     {
         "wikidata_id": "Q5766077",
         "name": "Musteika",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhlyr"
+        "freebase_id": "/m/0bwhlyr",
+        "lat": 53.956,
+        "lng": 24.365
     },
     {
         "wikidata_id": "Q5766018",
         "name": "Trakiškiai",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwln76"
+        "freebase_id": "/m/0bwln76",
+        "lat": 54.1444,
+        "lng": 24.3917
     },
     {
         "wikidata_id": "Q5767319",
         "name": "Voriškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwlgf5"
+        "freebase_id": "/m/0bwlgf5",
+        "lat": 54.2833,
+        "lng": 24.7333
     },
     {
         "wikidata_id": "Q5767362",
         "name": "Mantviloniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch1w8x"
+        "freebase_id": "/m/0ch1w8x",
+        "lat": 55.25416667,
+        "lng": 23.93138889
     },
     {
         "wikidata_id": "Q5767582",
         "name": "Pavarėnis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhx76"
+        "freebase_id": "/m/0bwhx76",
+        "lat": 54.35,
+        "lng": 24.51666667
     },
     {
         "wikidata_id": "Q5768177",
         "name": "Krokšlys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwj1y5"
+        "freebase_id": "/m/0bwj1y5",
+        "lat": 54.03611111,
+        "lng": 24.625
     },
     {
         "wikidata_id": "Q5768199",
         "name": "Urkionys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwg242"
+        "freebase_id": "/m/0bwg242",
+        "lat": 54.3,
+        "lng": 24.7833
     },
     {
         "wikidata_id": "Q5768224",
         "name": "Kirklionys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgywg"
+        "freebase_id": "/m/0bwgywg",
+        "lat": 54.34166667,
+        "lng": 24.51527778
     },
     {
         "wikidata_id": "Q5768241",
         "name": "Masališkės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwl8rm"
+        "freebase_id": "/m/0bwl8rm",
+        "lat": 54.21666667,
+        "lng": 24.23333333
     },
     {
         "wikidata_id": "Q5768276",
         "name": "Užuperkasis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgywt"
+        "freebase_id": "/m/0bwgywt",
+        "lat": 54.35,
+        "lng": 24.85
     },
     {
         "wikidata_id": "Q5768447",
         "name": "Pilvingiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwld59"
+        "freebase_id": "/m/0bwld59",
+        "lat": 54.242,
+        "lng": 24.277
     },
     {
         "wikidata_id": "Q5768615",
         "name": "Paručiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgn5q"
+        "freebase_id": "/m/0bwgn5q",
+        "lat": 54.33111111,
+        "lng": 24.57805556
     },
     {
         "wikidata_id": "Q5768634",
         "name": "Vazgirdonys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwj81p"
+        "freebase_id": "/m/0bwj81p",
+        "lat": 54.3439,
+        "lng": 24.5611
     },
     {
         "wikidata_id": "Q5768653",
         "name": "Pabezninkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwh05n"
+        "freebase_id": "/m/0bwh05n",
+        "lat": 54.34694444,
+        "lng": 24.55611111
     },
     {
         "wikidata_id": "Q5768674",
         "name": "Stelmužė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/065553"
+        "freebase_id": "/m/065553",
+        "lat": 55.8275,
+        "lng": 26.2197
     },
     {
         "wikidata_id": "Q5766245",
         "name": "Meškučiai",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwg9_8"
+        "freebase_id": "/m/0bwg9_8",
+        "lat": 54.37888889,
+        "lng": 24.50305556
     },
     {
         "wikidata_id": "Q5768343",
         "name": "Mergežeris",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwm741"
+        "freebase_id": "/m/0bwm741",
+        "lat": 54.2,
+        "lng": 24.51666667
     },
     {
         "wikidata_id": "Q5765007",
         "name": "Kudrėnai",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwl8r8"
+        "freebase_id": "/m/0bwl8r8",
+        "lat": 54.139,
+        "lng": 24.004
     },
     {
         "wikidata_id": "Q5763959",
         "name": "Paąžuolė",
         "description": "village in the Kaniava Eldership, Lithuania",
-        "freebase_id": "/m/0bwl469"
+        "freebase_id": "/m/0bwl469",
+        "lat": 54.06694444,
+        "lng": 24.76111111
     },
     {
         "wikidata_id": "Q5765331",
         "name": "Kareivonys",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwkyh4"
+        "freebase_id": "/m/0bwkyh4",
+        "lat": 54.40805556,
+        "lng": 24.62194444
     },
     {
         "wikidata_id": "Q5767275",
         "name": "Migonys",
         "description": "village in Kupiškis District, Lithuania",
-        "freebase_id": "/m/025_zsb"
+        "freebase_id": "/m/025_zsb",
+        "lat": 55.744444444,
+        "lng": 25.038888888
     },
     {
         "wikidata_id": "Q5768154",
         "name": "Kivyliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bx_xbc"
+        "freebase_id": "/m/0bx_xbc",
+        "lat": 56.35,
+        "lng": 22.75
     },
     {
         "wikidata_id": "Q5766266",
         "name": "Mištautai",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch4_jn"
+        "freebase_id": "/m/0ch4_jn",
+        "lat": 55.31666667,
+        "lng": 23.88333333
     },
     {
         "wikidata_id": "Q5764604",
         "name": "Kukliai",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwljlc"
+        "freebase_id": "/m/0bwljlc",
+        "lat": 54.335,
+        "lng": 24.686
     },
     {
         "wikidata_id": "Q5766139",
         "name": "Stasiūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch3s1s"
+        "freebase_id": "/m/0ch3s1s",
+        "lat": 55.2917,
+        "lng": 23.8875
     },
     {
         "wikidata_id": "Q5765302",
         "name": "Keleriškiai",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch1pbm"
+        "freebase_id": "/m/0ch1pbm",
+        "lat": 55.27777778,
+        "lng": 23.91944444
     },
     {
         "wikidata_id": "Q4828856",
         "name": "Avilčiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/02py2t0"
+        "freebase_id": "/m/02py2t0",
+        "lat": 55.3,
+        "lng": 25.35
     },
     {
         "wikidata_id": "Q6862779",
         "name": "Minaičiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gk_g7f"
+        "freebase_id": "/m/0gk_g7f",
+        "lat": 55.63111111,
+        "lng": 23.55305556
     },
     {
         "wikidata_id": "Q7126015",
         "name": "Paklėštarė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwh9ll"
+        "freebase_id": "/m/0bwh9ll",
+        "lat": 54.35277778,
+        "lng": 24.82777778
     },
     {
         "wikidata_id": "Q6435937",
         "name": "Krakiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0fdkvb"
+        "freebase_id": "/m/0fdkvb",
+        "lat": 56.283333333,
+        "lng": 22.4
     },
     {
         "wikidata_id": "Q5614522",
         "name": "Gudakiemis",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwk0b3"
+        "freebase_id": "/m/0bwk0b3",
+        "lat": 54.20555556,
+        "lng": 24.24444444
     },
     {
         "wikidata_id": "Q7129461",
         "name": "Pamusiai",
         "description": "village in Varėna District, Lithuania",
-        "freebase_id": "/m/0bwlqrm"
+        "freebase_id": "/m/0bwlqrm",
+        "lat": 54.36666667,
+        "lng": 24.5
     },
     {
         "wikidata_id": "Q7133038",
         "name": "Papiškės",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwft33"
+        "freebase_id": "/m/0bwft33",
+        "lat": 54.123,
+        "lng": 24.033
     },
     {
         "wikidata_id": "Q5619878",
         "name": "Kurmiškė",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwmdn8"
+        "freebase_id": "/m/0bwmdn8",
+        "lat": 54.19166667,
+        "lng": 24.20833333
     },
     {
         "wikidata_id": "Q7127659",
         "name": "Palkabalis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwljlq"
+        "freebase_id": "/m/0bwljlq",
+        "lat": 54.14166667,
+        "lng": 24.61111111
     },
     {
         "wikidata_id": "Q6125782",
         "name": "Jakėnai",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwm9k2"
+        "freebase_id": "/m/0bwm9k2",
+        "lat": 54.341,
+        "lng": 24.603
     },
     {
         "wikidata_id": "Q6439012",
         "name": "Kropilai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch4s52"
+        "freebase_id": "/m/0ch4s52",
+        "lat": 55.30611111,
+        "lng": 23.93583333
     },
     {
         "wikidata_id": "Q5769607",
         "name": "Ruoščiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0d9yx9"
+        "freebase_id": "/m/0d9yx9",
+        "lat": 55.33,
+        "lng": 23.905555555
     },
     {
         "wikidata_id": "Q4540239",
         "name": "Ragožiai",
         "description": "village in Kulva Eldership, Lithuania",
-        "freebase_id": "/m/0fpglpv"
+        "freebase_id": "/m/0fpglpv",
+        "lat": 55.10555556,
+        "lng": 24.24722222
     },
     {
         "wikidata_id": "Q5620788",
         "name": "Mantvilai",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwhyc4"
+        "freebase_id": "/m/0bwhyc4",
+        "lat": 54.2625,
+        "lng": 24.19166667
     },
     {
         "wikidata_id": "Q8145659",
         "name": "Mantviliškis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch2v05"
+        "freebase_id": "/m/0ch2v05",
+        "lat": 55.43888889,
+        "lng": 23.81944444
     },
     {
         "wikidata_id": "Q8145837",
         "name": "Maksimai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhlyc"
+        "freebase_id": "/m/0bwhlyc",
+        "lat": 54.11888889,
+        "lng": 24.13611111
     },
     {
         "wikidata_id": "Q4701437",
         "name": "Aklasis Ežeras",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwj_bl"
+        "freebase_id": "/m/0bwj_bl",
+        "lat": 55.15,
+        "lng": 24.47777778
     },
     {
         "wikidata_id": "Q4701446",
         "name": "Akliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwmjgm"
+        "freebase_id": "/m/0bwmjgm",
+        "lat": 55.20457222,
+        "lng": 24.23634167
     },
     {
         "wikidata_id": "Q4701465",
         "name": "Akmuo",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwh2f2"
+        "freebase_id": "/m/0bwh2f2",
+        "lat": 54.30361111,
+        "lng": 24.62666667
     },
     {
         "wikidata_id": "Q4833548",
         "name": "Ašašninkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwl561"
+        "freebase_id": "/m/0bwl561",
+        "lat": 53.93611111,
+        "lng": 24.30277778
     },
     {
         "wikidata_id": "Q4727721",
         "name": "Alkiškiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0by0cl4"
+        "freebase_id": "/m/0by0cl4",
+        "lat": 56.26666667,
+        "lng": 22.83888889
     },
     {
         "wikidata_id": "Q8082948",
         "name": "Ūta",
         "description": "village in Kaniava Eldership, Lithuania",
-        "freebase_id": "/m/0bwm4x9"
+        "freebase_id": "/m/0bwm4x9",
+        "lat": 54.1061,
+        "lng": 24.6439
     },
     {
         "wikidata_id": "Q7928106",
         "name": "Vidiškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ds2cfl"
+        "freebase_id": "/m/0ds2cfl",
+        "lat": 55.375,
+        "lng": 26.2111
     },
     {
         "wikidata_id": "Q6381334",
         "name": "Kazitiškis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ds2cg2"
+        "freebase_id": "/m/0ds2cg2",
+        "lat": 55.44166667,
+        "lng": 26.14444444
     },
     {
         "wikidata_id": "Q5209480",
         "name": "Dainava",
         "description": "village in Vydeniai Eldership, Lithuania",
-        "freebase_id": "/m/0bwjvfd"
+        "freebase_id": "/m/0bwjvfd",
+        "lat": 54.14722222,
+        "lng": 24.70277778
     },
     {
         "wikidata_id": "Q6319248",
         "name": "Juškonys",
         "description": "village in Žeimiai Eldership, Lithuania",
-        "freebase_id": "/m/0bwmlqt"
+        "freebase_id": "/m/0bwmlqt",
+        "lat": 55.23888889,
+        "lng": 24.23888889
     },
     {
         "wikidata_id": "Q6443036",
         "name": "Kulionys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bdpjx"
+        "freebase_id": "/m/0bdpjx",
+        "lat": 55.31666667,
+        "lng": 25.56666667
     },
     {
         "wikidata_id": "Q4866127",
         "name": "Barčiai",
         "description": "village in Vydeniai Eldership, Lithuania",
-        "freebase_id": "/m/0bwgdbx"
+        "freebase_id": "/m/0bwgdbx",
+        "lat": 54.18611111,
+        "lng": 24.66694444
     },
     {
         "wikidata_id": "Q5617291",
         "name": "Gulbiniškiai",
         "description": "village in Šveicarija Edlership, Lithuania",
-        "freebase_id": "/m/0fpgnhh"
+        "freebase_id": "/m/0fpgnhh",
+        "lat": 55.03333333,
+        "lng": 24.24166667
     },
     {
         "wikidata_id": "Q6275588",
         "name": "Jonionys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwg8tm"
+        "freebase_id": "/m/0bwg8tm",
+        "lat": 54.158,
+        "lng": 24.143
     },
     {
         "wikidata_id": "Q5247162",
         "name": "Kaniava",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhc_f"
+        "freebase_id": "/m/0bwhc_f",
+        "lat": 54.09388889,
+        "lng": 24.70611111
     },
     {
         "wikidata_id": "Q5247212",
         "name": "Panočiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwj5w6"
+        "freebase_id": "/m/0bwj5w6",
+        "lat": 54.11888889,
+        "lng": 24.76388889
     },
     {
         "wikidata_id": "Q5247193",
         "name": "Skaidiškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gk_bgq"
+        "freebase_id": "/m/0gk_bgq",
+        "lat": 54.60805556,
+        "lng": 25.38611111
     },
     {
         "wikidata_id": "Q5247201",
         "name": "Vydeniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkf4d"
+        "freebase_id": "/m/0bwkf4d",
+        "lat": 54.1833,
+        "lng": 24.7333
     },
     {
         "wikidata_id": "Q5247222",
         "name": "Žilinai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkqmn"
+        "freebase_id": "/m/0bwkqmn",
+        "lat": 54.3919,
+        "lng": 24.6361
     },
     {
         "wikidata_id": "Q8079762",
         "name": "Česukai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ddb4g2"
+        "freebase_id": "/m/0ddb4g2",
+        "lat": 54.1503,
+        "lng": 24.1889
     },
     {
         "wikidata_id": "Q8082723",
         "name": "Šarkiškės",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwhrcz"
+        "freebase_id": "/m/0bwhrcz",
+        "lat": 54.2889,
+        "lng": 24.6806
     },
     {
         "wikidata_id": "Q4842088",
         "name": "Bagočiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwmdmx"
+        "freebase_id": "/m/0bwmdmx",
+        "lat": 54.11111111,
+        "lng": 24.74194444
     },
     {
         "wikidata_id": "Q4914179",
         "name": "Bingeliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgpd7"
+        "freebase_id": "/m/0bwgpd7",
+        "lat": 54.15277778,
+        "lng": 24.24555556
     },
     {
         "wikidata_id": "Q5620223",
         "name": "Pikeliai",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch5qkm"
+        "freebase_id": "/m/0ch5qkm",
+        "lat": 55.32555556,
+        "lng": 23.87833333
     },
     {
         "wikidata_id": "Q5209201",
         "name": "Dailučiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/07kctjk"
+        "freebase_id": "/m/07kctjk",
+        "lat": 54.62222222,
+        "lng": 22.88611111
     },
     {
         "wikidata_id": "Q8079799",
         "name": "Čičinai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0fpgg3k"
+        "freebase_id": "/m/0fpgg3k",
+        "lat": 55.075,
+        "lng": 24.1806
     },
     {
         "wikidata_id": "Q6740332",
         "name": "Maksimonys",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwhtl6"
+        "freebase_id": "/m/0bwhtl6",
+        "lat": 54.162,
+        "lng": 24.153
     },
     {
         "wikidata_id": "Q6363354",
         "name": "Kaniūkai",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwhp4p"
+        "freebase_id": "/m/0bwhp4p",
+        "lat": 54.41388889,
+        "lng": 24.68111111
     },
     {
         "wikidata_id": "Q7878595",
         "name": "Ukrinai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/02qcjmy"
+        "freebase_id": "/m/02qcjmy",
+        "lat": 56.3,
+        "lng": 22.1
     },
     {
         "wikidata_id": "Q5226345",
         "name": "Darželiai",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwfv5c"
+        "freebase_id": "/m/0bwfv5c",
+        "lat": 54.01666667,
+        "lng": 24.33333333
     },
     {
         "wikidata_id": "Q4938859",
         "name": "Bokštai",
         "description": "village in Dotnuva Eldership, Lithuania",
-        "freebase_id": "/m/0ch3mvd"
+        "freebase_id": "/m/0ch3mvd",
+        "lat": 55.41666667,
+        "lng": 23.84166667
     },
     {
         "wikidata_id": "Q4705511",
         "name": "Aladiškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhzjk"
+        "freebase_id": "/m/0bwhzjk",
+        "lat": 54.15222222,
+        "lng": 24.80944444
     },
     {
         "wikidata_id": "Q5612399",
         "name": "Grybaulia",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gzd6n"
+        "freebase_id": "/m/0gzd6n",
+        "lat": 53.999444444,
+        "lng": 24.361111111
     },
     {
         "wikidata_id": "Q4937974",
         "name": "Bogušiškiai",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch3hm_"
+        "freebase_id": "/m/0ch3hm_",
+        "lat": 55.31138889,
+        "lng": 23.92194444
     },
     {
         "wikidata_id": "Q5619997",
         "name": "Gureliai",
         "description": "village in Kulva Eldership, Lithuania",
-        "freebase_id": "/m/0gjb8sm"
+        "freebase_id": "/m/0gjb8sm",
+        "lat": 55.08277778,
+        "lng": 24.14916667
     },
     {
         "wikidata_id": "Q4838018",
         "name": "Babriškės",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwlgdv"
+        "freebase_id": "/m/0bwlgdv",
+        "lat": 54.32138889,
+        "lng": 24.50777778
     },
     {
         "wikidata_id": "Q4827362",
         "name": "Aušra",
         "description": "village in Dotnuva Eldership, Lithuania",
-        "freebase_id": "/m/0ch51fs"
+        "freebase_id": "/m/0ch51fs",
+        "lat": 55.36111111,
+        "lng": 23.87222222
     },
     {
         "wikidata_id": "Q6753572",
         "name": "Mančiagirė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwjxtv"
+        "freebase_id": "/m/0bwjxtv",
+        "lat": 54.13333333,
+        "lng": 24.46666667
     },
     {
         "wikidata_id": "Q8082827",
         "name": "Šlapaberžė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch27m3"
+        "freebase_id": "/m/0ch27m3",
+        "lat": 55.4222,
+        "lng": 23.9222
     },
     {
         "wikidata_id": "Q8082920",
         "name": "Šventoniškis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch27lr"
+        "freebase_id": "/m/0ch27lr",
+        "lat": 55.2542,
+        "lng": 23.9417
     },
     {
         "wikidata_id": "Q4886623",
         "name": "Jaugeliškiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwjqdx"
+        "freebase_id": "/m/0bwjqdx",
+        "lat": 55.12222222,
+        "lng": 24.30972222
     },
     {
         "wikidata_id": "Q7178719",
         "name": "Petrašiūnai",
         "description": "village in Bukonys Eldership, Lithuania",
-        "freebase_id": "/m/0fphcfk"
+        "freebase_id": "/m/0fphcfk",
+        "lat": 55.20683,
+        "lng": 24.32137
     },
     {
         "wikidata_id": "Q5533161",
         "name": "Geniai",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwgm2d"
+        "freebase_id": "/m/0bwgm2d",
+        "lat": 54.14694444,
+        "lng": 24.01111111
     },
     {
         "wikidata_id": "Q6758621",
         "name": "Mardasavas",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwl0yg"
+        "freebase_id": "/m/0bwl0yg",
+        "lat": 54.15,
+        "lng": 24.31666667
     },
     {
         "wikidata_id": "Q7129305",
         "name": "Pamerkiai",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwfndl"
+        "freebase_id": "/m/0bwfndl",
+        "lat": 54.31666667,
+        "lng": 24.71666667
     },
     {
         "wikidata_id": "Q4850216",
         "name": "Balbutai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwmj6n"
+        "freebase_id": "/m/0bwmj6n",
+        "lat": 53.96888889,
+        "lng": 24.73111111
     },
     {
         "wikidata_id": "Q5769645",
         "name": "Puodžiai",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwmdnm"
+        "freebase_id": "/m/0bwmdnm",
+        "lat": 54.35611111,
+        "lng": 24.63888889
     },
     {
         "wikidata_id": "Q4853009",
         "name": "Baltromiškė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgb64"
+        "freebase_id": "/m/0bwgb64",
+        "lat": 55.1,
+        "lng": 24.41666667
     },
     {
         "wikidata_id": "Q5614727",
         "name": "Gudžioniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhxh1"
+        "freebase_id": "/m/0bwhxh1",
+        "lat": 55.07888889,
+        "lng": 24.31916667
     },
     {
         "wikidata_id": "Q5617102",
         "name": "Kijučiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwfv5q"
+        "freebase_id": "/m/0bwfv5q",
+        "lat": 54.18333333,
+        "lng": 24.78333333
     },
     {
         "wikidata_id": "Q6449717",
         "name": "Kvetkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/03c86k9"
+        "freebase_id": "/m/03c86k9",
+        "lat": 56.133333333,
+        "lng": 25.133333333
     },
     {
         "wikidata_id": "Q5614574",
         "name": "Gudeliai",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwk3rw"
+        "freebase_id": "/m/0bwk3rw",
+        "lat": 54.09194444,
+        "lng": 24.15305556
     },
     {
         "wikidata_id": "Q5617110",
         "name": "Rudnia",
         "description": "village in Kaniava Eldership, Lithuania",
-        "freebase_id": "/m/0bwk1fs"
+        "freebase_id": "/m/0bwk1fs",
+        "lat": 54.06888889,
+        "lng": 24.66888889
     },
     {
         "wikidata_id": "Q6544200",
         "name": "Liepiai",
         "description": "village in Bukonys Eldership, Lithuania",
-        "freebase_id": "/m/0by17yd"
+        "freebase_id": "/m/0by17yd",
+        "lat": 55.18055556,
+        "lng": 24.30555556
     },
     {
         "wikidata_id": "Q7912686",
         "name": "Valtūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/02wvpql"
+        "freebase_id": "/m/02wvpql",
+        "lat": 55.291944444,
+        "lng": 24.941944444
     },
     {
         "wikidata_id": "Q7899509",
         "name": "Upytė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gz5cx"
+        "freebase_id": "/m/0gz5cx",
+        "lat": 55.65,
+        "lng": 24.2167
     },
     {
         "wikidata_id": "Q7930248",
         "name": "Vilkiautinis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwk7gw"
+        "freebase_id": "/m/0bwk7gw",
+        "lat": 54.1167,
+        "lng": 24.0167
     },
     {
         "wikidata_id": "Q7383688",
         "name": "Ručiūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0fph4nx"
+        "freebase_id": "/m/0fph4nx",
+        "lat": 55.13055556,
+        "lng": 24.19722222
     },
     {
         "wikidata_id": "Q5530106",
         "name": "Geidukonys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwfph5"
+        "freebase_id": "/m/0bwfph5",
+        "lat": 54.33333333,
+        "lng": 24.46666667
     },
     {
         "wikidata_id": "Q5222666",
         "name": "Dargužiai",
         "description": "village in Valkininkai Eldership, Lithuania",
-        "freebase_id": "/m/0bwkpcw"
+        "freebase_id": "/m/0bwkpcw",
+        "lat": 54.38611111,
+        "lng": 24.88333333
     },
     {
         "wikidata_id": "Q7334476",
         "name": "Rimkai",
         "description": "village in Kulva Eldership, Lithuania",
-        "freebase_id": "/m/0gj9t1s"
+        "freebase_id": "/m/0gj9t1s",
+        "lat": 55.07194444,
+        "lng": 24.23111111
     },
     {
         "wikidata_id": "Q7262551",
         "name": "Puvočiai",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwgc69"
+        "freebase_id": "/m/0bwgc69",
+        "lat": 54.11666667,
+        "lng": 24.3
     },
     {
         "wikidata_id": "Q6760581",
         "name": "Margionys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/06nvth"
+        "freebase_id": "/m/06nvth",
+        "lat": 54.0,
+        "lng": 24.283333333
     },
     {
         "wikidata_id": "Q5226346",
         "name": "Daržininkai",
         "description": "village in Valkininkai Eldership, Lithuania",
-        "freebase_id": "/m/0bwgyw2"
+        "freebase_id": "/m/0bwgyw2",
+        "lat": 54.32777778,
+        "lng": 24.88611111
     },
     {
         "wikidata_id": "Q4986715",
         "name": "Buivydžiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0cc6933"
+        "freebase_id": "/m/0cc6933",
+        "lat": 54.83888889,
+        "lng": 25.72222222
     },
     {
         "wikidata_id": "Q5620013",
         "name": "Pagilšys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwh5z_"
+        "freebase_id": "/m/0bwh5z_",
+        "lat": 54.21444444,
+        "lng": 24.19111111
     },
     {
         "wikidata_id": "Q5619999",
         "name": "Žiūrai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkyhh"
+        "freebase_id": "/m/0bwkyhh",
+        "lat": 54.1453,
+        "lng": 24.4047
     },
     {
         "wikidata_id": "Q5620149",
         "name": "Samūniškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwl46p"
+        "freebase_id": "/m/0bwl46p",
+        "lat": 54.20194444,
+        "lng": 24.145
     },
     {
         "wikidata_id": "Q5620360",
         "name": "Pilioniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch1w97"
+        "freebase_id": "/m/0ch1w97",
+        "lat": 55.46666667,
+        "lng": 23.8
     },
     {
         "wikidata_id": "Q5620484",
         "name": "Kriviliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhx6w"
+        "freebase_id": "/m/0bwhx6w",
+        "lat": 54.15,
+        "lng": 24.78333333
     },
     {
         "wikidata_id": "Q5620465",
         "name": "Sarapiniškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwm3l1"
+        "freebase_id": "/m/0bwm3l1",
+        "lat": 54.36666667,
+        "lng": 24.55
     },
     {
         "wikidata_id": "Q5620443",
         "name": "Zakavoliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwln7k"
+        "freebase_id": "/m/0bwln7k",
+        "lat": 54.176,
+        "lng": 24.173
     },
     {
         "wikidata_id": "Q5620513",
         "name": "Sablauskiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bxzm3l"
+        "freebase_id": "/m/0bxzm3l",
+        "lat": 56.24722222,
+        "lng": 22.86944444
     },
     {
         "wikidata_id": "Q5620695",
         "name": "Luksnėnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0by14b0"
+        "freebase_id": "/m/0by14b0",
+        "lat": 54.39722222,
+        "lng": 23.93055556
     },
     {
         "wikidata_id": "Q5620763",
         "name": "Miklusėnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bxzx1g"
+        "freebase_id": "/m/0bxzx1g",
+        "lat": 54.44166667,
+        "lng": 23.99722222
     },
     {
         "wikidata_id": "Q4859714",
         "name": "Barborlaukis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkm9y"
+        "freebase_id": "/m/0bwkm9y",
+        "lat": 55.03305556,
+        "lng": 24.2775
     },
     {
         "wikidata_id": "Q5768719",
         "name": "Šklėriai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwk64j"
+        "freebase_id": "/m/0bwk64j",
+        "lat": 53.9778,
+        "lng": 24.2389
     },
     {
         "wikidata_id": "Q8079692",
         "name": "Čebatoriai",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwfndy"
+        "freebase_id": "/m/0bwfndy",
+        "lat": 54.2944,
+        "lng": 24.8556
     },
     {
         "wikidata_id": "Q7376123",
         "name": "Rubikiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0fc71p"
+        "freebase_id": "/m/0fc71p",
+        "lat": 55.51666667,
+        "lng": 25.25
     },
     {
         "wikidata_id": "Q6363094",
         "name": "Kaniavėlė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhhct"
+        "freebase_id": "/m/0bwhhct",
+        "lat": 54.13611111,
+        "lng": 24.73888889
     },
     {
         "wikidata_id": "Q5227983",
         "name": "Daukšiai",
         "description": "village in Kėdainiai City Eldership, Lithuania",
-        "freebase_id": "/m/0ch47ck"
+        "freebase_id": "/m/0ch47ck",
+        "lat": 55.33888889,
+        "lng": 23.93888889
     },
     {
         "wikidata_id": "Q5518705",
         "name": "Galiniai",
         "description": "village in Griškabūdis Eldership, Lithuania",
-        "freebase_id": "/m/05b5dhd"
+        "freebase_id": "/m/05b5dhd",
+        "lat": 54.228055555,
+        "lng": 23.388888888
     },
     {
         "wikidata_id": "Q6454424",
         "name": "Kėboniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch46dq"
+        "freebase_id": "/m/0ch46dq",
+        "lat": 55.30833333,
+        "lng": 23.91944444
     },
     {
         "wikidata_id": "Q6843793",
         "name": "Mielupiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgglj"
+        "freebase_id": "/m/0bwgglj",
+        "lat": 54.30777778,
+        "lng": 24.76638889
     },
     {
         "wikidata_id": "Q8145807",
         "name": "Ilgininkai",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwlc0c"
+        "freebase_id": "/m/0bwlc0c",
+        "lat": 54.26666667,
+        "lng": 24.18333333
     },
     {
         "wikidata_id": "Q5308784",
         "name": "Druckūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwj6y0"
+        "freebase_id": "/m/0bwj6y0",
+        "lat": 54.28333333,
+        "lng": 24.45
     },
     {
         "wikidata_id": "Q7206355",
         "name": "Pociūnai",
         "description": "village in Pakalniškiai Eldership, Lithuania",
-        "freebase_id": "/m/0nhht79"
+        "freebase_id": "/m/0nhht79",
+        "lat": 55.78611111,
+        "lng": 23.94194444
     },
     {
         "wikidata_id": "Q5533202",
         "name": "Genionys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgrt6"
+        "freebase_id": "/m/0bwgrt6",
+        "lat": 54.38333333,
+        "lng": 24.55
     },
     {
         "wikidata_id": "Q5000274",
         "name": "Burokaraistis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhknv"
+        "freebase_id": "/m/0bwhknv",
+        "lat": 54.21111111,
+        "lng": 24.33277778
     },
     {
         "wikidata_id": "Q5564125",
         "name": "Giraitė",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwgw92"
+        "freebase_id": "/m/0bwgw92",
+        "lat": 54.27388889,
+        "lng": 24.65888889
     },
     {
         "wikidata_id": "Q6428900",
         "name": "Konceptas",
         "description": "village in Šilai Eldership, Lithuania",
-        "freebase_id": "/m/0by0_x3"
+        "freebase_id": "/m/0by0_x3",
+        "lat": 55.11583333,
+        "lng": 24.29833333
     },
     {
         "wikidata_id": "Q7908902",
         "name": "Vaivadiškiai",
         "description": "village in Buykonys Eldership, Lithuania",
-        "freebase_id": "/m/0bx_dc6"
+        "freebase_id": "/m/0bx_dc6",
+        "lat": 55.1472,
+        "lng": 24.275
     },
     {
         "wikidata_id": "Q6668779",
         "name": "Lokys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0cnzxj4"
+        "freebase_id": "/m/0cnzxj4",
+        "lat": 55.12166667,
+        "lng": 24.30888889
     },
     {
         "wikidata_id": "Q4865348",
         "name": "Bartkūniškiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch25dy"
+        "freebase_id": "/m/0ch25dy",
+        "lat": 55.30555556,
+        "lng": 23.92666667
     },
     {
         "wikidata_id": "Q4865721",
         "name": "Bartoniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwfyy_"
+        "freebase_id": "/m/0bwfyy_",
+        "lat": 55.05,
+        "lng": 24.18333333
     },
     {
         "wikidata_id": "Q5310758",
         "name": "Dubininkas",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwkjsf"
+        "freebase_id": "/m/0bwkjsf",
+        "lat": 54.09722222,
+        "lng": 24.28333333
     },
     {
         "wikidata_id": "Q5310780",
         "name": "Dubičiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwlpjq"
+        "freebase_id": "/m/0bwlpjq",
+        "lat": 54.01888889,
+        "lng": 24.74694444
     },
     {
         "wikidata_id": "Q4759416",
         "name": "Andriūnai",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwk1ff"
+        "freebase_id": "/m/0bwk1ff",
+        "lat": 54.354,
+        "lng": 24.403
     },
     {
         "wikidata_id": "Q5573719",
         "name": "Glūkas",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhybr"
+        "freebase_id": "/m/0bwhybr",
+        "lat": 54.29,
+        "lng": 24.56111111
     },
     {
         "wikidata_id": "Q5226347",
         "name": "Daržinėlės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwh3qb"
+        "freebase_id": "/m/0bwh3qb",
+        "lat": 53.94166667,
+        "lng": 24.27777778
     },
     {
         "wikidata_id": "Q5621201",
         "name": "Nedzingė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwjntw"
+        "freebase_id": "/m/0bwjntw",
+        "lat": 54.25,
+        "lng": 24.33333333
     },
     {
         "wikidata_id": "Q4865150",
         "name": "Barteliai",
         "description": "village in Jakėnai Eldership, Lithuania",
-        "freebase_id": "/m/0bwgkzx"
+        "freebase_id": "/m/0bwgkzx",
+        "lat": 54.31388889,
+        "lng": 24.67194444
     },
     {
         "wikidata_id": "Q4833549",
         "name": "Ažuožeriai",
         "description": "village in Anykščiai District, Lithuania",
-        "freebase_id": "/m/0by0_sv"
+        "freebase_id": "/m/0by0_sv",
+        "lat": 55.50277778,
+        "lng": 25.03333333
     },
     {
         "wikidata_id": "Q7917596",
         "name": "Vazgaikiemis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0gj8y0h"
+        "freebase_id": "/m/0gj8y0h",
+        "lat": 54.5811,
+        "lng": 23.8861
     },
     {
         "wikidata_id": "Q5620494",
         "name": "Čižiūnai",
         "description": "village in Valkininkai Eldership, Lithuania",
-        "freebase_id": "/m/0bwgw9f"
+        "freebase_id": "/m/0bwgw9f",
+        "lat": 54.3639,
+        "lng": 24.8472
     },
     {
         "wikidata_id": "Q7260193",
         "name": "Punia",
         "description": "historic village in south central Lithuania",
-        "freebase_id": "/m/07vmcr"
+        "freebase_id": "/m/07vmcr",
+        "lat": 54.511111111,
+        "lng": 24.1
     },
     {
         "wikidata_id": "Q5003168",
         "name": "Butvydonys",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwhp49"
+        "freebase_id": "/m/0bwhp49",
+        "lat": 54.26666667,
+        "lng": 24.81666667
     },
     {
         "wikidata_id": "Q5274298",
         "name": "Didžiosios Kabiškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/02pv8fs"
+        "freebase_id": "/m/02pv8fs",
+        "lat": 54.872222222,
+        "lng": 25.452777777
     },
     {
         "wikidata_id": "Q7067512",
         "name": "Noškūnai",
         "description": "village in Kaniava Eldership, Lithuania",
-        "freebase_id": "/m/0bwf_ww"
+        "freebase_id": "/m/0bwf_ww",
+        "lat": 54.125,
+        "lng": 24.64694444
     },
     {
         "wikidata_id": "Q7060724",
         "name": "Noruliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwm13t"
+        "freebase_id": "/m/0bwm13t",
+        "lat": 54.1,
+        "lng": 24.21666667
     },
     {
         "wikidata_id": "Q6850405",
         "name": "Milagainiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bxz7hx"
+        "freebase_id": "/m/0bxz7hx",
+        "lat": 55.18888889,
+        "lng": 24.38055556
     },
     {
         "wikidata_id": "Q6374939",
         "name": "Kasčiūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwg6jx"
+        "freebase_id": "/m/0bwg6jx",
+        "lat": 54.11111111,
+        "lng": 24.26888889
     },
     {
         "wikidata_id": "Q4896152",
         "name": "Beržai",
         "description": "village in Dotnuva Eldership, Lithuania",
-        "freebase_id": "/m/0ch4w6w"
+        "freebase_id": "/m/0ch4w6w",
+        "lat": 55.4,
+        "lng": 23.89722222
     },
     {
         "wikidata_id": "Q5561859",
         "name": "Giliogiris",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0nbttd7"
+        "freebase_id": "/m/0nbttd7",
+        "lat": 55.75,
+        "lng": 22.00805556
     },
     {
         "wikidata_id": "Q5614731",
         "name": "Gudžiai",
         "description": "village in Varėna Eldership, Lithuania",
-        "freebase_id": "/m/0bwk8f9"
+        "freebase_id": "/m/0bwk8f9",
+        "lat": 54.31666667,
+        "lng": 24.45
     },
     {
         "wikidata_id": "Q6843987",
         "name": "Miežionys",
         "description": "village in Dūkštos Eldership, Lithuania",
-        "freebase_id": "/m/04yc0yh"
+        "freebase_id": "/m/04yc0yh",
+        "lat": 54.858333333,
+        "lng": 24.888888888
     },
     {
         "wikidata_id": "Q7471240",
         "name": "Venciūnai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bxyzxl"
+        "freebase_id": "/m/0bxyzxl",
+        "lat": 54.3833,
+        "lng": 24.1333
     },
     {
         "wikidata_id": "Q7471357",
         "name": "Ūdrija",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bx_lds"
+        "freebase_id": "/m/0bx_lds",
+        "lat": 54.4389,
+        "lng": 23.8778
     },
     {
         "wikidata_id": "Q7142284",
         "name": "Pasoda",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0by0mp4"
+        "freebase_id": "/m/0by0mp4",
+        "lat": 55.19833333,
+        "lng": 24.36694444
     },
     {
         "wikidata_id": "Q7155845",
         "name": "Paversekis",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwk0bg"
+        "freebase_id": "/m/0bwk0bg",
+        "lat": 54.26222222,
+        "lng": 24.82333333
     },
     {
         "wikidata_id": "Q7065107",
         "name": "Novočėbė",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0ch57r7"
+        "freebase_id": "/m/0ch57r7",
+        "lat": 55.27055556,
+        "lng": 23.9075
     },
     {
         "wikidata_id": "Q5423546",
         "name": "Ežeriekai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwmkcz"
+        "freebase_id": "/m/0bwmkcz",
+        "lat": 54.276,
+        "lng": 24.485
     },
     {
         "wikidata_id": "Q8083627",
         "name": "Žeimiai",
         "description": "village in Merkinė Eldership, Lithuania",
-        "freebase_id": "/m/0bwhkpj"
+        "freebase_id": "/m/0bwhkpj",
+        "lat": 54.0692,
+        "lng": 24.1075
     },
     {
         "wikidata_id": "Q9108364",
         "name": "Renavas",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0s97w36"
+        "freebase_id": "/m/0s97w36",
+        "lat": 56.25,
+        "lng": 22.06666667
     },
     {
         "wikidata_id": "Q6315094",
         "name": "Jurgiškės",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwgfd4"
+        "freebase_id": "/m/0bwgfd4",
+        "lat": 54.26666667,
+        "lng": 24.73333333
     },
     {
         "wikidata_id": "Q7357492",
         "name": "Roduka",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwjxv5"
+        "freebase_id": "/m/0bwjxv5",
+        "lat": 54.11666667,
+        "lng": 24.25
     },
     {
         "wikidata_id": "Q5314005",
         "name": "Dumsiai",
         "description": "village in Šveicarija Eldership, Lithuania",
-        "freebase_id": "/m/0bwlc87"
+        "freebase_id": "/m/0bwlc87",
+        "lat": 55.03333333,
+        "lng": 24.3
     },
     {
         "wikidata_id": "Q5247185",
         "name": "Matuizos",
         "description": "village in Matuizos Eldership, Lithuania",
-        "freebase_id": "/m/0bwm61h"
+        "freebase_id": "/m/0bwm61h",
+        "lat": 54.28333333,
+        "lng": 24.68333333
     },
     {
         "wikidata_id": "Q4873404",
         "name": "Batėgala",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwgwm2"
+        "freebase_id": "/m/0bwgwm2",
+        "lat": 55.04444444,
+        "lng": 24.11111111
     },
     {
         "wikidata_id": "Q7127524",
         "name": "Paliepiai",
         "description": "village in Raseiniai District, Lithuania",
-        "freebase_id": "/m/0273d1f"
+        "freebase_id": "/m/0273d1f",
+        "lat": 55.377777777,
+        "lng": 22.969444444
     },
     {
         "wikidata_id": "Q4875198",
         "name": "Bazilioniai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwj3g2"
+        "freebase_id": "/m/0bwj3g2",
+        "lat": 55.08888889,
+        "lng": 24.30805556
     },
     {
         "wikidata_id": "Q6861976",
         "name": "Mimainiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bx_lwp"
+        "freebase_id": "/m/0bx_lwp",
+        "lat": 55.24444444,
+        "lng": 24.34444444
     },
     {
         "wikidata_id": "Q499318",
         "name": "Prienai",
         "description": "city in Kaunas County, Lithuania",
-        "freebase_id": "/m/037sjy"
+        "freebase_id": "/m/037sjy",
+        "lat": 54.633333333,
+        "lng": 23.95
     },
     {
         "wikidata_id": "Q391626",
         "name": "Šilutė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/05xpqy"
+        "freebase_id": "/m/05xpqy",
+        "lat": 55.35,
+        "lng": 21.483333333
     },
     {
         "wikidata_id": "Q12657366",
         "name": "Jauniūnai",
         "description": "No description available",
-        "freebase_id": "/m/0125zy0_"
+        "freebase_id": "/m/0125zy0_",
+        "lat": 54.9389,
+        "lng": 25.0139
     },
     {
         "wikidata_id": "Q852272",
         "name": "Vilkaviškis",
         "description": "city in Marijampolė County, Lithuania",
-        "freebase_id": "/m/0g0kqj"
+        "freebase_id": "/m/0g0kqj",
+        "lat": 54.666666666,
+        "lng": 23.033333333
     },
     {
         "wikidata_id": "Q393332",
         "name": "Žagarė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/039ryx"
+        "freebase_id": "/m/039ryx",
+        "lat": 56.358333333,
+        "lng": 23.25
     },
     {
         "wikidata_id": "Q835848",
         "name": "Naujoji Akmenė",
         "description": "city",
-        "freebase_id": "/m/0b8f7v"
+        "freebase_id": "/m/0b8f7v",
+        "lat": 56.316666666,
+        "lng": 22.883333333
     },
     {
         "wikidata_id": "Q3515138",
         "name": "Napoleon's Hill",
         "description": "No description available",
-        "freebase_id": "/m/027ryqg"
+        "freebase_id": "/m/027ryqg",
+        "lat": 54.86194444,
+        "lng": 23.92611111
     },
     {
         "wikidata_id": "Q776965",
         "name": "Klaipėda",
         "description": "port city in Lithuania",
-        "freebase_id": "/m/01523_"
+        "freebase_id": "/m/01523_",
+        "lat": 55.7125,
+        "lng": 21.135
     },
     {
         "wikidata_id": "Q161890",
         "name": "Veliuona",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0bdqs4"
+        "freebase_id": "/m/0bdqs4",
+        "lat": 55.082222,
+        "lng": 23.271111
     },
     {
         "wikidata_id": "Q134712",
         "name": "Šiauliai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0247rk"
+        "freebase_id": "/m/0247rk",
+        "lat": 55.928055555,
+        "lng": 23.316666666
     },
     {
         "wikidata_id": "Q10564018",
         "name": "Kuigaliai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwfwly"
+        "freebase_id": "/m/0bwfwly",
+        "lat": 55.18138889,
+        "lng": 24.09722222
     },
     {
         "wikidata_id": "Q10564057",
         "name": "Išorai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bwmg5z"
+        "freebase_id": "/m/0bwmg5z",
+        "lat": 54.99722,
+        "lng": 24.13361
     },
     {
         "wikidata_id": "Q658562",
         "name": "Raseiniai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0cqvth"
+        "freebase_id": "/m/0cqvth",
+        "lat": 55.366666666,
+        "lng": 23.116666666
     },
     {
         "wikidata_id": "Q58880",
         "name": "Eišiškės",
         "description": "city in southeastern Lithuania",
-        "freebase_id": "/m/0b5020"
+        "freebase_id": "/m/0b5020",
+        "lat": 54.166666666,
+        "lng": 25.0
     },
     {
         "wikidata_id": "Q2089619",
         "name": "Ramygala",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0g3nzj"
+        "freebase_id": "/m/0g3nzj",
+        "lat": 55.511111111,
+        "lng": 24.302777777
     },
     {
         "wikidata_id": "Q2356396",
         "name": "Šeduva",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0g3tgs"
+        "freebase_id": "/m/0g3tgs",
+        "lat": 55.766666666,
+        "lng": 23.75
     },
     {
         "wikidata_id": "Q303374",
         "name": "Panemunė",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0ghjqv"
+        "freebase_id": "/m/0ghjqv",
+        "lat": 55.088889,
+        "lng": 21.911111
     },
     {
         "wikidata_id": "Q1015264",
         "name": "Rumšiškės",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/09fyf7"
+        "freebase_id": "/m/09fyf7",
+        "lat": 54.863888888,
+        "lng": 24.216666666
     },
     {
         "wikidata_id": "Q643376",
         "name": "Pagėgiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0bcsv5"
+        "freebase_id": "/m/0bcsv5",
+        "lat": 55.136111111,
+        "lng": 21.905555555
     },
     {
         "wikidata_id": "Q147750",
         "name": "Zarasai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g0lbk"
+        "freebase_id": "/m/0g0lbk",
+        "lat": 55.730555555,
+        "lng": 26.247222222
     },
     {
         "wikidata_id": "Q1656534",
         "name": "Užventis",
         "description": "city in Samogitia, Lithuania",
-        "freebase_id": "/m/0g34b7"
+        "freebase_id": "/m/0g34b7",
+        "lat": 55.783333333,
+        "lng": 22.65
     },
     {
         "wikidata_id": "Q672238",
         "name": "Laukuva",
         "description": "town",
-        "freebase_id": "/m/0cmb27t"
+        "freebase_id": "/m/0cmb27t",
+        "lat": 55.61944444,
+        "lng": 22.23333333
     },
     {
         "wikidata_id": "Q3284743",
         "name": "Skaudvilė",
         "description": "city in Samogitia, Lithuania",
-        "freebase_id": "/m/0g90rw"
+        "freebase_id": "/m/0g90rw",
+        "lat": 55.4075,
+        "lng": 22.5825
     },
     {
         "wikidata_id": "Q804035",
         "name": "Biržai",
         "description": "town",
-        "freebase_id": "/m/0b4xgt"
+        "freebase_id": "/m/0b4xgt",
+        "lat": 56.2,
+        "lng": 24.75
     },
     {
         "wikidata_id": "Q1788115",
         "name": "Kretinga",
         "description": "city in Samogitia, Lithuania",
-        "freebase_id": "/m/067znx"
+        "freebase_id": "/m/067znx",
+        "lat": 55.894211111,
+        "lng": 21.247172222
     },
     {
         "wikidata_id": "Q991540",
         "name": "Kurkliai",
         "description": "town in Anykščiai District Municipality, Lithuania",
-        "freebase_id": "/m/0by1w34"
+        "freebase_id": "/m/0by1w34",
+        "lat": 55.411111111,
+        "lng": 25.066666666
     },
     {
         "wikidata_id": "Q203675",
         "name": "Mažeikiai",
         "description": "city in the north-western Lithuania",
-        "freebase_id": "/m/04t71c"
+        "freebase_id": "/m/04t71c",
+        "lat": 56.311111111,
+        "lng": 22.336111111
     },
     {
         "wikidata_id": "Q1351046",
         "name": "Marijampolė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/01s350"
+        "freebase_id": "/m/01s350",
+        "lat": 54.556666666,
+        "lng": 23.354444444
     },
     {
         "wikidata_id": "Q505416",
         "name": "Anykščiai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/09v0hw"
+        "freebase_id": "/m/09v0hw",
+        "lat": 55.534444444,
+        "lng": 25.107222222
     },
     {
         "wikidata_id": "Q4115712",
         "name": "Kaunas",
         "description": "city and administrative center of Kaunas County in Lithuania",
-        "freebase_id": "/m/0171b8"
+        "freebase_id": "/m/0171b8",
+        "lat": 54.9,
+        "lng": 23.933333333
     },
     {
         "wikidata_id": "Q1987043",
         "name": "Obeliai",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0g5kmw"
+        "freebase_id": "/m/0g5kmw",
+        "lat": 55.941666666,
+        "lng": 25.8
     },
     {
         "wikidata_id": "Q393821",
         "name": "Žemaičių Kalvarija",
         "description": "town in Plungė District Municipality, Lithuania",
-        "freebase_id": "/m/03c1nq6"
+        "freebase_id": "/m/03c1nq6",
+        "lat": 56.116666666,
+        "lng": 22.016666666
     },
     {
         "wikidata_id": "Q729603",
         "name": "Gražiškiai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0fp_bnj"
+        "freebase_id": "/m/0fp_bnj",
+        "lat": 54.46944444,
+        "lng": 22.92222222
     },
     {
         "wikidata_id": "Q1024671",
         "name": "Troškūnai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0ghl1c"
+        "freebase_id": "/m/0ghl1c",
+        "lat": 55.586111111,
+        "lng": 24.869444444
     },
     {
         "wikidata_id": "Q1024676",
         "name": "Tytuvėnai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g84xd"
+        "freebase_id": "/m/0g84xd",
+        "lat": 55.6,
+        "lng": 23.2
     },
     {
         "wikidata_id": "Q1024673",
         "name": "Virbalis",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0gbl6n"
+        "freebase_id": "/m/0gbl6n",
+        "lat": 54.624272222,
+        "lng": 22.818061111
     },
     {
         "wikidata_id": "Q393483",
         "name": "Žeimiai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/064lc4z"
+        "freebase_id": "/m/064lc4z",
+        "lat": 55.180555555,
+        "lng": 24.222222222
     },
     {
         "wikidata_id": "Q379669",
         "name": "Viekšniai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g90bt"
+        "freebase_id": "/m/0g90bt",
+        "lat": 56.238888888,
+        "lng": 22.513888888
     },
     {
         "wikidata_id": "Q1104010",
         "name": "Venta",
         "description": "city in Lithuania",
-        "freebase_id": "/m/09lr2g"
+        "freebase_id": "/m/09lr2g",
+        "lat": 56.191666666,
+        "lng": 22.7
     },
     {
         "wikidata_id": "Q835843",
         "name": "Varėna",
         "description": "city in Lithuania",
-        "freebase_id": "/m/03k2wf"
+        "freebase_id": "/m/03k2wf",
+        "lat": 54.216666666,
+        "lng": 24.566666666
     },
     {
         "wikidata_id": "Q924878",
         "name": "Dovilai",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0fq2w72"
+        "freebase_id": "/m/0fq2w72",
+        "lat": 55.67777778,
+        "lng": 21.35555556
     },
     {
         "wikidata_id": "Q193787",
         "name": "Tauragė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/04hqs0"
+        "freebase_id": "/m/04hqs0",
+        "lat": 55.25,
+        "lng": 22.283333333
     },
     {
         "wikidata_id": "Q853452",
         "name": "Bezdonys",
         "description": "town",
-        "freebase_id": "/m/04j9vfw"
+        "freebase_id": "/m/04j9vfw",
+        "lat": 54.805556,
+        "lng": 25.516667
     },
     {
         "wikidata_id": "Q949809",
         "name": "Vėžaičiai",
         "description": "town in Klaipėda District Municipality, Lithuania",
-        "freebase_id": "/m/0fq0n1r"
+        "freebase_id": "/m/0fq0n1r",
+        "lat": 55.7167,
+        "lng": 21.475
     },
     {
         "wikidata_id": "Q1010331",
         "name": "Rukla",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/064n50x"
+        "freebase_id": "/m/064n50x",
+        "lat": 55.052777777,
+        "lng": 24.377777777
     },
     {
         "wikidata_id": "Q1025861",
         "name": "Subačius",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0gg81j"
+        "freebase_id": "/m/0gg81j",
+        "lat": 55.769444444,
+        "lng": 24.741666666
     },
     {
         "wikidata_id": "Q1004302",
         "name": "Pakruojis",
         "description": "city",
-        "freebase_id": "/m/02s_my"
+        "freebase_id": "/m/02s_my",
+        "lat": 55.983333333,
+        "lng": 23.85
     },
     {
         "wikidata_id": "Q2045352",
         "name": "Baltoji Vokė",
         "description": "city in Dzūkija, Lithuania",
-        "freebase_id": "/m/0gh5x4"
+        "freebase_id": "/m/0gh5x4",
+        "lat": 54.45,
+        "lng": 25.116666666
     },
     {
         "wikidata_id": "Q118910",
         "name": "Nemenčinė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g3nwq"
+        "freebase_id": "/m/0g3nwq",
+        "lat": 54.85,
+        "lng": 25.466666666
     },
     {
         "wikidata_id": "Q11021582",
         "name": "Plikiškiai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0108dlxw"
+        "freebase_id": "/m/0108dlxw",
+        "lat": 56.3361,
+        "lng": 23.6639
     },
     {
         "wikidata_id": "Q957530",
         "name": "Molėtai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/06rzbz"
+        "freebase_id": "/m/06rzbz",
+        "lat": 55.233333333,
+        "lng": 25.416666666
     },
     {
         "wikidata_id": "Q213127",
         "name": "Ukmergė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/03llvs"
+        "freebase_id": "/m/03llvs",
+        "lat": 55.25,
+        "lng": 24.766666666
     },
     {
         "wikidata_id": "Q1825231",
         "name": "Kuliai",
         "description": "town in Telšiai County, Lithuania",
-        "freebase_id": "/m/0h7qfr3"
+        "freebase_id": "/m/0h7qfr3",
+        "lat": 55.8,
+        "lng": 21.65305556
     },
     {
         "wikidata_id": "Q2390606",
         "name": "Senieji Trakai Castle",
         "description": "located in Senieji Trakai, 4 km southeast from Trakai",
-        "freebase_id": "/m/0f_86p"
+        "freebase_id": "/m/0f_86p",
+        "lat": 54.605,
+        "lng": 24.98416667
     },
     {
         "wikidata_id": "Q2356424",
         "name": "Joniškėlis",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0gbkmn"
+        "freebase_id": "/m/0gbkmn",
+        "lat": 56.025,
+        "lng": 24.169444444
     },
     {
         "wikidata_id": "Q779235",
         "name": "Skiemonys",
         "description": "town",
-        "freebase_id": "/m/0bxzm6t"
+        "freebase_id": "/m/0bxzm6t",
+        "lat": 55.41666667,
+        "lng": 25.275
     },
     {
         "wikidata_id": "Q2375484",
         "name": "Pandėlys",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0gg7k0"
+        "freebase_id": "/m/0gg7k0",
+        "lat": 56.022222222,
+        "lng": 25.225
     },
     {
         "wikidata_id": "Q12672699",
         "name": "Senovė",
         "description": "village in Marcinkonys Eldership, Lithuania",
-        "freebase_id": "/m/0bwhhdh"
+        "freebase_id": "/m/0bwhhdh",
+        "lat": 53.95416667,
+        "lng": 24.23861111
     },
     {
         "wikidata_id": "Q658218",
         "name": "Ignalina",
         "description": "city in Lithuania",
-        "freebase_id": "/m/06rzdq"
+        "freebase_id": "/m/06rzdq",
+        "lat": 55.34,
+        "lng": 26.156666666
     },
     {
         "wikidata_id": "Q277936",
         "name": "Kudirkos Naumiestis",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g9cdb"
+        "freebase_id": "/m/0g9cdb",
+        "lat": 54.775,
+        "lng": 22.866666666
     },
     {
         "wikidata_id": "Q743218",
         "name": "Jonava",
         "description": "city in Kaunas County, Lithuania",
-        "freebase_id": "/m/07mqz1"
+        "freebase_id": "/m/07mqz1",
+        "lat": 55.072222222,
+        "lng": 24.280555555
     },
     {
         "wikidata_id": "Q203892",
         "name": "Visaginas",
         "description": "town in Lithuania",
-        "freebase_id": "/m/048b66"
+        "freebase_id": "/m/048b66",
+        "lat": 55.6,
+        "lng": 26.433333333
     },
     {
         "wikidata_id": "Q2222616",
         "name": "Telšiai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/02s6_s"
+        "freebase_id": "/m/02s6_s",
+        "lat": 55.98333333,
+        "lng": 22.25
     },
     {
         "wikidata_id": "Q15057340",
         "name": "Mačiuliškės",
         "description": "village in Lavoriškės Eldership, Lithuania",
-        "freebase_id": "/m/0y639c1"
+        "freebase_id": "/m/0y639c1",
+        "lat": 54.70388889,
+        "lng": 25.69305556
     },
     {
         "wikidata_id": "Q1994818",
         "name": "Vilkija",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0g8_r4"
+        "freebase_id": "/m/0g8_r4",
+        "lat": 55.041666666,
+        "lng": 23.586111111
     },
     {
         "wikidata_id": "Q621181",
         "name": "Varniai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0fk1fd"
+        "freebase_id": "/m/0fk1fd",
+        "lat": 55.733333333,
+        "lng": 22.366666666
     },
     {
         "wikidata_id": "Q658230",
         "name": "Kelmė",
         "description": "city in central Lithuania",
-        "freebase_id": "/m/03p2f5"
+        "freebase_id": "/m/03p2f5",
+        "lat": 55.633333333,
+        "lng": 22.933333333
     },
     {
         "wikidata_id": "Q259272",
         "name": "Gargždai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0b7gtw"
+        "freebase_id": "/m/0b7gtw",
+        "lat": 55.7,
+        "lng": 21.4
     },
     {
         "wikidata_id": "Q950639",
         "name": "Grigiškės",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0b7gn_"
+        "freebase_id": "/m/0b7gn_",
+        "lat": 54.669444444,
+        "lng": 25.091666666
     },
     {
         "wikidata_id": "Q2044578",
         "name": "Daugai",
         "description": "city in Dzūkija, Lithuania",
-        "freebase_id": "/m/0g5jw1"
+        "freebase_id": "/m/0g5jw1",
+        "lat": 54.361111111,
+        "lng": 24.344444444
     },
     {
         "wikidata_id": "Q1004320",
         "name": "Ariogala",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0b7gt5"
+        "freebase_id": "/m/0b7gt5",
+        "lat": 55.266666666,
+        "lng": 23.483333333
     },
     {
         "wikidata_id": "Q1004312",
         "name": "Garliava",
         "description": "city in Kaunas District Municipality, Lithuania",
-        "freebase_id": "/m/0f_rgs"
+        "freebase_id": "/m/0f_rgs",
+        "lat": 54.816666666,
+        "lng": 23.866666666
     },
     {
         "wikidata_id": "Q1004298",
         "name": "Kalvarija",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0c2npg"
+        "freebase_id": "/m/0c2npg",
+        "lat": 54.414722222,
+        "lng": 23.228055555
     },
     {
         "wikidata_id": "Q1004295",
         "name": "Kybartai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g36n5"
+        "freebase_id": "/m/0g36n5",
+        "lat": 54.638888888,
+        "lng": 22.755555555
     },
     {
         "wikidata_id": "Q1004328",
         "name": "Pabradė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g3h0q"
+        "freebase_id": "/m/0g3h0q",
+        "lat": 54.983333333,
+        "lng": 25.766666666
     },
     {
         "wikidata_id": "Q1004332",
         "name": "Vievis",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0g3pvb"
+        "freebase_id": "/m/0g3pvb",
+        "lat": 54.773611111,
+        "lng": 24.816388888
     },
     {
         "wikidata_id": "Q4821668",
         "name": "Aukštupėnai mound",
         "description": "place in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0gkyyzg"
+        "freebase_id": "/m/0gkyyzg",
+        "lat": 55.84772222,
+        "lng": 24.97561111
     },
     {
         "wikidata_id": "Q12653277",
         "name": "Dreverna",
         "description": "village in Klaipėda District, Klaipėda County, Lithuania",
-        "freebase_id": "/m/012hmrbt"
+        "freebase_id": "/m/012hmrbt",
+        "lat": 55.5169,
+        "lng": 21.2469
     },
     {
         "wikidata_id": "Q3284738",
         "name": "Gelgaudiškis",
         "description": "city in Sudovia, Lithuania",
-        "freebase_id": "/m/0g48kr"
+        "freebase_id": "/m/0g48kr",
+        "lat": 55.075,
+        "lng": 22.975
     },
     {
         "wikidata_id": "Q606181",
         "name": "Švėkšna",
         "description": "town in the Šilutė District municipality, Lithuania",
-        "freebase_id": "/m/03wgzt8"
+        "freebase_id": "/m/03wgzt8",
+        "lat": 55.516666666,
+        "lng": 21.627777777
     },
     {
         "wikidata_id": "Q12665773",
         "name": "Mockava",
         "description": "village in Lithuania",
-        "freebase_id": "/m/04zxdj4"
+        "freebase_id": "/m/04zxdj4",
+        "lat": 54.308333333,
+        "lng": 23.305555555
     },
     {
         "wikidata_id": "Q58790",
         "name": "Rūdiškės",
         "description": "human settlement",
-        "freebase_id": "/m/0g8z_9"
+        "freebase_id": "/m/0g8z_9",
+        "lat": 54.513888888,
+        "lng": 24.827777777
     },
     {
         "wikidata_id": "Q2007516",
         "name": "Voruta",
         "description": "purported historical capital of Lithuania",
-        "freebase_id": "/m/05gtxp"
+        "freebase_id": "/m/05gtxp",
+        "lat": 55.54555556,
+        "lng": 25.13861111
     },
     {
         "wikidata_id": "Q286554",
         "name": "Elektrėnai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0bjx10"
+        "freebase_id": "/m/0bjx10",
+        "lat": 54.788611111,
+        "lng": 24.661230555
     },
     {
         "wikidata_id": "Q12660998",
         "name": "Kolainiai",
         "description": "village in Samogitia, Lithuania",
-        "freebase_id": "/m/010xc8_v"
+        "freebase_id": "/m/010xc8_v",
+        "lat": 55.75,
+        "lng": 22.6
     },
     {
         "wikidata_id": "Q215315",
         "name": "Kernavė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/019tn5"
+        "freebase_id": "/m/019tn5",
+        "lat": 54.883333333,
+        "lng": 24.85
     },
     {
         "wikidata_id": "Q3657",
         "name": "Rietavas",
         "description": "city in Lithuania",
-        "freebase_id": "/m/089lf0"
+        "freebase_id": "/m/089lf0",
+        "lat": 55.725,
+        "lng": 21.927777777
     },
     {
         "wikidata_id": "Q1892074",
         "name": "Simnas",
         "description": "city in Dzūkija, Lithuania",
-        "freebase_id": "/m/0g82zw"
+        "freebase_id": "/m/0g82zw",
+        "lat": 54.383333333,
+        "lng": 23.65
     },
     {
         "wikidata_id": "Q223726",
         "name": "Hill of Crosses",
         "description": "pilgrimage site in northern Lithuania",
-        "freebase_id": "/m/06clsc"
+        "freebase_id": "/m/06clsc",
+        "lat": 56.015278,
+        "lng": 23.416667
     },
     {
         "wikidata_id": "Q1005527",
         "name": "Siesikai",
         "description": "town",
-        "freebase_id": "/m/0gkxqgh"
+        "freebase_id": "/m/0gkxqgh",
+        "lat": 55.3,
+        "lng": 24.5
     },
     {
         "wikidata_id": "Q392772",
         "name": "Švenčionėliai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g2_82"
+        "freebase_id": "/m/0g2_82",
+        "lat": 55.166666666,
+        "lng": 26.0
     },
     {
         "wikidata_id": "Q933255",
         "name": "Smalininkai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0ghkzy"
+        "freebase_id": "/m/0ghkzy",
+        "lat": 55.075,
+        "lng": 22.577777777
     },
     {
         "wikidata_id": "Q4178675",
         "name": "Žiežmariai",
         "description": "city in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0g3sv1"
+        "freebase_id": "/m/0g3sv1",
+        "lat": 54.805555555,
+        "lng": 24.438888888
     },
     {
         "wikidata_id": "Q450625",
         "name": "Alytus",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0383pn"
+        "freebase_id": "/m/0383pn",
+        "lat": 54.4,
+        "lng": 24.05
     },
     {
         "wikidata_id": "Q10973383",
         "name": "Naujieji Elmininkai",
         "description": "village in Lithuania",
-        "freebase_id": "/m/0bxzqrn"
+        "freebase_id": "/m/0bxzqrn",
+        "lat": 55.54722222,
+        "lng": 25.15
     },
     {
         "wikidata_id": "Q7194564",
         "name": "Pilėnai",
         "description": "fortress in medieval Lithuania",
-        "freebase_id": "/m/04k525"
+        "freebase_id": "/m/04k525",
+        "lat": 54.51194444,
+        "lng": 24.09027778
     },
     {
         "wikidata_id": "Q157516",
         "name": "Salantai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/02nkqw"
+        "freebase_id": "/m/02nkqw",
+        "lat": 56.058333333,
+        "lng": 21.566666666
     },
     {
         "wikidata_id": "Q6372732",
         "name": "Karmazinai mound",
         "description": "place in Dzūkija, Lithuania",
-        "freebase_id": "/m/0cz9796"
+        "freebase_id": "/m/0cz9796",
+        "lat": 54.81916667,
+        "lng": 24.93111111
     },
     {
         "wikidata_id": "Q5765554",
         "name": "Varėnai",
         "description": "former village in Lithuania",
-        "freebase_id": "/m/0ch4v35"
+        "freebase_id": "/m/0ch4v35",
+        "lat": 55.2894,
+        "lng": 23.9519
     },
     {
         "wikidata_id": "Q47068",
         "name": "Jieznas",
         "description": "human settlement",
-        "freebase_id": "/m/0g34wh"
+        "freebase_id": "/m/0g34wh",
+        "lat": 54.6,
+        "lng": 24.166666666
     },
     {
         "wikidata_id": "Q185555",
         "name": "Birštonas",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0bpsyk"
+        "freebase_id": "/m/0bpsyk",
+        "lat": 54.6,
+        "lng": 24.033333333
     },
     {
         "wikidata_id": "Q779914",
         "name": "Taujėnai",
         "description": "town in Ukmergė district municipality, Lithuania",
-        "freebase_id": "/m/0gkxbmk"
+        "freebase_id": "/m/0gkxbmk",
+        "lat": 55.390555555,
+        "lng": 24.76
     },
     {
         "wikidata_id": "Q2044597",
         "name": "Ežerėlis",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0gcsch"
+        "freebase_id": "/m/0gcsch",
+        "lat": 54.883333333,
+        "lng": 23.6
     },
     {
         "wikidata_id": "Q945473",
         "name": "Kazlų Rūda",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g2wbz"
+        "freebase_id": "/m/0g2wbz",
+        "lat": 54.749188888,
+        "lng": 23.486502777
     },
     {
         "wikidata_id": "Q835838",
         "name": "Jurbarkas",
         "description": "city in Tauragė County, Lithuania",
-        "freebase_id": "/m/044f72"
+        "freebase_id": "/m/044f72",
+        "lat": 55.083333333,
+        "lng": 22.766666666
     },
     {
         "wikidata_id": "Q1719466",
         "name": "Panevėžys",
         "description": "city in Lithuania",
-        "freebase_id": "/m/05vy30"
+        "freebase_id": "/m/05vy30",
+        "lat": 55.725,
+        "lng": 24.363888888
     },
     {
         "wikidata_id": "Q191015",
         "name": "Trakai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/019tl8"
+        "freebase_id": "/m/019tl8",
+        "lat": 54.633333333,
+        "lng": 24.933333333
     },
     {
         "wikidata_id": "Q768416",
         "name": "Priekulė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0gb79x"
+        "freebase_id": "/m/0gb79x",
+        "lat": 55.555555555,
+        "lng": 21.319444444
     },
     {
         "wikidata_id": "Q614855",
         "name": "Kaišiadorys",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0b5hxq"
+        "freebase_id": "/m/0b5hxq",
+        "lat": 54.85,
+        "lng": 24.45
     },
     {
         "wikidata_id": "Q12665822",
         "name": "Molavėnai",
         "description": "village in the Raseiniai district municipality, Lithuania",
-        "freebase_id": "/m/04crqp6"
+        "freebase_id": "/m/04crqp6",
+        "lat": 55.45,
+        "lng": 22.883333333
     },
     {
         "wikidata_id": "Q11011926",
         "name": "Vaigeliškės",
         "description": "village in Lithuania",
-        "freebase_id": "/m/010fhy7c"
+        "freebase_id": "/m/010fhy7c",
+        "lat": 54.8,
+        "lng": 25.0
     },
     {
         "wikidata_id": "Q390969",
         "name": "Šakiai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0g36bh"
+        "freebase_id": "/m/0g36bh",
+        "lat": 54.955555555,
+        "lng": 23.044444444
     },
     {
         "wikidata_id": "Q189157",
         "name": "Utena",
         "description": "city and administrative center of Utena district and Utena County in north-east Lithuania",
-        "freebase_id": "/m/09gy3s"
+        "freebase_id": "/m/09gy3s",
+        "lat": 55.5,
+        "lng": 25.6
     },
     {
         "wikidata_id": "Q1842902",
         "name": "Rozalimas",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064nbff"
+        "freebase_id": "/m/064nbff",
+        "lat": 55.893133333,
+        "lng": 23.884272222
     },
     {
         "wikidata_id": "Q923643",
         "name": "Lazdijai",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0b8th5"
+        "freebase_id": "/m/0b8th5",
+        "lat": 54.234722222,
+        "lng": 23.516666666
     },
     {
         "wikidata_id": "Q2772067",
         "name": "Daugailiai",
         "description": "town in Utena County, Lithuania",
-        "freebase_id": "/m/0h7m72g"
+        "freebase_id": "/m/0h7m72g",
+        "lat": 55.58888889,
+        "lng": 25.83611111
     },
     {
         "wikidata_id": "Q4708295",
         "name": "Alanta",
         "description": "town in Lithuania",
-        "freebase_id": "/m/02p_dyk"
+        "freebase_id": "/m/02p_dyk",
+        "lat": 55.35,
+        "lng": 25.283333333
     },
     {
         "wikidata_id": "Q2046850",
         "name": "Gelvonai",
         "description": "town in Vilnius County, Lithuania",
-        "freebase_id": "/m/0gkyxb4"
+        "freebase_id": "/m/0gkyxb4",
+        "lat": 55.06694444,
+        "lng": 24.69388889
     },
     {
         "wikidata_id": "Q2204282",
         "name": "Ylakiai",
         "description": "town in Klaipėda County, Lithuania",
-        "freebase_id": "/m/0fq2w7f"
+        "freebase_id": "/m/0fq2w7f",
+        "lat": 56.277986111,
+        "lng": 21.856594444
     },
     {
         "wikidata_id": "Q3500101",
         "name": "Deltuva",
         "description": "town in Lithuania",
-        "freebase_id": "/m/025w1ln"
+        "freebase_id": "/m/025w1ln",
+        "lat": 55.23333333,
+        "lng": 24.66666667
     },
     {
         "wikidata_id": "Q1986276",
         "name": "Lyduokiai",
         "description": "town in Vilnius County, Lithuania",
-        "freebase_id": "/m/0gkyl2p"
+        "freebase_id": "/m/0gkyl2p",
+        "lat": 55.26694444,
+        "lng": 24.94694444
     },
     {
         "wikidata_id": "Q3504800",
         "name": "Gardamas",
         "description": "town in Klaipėda County, Lithuania",
-        "freebase_id": "/m/0fq1r2r"
+        "freebase_id": "/m/0fq1r2r",
+        "lat": 55.40833333,
+        "lng": 21.66111111
     },
     {
         "wikidata_id": "Q2042109",
         "name": "Plikiai",
         "description": "town in Lithuania",
-        "freebase_id": "/m/07kh4c1"
+        "freebase_id": "/m/07kh4c1",
+        "lat": 55.78888889,
+        "lng": 21.27777778
     },
     {
         "wikidata_id": "Q2480740",
         "name": "Kužiai",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064m5fr"
+        "freebase_id": "/m/064m5fr",
+        "lat": 55.997222222,
+        "lng": 23.144444444
     },
     {
         "wikidata_id": "Q1900425",
         "name": "Kruopiai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064nz8c"
+        "freebase_id": "/m/064nz8c",
+        "lat": 56.241666666,
+        "lng": 23.019444444
     },
     {
         "wikidata_id": "Q2919412",
         "name": "Krekenava",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0gz4dx"
+        "freebase_id": "/m/0gz4dx",
+        "lat": 55.55,
+        "lng": 24.1
     },
     {
         "wikidata_id": "Q2707138",
         "name": "Raguva",
         "description": "town in Panevėžys District Municipality, Lithuania",
-        "freebase_id": "/m/0fp_cb6"
+        "freebase_id": "/m/0fp_cb6",
+        "lat": 55.56388889,
+        "lng": 24.62222222
     },
     {
         "wikidata_id": "Q2126478",
         "name": "Balninkai",
         "description": "town",
-        "freebase_id": "/m/0h7m42y"
+        "freebase_id": "/m/0h7m42y",
+        "lat": 55.29388889,
+        "lng": 25.11888889
     },
     {
         "wikidata_id": "Q2337555",
         "name": "Tauragnai",
         "description": "town in Utena county, Lithuania",
-        "freebase_id": "/m/0h7md9h"
+        "freebase_id": "/m/0h7md9h",
+        "lat": 55.4444,
+        "lng": 25.8139
     },
     {
         "wikidata_id": "Q2509638",
         "name": "Adutiškis",
         "description": "town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/0bwmbvt"
+        "freebase_id": "/m/0bwmbvt",
+        "lat": 55.155555555,
+        "lng": 26.586111111
     },
     {
         "wikidata_id": "Q2788497",
         "name": "Babtai",
         "description": "small town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/064nr8f"
+        "freebase_id": "/m/064nr8f",
+        "lat": 55.091666666,
+        "lng": 23.794444444
     },
     {
         "wikidata_id": "Q2738350",
         "name": "Upyna",
         "description": "town in Tauragė, Lithuania",
-        "freebase_id": "/m/0fp_gmf"
+        "freebase_id": "/m/0fp_gmf",
+        "lat": 55.44917,
+        "lng": 22.445
     },
     {
         "wikidata_id": "Q3500133",
         "name": "Tverai",
         "description": "place in Samogitia, Lithuania",
-        "freebase_id": "/m/02w__bh"
+        "freebase_id": "/m/02w__bh",
+        "lat": 55.733333333,
+        "lng": 22.144444444
     },
     {
         "wikidata_id": "Q2097414",
         "name": "Kulautuva",
         "description": "small town in Kaunas County, Lithuania",
-        "freebase_id": "/m/0h1d1wb"
+        "freebase_id": "/m/0h1d1wb",
+        "lat": 54.938888888,
+        "lng": 23.65
     },
     {
         "wikidata_id": "Q2220618",
         "name": "Alizava",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fq2vd3"
+        "freebase_id": "/m/0fq2vd3",
+        "lat": 55.97222222,
+        "lng": 25.0
     },
     {
         "wikidata_id": "Q2801205",
         "name": "Stakiai",
         "description": "town in Tauragė County, Lithuania",
-        "freebase_id": "/m/0fp_gm2"
+        "freebase_id": "/m/0fp_gm2",
+        "lat": 55.1806,
+        "lng": 23.0889
     },
     {
         "wikidata_id": "Q2323988",
         "name": "Keturvalakiai",
         "description": "small town in Marijampolė County, Lithuania",
-        "freebase_id": "/m/0fq34ms"
+        "freebase_id": "/m/0fq34ms",
+        "lat": 54.55555556,
+        "lng": 23.16944444
     },
     {
         "wikidata_id": "Q3332369",
         "name": "Antašava",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0fp_l2j"
+        "freebase_id": "/m/0fp_l2j",
+        "lat": 55.90555556,
+        "lng": 24.80555556
     },
     {
         "wikidata_id": "Q5616635",
         "name": "Svėdasai",
         "description": "town in Lithuania",
-        "freebase_id": "/m/03c59qb"
+        "freebase_id": "/m/03c59qb",
+        "lat": 55.666666666,
+        "lng": 25.366666666
     },
     {
         "wikidata_id": "Q2317525",
         "name": "Baisogala",
         "description": "town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/05b12lv"
+        "freebase_id": "/m/05b12lv",
+        "lat": 55.638888888,
+        "lng": 23.722222222
     },
     {
         "wikidata_id": "Q4508627",
         "name": "Barzdai",
         "description": "town in Marijampolė County, Lithuania",
-        "freebase_id": "/m/0fq2ndy"
+        "freebase_id": "/m/0fq2ndy",
+        "lat": 54.78055556,
+        "lng": 23.19444444
     },
     {
         "wikidata_id": "Q3371498",
         "name": "Krokialaukis",
         "description": "small town in Dzūkija, Lithuania",
-        "freebase_id": "/m/064l7qy"
+        "freebase_id": "/m/064l7qy",
+        "lat": 54.436111111,
+        "lng": 23.763888888
     },
     {
         "wikidata_id": "Q2418779",
         "name": "Girkalnis",
         "description": "town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/064l10m"
+        "freebase_id": "/m/064l10m",
+        "lat": 55.311111111,
+        "lng": 23.202777777
     },
     {
         "wikidata_id": "Q2472620",
         "name": "Sintautai",
         "description": "town in Marijampolė County, Lithuania",
-        "freebase_id": "/m/0fq3214"
+        "freebase_id": "/m/0fq3214",
+        "lat": 54.87777778,
+        "lng": 22.99444444
     },
     {
         "wikidata_id": "Q2483374",
         "name": "Butrimonys",
         "description": "small town in Alytus County in southern Lithuania",
-        "freebase_id": "/m/064nk5k"
+        "freebase_id": "/m/064nk5k",
+        "lat": 54.502777777,
+        "lng": 24.252777777
     },
     {
         "wikidata_id": "Q3004498",
         "name": "Pikeliai",
         "description": "small city in Lithuania",
-        "freebase_id": "/m/0h7l8hr"
+        "freebase_id": "/m/0h7l8hr",
+        "lat": 56.41694444,
+        "lng": 22.11111111
     },
     {
         "wikidata_id": "Q1663750",
         "name": "Josvainiai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/047nbdq"
+        "freebase_id": "/m/047nbdq",
+        "lat": 55.25,
+        "lng": 23.83333
     },
     {
         "wikidata_id": "Q2265086",
         "name": "Leckava",
         "description": "town in Telšiai County, Lithuania",
-        "freebase_id": "/m/0h7qkxk"
+        "freebase_id": "/m/0h7qkxk",
+        "lat": 56.39388889,
+        "lng": 22.23888889
     },
     {
         "wikidata_id": "Q2486211",
         "name": "Musninkai",
         "description": "town in Vilnius County, Lithuania",
-        "freebase_id": "/m/0gk_8ng"
+        "freebase_id": "/m/0gk_8ng",
+        "lat": 54.94694444,
+        "lng": 24.84194444
     },
     {
         "wikidata_id": "Q2519996",
         "name": "Debeikiai",
         "description": "town in Utena County, Lithuania",
-        "freebase_id": "/m/0by0yv2"
+        "freebase_id": "/m/0by0yv2",
+        "lat": 55.58055556,
+        "lng": 25.32222222
     },
     {
         "wikidata_id": "Q6381853",
         "name": "Kačerginė",
         "description": "town in Kaunas County, Lithuania",
-        "freebase_id": "/m/064qfhs"
+        "freebase_id": "/m/064qfhs",
+        "lat": 54.933055555,
+        "lng": 23.718888888
     },
     {
         "wikidata_id": "Q2842356",
         "name": "Truskava",
         "description": "town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/064kvn_"
+        "freebase_id": "/m/064kvn_",
+        "lat": 55.43333,
+        "lng": 24.23333
     },
     {
         "wikidata_id": "Q2222240",
         "name": "Traupis",
         "description": "town in Utena County, Lithuania",
-        "freebase_id": "/m/0bxzt4r"
+        "freebase_id": "/m/0bxzt4r",
+        "lat": 55.51667,
+        "lng": 24.75
     },
     {
         "wikidata_id": "Q2117355",
         "name": "Kintai",
         "description": "town in Klaipėda County, Lithuania",
-        "freebase_id": "/m/0fq2tlh"
+        "freebase_id": "/m/0fq2tlh",
+        "lat": 55.42222222,
+        "lng": 21.26666667
     },
     {
         "wikidata_id": "Q2529155",
         "name": "Pagramantis",
         "description": "town in Taurage County, Lithuania",
-        "freebase_id": "/m/0cmc40c"
+        "freebase_id": "/m/0cmc40c",
+        "lat": 55.36388889,
+        "lng": 22.23055556
     },
     {
         "wikidata_id": "Q2575678",
         "name": "Viduklė",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/064kct9"
+        "freebase_id": "/m/064kct9",
+        "lat": 55.402777777,
+        "lng": 22.897222222
     },
     {
         "wikidata_id": "Q2368778",
         "name": "Surdegis",
         "description": "town in Utena County, Lithuania",
-        "freebase_id": "/m/0by0x4d"
+        "freebase_id": "/m/0by0x4d",
+        "lat": 55.669,
+        "lng": 24.814
     },
     {
         "wikidata_id": "Q5617046",
         "name": "Joniškis",
         "description": "town in Utena County, Lithuania",
-        "freebase_id": "/m/0h7lz8f"
+        "freebase_id": "/m/0h7lz8f",
+        "lat": 55.06694444,
+        "lng": 25.65805556
     },
     {
         "wikidata_id": "Q2020664",
         "name": "Skaistgirys",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064qt7x"
+        "freebase_id": "/m/064qt7x",
+        "lat": 56.30722,
+        "lng": 23.38611
     },
     {
         "wikidata_id": "Q8083678",
         "name": "Žemaitkiemis",
         "description": "town in Ukmergė District Municipality, Lithuania",
-        "freebase_id": "/m/07sb6tp"
+        "freebase_id": "/m/07sb6tp",
+        "lat": 55.3056,
+        "lng": 24.9778
     },
     {
         "wikidata_id": "Q2386331",
         "name": "Lygumai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064lx40"
+        "freebase_id": "/m/064lx40",
+        "lat": 56.005555555,
+        "lng": 23.658333333
     },
     {
         "wikidata_id": "Q2324157",
         "name": "Šaukotas",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/064jxn0"
+        "freebase_id": "/m/064jxn0",
+        "lat": 55.580555555,
+        "lng": 23.419444444
     },
     {
         "wikidata_id": "Q2089851",
         "name": "Sudeikiai",
         "description": "town in Utena County, Lithuania",
-        "freebase_id": "/m/0h7mb5f"
+        "freebase_id": "/m/0h7mb5f",
+        "lat": 55.5833,
+        "lng": 25.6806
     },
     {
         "wikidata_id": "Q2353601",
         "name": "Salos",
         "description": "small town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fp_lrd"
+        "freebase_id": "/m/0fp_lrd",
+        "lat": 55.81388889,
+        "lng": 25.36944444
     },
     {
         "wikidata_id": "Q3545467",
         "name": "Krakės",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/04lj0nf"
+        "freebase_id": "/m/04lj0nf",
+        "lat": 55.408333333,
+        "lng": 23.725
     },
     {
         "wikidata_id": "Q2284180",
         "name": "Pajūris",
         "description": "town in Šilalė District Municipality, Lithuania",
-        "freebase_id": "/m/0fq1r_2"
+        "freebase_id": "/m/0fq1r_2",
+        "lat": 55.44444444,
+        "lng": 22.02777778
     },
     {
         "wikidata_id": "Q1981952",
         "name": "Panemunis",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fp_rfy"
+        "freebase_id": "/m/0fp_rfy",
+        "lat": 56.06111111,
+        "lng": 25.27777778
     },
     {
         "wikidata_id": "Q2582317",
         "name": "Salamiestis",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fq1fbl"
+        "freebase_id": "/m/0fq1fbl",
+        "lat": 55.94166667,
+        "lng": 24.87777778
     },
     {
         "wikidata_id": "Q2282917",
         "name": "Pernarava",
         "description": "town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/064pgbl"
+        "freebase_id": "/m/064pgbl",
+        "lat": 55.269444444,
+        "lng": 23.644444444
     },
     {
         "wikidata_id": "Q1887923",
         "name": "Lenkimai",
         "description": "town in Klaipėda County, Lithuania",
-        "freebase_id": "/m/0fq1vn4"
+        "freebase_id": "/m/0fq1vn4",
+        "lat": 56.191616,
+        "lng": 21.315665
     },
     {
         "wikidata_id": "Q2486533",
         "name": "Bazilionai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064k5bd"
+        "freebase_id": "/m/064k5bd",
+        "lat": 55.794444444,
+        "lng": 23.138888888
     },
     {
         "wikidata_id": "Q3160043",
         "name": "Pagiriai",
         "description": "town in Aukštaitija, Lithuania",
-        "freebase_id": "/m/064jz0k"
+        "freebase_id": "/m/064jz0k",
+        "lat": 55.361111111,
+        "lng": 24.4
     },
     {
         "wikidata_id": "Q1028246",
         "name": "Plateliai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/0dgvfp"
+        "freebase_id": "/m/0dgvfp",
+        "lat": 56.05,
+        "lng": 21.816666666
     },
     {
         "wikidata_id": "Q2370026",
         "name": "Gudeliai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0fq2kx5"
+        "freebase_id": "/m/0fq2kx5",
+        "lat": 54.52777778,
+        "lng": 23.68611111
     },
     {
         "wikidata_id": "Q3114656",
         "name": "Pakuonis",
         "description": "small town in Dzūkija, Lithuania",
-        "freebase_id": "/m/04crh4x"
+        "freebase_id": "/m/04crh4x",
+        "lat": 54.725,
+        "lng": 24.05277778
     },
     {
         "wikidata_id": "Q5731422",
         "name": "Kaltinėnai",
         "description": "town in Šilalė District Municipality, Lithuania",
-        "freebase_id": "/m/04y8t6n"
+        "freebase_id": "/m/04y8t6n",
+        "lat": 55.566666666,
+        "lng": 22.45
     },
     {
         "wikidata_id": "Q5617664",
         "name": "Skapiškis",
         "description": "town in Lithuania",
-        "freebase_id": "/m/03y083k"
+        "freebase_id": "/m/03y083k",
+        "lat": 55.891666666,
+        "lng": 25.2
     },
     {
         "wikidata_id": "Q2044626",
         "name": "Veisiejai",
         "description": "small town in Dzūkija, Lithuania",
-        "freebase_id": "/m/0gb6vg"
+        "freebase_id": "/m/0gb6vg",
+        "lat": 54.1,
+        "lng": 23.7
     },
     {
         "wikidata_id": "Q2477587",
         "name": "Liudvinavas",
         "description": "town in Marijampolė County, Lithuania",
-        "freebase_id": "/m/0fq1hrb"
+        "freebase_id": "/m/0fq1hrb",
+        "lat": 54.48333333,
+        "lng": 23.35277778
     },
     {
         "wikidata_id": "Q3506543",
         "name": "Kartena",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0fq0nxd"
+        "freebase_id": "/m/0fq0nxd",
+        "lat": 55.91944444,
+        "lng": 21.46944444
     },
     {
         "wikidata_id": "Q2166770",
         "name": "Palonai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064p7m_"
+        "freebase_id": "/m/064p7m_",
+        "lat": 55.65,
+        "lng": 23.81667
     },
     {
         "wikidata_id": "Q2674216",
         "name": "Viešintos",
         "description": "human settlement in Lithuania",
-        "freebase_id": "/m/0by0gzc"
+        "freebase_id": "/m/0by0gzc",
+        "lat": 55.6889,
+        "lng": 24.9917
     },
     {
         "wikidata_id": "Q2876373",
         "name": "Vadokliai",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fq2x0s"
+        "freebase_id": "/m/0fq2x0s",
+        "lat": 55.4944,
+        "lng": 24.4694
     },
     {
         "wikidata_id": "Q2845251",
         "name": "Balbieriškis",
         "description": "small town in Kaunas County, Lithuania",
-        "freebase_id": "/m/064qm33"
+        "freebase_id": "/m/064qm33",
+        "lat": 54.513888888,
+        "lng": 23.891944444
     },
     {
         "wikidata_id": "Q2470509",
         "name": "Teneniai",
         "description": "town in Tauragė, Lithuania",
-        "freebase_id": "/m/0fq3b61"
+        "freebase_id": "/m/0fq3b61",
+        "lat": 55.4611,
+        "lng": 21.9139
     },
     {
         "wikidata_id": "Q1883864",
         "name": "Dubingiai",
         "description": "place in Aukštaitija, Lithuania",
-        "freebase_id": "/m/02tzf4"
+        "freebase_id": "/m/02tzf4",
+        "lat": 55.057991666,
+        "lng": 25.45
     },
     {
         "wikidata_id": "Q3055022",
         "name": "Vainutas",
         "description": "town in Klaipėda County, Lithuania",
-        "freebase_id": "/m/0fq0wml"
+        "freebase_id": "/m/0fq0wml",
+        "lat": 55.365,
+        "lng": 21.8644
     },
     {
         "wikidata_id": "Q2665758",
         "name": "Kairiai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064qv20"
+        "freebase_id": "/m/064qv20",
+        "lat": 55.916666666,
+        "lng": 23.438888888
     },
     {
         "wikidata_id": "Q2250308",
         "name": "Krikliniai",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fq2q09"
+        "freebase_id": "/m/0fq2q09",
+        "lat": 55.91666667,
+        "lng": 24.45
     },
     {
         "wikidata_id": "Q2327069",
         "name": "Betygala",
         "description": "small town in Samogitia, Lithuania",
-        "freebase_id": "/m/064nh8b"
+        "freebase_id": "/m/064nh8b",
+        "lat": 55.361111111,
+        "lng": 23.366666666
     },
     {
         "wikidata_id": "Q2121733",
         "name": "Valkininkai",
         "description": "small town in Lithuania",
-        "freebase_id": "/m/0404k1j"
+        "freebase_id": "/m/0404k1j",
+        "lat": 54.358333333,
+        "lng": 24.841666666
     },
     {
         "wikidata_id": "Q2719730",
         "name": "Pumpėnai",
         "description": "town in Lithuania",
-        "freebase_id": "/m/0fq2x0f"
+        "freebase_id": "/m/0fq2x0f",
+        "lat": 55.93333333,
+        "lng": 24.34166667
     },
     {
         "wikidata_id": "Q2355165",
         "name": "Igliškėliai",
         "description": "small city in Lithuania",
-        "freebase_id": "/m/0fq1jcb"
+        "freebase_id": "/m/0fq1jcb",
+        "lat": 54.56388889,
+        "lng": 23.53055556
     },
     {
         "wikidata_id": "Q3012196",
         "name": "Lauko Soda",
         "description": "town in Telšiai County, Lithuania",
-        "freebase_id": "/m/0h7qj_1"
+        "freebase_id": "/m/0h7qj_1",
+        "lat": 55.89194444,
+        "lng": 22.25611111
     },
     {
         "wikidata_id": "Q2351318",
         "name": "Nemunaitis",
         "description": "small town in Dzūkija, Lithuania",
-        "freebase_id": "/m/064pgkb"
+        "freebase_id": "/m/064pgkb",
+        "lat": 54.3,
+        "lng": 24.027777777
     },
     {
         "wikidata_id": "Q2219812",
         "name": "Pilviškiai",
         "description": "small city in Pajevonys Eldership, Vilkaviškis district municipality, in Marijampolė County, central Lithuania",
-        "freebase_id": "/m/0fq363n"
+        "freebase_id": "/m/0fq363n",
+        "lat": 54.72222222,
+        "lng": 23.22222222
     },
     {
         "wikidata_id": "Q2580158",
         "name": "Papilys",
         "description": "town in Panevėžys County, Lithuania",
-        "freebase_id": "/m/0fq0j23"
+        "freebase_id": "/m/0fq0j23",
+        "lat": 56.11666667,
+        "lng": 25.00833333
     },
     {
         "wikidata_id": "Q3129705",
         "name": "Kriukai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064ml1h"
+        "freebase_id": "/m/064ml1h",
+        "lat": 56.3,
+        "lng": 23.827777777
     },
     {
         "wikidata_id": "Q1025160",
         "name": "Vepriai",
         "description": "town",
-        "freebase_id": "/m/0b33xc"
+        "freebase_id": "/m/0b33xc",
+        "lat": 55.15,
+        "lng": 24.575
     },
     {
         "wikidata_id": "Q2254488",
         "name": "Lioliai",
         "description": "town in Samogitia, Lithuania",
-        "freebase_id": "/m/064knyr"
+        "freebase_id": "/m/064knyr",
+        "lat": 55.558333333,
+        "lng": 22.955555555
     },
     {
         "wikidata_id": "Q2491275",
         "name": "Viešvilė",
         "description": "city in Lithuania",
-        "freebase_id": "/m/0fq2_h0"
+        "freebase_id": "/m/0fq2_h0",
+        "lat": 55.0722,
+        "lng": 22.3833
     },
     {
         "wikidata_id": "Q1224305",
         "name": "Dieveniškės",
         "description": "town in Lithuania",
-        "freebase_id": "/m/03gvbf8"
+        "freebase_id": "/m/03gvbf8",
+        "lat": 54.194444444,
+        "lng": 25.625
     }
 ]

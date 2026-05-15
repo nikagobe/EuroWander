@@ -3,601 +3,801 @@
         "wikidata_id": "Q521751",
         "name": "Košická Nová Ves",
         "description": "borough in Slovakia",
-        "freebase_id": "/m/026n811"
+        "freebase_id": "/m/026n811",
+        "lat": 48.73166667,
+        "lng": 21.30083333
     },
     {
         "wikidata_id": "Q7924269",
         "name": "Veľké Bielice",
         "description": "village in Slovakia",
-        "freebase_id": "/m/0h_cz8h"
+        "freebase_id": "/m/0h_cz8h",
+        "lat": 48.6333,
+        "lng": 18.35
     },
     {
         "wikidata_id": "Q11056698",
         "name": "Hrabové",
         "description": "urban area in Slovakia",
-        "freebase_id": "/m/011bwrls"
+        "freebase_id": "/m/011bwrls",
+        "lat": 49.2067,
+        "lng": 18.5633
     },
     {
         "wikidata_id": "Q1412548",
         "name": "Sásová",
         "description": "neighborhood of Banská Bystrica, Slovakia",
-        "freebase_id": "/m/0n8zglt"
+        "freebase_id": "/m/0n8zglt",
+        "lat": 48.75609,
+        "lng": 19.15737
     },
     {
         "wikidata_id": "Q965104",
         "name": "Slovenské Nové Mesto",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/025vnd4"
+        "freebase_id": "/m/025vnd4",
+        "lat": 48.400833333,
+        "lng": 21.669444444
     },
     {
         "wikidata_id": "Q6353312",
         "name": "Kalište",
         "description": "defunct municipality in Slovakia",
-        "freebase_id": "/m/0gvtjzm"
+        "freebase_id": "/m/0gvtjzm",
+        "lat": 48.836944,
+        "lng": 19.219444
     },
     {
         "wikidata_id": "Q610367",
         "name": "Dvorce",
         "description": "village in the Levoča district of Slovakia",
-        "freebase_id": "/m/0h540x5"
+        "freebase_id": "/m/0h540x5",
+        "lat": 49.08333333,
+        "lng": 20.56666667
     },
     {
         "wikidata_id": "Q1042821",
         "name": "Spišská Kapitula",
         "description": "ecclesiastical town and residence of the Bishop of Spiš",
-        "freebase_id": "/m/0gcv6r"
+        "freebase_id": "/m/0gcv6r",
+        "lat": 49.000555555,
+        "lng": 20.741111111
     },
     {
         "wikidata_id": "Q26397",
         "name": "Nitra",
         "description": "city in Slovakia",
-        "freebase_id": "/m/01z0sp"
+        "freebase_id": "/m/01z0sp",
+        "lat": 48.314722222,
+        "lng": 18.0875
     },
     {
         "wikidata_id": "Q1780",
         "name": "Bratislava",
         "description": "capital city of Slovakia",
-        "freebase_id": "/m/015g7"
+        "freebase_id": "/m/015g7",
+        "lat": 48.144722222,
+        "lng": 17.112777777
     },
     {
         "wikidata_id": "Q6378598",
         "name": "Katúň",
         "description": "village in Slovakia",
-        "freebase_id": "/m/025_dzl"
+        "freebase_id": "/m/025_dzl",
+        "lat": 48.98333333,
+        "lng": 20.73333333
     },
     {
         "wikidata_id": "Q144454",
         "name": "Tatranská Lomnica",
         "description": "part of the town of Vysoké Tatry in Slovakia; ski resort",
-        "freebase_id": "/m/026ckkw"
+        "freebase_id": "/m/026ckkw",
+        "lat": 49.16472222,
+        "lng": 20.28222222
     },
     {
         "wikidata_id": "Q26393",
         "name": "Poprad",
         "description": "city in Slovakia",
-        "freebase_id": "/m/01z0t4"
+        "freebase_id": "/m/01z0t4",
+        "lat": 49.05,
+        "lng": 20.3
     },
     {
         "wikidata_id": "Q1309632",
         "name": "Castra Gerulata",
         "description": "Roman fort",
-        "freebase_id": "/m/0284s2l"
+        "freebase_id": "/m/0284s2l",
+        "lat": 48.05611111,
+        "lng": 17.14972222
     },
     {
         "wikidata_id": "Q4938853",
         "name": "Bokša",
         "description": "village in Slovakia",
-        "freebase_id": "/m/0c22ss"
+        "freebase_id": "/m/0c22ss",
+        "lat": 49.2,
+        "lng": 21.63333333
     },
     {
         "wikidata_id": "Q646393",
         "name": "Dunajská Streda",
         "description": "town in southern Slovakia",
-        "freebase_id": "/m/07vdnt"
+        "freebase_id": "/m/07vdnt",
+        "lat": 47.996111111,
+        "lng": 17.614722222
     },
     {
         "wikidata_id": "Q12771721",
         "name": "Milochov",
         "description": "No description available",
-        "freebase_id": "/m/03c6mgh"
+        "freebase_id": "/m/03c6mgh",
+        "lat": 49.134,
+        "lng": 18.385
     },
     {
         "wikidata_id": "Q1105157",
         "name": "Košice-Juh",
         "description": "borough in Slovakia",
-        "freebase_id": "/m/0bgg08"
+        "freebase_id": "/m/0bgg08",
+        "lat": 48.70916667,
+        "lng": 21.25694444
     },
     {
         "wikidata_id": "Q16854311",
         "name": "Zobor Abbey",
         "description": "Abbey on Zobor hill in Nitra",
-        "freebase_id": "/m/0_1jsw3"
+        "freebase_id": "/m/0_1jsw3",
+        "lat": 48.345277777,
+        "lng": 18.091666666
     },
     {
         "wikidata_id": "Q664563",
         "name": "Dolný Moštenec",
         "description": "No description available",
-        "freebase_id": "/m/0dsdmh4"
+        "freebase_id": "/m/0dsdmh4",
+        "lat": 49.0879,
+        "lng": 18.44353
     },
     {
         "wikidata_id": "Q1309695",
         "name": "Castra Celemantia",
         "description": "Roman fort",
-        "freebase_id": "/m/0bt8mk"
+        "freebase_id": "/m/0bt8mk",
+        "lat": 47.745,
+        "lng": 18.198611
     },
     {
         "wikidata_id": "Q6375265",
         "name": "Church and monastery of St. Catherine of Alexandria",
         "description": "ruins of a church and a monastery and a national cultural monument in the village of Dechtice, Trnava district, Slovakia",
-        "freebase_id": "/m/04zvtw"
+        "freebase_id": "/m/04zvtw",
+        "lat": 48.555202777,
+        "lng": 17.535658333
     },
     {
         "wikidata_id": "Q12813719",
         "name": "Blažov",
         "description": "abandoned Rusyn village in Sabinov okres, Prešovský kraj, Slovakia",
-        "freebase_id": "/m/0b_vvs"
+        "freebase_id": "/m/0b_vvs",
+        "lat": 49.149472222,
+        "lng": 20.748833333
     },
     {
         "wikidata_id": "Q27541",
         "name": "Ružomberok",
         "description": "town in Slovakia",
-        "freebase_id": "/m/02rhs9"
+        "freebase_id": "/m/02rhs9",
+        "lat": 49.078611111,
+        "lng": 19.308333333
     },
     {
         "wikidata_id": "Q740351",
         "name": "Nové Mesto",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/025x_7v"
+        "freebase_id": "/m/025x_7v",
+        "lat": 48.17222222,
+        "lng": 17.12861111
     },
     {
         "wikidata_id": "Q1898406",
         "name": "Old Town of Bratislava",
         "description": "historic center and one of the boroughs of Bratislava",
-        "freebase_id": "/m/07jb65"
+        "freebase_id": "/m/07jb65",
+        "lat": 48.143333333,
+        "lng": 17.1075
     },
     {
         "wikidata_id": "Q390911",
         "name": "Šaca",
         "description": "borough of Košice, Slovakia",
-        "freebase_id": "/m/09_7v8"
+        "freebase_id": "/m/09_7v8",
+        "lat": 48.63388889,
+        "lng": 21.16972222
     },
     {
         "wikidata_id": "Q25409",
         "name": "Košice",
         "description": "city in Slovakia",
-        "freebase_id": "/m/01t4hj"
+        "freebase_id": "/m/01t4hj",
+        "lat": 48.716666666,
+        "lng": 21.25
     },
     {
         "wikidata_id": "Q716125",
         "name": "Kalinčiakovo",
         "description": "village in Slovakia",
-        "freebase_id": "/m/09gk5l2"
+        "freebase_id": "/m/09gk5l2",
+        "lat": 48.2,
+        "lng": 18.66666667
     },
     {
         "wikidata_id": "Q1186966",
         "name": "Staré Hory",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0h4yhv"
+        "freebase_id": "/m/0h4yhv",
+        "lat": 48.839047222,
+        "lng": 19.114852777
     },
     {
         "wikidata_id": "Q246755",
         "name": "Záhorská Bystrica",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0g58yt"
+        "freebase_id": "/m/0g58yt",
+        "lat": 48.24138889,
+        "lng": 17.04055556
     },
     {
         "wikidata_id": "Q27007",
         "name": "Bardejov",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06k7dl"
+        "freebase_id": "/m/06k7dl",
+        "lat": 49.2926871,
+        "lng": 21.2756031
     },
     {
         "wikidata_id": "Q277852",
         "name": "Koliba",
         "description": "name of a locality in Bratislava",
-        "freebase_id": "/m/02rg14h"
+        "freebase_id": "/m/02rg14h",
+        "lat": 48.17235556,
+        "lng": 17.10281667
     },
     {
         "wikidata_id": "Q479329",
         "name": "Krásna",
         "description": "borough of Košice",
-        "freebase_id": "/m/0cfgks"
+        "freebase_id": "/m/0cfgks",
+        "lat": 48.67277778,
+        "lng": 21.31888889
     },
     {
         "wikidata_id": "Q661046",
         "name": "Devín",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/07n2v7"
+        "freebase_id": "/m/07n2v7",
+        "lat": 48.17388889,
+        "lng": 16.98333333
     },
     {
         "wikidata_id": "Q15214537",
         "name": "Dolný Vék",
         "description": "village in Slovakia",
-        "freebase_id": "/m/05p3k1_"
+        "freebase_id": "/m/05p3k1_",
+        "lat": 47.86666667,
+        "lng": 18.16666667
     },
     {
         "wikidata_id": "Q989741",
         "name": "Slovenské Ďarmoty",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0gk6xm"
+        "freebase_id": "/m/0gk6xm",
+        "lat": 48.09166667,
+        "lng": 19.29166667
     },
     {
         "wikidata_id": "Q5285432",
         "name": "Dlhé diely",
         "description": "neighborhood of Bratislava in Bratislava Region, Slovakia",
-        "freebase_id": "/m/0f01x5"
+        "freebase_id": "/m/0f01x5",
+        "lat": 48.15166667,
+        "lng": 17.04972222
     },
     {
         "wikidata_id": "Q1091791",
         "name": "Rusovce",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0g58c6"
+        "freebase_id": "/m/0g58c6",
+        "lat": 48.05361111,
+        "lng": 17.14777778
     },
     {
         "wikidata_id": "Q1091778",
         "name": "Vajnory",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0267zc1"
+        "freebase_id": "/m/0267zc1",
+        "lat": 48.20305556,
+        "lng": 17.20527778
     },
     {
         "wikidata_id": "Q934473",
         "name": "Ružinov",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/05m5pp"
+        "freebase_id": "/m/05m5pp",
+        "lat": 48.14361111,
+        "lng": 17.19416667
     },
     {
         "wikidata_id": "Q3498282",
         "name": "Mlynská dolina",
         "description": "neighborhood of Bratislava in Bratislava Region, Slovakia",
-        "freebase_id": "/m/02r4662"
+        "freebase_id": "/m/02r4662",
+        "lat": 48.158499,
+        "lng": 17.074948
     },
     {
         "wikidata_id": "Q907449",
         "name": "Dúbravka",
         "description": "municipality in Michalovce District in the Košice Region",
-        "freebase_id": "/m/0h19jm"
+        "freebase_id": "/m/0h19jm",
+        "lat": 48.63833333,
+        "lng": 21.89194444
     },
     {
         "wikidata_id": "Q897159",
         "name": "Nový Smokovec",
         "description": "part of the town of Vysoké Tatry in Slovakia",
-        "freebase_id": "/m/0_v5p3p"
+        "freebase_id": "/m/0_v5p3p",
+        "lat": 49.1372,
+        "lng": 20.2153
     },
     {
         "wikidata_id": "Q221097",
         "name": "Sídlisko KVP",
         "description": "borough of the Slovak city of Košice",
-        "freebase_id": "/m/0wk4_km"
+        "freebase_id": "/m/0wk4_km",
+        "lat": 48.7138811,
+        "lng": 21.2135069
     },
     {
         "wikidata_id": "Q787303",
         "name": "Lamač",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0dxkz5"
+        "freebase_id": "/m/0dxkz5",
+        "lat": 48.18888889,
+        "lng": 17.045
     },
     {
         "wikidata_id": "Q26175",
         "name": "Trnava",
         "description": "city in Slovakia",
-        "freebase_id": "/m/01z0tz"
+        "freebase_id": "/m/01z0tz",
+        "lat": 48.37775,
+        "lng": 17.586211111
     },
     {
         "wikidata_id": "Q11857",
         "name": "Detva",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08lk29"
+        "freebase_id": "/m/08lk29",
+        "lat": 48.5611631,
+        "lng": 19.4187783
     },
     {
         "wikidata_id": "Q1020906",
         "name": "Vrakuňa",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/04q4rr"
+        "freebase_id": "/m/04q4rr",
+        "lat": 48.15,
+        "lng": 17.21666667
     },
     {
         "wikidata_id": "Q1088727",
         "name": "Luník IX",
         "description": "borough in the city of Košice",
-        "freebase_id": "/m/03c2r04"
+        "freebase_id": "/m/03c2r04",
+        "lat": 48.695833333,
+        "lng": 21.223611111
     },
     {
         "wikidata_id": "Q261678",
         "name": "Mochovce",
         "description": "village in Slovakia",
-        "freebase_id": "/m/03trph"
+        "freebase_id": "/m/03trph",
+        "lat": 48.2615,
+        "lng": 18.449
     },
     {
         "wikidata_id": "Q848166",
         "name": "Borov",
         "description": "village in Slovakia",
-        "freebase_id": "/m/0c22v4"
+        "freebase_id": "/m/0c22v4",
+        "lat": 49.3,
+        "lng": 21.9
     },
     {
         "wikidata_id": "Q25797",
         "name": "Žilina",
         "description": "capital of the Žilina region in north-western Slovakia",
-        "freebase_id": "/m/01t7_v"
+        "freebase_id": "/m/01t7_v",
+        "lat": 49.216666666,
+        "lng": 18.733333333
     },
     {
         "wikidata_id": "Q12332592",
         "name": "Pustá Ves",
         "description": "hamlet in Prašník, Slovakia",
-        "freebase_id": "/m/0114dwdv"
+        "freebase_id": "/m/0114dwdv",
+        "lat": 48.637222222,
+        "lng": 17.633611111
     },
     {
         "wikidata_id": "Q392365",
         "name": "Vlkolínec",
         "description": "village",
-        "freebase_id": "/m/073vb2"
+        "freebase_id": "/m/073vb2",
+        "lat": 49.0397,
+        "lng": 19.2784
     },
     {
         "wikidata_id": "Q1025249",
         "name": "Rača",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0267_b1"
+        "freebase_id": "/m/0267_b1",
+        "lat": 48.21666667,
+        "lng": 17.15
     },
     {
         "wikidata_id": "Q970325",
         "name": "Devínska Nová Ves",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0g58xf"
+        "freebase_id": "/m/0g58xf",
+        "lat": 48.20944444,
+        "lng": 16.97277778
     },
     {
         "wikidata_id": "Q773204",
         "name": "Valaškovce",
         "description": "military district in Slovakia",
-        "freebase_id": "/m/0268sm6"
+        "freebase_id": "/m/0268sm6",
+        "lat": 48.91666667,
+        "lng": 22.08333333
     },
     {
         "wikidata_id": "Q1245070",
         "name": "Radvaň, Banská Bystrica",
         "description": "borough of Banská Bystrica, Slovakia",
-        "freebase_id": "/m/03hnvj1"
+        "freebase_id": "/m/03hnvj1",
+        "lat": 48.7144444,
+        "lng": 19.1366667
     },
     {
         "wikidata_id": "Q852358",
         "name": "Budkovce",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0h0n8b"
+        "freebase_id": "/m/0h0n8b",
+        "lat": 48.6343517,
+        "lng": 21.9274867
     },
     {
         "wikidata_id": "Q572748",
         "name": "Kavečany",
         "description": "borough of Košice",
-        "freebase_id": "/m/08nmfc"
+        "freebase_id": "/m/08nmfc",
+        "lat": 48.77472222,
+        "lng": 21.205
     },
     {
         "wikidata_id": "Q1044667",
         "name": "Veľké Kozmálovce",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/025_5lc"
+        "freebase_id": "/m/025_5lc",
+        "lat": 48.270833333,
+        "lng": 18.538888888
     },
     {
         "wikidata_id": "Q144983",
         "name": "Banská Bystrica",
         "description": "city in central Slovakia",
-        "freebase_id": "/m/01z0rw"
+        "freebase_id": "/m/01z0rw",
+        "lat": 48.735277777,
+        "lng": 19.145277777
     },
     {
         "wikidata_id": "Q286229",
         "name": "Ťahanovce",
         "description": "neighbourhood of Košice",
-        "freebase_id": "/m/0b0_br"
+        "freebase_id": "/m/0b0_br",
+        "lat": 48.75,
+        "lng": 21.25
     },
     {
         "wikidata_id": "Q145002",
         "name": "Trenčín",
         "description": "city in Slovakia",
-        "freebase_id": "/m/01z0tk"
+        "freebase_id": "/m/01z0tk",
+        "lat": 48.894166666,
+        "lng": 18.040555555
     },
     {
         "wikidata_id": "Q285486",
         "name": "Pukanec",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/025_209"
+        "freebase_id": "/m/025_209",
+        "lat": 48.353333333,
+        "lng": 18.722777777
     },
     {
         "wikidata_id": "Q19462096",
         "name": "Grinava",
         "description": "city part of Pezinok",
-        "freebase_id": "/m/012ghq_t"
+        "freebase_id": "/m/012ghq_t",
+        "lat": 48.2727293,
+        "lng": 17.2297155
     },
     {
         "wikidata_id": "Q392483",
         "name": "Štrbské Pleso",
         "description": "part of Štrba in Slovakia; ski, tourist, and health resort",
-        "freebase_id": "/m/0cyq1v"
+        "freebase_id": "/m/0cyq1v",
+        "lat": 49.12,
+        "lng": 20.06194444
     },
     {
         "wikidata_id": "Q587344",
         "name": "Sídlisko Ťahanovce",
         "description": "borough in Slovakia",
-        "freebase_id": "/m/0b0zxh"
+        "freebase_id": "/m/0b0zxh",
+        "lat": 48.75388889,
+        "lng": 21.2675
     },
     {
         "wikidata_id": "Q3495592",
         "name": "Gapel",
         "description": "village in Slovakia",
-        "freebase_id": "/m/05zhhtt"
+        "freebase_id": "/m/05zhhtt",
+        "lat": 48.913611111,
+        "lng": 18.491388888
     },
     {
         "wikidata_id": "Q5904602",
         "name": "Horné Krškany",
         "description": "No description available",
-        "freebase_id": "/m/0gvvrdc"
+        "freebase_id": "/m/0gvvrdc",
+        "lat": 48.28333333,
+        "lng": 18.1
     },
     {
         "wikidata_id": "Q272040",
         "name": "Liptovský Mikuláš",
         "description": "town in Slovakia",
-        "freebase_id": "/m/042j45"
+        "freebase_id": "/m/042j45",
+        "lat": 49.081111111,
+        "lng": 19.618055555
     },
     {
         "wikidata_id": "Q377416",
         "name": "Košice-Barca",
         "description": "borough of Košíce",
-        "freebase_id": "/m/0fwyt6"
+        "freebase_id": "/m/0fwyt6",
+        "lat": 48.67583333,
+        "lng": 21.26277778
     },
     {
         "wikidata_id": "Q321074",
         "name": "Piešťany",
         "description": "town in Slovakia",
-        "freebase_id": "/m/02kgs9"
+        "freebase_id": "/m/02kgs9",
+        "lat": 48.583333333,
+        "lng": 17.833333333
     },
     {
         "wikidata_id": "Q135655",
         "name": "Rajecké Teplice",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hl51"
+        "freebase_id": "/m/026hl51",
+        "lat": 49.133333333,
+        "lng": 18.683333333
     },
     {
         "wikidata_id": "Q135649",
         "name": "Šaštín-Stráže",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026h7lc"
+        "freebase_id": "/m/026h7lc",
+        "lat": 48.635,
+        "lng": 17.14
     },
     {
         "wikidata_id": "Q135647",
         "name": "Turčianske Teplice",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06s5l3"
+        "freebase_id": "/m/06s5l3",
+        "lat": 48.858888888,
+        "lng": 18.863611111
     },
     {
         "wikidata_id": "Q279463",
         "name": "Smrdáky",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/026k0s9"
+        "freebase_id": "/m/026k0s9",
+        "lat": 48.7231,
+        "lng": 17.3006
     },
     {
         "wikidata_id": "Q7555297",
         "name": "Sokolče",
         "description": "former village in Slovakia",
-        "freebase_id": "/m/02xc264"
+        "freebase_id": "/m/02xc264",
+        "lat": 49.095277777,
+        "lng": 19.491111111
     },
     {
         "wikidata_id": "Q532555",
         "name": "Trenčianske Teplice",
         "description": "town in Slovakia",
-        "freebase_id": "/m/040bh7"
+        "freebase_id": "/m/040bh7",
+        "lat": 48.910555555,
+        "lng": 18.166111111
     },
     {
         "wikidata_id": "Q135667",
         "name": "Kráľovský Chlmec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0gg4sz"
+        "freebase_id": "/m/0gg4sz",
+        "lat": 48.423333333,
+        "lng": 21.979722222
     },
     {
         "wikidata_id": "Q135727",
         "name": "Medzev",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0g_28d"
+        "freebase_id": "/m/0g_28d",
+        "lat": 48.700277777,
+        "lng": 20.892777777
     },
     {
         "wikidata_id": "Q340005",
         "name": "Červený Kláštor",
         "description": "former Carthusian monastery; national cultural monument in the village of Červený Kláštor, Kežmarok district, Slovakia",
-        "freebase_id": "/m/0hgrd7t"
+        "freebase_id": "/m/0hgrd7t",
+        "lat": 49.398611111,
+        "lng": 20.417222222
     },
     {
         "wikidata_id": "Q1328790",
         "name": "Tŭri Pôle",
         "description": "village in Slovakia",
-        "freebase_id": "/m/05zmrrx"
+        "freebase_id": "/m/05zmrrx",
+        "lat": 48.4,
+        "lng": 19.3333
     },
     {
         "wikidata_id": "Q371166",
         "name": "Starý Smokovec",
         "description": "part of the town of Vysoké Tatry in Slovakia",
-        "freebase_id": "/m/0h1b1h"
+        "freebase_id": "/m/0h1b1h",
+        "lat": 49.1375,
+        "lng": 20.21805556
     },
     {
         "wikidata_id": "Q1012707",
         "name": "Karlova Ves",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0267zq1"
+        "freebase_id": "/m/0267zq1",
+        "lat": 48.15555556,
+        "lng": 17.0525
     },
     {
         "wikidata_id": "Q11874",
         "name": "Zvolen",
         "description": "town in Slovakia",
-        "freebase_id": "/m/01z0vd"
+        "freebase_id": "/m/01z0vd",
+        "lat": 48.5782517,
+        "lng": 19.1247135
     },
     {
         "wikidata_id": "Q5904658",
         "name": "Horný Vék",
         "description": "village in Slovakia",
-        "freebase_id": "/m/05p56xx"
+        "freebase_id": "/m/05p56xx",
+        "lat": 47.86666667,
+        "lng": 18.15
     },
     {
         "wikidata_id": "Q830703",
         "name": "Bardejovské Kúpele",
         "description": "No description available",
-        "freebase_id": "/m/0wxr2mz"
+        "freebase_id": "/m/0wxr2mz",
+        "lat": 49.32986069,
+        "lng": 21.27043152
     },
     {
         "wikidata_id": "Q741329",
         "name": "Trnové",
         "description": "human settlement",
-        "freebase_id": "/m/0cpsys"
+        "freebase_id": "/m/0cpsys",
+        "lat": 49.18361111,
+        "lng": 18.79888889
     },
     {
         "wikidata_id": "Q2521489",
         "name": "Pentapolitana",
         "description": "No description available",
-        "freebase_id": "/m/09dbry"
+        "freebase_id": "/m/09dbry",
+        "lat": 49.0253,
+        "lng": 20.5881
     },
     {
         "wikidata_id": "Q1013328",
         "name": "Petržalka",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/03vg9p"
+        "freebase_id": "/m/03vg9p",
+        "lat": 48.133333333,
+        "lng": 17.116666666
     },
     {
         "wikidata_id": "Q26119",
         "name": "Prešov",
         "description": "city in Slovakia",
-        "freebase_id": "/m/036xg2"
+        "freebase_id": "/m/036xg2",
+        "lat": 49.0,
+        "lng": 21.233333333
     },
     {
         "wikidata_id": "Q683983",
         "name": "Podunajské Biskupice",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0267z7z"
+        "freebase_id": "/m/0267z7z",
+        "lat": 48.13361111,
+        "lng": 17.21666667
     },
     {
         "wikidata_id": "Q460925",
         "name": "Michalovce",
         "description": "town in Slovakia",
-        "freebase_id": "/m/066mbg"
+        "freebase_id": "/m/066mbg",
+        "lat": 48.7575,
+        "lng": 21.918333333
     },
     {
         "wikidata_id": "Q1110017",
         "name": "Andač",
         "description": "place",
-        "freebase_id": "/m/012s8cyv"
+        "freebase_id": "/m/012s8cyv",
+        "lat": 48.373,
+        "lng": 17.9751
     },
     {
         "wikidata_id": "Q341724",
         "name": "Čunovo",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0h4mmr"
+        "freebase_id": "/m/0h4mmr",
+        "lat": 48.02972222,
+        "lng": 17.19888889
     },
     {
         "wikidata_id": "Q616170",
         "name": "Dúbravka",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/07cdp5"
+        "freebase_id": "/m/07cdp5",
+        "lat": 48.18666667,
+        "lng": 17.03722222
     },
     {
         "wikidata_id": "Q27001",
         "name": "Martin",
         "description": "city in northern Slovakia",
-        "freebase_id": "/m/03tr11"
+        "freebase_id": "/m/03tr11",
+        "lat": 49.063611111,
+        "lng": 18.921388888
     },
     {
         "wikidata_id": "Q135818",
         "name": "Brezová pod Bradlom",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hjw3"
+        "freebase_id": "/m/026hjw3",
+        "lat": 48.665277777,
+        "lng": 17.537222222
     },
     {
         "wikidata_id": "Q7919102",
@@ -609,7 +809,9 @@
         "wikidata_id": "Q5483038",
         "name": "Franciscan church and monastery, Nové Zámky",
         "description": "Slovakian Church",
-        "freebase_id": "/m/0463dj0"
+        "freebase_id": "/m/0463dj0",
+        "lat": 47.986944444,
+        "lng": 18.162777777
     },
     {
         "wikidata_id": "Q6161834",
@@ -621,780 +823,1040 @@
         "wikidata_id": "Q7558159",
         "name": "Solinky",
         "description": "neighborhood of Žilina (Slovakia)",
-        "freebase_id": "/m/0gnjsq"
+        "freebase_id": "/m/0gnjsq",
+        "lat": 49.2089,
+        "lng": 18.7762
     },
     {
         "wikidata_id": "Q529060",
         "name": "Vrtižer",
         "description": "human settlement",
-        "freebase_id": "/m/0274d1k"
+        "freebase_id": "/m/0274d1k",
+        "lat": 49.15,
+        "lng": 18.4667
     },
     {
         "wikidata_id": "Q60038",
         "name": "Štúrovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07rw98"
+        "freebase_id": "/m/07rw98",
+        "lat": 47.799166666,
+        "lng": 18.718055555
     },
     {
         "wikidata_id": "Q1055697",
         "name": "Jarovce",
         "description": "borough of Bratislava (Slovakia)",
-        "freebase_id": "/m/0g599y"
+        "freebase_id": "/m/0g599y",
+        "lat": 48.06527778,
+        "lng": 17.11333333
     },
     {
         "wikidata_id": "Q3489097",
         "name": "Kokot",
         "description": "formerly a castle in present-day Slovakia",
-        "freebase_id": "/m/0czfxs"
+        "freebase_id": "/m/0czfxs",
+        "lat": 47.799505,
+        "lng": 18.721004
     },
     {
         "wikidata_id": "Q643354",
         "name": "Nitriansky Hrádok",
         "description": "No description available",
-        "freebase_id": "/m/0ds1q0g"
+        "freebase_id": "/m/0ds1q0g",
+        "lat": 48.06916667,
+        "lng": 18.20472222
     },
     {
         "wikidata_id": "Q5207697",
         "name": "Dacian fortress of Zemplín",
         "description": "No description available",
-        "freebase_id": "/m/0h96p7r"
+        "freebase_id": "/m/0h96p7r",
+        "lat": 48.44,
+        "lng": 21.81
     },
     {
         "wikidata_id": "Q8675874",
         "name": "Príles",
         "description": "No description available",
-        "freebase_id": "/m/0s8ywmp"
+        "freebase_id": "/m/0s8ywmp",
+        "lat": 48.951282,
+        "lng": 18.136103
     },
     {
         "wikidata_id": "Q282536",
         "name": "Jasná",
         "description": "village in Slovakia",
-        "freebase_id": "/m/0gdhgx"
+        "freebase_id": "/m/0gdhgx",
+        "lat": 48.972612,
+        "lng": 19.598451
     },
     {
         "wikidata_id": "Q23120",
         "name": "Sklené Teplice",
         "description": "small spa village",
-        "freebase_id": "/m/0gm1c7"
+        "freebase_id": "/m/0gm1c7",
+        "lat": 48.528,
+        "lng": 18.863
     },
     {
         "wikidata_id": "Q27907",
         "name": "Bytča",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03tqt_"
+        "freebase_id": "/m/03tqt_",
+        "lat": 49.222777777,
+        "lng": 18.558055555
     },
     {
         "wikidata_id": "Q210796",
         "name": "Komárno",
         "description": "town in Slovakia",
-        "freebase_id": "/m/01z0vs"
+        "freebase_id": "/m/01z0vs",
+        "lat": 47.763333333,
+        "lng": 18.128333333
     },
     {
         "wikidata_id": "Q512771",
         "name": "Stará Turá",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026ghzx"
+        "freebase_id": "/m/026ghzx",
+        "lat": 48.777222222,
+        "lng": 17.695555555
     },
     {
         "wikidata_id": "Q502264",
         "name": "Humenné",
         "description": "town in the Prešov Region in eastern Slovakia",
-        "freebase_id": "/m/02z0sl"
+        "freebase_id": "/m/02z0sl",
+        "lat": 48.930555555,
+        "lng": 21.912222222
     },
     {
         "wikidata_id": "Q429676",
         "name": "Sereď",
         "description": "Town in Slovakia",
-        "freebase_id": "/m/08hbcb"
+        "freebase_id": "/m/08hbcb",
+        "lat": 48.283333333,
+        "lng": 17.733333333
     },
     {
         "wikidata_id": "Q370445",
         "name": "Tisovec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/04vvmk"
+        "freebase_id": "/m/04vvmk",
+        "lat": 48.680555555,
+        "lng": 19.945555555
     },
     {
         "wikidata_id": "Q393925",
         "name": "Žiar nad Hronom",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0c2v6j"
+        "freebase_id": "/m/0c2v6j",
+        "lat": 48.591944444,
+        "lng": 18.853333333
     },
     {
         "wikidata_id": "Q389397",
         "name": "Gabčíkovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0g9rp6"
+        "freebase_id": "/m/0g9rp6",
+        "lat": 47.89211,
+        "lng": 17.57884
     },
     {
         "wikidata_id": "Q337478",
         "name": "Čadca",
         "description": "town in Slovakia",
-        "freebase_id": "/m/09jdrp"
+        "freebase_id": "/m/09jdrp",
+        "lat": 49.438611111,
+        "lng": 18.788333333
     },
     {
         "wikidata_id": "Q389942",
         "name": "Nemšová",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026h5qx"
+        "freebase_id": "/m/026h5qx",
+        "lat": 48.966944444,
+        "lng": 18.116944444
     },
     {
         "wikidata_id": "Q319787",
         "name": "Považská Bystrica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03tsk0"
+        "freebase_id": "/m/03tsk0",
+        "lat": 49.116666666,
+        "lng": 18.45
     },
     {
         "wikidata_id": "Q537778",
         "name": "Spišské Podhradie",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0bp6ql"
+        "freebase_id": "/m/0bp6ql",
+        "lat": 48.99888889,
+        "lng": 20.75305556
     },
     {
         "wikidata_id": "Q524405",
         "name": "Spišské Vlachy",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0g2h2z"
+        "freebase_id": "/m/0g2h2z",
+        "lat": 48.949722222,
+        "lng": 20.797222222
     },
     {
         "wikidata_id": "Q208750",
         "name": "Prievidza",
         "description": "town in Slovakia",
-        "freebase_id": "/m/05m7p4"
+        "freebase_id": "/m/05m7p4",
+        "lat": 48.771388888,
+        "lng": 18.624166666
     },
     {
         "wikidata_id": "Q182903",
         "name": "Q182903",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hjj2"
+        "freebase_id": "/m/026hjj2",
+        "lat": 49.405,
+        "lng": 18.625277777
     },
     {
         "wikidata_id": "Q258439",
         "name": "Sliač",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06nmgd"
+        "freebase_id": "/m/06nmgd",
+        "lat": 48.625555555,
+        "lng": 19.151944444
     },
     {
         "wikidata_id": "Q279005",
         "name": "Dobšiná",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08chc8"
+        "freebase_id": "/m/08chc8",
+        "lat": 48.820555555,
+        "lng": 20.3675
     },
     {
         "wikidata_id": "Q258481",
         "name": "Púchov",
         "description": "town in Slovakia",
-        "freebase_id": "/m/05vg2b"
+        "freebase_id": "/m/05vg2b",
+        "lat": 49.12,
+        "lng": 18.330555555
     },
     {
         "wikidata_id": "Q338528",
         "name": "Liptovský Hrádok",
         "description": "town in the region of Liptov in northern Slovakia",
-        "freebase_id": "/m/04_qgq"
+        "freebase_id": "/m/04_qgq",
+        "lat": 49.039444444,
+        "lng": 19.724444444
     },
     {
         "wikidata_id": "Q267888",
         "name": "Rožňava",
         "description": "town in Slovakia",
-        "freebase_id": "/m/049qgg"
+        "freebase_id": "/m/049qgg",
+        "lat": 48.658611111,
+        "lng": 20.531388888
     },
     {
         "wikidata_id": "Q392704",
         "name": "Šurany",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0ffvgq"
+        "freebase_id": "/m/0ffvgq",
+        "lat": 48.087222222,
+        "lng": 18.186111111
     },
     {
         "wikidata_id": "Q531445",
         "name": "Dudince",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08dy7x"
+        "freebase_id": "/m/08dy7x",
+        "lat": 48.168611111,
+        "lng": 18.88
     },
     {
         "wikidata_id": "Q247240",
         "name": "Svätý Jur",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07qjrz"
+        "freebase_id": "/m/07qjrz",
+        "lat": 48.251944444,
+        "lng": 17.215555555
     },
     {
         "wikidata_id": "Q568249",
         "name": "Sládkovičovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hk8j"
+        "freebase_id": "/m/026hk8j",
+        "lat": 48.2,
+        "lng": 17.65
     },
     {
         "wikidata_id": "Q374095",
         "name": "Kolárovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08hbg7"
+        "freebase_id": "/m/08hbg7",
+        "lat": 47.915277777,
+        "lng": 17.997222222
     },
     {
         "wikidata_id": "Q462840",
         "name": "Spišská Nová Ves",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07cmbt"
+        "freebase_id": "/m/07cmbt",
+        "lat": 48.95,
+        "lng": 20.566666666
     },
     {
         "wikidata_id": "Q249935",
         "name": "Nová Dubnica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0cfg2x"
+        "freebase_id": "/m/0cfg2x",
+        "lat": 48.933333333,
+        "lng": 18.15
     },
     {
         "wikidata_id": "Q481564",
         "name": "Ilava",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03tsj9"
+        "freebase_id": "/m/03tsj9",
+        "lat": 48.999444444,
+        "lng": 18.236111111
     },
     {
         "wikidata_id": "Q390946",
         "name": "Šahy",
         "description": "town in Slovakia",
-        "freebase_id": "/m/042j3g"
+        "freebase_id": "/m/042j3g",
+        "lat": 48.066666666,
+        "lng": 18.966666666
     },
     {
         "wikidata_id": "Q207226",
         "name": "Q207226",
         "description": "town in Slovakia",
-        "freebase_id": "/m/042j1q"
+        "freebase_id": "/m/042j1q",
+        "lat": 48.378055555,
+        "lng": 18.396388888
     },
     {
         "wikidata_id": "Q391068",
         "name": "Šamorín",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0bdj5d"
+        "freebase_id": "/m/0bdj5d",
+        "lat": 48.026666666,
+        "lng": 17.311666666
     },
     {
         "wikidata_id": "Q242478",
         "name": "Levoča",
         "description": "town in Slovakia",
-        "freebase_id": "/m/02w4kz"
+        "freebase_id": "/m/02w4kz",
+        "lat": 49.022777777,
+        "lng": 20.590555555
     },
     {
         "wikidata_id": "Q481528",
         "name": "Dubnica nad Váhom",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07cl70"
+        "freebase_id": "/m/07cl70",
+        "lat": 48.9575,
+        "lng": 18.165833333
     },
     {
         "wikidata_id": "Q391361",
         "name": "Šaľa",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08hbfv"
+        "freebase_id": "/m/08hbfv",
+        "lat": 48.15,
+        "lng": 17.883333333
     },
     {
         "wikidata_id": "Q247620",
         "name": "Fiľakovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/046cvh"
+        "freebase_id": "/m/046cvh",
+        "lat": 48.271944444,
+        "lng": 19.828611111
     },
     {
         "wikidata_id": "Q549849",
         "name": "Bánovce nad Bebravou",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08nh83"
+        "freebase_id": "/m/08nh83",
+        "lat": 48.718611111,
+        "lng": 18.258055555
     },
     {
         "wikidata_id": "Q268463",
         "name": "Nová Baňa",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0glv28"
+        "freebase_id": "/m/0glv28",
+        "lat": 48.424444444,
+        "lng": 18.639166666
     },
     {
         "wikidata_id": "Q241125",
         "name": "Sobrance",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0drxg6"
+        "freebase_id": "/m/0drxg6",
+        "lat": 48.746,
+        "lng": 22.179
     },
     {
         "wikidata_id": "Q509715",
         "name": "Q509715",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0ckvt7"
+        "freebase_id": "/m/0ckvt7",
+        "lat": 49.3336,
+        "lng": 19.5551
     },
     {
         "wikidata_id": "Q259694",
         "name": "Poltár",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0gb_rq"
+        "freebase_id": "/m/0gb_rq",
+        "lat": 48.430555555,
+        "lng": 19.7975
     },
     {
         "wikidata_id": "Q460767",
         "name": "Galanta",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03ctn9"
+        "freebase_id": "/m/03ctn9",
+        "lat": 48.191388888,
+        "lng": 17.730833333
     },
     {
         "wikidata_id": "Q256301",
         "name": "Trebišov",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0782_5"
+        "freebase_id": "/m/0782_5",
+        "lat": 48.633333333,
+        "lng": 21.716666666
     },
     {
         "wikidata_id": "Q550357",
         "name": "Giraltovce",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026gh0_"
+        "freebase_id": "/m/026gh0_",
+        "lat": 49.111666666,
+        "lng": 21.516666666
     },
     {
         "wikidata_id": "Q376987",
         "name": "Nové Mesto nad Váhom",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07qjh7"
+        "freebase_id": "/m/07qjh7",
+        "lat": 48.783333333,
+        "lng": 17.833333333
     },
     {
         "wikidata_id": "Q393421",
         "name": "Q393421",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0glv3_"
+        "freebase_id": "/m/0glv3_",
+        "lat": 48.483333333,
+        "lng": 18.716666666
     },
     {
         "wikidata_id": "Q276362",
         "name": "Nové Zámky",
         "description": "town in Slovakia",
-        "freebase_id": "/m/01z0wz"
+        "freebase_id": "/m/01z0wz",
+        "lat": 47.9859797,
+        "lng": 18.1632228
     },
     {
         "wikidata_id": "Q393609",
         "name": "Q393609",
         "description": "town in Slovakia",
-        "freebase_id": "/m/098gtt"
+        "freebase_id": "/m/098gtt",
+        "lat": 48.048611111,
+        "lng": 18.660277777
     },
     {
         "wikidata_id": "Q239637",
         "name": "Tlmače",
         "description": "town in Slovakia",
-        "freebase_id": "/m/025_d3t"
+        "freebase_id": "/m/025_d3t",
+        "lat": 48.283333333,
+        "lng": 18.533333333
     },
     {
         "wikidata_id": "Q516578",
         "name": "Kysucké Nové Mesto",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0cfg25"
+        "freebase_id": "/m/0cfg25",
+        "lat": 49.3,
+        "lng": 18.783333333
     },
     {
         "wikidata_id": "Q506693",
         "name": "Levice",
         "description": "town in Slovakia",
-        "freebase_id": "/m/04nd78"
+        "freebase_id": "/m/04nd78",
+        "lat": 48.213611111,
+        "lng": 18.606944444
     },
     {
         "wikidata_id": "Q264708",
         "name": "Q264708",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0bdxvl"
+        "freebase_id": "/m/0bdxvl",
+        "lat": 48.25,
+        "lng": 18.316666666
     },
     {
         "wikidata_id": "Q212590",
         "name": "Čierna nad Tisou",
         "description": "town in Slovakia",
-        "freebase_id": "/m/025w0m9"
+        "freebase_id": "/m/025w0m9",
+        "lat": 48.41704,
+        "lng": 22.08865
     },
     {
         "wikidata_id": "Q208110",
         "name": "Banská Štiavnica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/01z0w4"
+        "freebase_id": "/m/01z0w4",
+        "lat": 48.458611111,
+        "lng": 18.893055555
     },
     {
         "wikidata_id": "Q377650",
         "name": "Námestovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0fvgbn"
+        "freebase_id": "/m/0fvgbn",
+        "lat": 49.41,
+        "lng": 19.48
     },
     {
         "wikidata_id": "Q465312",
         "name": "Brezno",
         "description": "town in Slovakia",
-        "freebase_id": "/m/04vvfs"
+        "freebase_id": "/m/04vvfs",
+        "lat": 48.803611111,
+        "lng": 19.638055555
     },
     {
         "wikidata_id": "Q327977",
         "name": "Kežmarok",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06vfjl"
+        "freebase_id": "/m/06vfjl",
+        "lat": 49.138333333,
+        "lng": 20.429166666
     },
     {
         "wikidata_id": "Q837456",
         "name": "Q837456",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08hb1c"
+        "freebase_id": "/m/08hb1c",
+        "lat": 49.111666666,
+        "lng": 18.923611111
     },
     {
         "wikidata_id": "Q690807",
         "name": "Leopoldov",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07qk0q"
+        "freebase_id": "/m/07qk0q",
+        "lat": 48.446388888,
+        "lng": 17.768055555
     },
     {
         "wikidata_id": "Q578686",
         "name": "Medzilaborce",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06knfh"
+        "freebase_id": "/m/06knfh",
+        "lat": 49.271666666,
+        "lng": 21.904166666
     },
     {
         "wikidata_id": "Q842022",
         "name": "Q842022",
         "description": "town in Slovakia",
-        "freebase_id": "/m/086sd2"
+        "freebase_id": "/m/086sd2",
+        "lat": 48.55,
+        "lng": 22.083333333
     },
     {
         "wikidata_id": "Q852324",
         "name": "Podolínec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hky4"
+        "freebase_id": "/m/026hky4",
+        "lat": 49.257222222,
+        "lng": 20.530833333
     },
     {
         "wikidata_id": "Q659424",
         "name": "Pezinok",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03tqw1"
+        "freebase_id": "/m/03tqw1",
+        "lat": 48.291944444,
+        "lng": 17.266111111
     },
     {
         "wikidata_id": "Q846424",
         "name": "Gbely",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hkd_"
+        "freebase_id": "/m/026hkd_",
+        "lat": 48.7175,
+        "lng": 17.115
     },
     {
         "wikidata_id": "Q846431",
         "name": "Hriňová",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06b8pn"
+        "freebase_id": "/m/06b8pn",
+        "lat": 48.573333333,
+        "lng": 19.522777777
     },
     {
         "wikidata_id": "Q846434",
         "name": "Strážske",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0h60kg"
+        "freebase_id": "/m/0h60kg",
+        "lat": 48.866666666,
+        "lng": 21.816666666
     },
     {
         "wikidata_id": "Q846440",
         "name": "Moldava nad Bodvou",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0g_292"
+        "freebase_id": "/m/0g_292",
+        "lat": 48.615555555,
+        "lng": 20.999166666
     },
     {
         "wikidata_id": "Q846444",
         "name": "Q846444",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07qk3j"
+        "freebase_id": "/m/07qk3j",
+        "lat": 48.620833333,
+        "lng": 17.7225
     },
     {
         "wikidata_id": "Q842028",
         "name": "Gelnica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07qjng"
+        "freebase_id": "/m/07qjng",
+        "lat": 48.855,
+        "lng": 20.939722222
     },
     {
         "wikidata_id": "Q649076",
         "name": "Skalica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08wzdq"
+        "freebase_id": "/m/08wzdq",
+        "lat": 48.843611111,
+        "lng": 17.226388888
     },
     {
         "wikidata_id": "Q847350",
         "name": "Q847350",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0fyvxx"
+        "freebase_id": "/m/0fyvxx",
+        "lat": 49.366666666,
+        "lng": 19.616666666
     },
     {
         "wikidata_id": "Q754790",
         "name": "Senec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0drxp_"
+        "freebase_id": "/m/0drxp_",
+        "lat": 48.218888888,
+        "lng": 17.399722222
     },
     {
         "wikidata_id": "Q782928",
         "name": "Stupava",
         "description": "town in Slovakia",
-        "freebase_id": "/m/08nj0z"
+        "freebase_id": "/m/08nj0z",
+        "lat": 48.283333333,
+        "lng": 17.033333333
     },
     {
         "wikidata_id": "Q788753",
         "name": "Bojnice",
         "description": "town in Slovakia",
-        "freebase_id": "/m/01z0wl"
+        "freebase_id": "/m/01z0wl",
+        "lat": 48.782222222,
+        "lng": 18.586111111
     },
     {
         "wikidata_id": "Q852313",
         "name": "Q852313",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0fwgkn"
+        "freebase_id": "/m/0fwgkn",
+        "lat": 49.038333333,
+        "lng": 21.191666666
     },
     {
         "wikidata_id": "Q837460",
         "name": "Myjava",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0drxsf"
+        "freebase_id": "/m/0drxsf",
+        "lat": 48.757777777,
+        "lng": 17.568611111
     },
     {
         "wikidata_id": "Q750423",
         "name": "Topoľčany",
         "description": "town and administrative center of Topoľčany district in the Nitra region of Slovakia",
-        "freebase_id": "/m/07qk5_"
+        "freebase_id": "/m/07qk5_",
+        "lat": 48.55,
+        "lng": 18.183333333
     },
     {
         "wikidata_id": "Q828850",
         "name": "Hnúšťa",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0gh45b"
+        "freebase_id": "/m/0gh45b",
+        "lat": 48.573611111,
+        "lng": 19.953055555
     },
     {
         "wikidata_id": "Q842011",
         "name": "Handlová",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0kw7bw"
+        "freebase_id": "/m/0kw7bw",
+        "lat": 48.727222222,
+        "lng": 18.761944444
     },
     {
         "wikidata_id": "Q750407",
         "name": "Senica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0drxn7"
+        "freebase_id": "/m/0drxn7",
+        "lat": 48.680555555,
+        "lng": 17.366666666
     },
     {
         "wikidata_id": "Q592301",
         "name": "Spišská Stará Ves",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026dkx0"
+        "freebase_id": "/m/026dkx0",
+        "lat": 49.383333333,
+        "lng": 20.366666666
     },
     {
         "wikidata_id": "Q728965",
         "name": "Lučenec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03qz65"
+        "freebase_id": "/m/03qz65",
+        "lat": 48.331388888,
+        "lng": 19.670833333
     },
     {
         "wikidata_id": "Q605059",
         "name": "Spišská Belá",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026dkwp"
+        "freebase_id": "/m/026dkwp",
+        "lat": 49.185833333,
+        "lng": 20.456666666
     },
     {
         "wikidata_id": "Q847336",
         "name": "Sečovce",
         "description": "town in Slovakia",
-        "freebase_id": "/m/025wj1q"
+        "freebase_id": "/m/025wj1q",
+        "lat": 48.7,
+        "lng": 21.65
     },
     {
         "wikidata_id": "Q740469",
         "name": "Q740469",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026h81h"
+        "freebase_id": "/m/026h81h",
+        "lat": 47.85,
+        "lng": 17.766666666
     },
     {
         "wikidata_id": "Q852318",
         "name": "Svit",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0btknm"
+        "freebase_id": "/m/0btknm",
+        "lat": 49.058288888,
+        "lng": 20.202469444
     },
     {
         "wikidata_id": "Q653326",
         "name": "Holíč",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0kw7c7"
+        "freebase_id": "/m/0kw7c7",
+        "lat": 48.811944444,
+        "lng": 17.162777777
     },
     {
         "wikidata_id": "Q629313",
         "name": "Nesvady",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/02627hh"
+        "freebase_id": "/m/02627hh",
+        "lat": 47.9275,
+        "lng": 18.12694444
     },
     {
         "wikidata_id": "Q605521",
         "name": "Stará Ľubovňa",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0bqyrw"
+        "freebase_id": "/m/0bqyrw",
+        "lat": 49.316666666,
+        "lng": 20.683333333
     },
     {
         "wikidata_id": "Q909281",
         "name": "Krásno nad Kysucou",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hjmx"
+        "freebase_id": "/m/026hjmx",
+        "lat": 49.397777777,
+        "lng": 18.836388888
     },
     {
         "wikidata_id": "Q909301",
         "name": "Nováky",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hkqz"
+        "freebase_id": "/m/026hkqz",
+        "lat": 48.716666666,
+        "lng": 18.533333333
     },
     {
         "wikidata_id": "Q909291",
         "name": "Tornaľa",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0gdjhs"
+        "freebase_id": "/m/0gdjhs",
+        "lat": 48.416666666,
+        "lng": 20.333333333
     },
     {
         "wikidata_id": "Q833845",
         "name": "Svidník",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0br02b"
+        "freebase_id": "/m/0br02b",
+        "lat": 49.305555555,
+        "lng": 21.567777777
     },
     {
         "wikidata_id": "Q829812",
         "name": "Rimavská Sobota",
         "description": "town in Slovakia",
-        "freebase_id": "/m/042jd4"
+        "freebase_id": "/m/042jd4",
+        "lat": 48.381430555,
+        "lng": 20.019963888
     },
     {
         "wikidata_id": "Q909333",
         "name": "Rajec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026hjzx"
+        "freebase_id": "/m/026hjzx",
+        "lat": 49.083333333,
+        "lng": 18.633333333
     },
     {
         "wikidata_id": "Q847213",
         "name": "Revúca",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0cfg6b"
+        "freebase_id": "/m/0cfg6b",
+        "lat": 48.683333333,
+        "lng": 20.116666666
     },
     {
         "wikidata_id": "Q842005",
         "name": "Vranov nad Topľou",
         "description": "town in Slovakia",
-        "freebase_id": "/m/02l12q"
+        "freebase_id": "/m/02l12q",
+        "lat": 48.880555555,
+        "lng": 21.673055555
     },
     {
         "wikidata_id": "Q842018",
         "name": "Krompachy",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0cnn8q"
+        "freebase_id": "/m/0cnn8q",
+        "lat": 48.916666666,
+        "lng": 20.874444444
     },
     {
         "wikidata_id": "Q1192828",
         "name": "Pinkovce",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0h7n5l"
+        "freebase_id": "/m/0h7n5l",
+        "lat": 48.606944444,
+        "lng": 22.184722222
     },
     {
         "wikidata_id": "Q754773",
         "name": "Hlohovec",
         "description": "town in Slovakia",
-        "freebase_id": "/m/05hxq9"
+        "freebase_id": "/m/05hxq9",
+        "lat": 48.431111111,
+        "lng": 17.803055555
     },
     {
         "wikidata_id": "Q589309",
         "name": "Dolný Kubín",
         "description": "town in Slovakia",
-        "freebase_id": "/m/042j0n"
+        "freebase_id": "/m/042j0n",
+        "lat": 49.211666666,
+        "lng": 19.299166666
     },
     {
         "wikidata_id": "Q781416",
         "name": "Ubľa",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0h6w59"
+        "freebase_id": "/m/0h6w59",
+        "lat": 48.899166666,
+        "lng": 22.388888888
     },
     {
         "wikidata_id": "Q754768",
         "name": "Partizánske",
         "description": "town in Trenčín Region, Slovakia",
-        "freebase_id": "/m/0c2tvd"
+        "freebase_id": "/m/0c2tvd",
+        "lat": 48.633333333,
+        "lng": 18.366666666
     },
     {
         "wikidata_id": "Q612516",
         "name": "Vysoké Tatry",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0cyq6n"
+        "freebase_id": "/m/0cyq6n",
+        "lat": 49.141944444,
+        "lng": 20.223055555
     },
     {
         "wikidata_id": "Q901050",
         "name": "Modrý Kameň",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0gkbmt"
+        "freebase_id": "/m/0gkbmt",
+        "lat": 48.240555555,
+        "lng": 19.334444444
     },
     {
         "wikidata_id": "Q837464",
         "name": "Malacky",
         "description": "town in Slovakia",
-        "freebase_id": "/m/03tsxm"
+        "freebase_id": "/m/03tsxm",
+        "lat": 48.438055555,
+        "lng": 17.023611111
     },
     {
         "wikidata_id": "Q754776",
         "name": "Kremnica",
         "description": "town in Slovakia",
-        "freebase_id": "/m/06vfff"
+        "freebase_id": "/m/06vfff",
+        "lat": 48.704444444,
+        "lng": 18.918333333
     },
     {
         "wikidata_id": "Q846853",
         "name": "Jelšava",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0gdjhd"
+        "freebase_id": "/m/0gdjhd",
+        "lat": 48.626388888,
+        "lng": 20.241388888
     },
     {
         "wikidata_id": "Q847118",
         "name": "Lipany",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026h8ct"
+        "freebase_id": "/m/026h8ct",
+        "lat": 49.152777777,
+        "lng": 20.961944444
     },
     {
         "wikidata_id": "Q750413",
         "name": "Stropkov",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0drxc1"
+        "freebase_id": "/m/0drxc1",
+        "lat": 49.205,
+        "lng": 21.651388888
     },
     {
         "wikidata_id": "Q673741",
         "name": "Q673741",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0fp43g"
+        "freebase_id": "/m/0fp43g",
+        "lat": 48.215,
+        "lng": 19.338055555
     },
     {
         "wikidata_id": "Q754788",
         "name": "Snina",
         "description": "town in Slovakia",
-        "freebase_id": "/m/04xh1z"
+        "freebase_id": "/m/04xh1z",
+        "lat": 48.988055555,
+        "lng": 22.156666666
     },
     {
         "wikidata_id": "Q856402",
         "name": "Hurbanovo",
         "description": "town in Slovakia",
-        "freebase_id": "/m/02631x6"
+        "freebase_id": "/m/02631x6",
+        "lat": 47.8726639,
+        "lng": 18.1915894
     },
     {
         "wikidata_id": "Q837478",
         "name": "Sabinov",
         "description": "town in Slovakia",
-        "freebase_id": "/m/067cxl"
+        "freebase_id": "/m/067cxl",
+        "lat": 49.1,
+        "lng": 21.1
     },
     {
         "wikidata_id": "Q1023443",
         "name": "Q1023443",
         "description": "town in Slovakia",
-        "freebase_id": "/m/026kpmw"
+        "freebase_id": "/m/026kpmw",
+        "lat": 49.116666666,
+        "lng": 19.033333333
     },
     {
         "wikidata_id": "Q596044",
         "name": "Modra",
         "description": "town in Slovakia",
-        "freebase_id": "/m/07cnjp"
+        "freebase_id": "/m/07cnjp",
+        "lat": 48.333055555,
+        "lng": 17.306944444
     },
     {
         "wikidata_id": "Q202627",
         "name": "Veľké Slemence",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0h603m"
+        "freebase_id": "/m/0h603m",
+        "lat": 48.511111111,
+        "lng": 22.154166666
     },
     {
         "wikidata_id": "Q1018849",
         "name": "Kúty",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/026k0fn"
+        "freebase_id": "/m/026k0fn",
+        "lat": 48.658888888,
+        "lng": 17.019444444
     },
     {
         "wikidata_id": "Q780527",
         "name": "Hanušovce nad Topľou",
         "description": "town in the Vranov nad Topľou District, Prešov Region in eastern Slovakia",
-        "freebase_id": "/m/026hkk3"
+        "freebase_id": "/m/026hkk3",
+        "lat": 49.026388888,
+        "lng": 21.500277777
     },
     {
         "wikidata_id": "Q756667",
         "name": "Krupina",
         "description": "town in Slovakia",
-        "freebase_id": "/m/0h67th"
+        "freebase_id": "/m/0h67th",
+        "lat": 48.35,
+        "lng": 19.066944444
     },
     {
         "wikidata_id": "Q999373",
         "name": "Vyšné Nemecké",
         "description": "municipality of Slovakia",
-        "freebase_id": "/m/0h6vqv"
+        "freebase_id": "/m/0h6vqv",
+        "lat": 48.66111111,
+        "lng": 22.26361111
     }
 ]

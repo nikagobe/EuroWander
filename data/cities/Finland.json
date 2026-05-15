@@ -3,457 +3,609 @@
         "wikidata_id": "Q3069698",
         "name": "Torpparinmäki",
         "description": "neighborhood in Helsinki, Finland",
-        "freebase_id": "/m/09g6qfk"
+        "freebase_id": "/m/09g6qfk",
+        "lat": 60.260678576,
+        "lng": 24.951122515
     },
     {
         "wikidata_id": "Q3070552",
         "name": "Itäsaaret",
         "description": "area in Ulkosaaret, Helsinki, Finland",
-        "freebase_id": "/m/09rv96g"
+        "freebase_id": "/m/09rv96g",
+        "lat": 60.114799599,
+        "lng": 25.103058335
     },
     {
         "wikidata_id": "Q3069713",
         "name": "Pajamäki",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rskrn"
+        "freebase_id": "/m/09rskrn",
+        "lat": 60.21930541,
+        "lng": 24.856097736
     },
     {
         "wikidata_id": "Q3070009",
         "name": "Myllypuro",
         "description": "quarter in Vartiokylä, Helsinki, Finland",
-        "freebase_id": "/m/09rsd7y"
+        "freebase_id": "/m/09rsd7y",
+        "lat": 60.225,
+        "lng": 25.06666667
     },
     {
         "wikidata_id": "Q3070494",
         "name": "Hietalahti",
         "description": "quarter in Helsinki, Finland",
-        "freebase_id": "/m/07n04z"
+        "freebase_id": "/m/07n04z",
+        "lat": 60.1625,
+        "lng": 24.92916667
     },
     {
         "wikidata_id": "Q3133405",
         "name": "Mellunmäki",
         "description": "subdivision in Mellunkylä, Helsinki, Finland",
-        "freebase_id": "/m/02vw93g"
+        "freebase_id": "/m/02vw93g",
+        "lat": 60.23333333,
+        "lng": 25.13333333
     },
     {
         "wikidata_id": "Q3133436",
         "name": "Niinisaari",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rst0j"
+        "freebase_id": "/m/09rst0j",
+        "lat": 60.217650167,
+        "lng": 25.184356163
     },
     {
         "wikidata_id": "Q3069081",
         "name": "Veräjämäki",
         "description": "quarter in Oulunkylä, Helsinki, Finland",
-        "freebase_id": "/m/09rwq7m"
+        "freebase_id": "/m/09rwq7m",
+        "lat": 60.226936167,
+        "lng": 24.974551607
     },
     {
         "wikidata_id": "Q3133446",
         "name": "Puotila",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rx6rd"
+        "freebase_id": "/m/09rx6rd",
+        "lat": 60.2102036,
+        "lng": 25.103033632
     },
     {
         "wikidata_id": "Q3069196",
         "name": "Siltasaari",
         "description": "quarter in Kallio, Helsinki, Finland",
-        "freebase_id": "/m/09rw4br"
+        "freebase_id": "/m/09rw4br",
+        "lat": 60.178697685,
+        "lng": 24.95077558
     },
     {
         "wikidata_id": "Q3068656",
         "name": "Pukinmäki",
         "description": "37th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rx7tj"
+        "freebase_id": "/m/09rx7tj",
+        "lat": 60.244779276,
+        "lng": 24.98608259
     },
     {
         "wikidata_id": "Q3068665",
         "name": "Tapaninkylä",
         "description": "39th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rw9t6"
+        "freebase_id": "/m/09rw9t6",
+        "lat": 60.263266,
+        "lng": 25.011332
     },
     {
         "wikidata_id": "Q3068810",
         "name": "Suurmetsä",
         "description": "41st neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rwf72"
+        "freebase_id": "/m/09rwf72",
+        "lat": 60.26666667,
+        "lng": 25.05
     },
     {
         "wikidata_id": "Q3069090",
         "name": "Jätkäsaari",
         "description": "quarter of Länsisatama district in Helsinki, Finland",
-        "freebase_id": "/m/04g0sk4"
+        "freebase_id": "/m/04g0sk4",
+        "lat": 60.155,
+        "lng": 24.91
     },
     {
         "wikidata_id": "Q3069421",
         "name": "Roihupelto",
         "description": "area in Vartiokylä, Helsinki, Finland",
-        "freebase_id": "/m/09rsg4h"
+        "freebase_id": "/m/09rsg4h",
+        "lat": 60.211220081,
+        "lng": 25.057446371
     },
     {
         "wikidata_id": "Q3069439",
         "name": "Landbo",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rxzbm"
+        "freebase_id": "/m/09rxzbm",
+        "lat": 60.272166513,
+        "lng": 25.185993524
     },
     {
         "wikidata_id": "Q3069455",
         "name": "Talinranta",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rs8nd"
+        "freebase_id": "/m/09rs8nd",
+        "lat": 60.206519682,
+        "lng": 24.857806383
     },
     {
         "wikidata_id": "Q3069590",
         "name": "Kuninkaantammi",
         "description": "quarter of the Kaarela neighbourhood in Helsinki, Finland",
-        "freebase_id": "/m/0h56g4v"
+        "freebase_id": "/m/0h56g4v",
+        "lat": 60.261780473,
+        "lng": 24.891036787
     },
     {
         "wikidata_id": "Q3069676",
         "name": "Paloheinä",
         "description": "quarter of Helsinki, Finland",
-        "freebase_id": "/m/03wf28d"
+        "freebase_id": "/m/03wf28d",
+        "lat": 60.251479731,
+        "lng": 24.931850553
     },
     {
         "wikidata_id": "Q3070029",
         "name": "Kallahti",
         "description": "area in Vuosaari, Helsinki, Finland",
-        "freebase_id": "/m/09rx30n"
+        "freebase_id": "/m/09rx30n",
+        "lat": 60.181801127,
+        "lng": 25.140504589
     },
     {
         "wikidata_id": "Q3070019",
         "name": "Meri-Rastila",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rv96t"
+        "freebase_id": "/m/09rv96t",
+        "lat": 60.20277778,
+        "lng": 25.11944444
     },
     {
         "wikidata_id": "Q3070050",
         "name": "Keski-Vuosaari",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rv1vx"
+        "freebase_id": "/m/09rv1vx",
+        "lat": 60.216386659,
+        "lng": 25.140251215
     },
     {
         "wikidata_id": "Q3070063",
         "name": "Länsi-Herttoniemi",
         "description": "subdivision in Herttoniemi, Helsinki, Finland",
-        "freebase_id": "/m/09rxzb8"
+        "freebase_id": "/m/09rxzb8",
+        "lat": 60.21666667,
+        "lng": 25.03333333
     },
     {
         "wikidata_id": "Q3070075",
         "name": "Puroniitty",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09ry00k"
+        "freebase_id": "/m/09ry00k",
+        "lat": 60.285345728,
+        "lng": 25.231736962
     },
     {
         "wikidata_id": "Q3070177",
         "name": "Länsisaaret",
         "description": "subdistrict of Ulkosaaret, Helsinki, Finland",
-        "freebase_id": "/m/09rv022"
+        "freebase_id": "/m/09rv022",
+        "lat": 60.091899273,
+        "lng": 24.896960116
     },
     {
         "wikidata_id": "Q3070169",
         "name": "Yliskylä",
         "description": "quarter in Laajasalo, Helsinki, Finland",
-        "freebase_id": "/m/09rws3b"
+        "freebase_id": "/m/09rws3b",
+        "lat": 60.175399393,
+        "lng": 25.053209429
     },
     {
         "wikidata_id": "Q3133454",
         "name": "Vesala",
         "description": "quarter in Mellunkylä, Helsinki, Finland",
-        "freebase_id": "/m/09rsmcd"
+        "freebase_id": "/m/09rsmcd",
+        "lat": 60.238698431,
+        "lng": 25.098134254
     },
     {
         "wikidata_id": "Q3087991",
         "name": "Tammisalo",
         "description": "44th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0chn0p"
+        "freebase_id": "/m/0chn0p",
+        "lat": 60.191111111,
+        "lng": 25.063888888
     },
     {
         "wikidata_id": "Q3069071",
         "name": "Niemenmäki",
         "description": "quarter in Munkkiniemi, Helsinki, Finland",
-        "freebase_id": "/m/05c0y0y"
+        "freebase_id": "/m/05c0y0y",
+        "lat": 60.204634434,
+        "lng": 24.884668545
     },
     {
         "wikidata_id": "Q3068689",
         "name": "Harju",
         "description": "quarter in Alppiharju, Helsinki, Finland",
-        "freebase_id": "/m/09k63qk"
+        "freebase_id": "/m/09k63qk",
+        "lat": 60.188327,
+        "lng": 24.953095
     },
     {
         "wikidata_id": "Q3069364",
         "name": "Tapanila",
         "description": "neighbourhood in Malmi district, Helsinki",
-        "freebase_id": "/m/09v5g8j"
+        "freebase_id": "/m/09v5g8j",
+        "lat": 60.26444444,
+        "lng": 25.02138889
     },
     {
         "wikidata_id": "Q3069100",
         "name": "Metsälä",
         "description": "quarter in Oulunkylä, Helsinki, Finland",
-        "freebase_id": "/m/03chql_"
+        "freebase_id": "/m/03chql_",
+        "lat": 60.223129345,
+        "lng": 24.939184875
     },
     {
         "wikidata_id": "Q3200719",
         "name": "Kuusisaari",
         "description": "neighborhood of Helsinki, Finland",
-        "freebase_id": "/m/09rwljl"
+        "freebase_id": "/m/09rwljl",
+        "lat": 60.185,
+        "lng": 24.86166667
     },
     {
         "wikidata_id": "Q3116516",
         "name": "Pispala",
         "description": "city area in Tampere, Finland",
-        "freebase_id": "/m/09glvvp"
+        "freebase_id": "/m/09glvvp",
+        "lat": 61.50611111,
+        "lng": 23.7025
     },
     {
         "wikidata_id": "Q3069442",
         "name": "Munkkivuori",
         "description": "quarter in Munkkiniemi, Helsinki, Finland",
-        "freebase_id": "/m/05c0ywh"
+        "freebase_id": "/m/05c0ywh",
+        "lat": 60.20583333,
+        "lng": 24.87611111
     },
     {
         "wikidata_id": "Q3130945",
         "name": "Viikki",
         "description": "36th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0cqyq7"
+        "freebase_id": "/m/0cqyq7",
+        "lat": 60.233333333,
+        "lng": 25.016666666
     },
     {
         "wikidata_id": "Q3069436",
         "name": "Pohjois-Haaga",
         "description": "quarter in Haaga, Helsinki, Finland",
-        "freebase_id": "/m/09rsg3t"
+        "freebase_id": "/m/09rsg3t",
+        "lat": 60.226895505,
+        "lng": 24.898263162
     },
     {
         "wikidata_id": "Q3069143",
         "name": "Patola",
         "description": "neighbourhood in Oulunkylä, Helsinki, Finland",
-        "freebase_id": "/m/09rw7ym"
+        "freebase_id": "/m/09rw7ym",
+        "lat": 60.23236268,
+        "lng": 24.95908118
     },
     {
         "wikidata_id": "Q3069726",
         "name": "Tattarisuo",
         "description": "quarter in Suurmetsä, Helsinki, Finland",
-        "freebase_id": "/m/09rxsz4"
+        "freebase_id": "/m/09rxsz4",
+        "lat": 60.258511755,
+        "lng": 25.054436147
     },
     {
         "wikidata_id": "Q3133428",
         "name": "Mellunkylä",
         "description": "47th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rsnl1"
+        "freebase_id": "/m/09rsnl1",
+        "lat": 60.23333333,
+        "lng": 25.1
     },
     {
         "wikidata_id": "Q3133450",
         "name": "Malminkartano",
         "description": "quarter in Kaarela, Helsinki, Finland",
-        "freebase_id": "/m/05hx3h"
+        "freebase_id": "/m/05hx3h",
+        "lat": 60.247420421,
+        "lng": 24.859287278
     },
     {
         "wikidata_id": "Q3069429",
         "name": "Kivihaka",
         "description": "quarter of Haaga, Helsinki, Finland",
-        "freebase_id": "/m/09rw_mt"
+        "freebase_id": "/m/09rw_mt",
+        "lat": 60.212946005,
+        "lng": 24.906741538
     },
     {
         "wikidata_id": "Q3133413",
         "name": "Kontula",
         "description": "quarter in Mellunkylä, Helsinki, Finland",
-        "freebase_id": "/m/025rzc5"
+        "freebase_id": "/m/025rzc5",
+        "lat": 60.234326104,
+        "lng": 25.085073902
     },
     {
         "wikidata_id": "Q3070055",
         "name": "Tullisaari",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rs8p2"
+        "freebase_id": "/m/09rs8p2",
+        "lat": 60.178722961,
+        "lng": 25.030542686
     },
     {
         "wikidata_id": "Q3135412",
         "name": "Pikku Huopalahti",
         "description": "neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0522w3w"
+        "freebase_id": "/m/0522w3w",
+        "lat": 60.204444,
+        "lng": 24.894722
     },
     {
         "wikidata_id": "Q3069659",
         "name": "Mustavuori",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rv5hx"
+        "freebase_id": "/m/09rv5hx",
+        "lat": 60.231230148,
+        "lng": 25.144063829
     },
     {
         "wikidata_id": "Q3068786",
         "name": "Tali",
         "description": "district of Helsinki, Finland",
-        "freebase_id": "/m/09rspgd"
+        "freebase_id": "/m/09rspgd",
+        "lat": 60.213567862,
+        "lng": 24.854963119
     },
     {
         "wikidata_id": "Q3069446",
         "name": "Vanha Munkkiniemi",
         "description": "neighborhood of Helsinki, Finland",
-        "freebase_id": "/m/09rv3nj"
+        "freebase_id": "/m/09rv3nj",
+        "lat": 60.197600201,
+        "lng": 24.868357576
     },
     {
         "wikidata_id": "Q3070070",
         "name": "Hevossalmi",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rspgr"
+        "freebase_id": "/m/09rspgr",
+        "lat": 60.162173537,
+        "lng": 25.046078086
     },
     {
         "wikidata_id": "Q3070105",
         "name": "Puistola",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rxklw"
+        "freebase_id": "/m/09rxklw",
+        "lat": 60.271264478,
+        "lng": 25.048477495
     },
     {
         "wikidata_id": "Q3069178",
         "name": "Pirkkola",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rs55x"
+        "freebase_id": "/m/09rs55x",
+        "lat": 60.233187175,
+        "lng": 24.912787801
     },
     {
         "wikidata_id": "Q3069318",
         "name": "Veräjälaakso",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rs8nr"
+        "freebase_id": "/m/09rs8nr",
+        "lat": 60.233759137,
+        "lng": 24.983850086
     },
     {
         "wikidata_id": "Q3069448",
         "name": "Töyrynummi",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rvtwr"
+        "freebase_id": "/m/09rvtwr",
+        "lat": 60.270522078,
+        "lng": 25.003034843
     },
     {
         "wikidata_id": "Q3069585",
         "name": "Länsi-Pakila",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rv1v6"
+        "freebase_id": "/m/09rv1v6",
+        "lat": 60.241476805,
+        "lng": 24.93099867
     },
     {
         "wikidata_id": "Q3069596",
         "name": "Itä-Pakila",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rsrf0"
+        "freebase_id": "/m/09rsrf0",
+        "lat": 60.245304799,
+        "lng": 24.959913723
     },
     {
         "wikidata_id": "Q3069628",
         "name": "Tuomarinkartano",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rt2ch"
+        "freebase_id": "/m/09rt2ch",
+        "lat": 60.256061608,
+        "lng": 24.965170386
     },
     {
         "wikidata_id": "Q3069669",
         "name": "Tapaninvainio",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rvy7f"
+        "freebase_id": "/m/09rvy7f",
+        "lat": 60.260005171,
+        "lng": 24.992645362
     },
     {
         "wikidata_id": "Q3069686",
         "name": "Vartioharju",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rx4xh"
+        "freebase_id": "/m/09rx4xh",
+        "lat": 60.220666346,
+        "lng": 25.107726583
     },
     {
         "wikidata_id": "Q3069709",
         "name": "Puotinharju",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rs8pf"
+        "freebase_id": "/m/09rs8pf",
+        "lat": 60.21666667,
+        "lng": 25.08333333
     },
     {
         "wikidata_id": "Q3069731",
         "name": "Siltamäki",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rw0zk"
+        "freebase_id": "/m/09rw0zk",
+        "lat": 60.276425493,
+        "lng": 24.99758203
     },
     {
         "wikidata_id": "Q3070039",
         "name": "Heikinlaakso",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rxr5f"
+        "freebase_id": "/m/09rxr5f",
+        "lat": 60.270331999,
+        "lng": 25.071745535
     },
     {
         "wikidata_id": "Q3090204",
         "name": "Sörnäinen",
         "description": "10th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/07d57n"
+        "freebase_id": "/m/07d57n",
+        "lat": 60.18333333,
+        "lng": 24.96666667
     },
     {
         "wikidata_id": "Q3070542",
         "name": "Jollas",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rs567"
+        "freebase_id": "/m/09rs567",
+        "lat": 60.16666667,
+        "lng": 25.08333333
     },
     {
         "wikidata_id": "Q3069410",
         "name": "Reimarla",
         "description": "neighborhood in Helsinki, Finland",
-        "freebase_id": "/m/09rvdvk"
+        "freebase_id": "/m/09rvdvk",
+        "lat": 60.228590657,
+        "lng": 24.85364409
     },
     {
         "wikidata_id": "Q3177103",
         "name": "Meilahti",
         "description": "15th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/05hx8p"
+        "freebase_id": "/m/05hx8p",
+        "lat": 60.18333333,
+        "lng": 24.9
     },
     {
         "wikidata_id": "Q385038",
         "name": "Alppiharju",
         "description": "city district and the 12th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rw2mr"
+        "freebase_id": "/m/09rw2mr",
+        "lat": 60.18833333,
+        "lng": 24.94527778
     },
     {
         "wikidata_id": "Q2116584",
         "name": "Vuosaari",
         "description": "city district and the 54th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/01gksy"
+        "freebase_id": "/m/01gksy",
+        "lat": 60.208888888,
+        "lng": 25.143055555
     },
     {
         "wikidata_id": "Q3087996",
         "name": "Malmi",
         "description": "38th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/043tyt_"
+        "freebase_id": "/m/043tyt_",
+        "lat": 60.25027778,
+        "lng": 25.00972222
     },
     {
         "wikidata_id": "Q3068775",
         "name": "Kaarela",
         "description": "city district and the 33rd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rtst9"
+        "freebase_id": "/m/09rtst9",
+        "lat": 60.25,
+        "lng": 24.88333333
     },
     {
         "wikidata_id": "Q1020168",
         "name": "Lauttasaari",
         "description": "31st neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/04xxjj"
+        "freebase_id": "/m/04xxjj",
+        "lat": 60.16,
+        "lng": 24.87
     },
     {
         "wikidata_id": "Q3068430",
         "name": "Salmenkallio",
         "description": "56th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rtp68"
+        "freebase_id": "/m/09rtp68",
+        "lat": 60.238490229,
+        "lng": 25.169348073
     },
     {
         "wikidata_id": "Q3068440",
         "name": "Talosaari",
         "description": "57th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rtqy_"
+        "freebase_id": "/m/09rtqy_",
+        "lat": 60.24361,
+        "lng": 25.21083
     },
     {
         "wikidata_id": "Q3068512",
         "name": "Ruskeasuo",
         "description": "16th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/03bz9h6"
+        "freebase_id": "/m/03bz9h6",
+        "lat": 60.2,
+        "lng": 24.9
     },
     {
         "wikidata_id": "Q3068819",
         "name": "Tuomarinkylä",
         "description": "35th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/02z59x8"
+        "freebase_id": "/m/02z59x8",
+        "lat": 60.266666666,
+        "lng": 24.933333333
     },
     {
         "wikidata_id": "Q3069160",
         "name": "Villinki",
         "description": "island and the 50th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09ry5qt"
+        "freebase_id": "/m/09ry5qt",
+        "lat": 60.15833333,
+        "lng": 25.11333333
     },
     {
         "wikidata_id": "Q3069213",
         "name": "Mustikkamaa–Korkeasaari",
         "description": "19th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rwlk8"
+        "freebase_id": "/m/09rwlk8",
+        "lat": 60.175974481,
+        "lng": 24.990489183
     },
     {
         "wikidata_id": "Q3069204",
@@ -465,1885 +617,2513 @@
         "wikidata_id": "Q1010544",
         "name": "Pakila",
         "description": "34th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/02z5b3h"
+        "freebase_id": "/m/02z5b3h",
+        "lat": 60.25,
+        "lng": 24.95
     },
     {
         "wikidata_id": "Q376203",
         "name": "Vartiokylä",
         "description": "city district and the 45th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/02pj99b"
+        "freebase_id": "/m/02pj99b",
+        "lat": 60.21666667,
+        "lng": 25.1
     },
     {
         "wikidata_id": "Q1614778",
         "name": "Herttoniemi",
         "description": "43rd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/03h9gp"
+        "freebase_id": "/m/03h9gp",
+        "lat": 60.2,
+        "lng": 25.05
     },
     {
         "wikidata_id": "Q3133423",
         "name": "Ultuna",
         "description": "59th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rw7yz"
+        "freebase_id": "/m/09rw7yz",
+        "lat": 60.26666667,
+        "lng": 25.18333333
     },
     {
         "wikidata_id": "Q3069187",
         "name": "Konala",
         "description": "32nd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rtjr5"
+        "freebase_id": "/m/09rtjr5",
+        "lat": 60.23333333,
+        "lng": 24.85
     },
     {
         "wikidata_id": "Q1011613",
         "name": "Kallio",
         "description": "11th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/06kg6d"
+        "freebase_id": "/m/06kg6d",
+        "lat": 60.184169444,
+        "lng": 24.949169444
     },
     {
         "wikidata_id": "Q2037874",
         "name": "Punavuori",
         "description": "5th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/06kv27"
+        "freebase_id": "/m/06kv27",
+        "lat": 60.16166667,
+        "lng": 24.93805556
     },
     {
         "wikidata_id": "Q2510635",
         "name": "Oulunkylä",
         "description": "28th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0k8lx"
+        "freebase_id": "/m/0k8lx",
+        "lat": 60.233333333,
+        "lng": 24.966666666
     },
     {
         "wikidata_id": "Q2552730",
         "name": "Laajasalo",
         "description": "49th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/02v_dc3"
+        "freebase_id": "/m/02v_dc3",
+        "lat": 60.180555555,
+        "lng": 25.054166666
     },
     {
         "wikidata_id": "Q1393571",
         "name": "Kluuvi",
         "description": "2nd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/026bzm4"
+        "freebase_id": "/m/026bzm4",
+        "lat": 60.17375176,
+        "lng": 24.942149171
     },
     {
         "wikidata_id": "Q976443",
         "name": "Katajanokka",
         "description": "8th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/034nty"
+        "freebase_id": "/m/034nty",
+        "lat": 60.166944444,
+        "lng": 24.968333333
     },
     {
         "wikidata_id": "Q1772186",
         "name": "Kruununhaka",
         "description": "1st neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/06ktzs"
+        "freebase_id": "/m/06ktzs",
+        "lat": 60.172951144,
+        "lng": 24.962473177
     },
     {
         "wikidata_id": "Q3132961",
         "name": "Pitäjänmäki",
         "description": "city district and the 46th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0892dz"
+        "freebase_id": "/m/0892dz",
+        "lat": 60.22083333,
+        "lng": 24.8625
     },
     {
         "wikidata_id": "Q3132968",
         "name": "Toukola",
         "description": "23rd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/03d7_ch"
+        "freebase_id": "/m/03d7_ch",
+        "lat": 60.20666667,
+        "lng": 24.97305556
     },
     {
         "wikidata_id": "Q1364330",
         "name": "Vanhakaupunki",
         "description": "27th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0ggjg8"
+        "freebase_id": "/m/0ggjg8",
+        "lat": 60.21611111,
+        "lng": 24.97888889
     },
     {
         "wikidata_id": "Q3133272",
         "name": "Suutarila",
         "description": "40th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rwchj"
+        "freebase_id": "/m/09rwchj",
+        "lat": 60.28333333,
+        "lng": 25.03333333
     },
     {
         "wikidata_id": "Q535020",
         "name": "Laakso",
         "description": "18th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0h0ny4"
+        "freebase_id": "/m/0h0ny4",
+        "lat": 60.193944883,
+        "lng": 24.9133892
     },
     {
         "wikidata_id": "Q2633668",
         "name": "Käpylä",
         "description": "25th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/03chqb_"
+        "freebase_id": "/m/03chqb_",
+        "lat": 60.21444444,
+        "lng": 24.95055556
     },
     {
         "wikidata_id": "Q2661900",
         "name": "Haaga",
         "description": "city district and the 29th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rtq3p"
+        "freebase_id": "/m/09rtq3p",
+        "lat": 60.21666667,
+        "lng": 24.91666667
     },
     {
         "wikidata_id": "Q3177384",
         "name": "Munkkiniemi",
         "description": "city district and the 30th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0406cf6"
+        "freebase_id": "/m/0406cf6",
+        "lat": 60.19833333,
+        "lng": 24.87611111
     },
     {
         "wikidata_id": "Q678399",
         "name": "Östersundom",
         "description": "55th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rs56l"
+        "freebase_id": "/m/09rs56l",
+        "lat": 60.258437219,
+        "lng": 25.193763077
     },
     {
         "wikidata_id": "Q3068676",
         "name": "Karhusaari",
         "description": "island and the 58th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rtvkm"
+        "freebase_id": "/m/09rtvkm",
+        "lat": 60.250761209,
+        "lng": 25.223248833
     },
     {
         "wikidata_id": "Q1409059",
         "name": "Kulosaari",
         "description": "42nd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/077v2m"
+        "freebase_id": "/m/077v2m",
+        "lat": 60.189582357,
+        "lng": 25.007473795
     },
     {
         "wikidata_id": "Q1310518",
         "name": "Eira",
         "description": "6th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/06ktwz"
+        "freebase_id": "/m/06ktwz",
+        "lat": 60.15638889,
+        "lng": 24.93833333
     },
     {
         "wikidata_id": "Q1973972",
         "name": "Vallila",
         "description": "22nd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0b176s"
+        "freebase_id": "/m/0b176s",
+        "lat": 60.19444444,
+        "lng": 24.95666667
     },
     {
         "wikidata_id": "Q1721817",
         "name": "Kaivopuisto",
         "description": "9th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/08r4gn"
+        "freebase_id": "/m/08r4gn",
+        "lat": 60.15694444,
+        "lng": 24.95694444
     },
     {
         "wikidata_id": "Q3132958",
         "name": "Koskela",
         "description": "26th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/05mxtd3"
+        "freebase_id": "/m/05mxtd3",
+        "lat": 60.219385553,
+        "lng": 24.968505336
     },
     {
         "wikidata_id": "Q3133242",
         "name": "Kumpula",
         "description": "24th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/02vxh8b"
+        "freebase_id": "/m/02vxh8b",
+        "lat": 60.20916667,
+        "lng": 24.96444444
     },
     {
         "wikidata_id": "Q2634733",
         "name": "Santahamina",
         "description": "island, city district and the 51st neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/0dtd34"
+        "freebase_id": "/m/0dtd34",
+        "lat": 60.139715061,
+        "lng": 25.069229503
     },
     {
         "wikidata_id": "Q1636613",
         "name": "Pasila",
         "description": "city district and the 17th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/088kx7"
+        "freebase_id": "/m/088kx7",
+        "lat": 60.2,
+        "lng": 24.9325
     },
     {
         "wikidata_id": "Q729552",
         "name": "Kamppi",
         "description": "4th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/05s9sf"
+        "freebase_id": "/m/05s9sf",
+        "lat": 60.166087018,
+        "lng": 24.931108275
     },
     {
         "wikidata_id": "Q139340",
         "name": "Hermanni",
         "description": "21st neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09rw4c2"
+        "freebase_id": "/m/09rw4c2",
+        "lat": 60.2,
+        "lng": 24.98333333
     },
     {
         "wikidata_id": "Q3069168",
         "name": "Vartiosaari",
         "description": "48th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/09ry1vm"
+        "freebase_id": "/m/09ry1vm",
+        "lat": 60.185,
+        "lng": 25.07666667
     },
     {
         "wikidata_id": "Q1017793",
         "name": "Kaartinkaupunki",
         "description": "3rd neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/03hkyg3"
+        "freebase_id": "/m/03hkyg3",
+        "lat": 60.165767365,
+        "lng": 24.950073715
     },
     {
         "wikidata_id": "Q1001800",
         "name": "Ullanlinna",
         "description": "7th neighbourhood of Helsinki, Finland",
-        "freebase_id": "/m/04zwdwc"
+        "freebase_id": "/m/04zwdwc",
+        "lat": 60.15833333,
+        "lng": 24.94583333
     },
     {
         "wikidata_id": "Q11862545",
         "name": "Hietasaari",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w6dqqz"
+        "freebase_id": "/m/0w6dqqz",
+        "lat": 65.026111111,
+        "lng": 25.425277777
     },
     {
         "wikidata_id": "Q11898164",
         "name": "Toppilansaari",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w34g4m"
+        "freebase_id": "/m/0w34g4m",
+        "lat": 65.03245,
+        "lng": 25.423
     },
     {
         "wikidata_id": "Q4356038",
         "name": "Iskmo",
         "description": "village in Korsholm, Finland",
-        "freebase_id": "/m/05sy4lz"
+        "freebase_id": "/m/05sy4lz",
+        "lat": 63.2,
+        "lng": 21.6
     },
     {
         "wikidata_id": "Q11898461",
         "name": "Tuira",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w1d62h"
+        "freebase_id": "/m/0w1d62h",
+        "lat": 65.026,
+        "lng": 25.471
     },
     {
         "wikidata_id": "Q4414641",
         "name": "Otava",
         "description": "city district in Mikkeli, Finland",
-        "freebase_id": "/m/0r4mngn"
+        "freebase_id": "/m/0r4mngn",
+        "lat": 61.65,
+        "lng": 27.06666667
     },
     {
         "wikidata_id": "Q6305302",
         "name": "Nådendal Abbey",
         "description": "formey abbey in Naantali, Finland",
-        "freebase_id": "/m/0h3vsr6"
+        "freebase_id": "/m/0h3vsr6",
+        "lat": 60.471496,
+        "lng": 22.014984
     },
     {
         "wikidata_id": "Q13442426",
         "name": "Kiviapaja",
         "description": "village in Savonlinna, Finland",
-        "freebase_id": "/m/0bwjqvs"
+        "freebase_id": "/m/0bwjqvs",
+        "lat": 61.7,
+        "lng": 28.75
     },
     {
         "wikidata_id": "Q1776224",
         "name": "New Valamo",
         "description": "monastery in Heinävesi, Finland",
-        "freebase_id": "/m/025t09c"
+        "freebase_id": "/m/025t09c",
+        "lat": 62.563055555,
+        "lng": 28.790555555
     },
     {
         "wikidata_id": "Q3470021",
         "name": "Salmisaari",
         "description": "neighborhood of Helsinki, Finland",
-        "freebase_id": "/m/04gk3h0"
+        "freebase_id": "/m/04gk3h0",
+        "lat": 60.16478611,
+        "lng": 24.90488889
     },
     {
         "wikidata_id": "Q1729356",
         "name": "Karigasniemi",
         "description": "village in Utsjoki, Finland",
-        "freebase_id": "/m/05ymg6"
+        "freebase_id": "/m/05ymg6",
+        "lat": 69.3988388,
+        "lng": 25.8514374
     },
     {
         "wikidata_id": "Q3744258",
         "name": "Pitkämäki",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/0960ys"
+        "freebase_id": "/m/0960ys",
+        "lat": 60.45833333,
+        "lng": 22.23055556
     },
     {
         "wikidata_id": "Q3105912",
         "name": "Huopalahti",
         "description": "former municipality of Finland, now part of Helsinki",
-        "freebase_id": "/m/09v7plx"
+        "freebase_id": "/m/09v7plx",
+        "lat": 60.21,
+        "lng": 24.89
     },
     {
         "wikidata_id": "Q11884922",
         "name": "Nuottasaari",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/012kzzg2"
+        "freebase_id": "/m/012kzzg2",
+        "lat": 64.9965342,
+        "lng": 25.4374193
     },
     {
         "wikidata_id": "Q11901272",
         "name": "Vihreäsaari",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0zdmg65"
+        "freebase_id": "/m/0zdmg65",
+        "lat": 65.008,
+        "lng": 25.411
     },
     {
         "wikidata_id": "Q3069689",
         "name": "Haltiala",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rvs4x"
+        "freebase_id": "/m/09rvs4x",
+        "lat": 60.26666667,
+        "lng": 24.95
     },
     {
         "wikidata_id": "Q3926504",
         "name": "Kärsämäki",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09jshn"
+        "freebase_id": "/m/09jshn",
+        "lat": 60.482,
+        "lng": 22.289
     },
     {
         "wikidata_id": "Q3070041",
         "name": "Kurkimäki",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rsph2"
+        "freebase_id": "/m/09rsph2",
+        "lat": 60.230994138,
+        "lng": 25.070830787
     },
     {
         "wikidata_id": "Q7314172",
         "name": "Reposaari",
         "description": "village and island in Pori, Finland",
-        "freebase_id": "/m/063zbmt"
+        "freebase_id": "/m/063zbmt",
+        "lat": 61.613172222,
+        "lng": 21.445741666
     },
     {
         "wikidata_id": "Q3926797",
         "name": "Raunistula",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fxfz"
+        "freebase_id": "/m/09fxfz",
+        "lat": 60.46388889,
+        "lng": 22.27083333
     },
     {
         "wikidata_id": "Q7686967",
         "name": "Tarvonsaari",
         "description": "neighbourhood in Rauma sub-region, Satakunta, Finland",
-        "freebase_id": "/m/0h3q6k2"
+        "freebase_id": "/m/0h3q6k2",
+        "lat": 61.1286,
+        "lng": 21.5003
     },
     {
         "wikidata_id": "Q2636783",
         "name": "Jakomäki",
         "description": "quarter in Suurmetsä, Helsinki, Finland",
-        "freebase_id": "/m/09v3_vq"
+        "freebase_id": "/m/09v3_vq",
+        "lat": 60.26111111,
+        "lng": 25.07777778
     },
     {
         "wikidata_id": "Q4349366",
         "name": "Aspö",
         "description": "island in Korpo, Finland",
-        "freebase_id": "/m/0b6fbh0"
+        "freebase_id": "/m/0b6fbh0",
+        "lat": 59.951666666,
+        "lng": 21.61
     },
     {
         "wikidata_id": "Q13675931",
         "name": "Hollihaka",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w7p56v"
+        "freebase_id": "/m/0w7p56v",
+        "lat": 65.006111111,
+        "lng": 25.454166666
     },
     {
         "wikidata_id": "Q2779906",
         "name": "Virtasalmi",
         "description": "former municipality of Finland, now part of Pieksämäki",
-        "freebase_id": "/m/03c555"
+        "freebase_id": "/m/03c555",
+        "lat": 62.133333333,
+        "lng": 27.463888888
     },
     {
         "wikidata_id": "Q642348",
         "name": "Otanmäki",
         "description": "village in Kajaani, Finland",
-        "freebase_id": "/m/02qt_dx"
+        "freebase_id": "/m/02qt_dx",
+        "lat": 64.10972222,
+        "lng": 27.10555556
     },
     {
         "wikidata_id": "Q2365113",
         "name": "Kaistarniemi",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09fyfz"
+        "freebase_id": "/m/09fyfz",
+        "lat": 60.40472222,
+        "lng": 22.24444444
     },
     {
         "wikidata_id": "Q251272",
         "name": "Olavinlinna Castle",
         "description": "medieval castle in Savonlinna, Finland",
-        "freebase_id": "/m/01p3_2"
+        "freebase_id": "/m/01p3_2",
+        "lat": 61.8637134,
+        "lng": 28.9012379
     },
     {
         "wikidata_id": "Q5478413",
         "name": "Högsåra",
         "description": "island in Finland",
-        "freebase_id": "/m/04f2hc2"
+        "freebase_id": "/m/04f2hc2",
+        "lat": 59.95,
+        "lng": 22.366666666
     },
     {
         "wikidata_id": "Q3744238",
         "name": "Kähäri",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09fxd4"
+        "freebase_id": "/m/09fxd4",
+        "lat": 60.46055556,
+        "lng": 22.25
     },
     {
         "wikidata_id": "Q1017115",
         "name": "Koroinen",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09js66"
+        "freebase_id": "/m/09js66",
+        "lat": 60.466019,
+        "lng": 22.289414
     },
     {
         "wikidata_id": "Q3927451",
         "name": "Friskala",
         "description": "City district in Turku, Finland",
-        "freebase_id": "/m/09fy5n"
+        "freebase_id": "/m/09fy5n",
+        "lat": 60.400797222,
+        "lng": 22.234738888
     },
     {
         "wikidata_id": "Q5214994",
         "name": "Pitäjänmäki industrial area",
         "description": "quarter in Pitäjänmäki, Helsinki, Finland",
-        "freebase_id": "/m/09rtb_6"
+        "freebase_id": "/m/09rtb_6",
+        "lat": 60.222,
+        "lng": 24.874
     },
     {
         "wikidata_id": "Q11872727",
         "name": "Koskela",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0120_6cc"
+        "freebase_id": "/m/0120_6cc",
+        "lat": 65.0475,
+        "lng": 25.4493
     },
     {
         "wikidata_id": "Q15235652",
         "name": "Välivainio",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0zdnj23"
+        "freebase_id": "/m/0zdnj23",
+        "lat": 65.03289,
+        "lng": 25.47783
     },
     {
         "wikidata_id": "Q8078944",
         "name": "Öllölä",
         "description": "village in Finland",
-        "freebase_id": "/m/04cxm9l"
+        "freebase_id": "/m/04cxm9l",
+        "lat": 62.3833,
+        "lng": 30.75
     },
     {
         "wikidata_id": "Q11862671",
         "name": "Hippos",
         "description": "quarter of Jyväskylä, Finland",
-        "freebase_id": "/m/0w0f163"
+        "freebase_id": "/m/0w0f163",
+        "lat": 62.236111111,
+        "lng": 25.719444444
     },
     {
         "wikidata_id": "Q166942",
         "name": "Leppävaara",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/02846hk"
+        "freebase_id": "/m/02846hk",
+        "lat": 60.216666666,
+        "lng": 24.816666666
     },
     {
         "wikidata_id": "Q1032777",
         "name": "Toijainen",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09fzvq"
+        "freebase_id": "/m/09fzvq",
+        "lat": 60.4167,
+        "lng": 22.2194
     },
     {
         "wikidata_id": "Q996067",
         "name": "Vammala",
         "description": "former municipality of Finland, now part of Sastamala",
-        "freebase_id": "/m/026m5c"
+        "freebase_id": "/m/026m5c",
+        "lat": 61.340277777,
+        "lng": 22.909722222
     },
     {
         "wikidata_id": "Q990596",
         "name": "Kaleva",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/0280975"
+        "freebase_id": "/m/0280975",
+        "lat": 61.496927777,
+        "lng": 23.800138888
     },
     {
         "wikidata_id": "Q820629",
         "name": "Vainikkala",
         "description": "village in Lappeenranta, Finland",
-        "freebase_id": "/m/03x_v9c"
+        "freebase_id": "/m/03x_v9c",
+        "lat": 60.866111111,
+        "lng": 28.299722222
     },
     {
         "wikidata_id": "Q3815367",
         "name": "Linnanmaa",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w326cm"
+        "freebase_id": "/m/0w326cm",
+        "lat": 65.059167,
+        "lng": 25.466111
     },
     {
         "wikidata_id": "Q3815334",
         "name": "Raksila",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w30_b6"
+        "freebase_id": "/m/0w30_b6",
+        "lat": 65.008002777,
+        "lng": 25.497594444
     },
     {
         "wikidata_id": "Q3815354",
         "name": "Pokkinen",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w7l4sb"
+        "freebase_id": "/m/0w7l4sb",
+        "lat": 65.01305556,
+        "lng": 25.47138889
     },
     {
         "wikidata_id": "Q3815357",
         "name": "Vanhatulli",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0wfzg46"
+        "freebase_id": "/m/0wfzg46",
+        "lat": 65.008333333,
+        "lng": 25.469444444
     },
     {
         "wikidata_id": "Q63737",
         "name": "Moikoinen",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fylf"
+        "freebase_id": "/m/09fylf",
+        "lat": 60.4125,
+        "lng": 22.2375
     },
     {
         "wikidata_id": "Q6947735",
         "name": "Myllyoja",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/043q9s5"
+        "freebase_id": "/m/043q9s5",
+        "lat": 65.0198,
+        "lng": 25.545
     },
     {
         "wikidata_id": "Q2655652",
         "name": "Arabianranta",
         "description": "quarter in Toukola, Helsinki, Finland",
-        "freebase_id": "/m/04xxgc"
+        "freebase_id": "/m/04xxgc",
+        "lat": 60.204463589,
+        "lng": 24.980452008
     },
     {
         "wikidata_id": "Q3815340",
         "name": "Intiö",
         "description": "city district of Oulu, Finland",
-        "freebase_id": "/m/0w1djdp"
+        "freebase_id": "/m/0w1djdp",
+        "lat": 65.01618,
+        "lng": 25.50004
     },
     {
         "wikidata_id": "Q3068449",
         "name": "Keski-Pasila",
         "description": "quarter in Pasila, Helsinki, Finland",
-        "freebase_id": "/m/09rs39h"
+        "freebase_id": "/m/09rs39h",
+        "lat": 60.200726821,
+        "lng": 24.929945863
     },
     {
         "wikidata_id": "Q3069171",
         "name": "Itä-Pasila",
         "description": "quarter in Pasila, Helsinki, Finland",
-        "freebase_id": "/m/09ry3ld"
+        "freebase_id": "/m/09ry3ld",
+        "lat": 60.202293384,
+        "lng": 24.93966002
     },
     {
         "wikidata_id": "Q515435",
         "name": "Linjat",
         "description": "area in Kallio, Helsinki, Finland",
-        "freebase_id": "/m/09rw65z"
+        "freebase_id": "/m/09rw65z",
+        "lat": 60.18297058,
+        "lng": 24.94401079
     },
     {
         "wikidata_id": "Q3366129",
         "name": "Rauman maalaiskunta",
         "description": "former municipality of Finland, now part of Rauma",
-        "freebase_id": "/m/02xbvd"
+        "freebase_id": "/m/02xbvd",
+        "lat": 61.131388888,
+        "lng": 21.579388888
     },
     {
         "wikidata_id": "Q2267125",
         "name": "Itäkeskus",
         "description": "quarter in the neighbourhood of Vartiokylä in Helsinki, Finland",
-        "freebase_id": "/m/09tltc"
+        "freebase_id": "/m/09tltc",
+        "lat": 60.208000987,
+        "lng": 25.078656711
     },
     {
         "wikidata_id": "Q3125872",
         "name": "Hakuninmaa",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rx4wt"
+        "freebase_id": "/m/09rx4wt",
+        "lat": 60.253560577,
+        "lng": 24.887267813
     },
     {
         "wikidata_id": "Q2871913",
         "name": "Aurinkolahti",
         "description": "quarter in Vuosaari, Helsinki, Finland",
-        "freebase_id": "/m/09rsphg"
+        "freebase_id": "/m/09rsphg",
+        "lat": 60.203295631,
+        "lng": 25.155539666
     },
     {
         "wikidata_id": "Q2739592",
         "name": "Koivusaari",
         "description": "island in Helsinki, Finland",
-        "freebase_id": "/m/025_lxl"
+        "freebase_id": "/m/025_lxl",
+        "lat": 60.165911124,
+        "lng": 24.848846027
     },
     {
         "wikidata_id": "Q3069427",
         "name": "Ylä-Malmi",
         "description": "settlement in Helsinki, Finland",
-        "freebase_id": "/m/09rvwqt"
+        "freebase_id": "/m/09rvwqt",
+        "lat": 60.25,
+        "lng": 25.01666667
     },
     {
         "wikidata_id": "Q3070086",
         "name": "Tapulikaupunki",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rt2cv"
+        "freebase_id": "/m/09rt2cv",
+        "lat": 60.275,
+        "lng": 25.0333
     },
     {
         "wikidata_id": "Q3926444",
         "name": "Saramäki",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09jsyg"
+        "freebase_id": "/m/09jsyg",
+        "lat": 60.51472222,
+        "lng": 22.30333333
     },
     {
         "wikidata_id": "Q3070186",
         "name": "Roihuvuori",
         "description": "quarter in Herttoniemi, Helsinki, Finland",
-        "freebase_id": "/m/0cj_q3"
+        "freebase_id": "/m/0cj_q3",
+        "lat": 60.2,
+        "lng": 25.05694444
     },
     {
         "wikidata_id": "Q2588794",
         "name": "Lassila",
         "description": "quarter in Haaga, Helsinki, Finland",
-        "freebase_id": "/m/09rtx6r"
+        "freebase_id": "/m/09rtx6r",
+        "lat": 60.230130209,
+        "lng": 24.879054361
     },
     {
         "wikidata_id": "Q13567944",
         "name": "Koskikeskus",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w4v8_g"
+        "freebase_id": "/m/0w4v8_g",
+        "lat": 65.020555555,
+        "lng": 25.466666666
     },
     {
         "wikidata_id": "Q2608603",
         "name": "Uutela",
         "description": "nature park in Finland",
-        "freebase_id": "/m/01gktb"
+        "freebase_id": "/m/01gktb",
+        "lat": 60.19948,
+        "lng": 25.17174
     },
     {
         "wikidata_id": "Q3246585",
         "name": "Tikkakoski",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/028858q"
+        "freebase_id": "/m/028858q",
+        "lat": 62.4,
+        "lng": 25.633333333
     },
     {
         "wikidata_id": "Q4349080",
         "name": "Pellinki",
         "description": "village and island group in Porvoo, Finland",
-        "freebase_id": "/m/05wpmj"
+        "freebase_id": "/m/05wpmj",
+        "lat": 60.216666666,
+        "lng": 25.866666666
     },
     {
         "wikidata_id": "Q2749924",
         "name": "Torkkelinmäki",
         "description": "quarter in Kallio, Helsinki, Finland",
-        "freebase_id": "/m/09rx__w"
+        "freebase_id": "/m/09rx__w",
+        "lat": 60.185192189,
+        "lng": 24.956520495
     },
     {
         "wikidata_id": "Q3926520",
         "name": "Jänessaari",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09fycv"
+        "freebase_id": "/m/09fycv",
+        "lat": 60.42194444,
+        "lng": 22.18083333
     },
     {
         "wikidata_id": "Q3926488",
         "name": "Ruohonpää",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09jsm3"
+        "freebase_id": "/m/09jsm3",
+        "lat": 60.46666667,
+        "lng": 22.23333333
     },
     {
         "wikidata_id": "Q3927211",
         "name": "Kastu",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/0960lb"
+        "freebase_id": "/m/0960lb",
+        "lat": 60.4712,
+        "lng": 22.2744
     },
     {
         "wikidata_id": "Q3784748",
         "name": "East Helsinki",
         "description": "an eastern major division of the Helsinki city",
-        "freebase_id": "/m/0czlm3"
+        "freebase_id": "/m/0czlm3",
+        "lat": 60.210782769,
+        "lng": 25.080478842
     },
     {
         "wikidata_id": "Q4749000",
         "name": "Amuri",
         "description": "area consisting of two city districts in Tampere, Finland",
-        "freebase_id": "/m/02z6177"
+        "freebase_id": "/m/02z6177",
+        "lat": 61.5,
+        "lng": 23.745
     },
     {
         "wikidata_id": "Q3926452",
         "name": "Jäkärlä",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09jsxf"
+        "freebase_id": "/m/09jsxf",
+        "lat": 60.54305556,
+        "lng": 22.35972222
     },
     {
         "wikidata_id": "Q3926475",
         "name": "Räntämäki",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09jsbq"
+        "freebase_id": "/m/09jsbq",
+        "lat": 60.475,
+        "lng": 22.30416667
     },
     {
         "wikidata_id": "Q6304545",
         "name": "Såka",
         "description": "city or town or population centre in Kokkola, Finland",
-        "freebase_id": "/m/06py2x"
+        "freebase_id": "/m/06py2x",
+        "lat": 63.7607061,
+        "lng": 23.205163
     },
     {
         "wikidata_id": "Q5402245",
         "name": "Porras",
         "description": "village in Tammela, Finland",
-        "freebase_id": "/m/0ch3q6s"
+        "freebase_id": "/m/0ch3q6s",
+        "lat": 60.75,
+        "lng": 23.93333333
     },
     {
         "wikidata_id": "Q431539",
         "name": "Nordsjön kartano",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rxszh"
+        "freebase_id": "/m/09rxszh",
+        "lat": 60.213095159,
+        "lng": 25.16102904
     },
     {
         "wikidata_id": "Q3926480",
         "name": "Haarla",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fy7f"
+        "freebase_id": "/m/09fy7f",
+        "lat": 60.39166667,
+        "lng": 22.22916667
     },
     {
         "wikidata_id": "Q761948",
         "name": "Rastila",
         "description": "Helsinki Subdivision in Uusimaa, Finland",
-        "freebase_id": "/m/09rsrfc"
+        "freebase_id": "/m/09rsrfc",
+        "lat": 60.209880116,
+        "lng": 25.124896478
     },
     {
         "wikidata_id": "Q3788566",
         "name": "Myllytulli",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w1g2nq"
+        "freebase_id": "/m/0w1g2nq",
+        "lat": 65.01705,
+        "lng": 25.483732
     },
     {
         "wikidata_id": "Q3069431",
         "name": "Marttila",
         "description": "quarter in Pitäjänmäki, Helsinki, Finland",
-        "freebase_id": "/m/09rvlcl"
+        "freebase_id": "/m/09rvlcl",
+        "lat": 60.228034248,
+        "lng": 24.867225633
     },
     {
         "wikidata_id": "Q3927511",
         "name": "Halinen",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/079wm_"
+        "freebase_id": "/m/079wm_",
+        "lat": 60.47194444,
+        "lng": 22.31666667
     },
     {
         "wikidata_id": "Q7854844",
         "name": "Turenki",
         "description": "village in Janakkala, Finland",
-        "freebase_id": "/m/03cf6q7"
+        "freebase_id": "/m/03cf6q7",
+        "lat": 60.9167,
+        "lng": 24.6333
     },
     {
         "wikidata_id": "Q588219",
         "name": "Maununneva",
         "description": "area in Kaarela, Helsinki, Finland",
-        "freebase_id": "/m/09rspg1"
+        "freebase_id": "/m/09rspg1",
+        "lat": 60.244744231,
+        "lng": 24.902326206
     },
     {
         "wikidata_id": "Q653738",
         "name": "Mankkaa",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0b4dm_"
+        "freebase_id": "/m/0b4dm_",
+        "lat": 60.2,
+        "lng": 24.766666666
     },
     {
         "wikidata_id": "Q3069129",
         "name": "Lapinlahti",
         "description": "quarter of Länsisatama, Helsinki, Finland",
-        "freebase_id": "/m/03cnbvk"
+        "freebase_id": "/m/03cnbvk",
+        "lat": 60.168985911,
+        "lng": 24.911888347
     },
     {
         "wikidata_id": "Q3069705",
         "name": "Pihlajisto",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rvqgd"
+        "freebase_id": "/m/09rvqgd",
+        "lat": 60.23333333,
+        "lng": 25.0
     },
     {
         "wikidata_id": "Q10937429",
         "name": "Westend",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0dznp0"
+        "freebase_id": "/m/0dznp0",
+        "lat": 60.166666666,
+        "lng": 24.8
     },
     {
         "wikidata_id": "Q194522",
         "name": "Utö",
         "description": "island in Pargas, Finland",
-        "freebase_id": "/m/09gcp2"
+        "freebase_id": "/m/09gcp2",
+        "lat": 59.783333333,
+        "lng": 21.366666666
     },
     {
         "wikidata_id": "Q4348300",
         "name": "Jurmo",
         "description": "an island and a village in the Archipelago Sea",
-        "freebase_id": "/m/02pgl1p"
+        "freebase_id": "/m/02pgl1p",
+        "lat": 59.825,
+        "lng": 21.6
     },
     {
         "wikidata_id": "Q4357014",
         "name": "Kasnäs",
         "description": "village in Kimitoön, Finland",
-        "freebase_id": "/m/04f2t00"
+        "freebase_id": "/m/04f2t00",
+        "lat": 59.921666666,
+        "lng": 22.41
     },
     {
         "wikidata_id": "Q385316",
         "name": "Hervanta",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/0k37y"
+        "freebase_id": "/m/0k37y",
+        "lat": 61.4481,
+        "lng": 23.8521
     },
     {
         "wikidata_id": "Q4412122",
         "name": "Aviapolis",
         "description": "major Region of Vantaa in Finland",
-        "freebase_id": "/m/03yk0_h"
+        "freebase_id": "/m/03yk0_h",
+        "lat": 60.3,
+        "lng": 24.95
     },
     {
         "wikidata_id": "Q7853429",
         "name": "Tuomarila",
         "description": "quarter in Espoon keskus district in Espoo, Finland",
-        "freebase_id": "/m/026q_ys"
+        "freebase_id": "/m/026q_ys",
+        "lat": 60.2,
+        "lng": 24.6667
     },
     {
         "wikidata_id": "Q4411188",
         "name": "Pähkinärinne",
         "description": "suburb in Western Vantaa, Finland",
-        "freebase_id": "/m/04x_6p"
+        "freebase_id": "/m/04x_6p",
+        "lat": 60.25833333,
+        "lng": 24.80333333
     },
     {
         "wikidata_id": "Q1569858",
         "name": "Hakaniemi",
         "description": "area in Helsinki, Finland",
-        "freebase_id": "/m/02n_63"
+        "freebase_id": "/m/02n_63",
+        "lat": 60.179166666,
+        "lng": 24.950555555
     },
     {
         "wikidata_id": "Q4412816",
         "name": "Kartanonkoski",
         "description": "residential area within Pakkala district in Vantaa, Finland",
-        "freebase_id": "/m/0bbx059"
+        "freebase_id": "/m/0bbx059",
+        "lat": 60.26666667,
+        "lng": 24.95
     },
     {
         "wikidata_id": "Q130602425",
         "name": "Vallilan peruspiiri",
         "description": "No description available",
-        "freebase_id": "/m/0b176s"
+        "freebase_id": "/m/0b176s",
+        "lat": 60.19444444,
+        "lng": 24.95666667
     },
     {
         "wikidata_id": "Q4346928",
         "name": "Utti",
         "description": "village in Kouvola, Finland",
-        "freebase_id": "/m/0b7dq9"
+        "freebase_id": "/m/0b7dq9",
+        "lat": 60.8819,
+        "lng": 26.9239
     },
     {
         "wikidata_id": "Q2739584",
         "name": "Hanasaari",
         "description": "quarter in Sörnäinen, Helsinki, Finland",
-        "freebase_id": "/m/09rt5tg"
+        "freebase_id": "/m/09rt5tg",
+        "lat": 60.182055073,
+        "lng": 24.96805739
     },
     {
         "wikidata_id": "Q1542740",
         "name": "Vähäkyrö",
         "description": "former municipality of Finland, now part of Vaasa",
-        "freebase_id": "/m/03c4y4"
+        "freebase_id": "/m/03c4y4",
+        "lat": 63.055,
+        "lng": 22.108333333
     },
     {
         "wikidata_id": "Q6383723",
         "name": "Keilaniemi",
         "description": "quarter in Otaniemi, Espoo, Finland",
-        "freebase_id": "/m/025_jy7"
+        "freebase_id": "/m/025_jy7",
+        "lat": 60.17111111,
+        "lng": 24.8275
     },
     {
         "wikidata_id": "Q2389705",
         "name": "Kivikko",
         "description": "quarter in Mellunkylä, Helsinki, Finland",
-        "freebase_id": "/m/0d_jz0"
+        "freebase_id": "/m/0d_jz0",
+        "lat": 60.240704968,
+        "lng": 25.059902358
     },
     {
         "wikidata_id": "Q952427",
         "name": "Nappa",
         "description": "residential area in Kouvola, Finland",
-        "freebase_id": "/m/09gm4f9"
+        "freebase_id": "/m/09gm4f9",
+        "lat": 60.85,
+        "lng": 26.58333333
     },
     {
         "wikidata_id": "Q4357918",
         "name": "Ruottala",
         "description": "village in Finland",
-        "freebase_id": "/m/04q7ntn"
+        "freebase_id": "/m/04q7ntn",
+        "lat": 65.855555555,
+        "lng": 24.507777777
     },
     {
         "wikidata_id": "Q520367",
         "name": "Töölö",
         "description": "collective name for the neighbourhoods Etu-Töölö and Taka-Töölö in Helsinki, Finland",
-        "freebase_id": "/m/02n_6h"
+        "freebase_id": "/m/02n_6h",
+        "lat": 60.179166666,
+        "lng": 24.923888888
     },
     {
         "wikidata_id": "Q5612870",
         "name": "Grönvik",
         "description": "village in Korsholm, Finland",
-        "freebase_id": "/m/07kkfh"
+        "freebase_id": "/m/07kkfh",
+        "lat": 63.1925,
+        "lng": 21.56222222
     },
     {
         "wikidata_id": "Q2829441",
         "name": "Ala-Malmi",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rxpd4"
+        "freebase_id": "/m/09rxpd4",
+        "lat": 60.25,
+        "lng": 25.01666667
     },
     {
         "wikidata_id": "Q476125",
         "name": "Merihaka",
         "description": "residential area in Helsinki, Finland",
-        "freebase_id": "/m/07g773"
+        "freebase_id": "/m/07g773",
+        "lat": 60.17916667,
+        "lng": 24.96111111
     },
     {
         "wikidata_id": "Q3133441",
         "name": "Kannelmäki",
         "description": "quarter of Kaarela, Helsinki, Finland",
-        "freebase_id": "/m/080l5lg"
+        "freebase_id": "/m/080l5lg",
+        "lat": 60.24416667,
+        "lng": 24.88305556
     },
     {
         "wikidata_id": "Q13461679",
         "name": "Vaara",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/011jmsx9"
+        "freebase_id": "/m/011jmsx9",
+        "lat": 65.0105,
+        "lng": 25.4828
     },
     {
         "wikidata_id": "Q11275993",
         "name": "Koria",
         "description": "city district in Kouvola, Finland",
-        "freebase_id": "/m/0nbd4sl"
+        "freebase_id": "/m/0nbd4sl",
+        "lat": 60.846666944,
+        "lng": 26.603333055
     },
     {
         "wikidata_id": "Q13484836",
         "name": "Pikisaari",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0w1dd__"
+        "freebase_id": "/m/0w1dd__",
+        "lat": 65.0176713,
+        "lng": 25.4564629
     },
     {
         "wikidata_id": "Q1013639",
         "name": "Hauho",
         "description": "former municipality of Finland, now part of Hämeenlinna",
-        "freebase_id": "/m/03bfnk"
+        "freebase_id": "/m/03bfnk",
+        "lat": 61.172222222,
+        "lng": 24.5625
     },
     {
         "wikidata_id": "Q1721504",
         "name": "Kaisaniemi",
         "description": "area in Kluuvi, Helsinki, Finland",
-        "freebase_id": "/m/09yky8"
+        "freebase_id": "/m/09yky8",
+        "lat": 60.17222222,
+        "lng": 24.9475
     },
     {
         "wikidata_id": "Q18177755",
         "name": "Haukipudas",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0120x_8n"
+        "freebase_id": "/m/0120x_8n",
+        "lat": 65.176388888,
+        "lng": 25.353055555
     },
     {
         "wikidata_id": "Q1280623",
         "name": "Nummela",
         "description": "centre of Vihti, Finland",
-        "freebase_id": "/m/0j8y_cs"
+        "freebase_id": "/m/0j8y_cs",
+        "lat": 60.3339,
+        "lng": 24.3206
     },
     {
         "wikidata_id": "Q5481320",
         "name": "Monastery of Our Lady of Mount Carmel in Finland",
         "description": "Catholic monastery in Finland",
-        "freebase_id": "/m/025v6vg"
+        "freebase_id": "/m/025v6vg",
+        "lat": 60.275277777,
+        "lng": 24.658611111
     },
     {
         "wikidata_id": "Q4820203",
         "name": "Turku Student Village",
         "description": "residential area in Turku, Finland",
-        "freebase_id": "/m/05rwtm"
+        "freebase_id": "/m/05rwtm",
+        "lat": 60.4625,
+        "lng": 22.2917
     },
     {
         "wikidata_id": "Q2364040",
         "name": "Maunula",
         "description": "quarter in Oulunkylä, Helsinki, Finland",
-        "freebase_id": "/m/09rtssm"
+        "freebase_id": "/m/09rtssm",
+        "lat": 60.230698024,
+        "lng": 24.932667329
     },
     {
         "wikidata_id": "Q3069416",
         "name": "Munkkisaari",
         "description": "quarter of Ullanlinna district in Helsinki, Finland",
-        "freebase_id": "/m/09rt2c4"
+        "freebase_id": "/m/09rt2c4",
+        "lat": 60.15,
+        "lng": 24.93333333
     },
     {
         "wikidata_id": "Q3434051",
         "name": "Vuoksela",
         "description": "former municipality of Finland, ceded to the Soviet Union",
-        "freebase_id": "/m/02qjqrr"
+        "freebase_id": "/m/02qjqrr",
+        "lat": 60.7125,
+        "lng": 29.77741
     },
     {
         "wikidata_id": "Q2151896",
         "name": "Jokikylä",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0b3j1l"
+        "freebase_id": "/m/0b3j1l",
+        "lat": 65.190277777,
+        "lng": 25.468333333
     },
     {
         "wikidata_id": "Q4696886",
         "name": "Aijala",
         "description": "village in Finland",
-        "freebase_id": "/m/03h40d2"
+        "freebase_id": "/m/03h40d2",
+        "lat": 60.19,
+        "lng": 23.352
     },
     {
         "wikidata_id": "Q2370085",
         "name": "Ruoholahti",
         "description": "quarter in Länsisatama, Helsinki, Finland",
-        "freebase_id": "/m/04lth7"
+        "freebase_id": "/m/04lth7",
+        "lat": 60.163850739,
+        "lng": 24.906151888
     },
     {
         "wikidata_id": "Q6312997",
         "name": "Jungsund",
         "description": "village in Korsholm, Finland",
-        "freebase_id": "/m/063yb8c"
+        "freebase_id": "/m/063yb8c",
+        "lat": 63.18641,
+        "lng": 21.62046
     },
     {
         "wikidata_id": "Q63735",
         "name": "Maanpää",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fykd"
+        "freebase_id": "/m/09fykd",
+        "lat": 60.40833333,
+        "lng": 22.16111111
     },
     {
         "wikidata_id": "Q5245100",
         "name": "Herttoniemen yritysalue",
         "description": "subdivision in Herttoniemi, Helsinki, Finland",
-        "freebase_id": "/m/09rv1vk"
+        "freebase_id": "/m/09rv1vk",
+        "lat": 60.198982513,
+        "lng": 25.043594447
     },
     {
         "wikidata_id": "Q965557",
         "name": "Tattariharju",
         "description": "neighborhood",
-        "freebase_id": "/m/09rt9c7"
+        "freebase_id": "/m/09rt9c7",
+        "lat": 60.244616511,
+        "lng": 25.049225839
     },
     {
         "wikidata_id": "Q652389",
         "name": "Laajalahti",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284657"
+        "freebase_id": "/m/0284657",
+        "lat": 60.2,
+        "lng": 24.804166666
     },
     {
         "wikidata_id": "Q15122242",
         "name": "Teljä",
         "description": "historical settlement in Finland",
-        "freebase_id": "/m/0yt2hnk"
+        "freebase_id": "/m/0yt2hnk",
+        "lat": 61.257189,
+        "lng": 22.371389
     },
     {
         "wikidata_id": "Q6433234",
         "name": "Koskue",
         "description": "village in Kurikka, Finland",
-        "freebase_id": "/m/0cc84gp"
+        "freebase_id": "/m/0cc84gp",
+        "lat": 62.35,
+        "lng": 22.85
     },
     {
         "wikidata_id": "Q2365141",
         "name": "Illoinen",
         "description": "City District",
-        "freebase_id": "/m/09fy94"
+        "freebase_id": "/m/09fy94",
+        "lat": 60.41111111,
+        "lng": 22.18888889
     },
     {
         "wikidata_id": "Q18180785",
         "name": "Kiiminki",
         "description": "city district in Oulu, Finland",
-        "freebase_id": "/m/0120x_kp"
+        "freebase_id": "/m/0120x_kp",
+        "lat": 65.128888888,
+        "lng": 25.775555555
     },
     {
         "wikidata_id": "Q867440",
         "name": "Särkilahti",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fzs_"
+        "freebase_id": "/m/09fzs_",
+        "lat": 60.4139,
+        "lng": 22.1931
     },
     {
         "wikidata_id": "Q500696",
         "name": "Papinsaari",
         "description": "district of the city of Turku, Finland",
-        "freebase_id": "/m/09fzhz"
+        "freebase_id": "/m/09fzhz",
+        "lat": 60.39361111,
+        "lng": 22.27222222
     },
     {
         "wikidata_id": "Q3744268",
         "name": "Yli-Maaria",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09jszv"
+        "freebase_id": "/m/09jszv",
+        "lat": 60.5517,
+        "lng": 22.3097
     },
     {
         "wikidata_id": "Q3735042",
         "name": "Paattinen",
         "description": "former municipality in Finland, now city district in Turku, Finland",
-        "freebase_id": "/m/07bbx0"
+        "freebase_id": "/m/07bbx0",
+        "lat": 60.60222222,
+        "lng": 22.4
     },
     {
         "wikidata_id": "Q2343093",
         "name": "VIII District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/07g6yx"
+        "freebase_id": "/m/07g6yx",
+        "lat": 60.4458,
+        "lng": 22.2444
     },
     {
         "wikidata_id": "Q3926457",
         "name": "Koivula",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09gcb5"
+        "freebase_id": "/m/09gcb5",
+        "lat": 60.425,
+        "lng": 22.30972222
     },
     {
         "wikidata_id": "Q3926436",
         "name": "Pohjola",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fwlm"
+        "freebase_id": "/m/09fwlm",
+        "lat": 60.45833333,
+        "lng": 22.25833333
     },
     {
         "wikidata_id": "Q3927332",
         "name": "Peltola",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09gcfc"
+        "freebase_id": "/m/09gcfc",
+        "lat": 60.425,
+        "lng": 22.3
     },
     {
         "wikidata_id": "Q4041045",
         "name": "III District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/079z4m"
+        "freebase_id": "/m/079z4m",
+        "lat": 60.44388889,
+        "lng": 22.26694444
     },
     {
         "wikidata_id": "Q4041060",
         "name": "II District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/079z02"
+        "freebase_id": "/m/079z02",
+        "lat": 60.44722222,
+        "lng": 22.27777778
     },
     {
         "wikidata_id": "Q2343803",
         "name": "IX District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/07g6rv"
+        "freebase_id": "/m/07g6rv",
+        "lat": 60.44,
+        "lng": 22.23666667
     },
     {
         "wikidata_id": "Q867443",
         "name": "Satava",
         "description": "island and city district in Turku, Finland",
-        "freebase_id": "/m/09fzq6"
+        "freebase_id": "/m/09fzq6",
+        "lat": 60.366666666,
+        "lng": 22.166666666
     },
     {
         "wikidata_id": "Q3926431",
         "name": "Teräsrautela",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09jsmg"
+        "freebase_id": "/m/09jsmg",
+        "lat": 60.4783,
+        "lng": 22.2417
     },
     {
         "wikidata_id": "Q3926509",
         "name": "Vätti",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09fxjr"
+        "freebase_id": "/m/09fxjr",
+        "lat": 60.4667,
+        "lng": 22.2556
     },
     {
         "wikidata_id": "Q3927258",
         "name": "Huhkola",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09jrx2"
+        "freebase_id": "/m/09jrx2",
+        "lat": 60.42916667,
+        "lng": 22.3375
     },
     {
         "wikidata_id": "Q3927318",
         "name": "Harittu",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09gc83"
+        "freebase_id": "/m/09gc83",
+        "lat": 60.41388889,
+        "lng": 22.30694444
     },
     {
         "wikidata_id": "Q3927469",
         "name": "Vasaramäki",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09gclz"
+        "freebase_id": "/m/09gclz",
+        "lat": 60.4383,
+        "lng": 22.3031
     },
     {
         "wikidata_id": "Q3926465",
         "name": "Lauste",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/079x6h"
+        "freebase_id": "/m/079x6h",
+        "lat": 60.43361111,
+        "lng": 22.33916667
     },
     {
         "wikidata_id": "Q3926515",
         "name": "Mälikkälä",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09jslf"
+        "freebase_id": "/m/09jslf",
+        "lat": 60.47361111,
+        "lng": 22.21805556
     },
     {
         "wikidata_id": "Q3927348",
         "name": "Luolavuori",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09gcc_"
+        "freebase_id": "/m/09gcc_",
+        "lat": 60.43194444,
+        "lng": 22.28055556
     },
     {
         "wikidata_id": "Q3927526",
         "name": "Ilpoinen",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09gc8g"
+        "freebase_id": "/m/09gc8g",
+        "lat": 60.42222222,
+        "lng": 22.28611111
     },
     {
         "wikidata_id": "Q3927358",
         "name": "Uittamo",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09gcl7"
+        "freebase_id": "/m/09gcl7",
+        "lat": 60.4214,
+        "lng": 22.2631
     },
     {
         "wikidata_id": "Q3926497",
         "name": "Vaala",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09js3q"
+        "freebase_id": "/m/09js3q",
+        "lat": 60.4361,
+        "lng": 22.3625
     },
     {
         "wikidata_id": "Q3927263",
         "name": "Kaerla",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09jsfy"
+        "freebase_id": "/m/09jsfy",
+        "lat": 60.48194444,
+        "lng": 22.27222222
     },
     {
         "wikidata_id": "Q867887",
         "name": "Pikisaari",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fzl0"
+        "freebase_id": "/m/09fzl0",
+        "lat": 60.42777778,
+        "lng": 22.20138889
     },
     {
         "wikidata_id": "Q2637522",
         "name": "Korppolaismäki",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fw8k"
+        "freebase_id": "/m/09fw8k",
+        "lat": 60.43111111,
+        "lng": 22.23583333
     },
     {
         "wikidata_id": "Q4052521",
         "name": "VII District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/079zg9"
+        "freebase_id": "/m/079zg9",
+        "lat": 60.45,
+        "lng": 22.2583
     },
     {
         "wikidata_id": "Q4052535",
         "name": "VI District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/079zc2"
+        "freebase_id": "/m/079zc2",
+        "lat": 60.454166666,
+        "lng": 22.270833333
     },
     {
         "wikidata_id": "Q2365131",
         "name": "Mäntymäki",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fwjh"
+        "freebase_id": "/m/09fwjh",
+        "lat": 60.43888889,
+        "lng": 22.26666667
     },
     {
         "wikidata_id": "Q2365171",
         "name": "Kukola",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09fyhb"
+        "freebase_id": "/m/09fyhb",
+        "lat": 60.40944444,
+        "lng": 22.22777778
     },
     {
         "wikidata_id": "Q2371343",
         "name": "Nummi",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/079wt4"
+        "freebase_id": "/m/079wt4",
+        "lat": 60.45833333,
+        "lng": 22.30833333
     },
     {
         "wikidata_id": "Q2365158",
         "name": "Kupittaa",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/068b6s"
+        "freebase_id": "/m/068b6s",
+        "lat": 60.445,
+        "lng": 22.29333333
     },
     {
         "wikidata_id": "Q3927501",
         "name": "Ispoinen",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09gc9h"
+        "freebase_id": "/m/09gc9h",
+        "lat": 60.42083333,
+        "lng": 22.27222222
     },
     {
         "wikidata_id": "Q2623340",
         "name": "Artukainen",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/07xtmv"
+        "freebase_id": "/m/07xtmv",
+        "lat": 60.4565,
+        "lng": 22.1806
     },
     {
         "wikidata_id": "Q3927543",
         "name": "Skanssi",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09gck6"
+        "freebase_id": "/m/09gck6",
+        "lat": 60.42916667,
+        "lng": 22.325
     },
     {
         "wikidata_id": "Q2623335",
         "name": "Kurjenmäki",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fwg2"
+        "freebase_id": "/m/09fwg2",
+        "lat": 60.44055556,
+        "lng": 22.28055556
     },
     {
         "wikidata_id": "Q3926777",
         "name": "Pansio",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/07bl90"
+        "freebase_id": "/m/07bl90",
+        "lat": 60.44722222,
+        "lng": 22.15555556
     },
     {
         "wikidata_id": "Q4041236",
         "name": "I District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/079yr6"
+        "freebase_id": "/m/079yr6",
+        "lat": 60.45416667,
+        "lng": 22.28333333
     },
     {
         "wikidata_id": "Q2411211",
         "name": "Pihlajaniemi",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fxdv"
+        "freebase_id": "/m/09fxdv",
+        "lat": 60.425,
+        "lng": 22.23888889
     },
     {
         "wikidata_id": "Q3927220",
         "name": "Pääskyvuori",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09js1z"
+        "freebase_id": "/m/09js1z",
+        "lat": 60.44388889,
+        "lng": 22.33944444
     },
     {
         "wikidata_id": "Q3742307",
         "name": "Oriketo",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09jsb0"
+        "freebase_id": "/m/09jsb0",
+        "lat": 60.481,
+        "lng": 22.319
     },
     {
         "wikidata_id": "Q3927145",
         "name": "Kohmo",
         "description": "District of Turku, Finland",
-        "freebase_id": "/m/09jr_5"
+        "freebase_id": "/m/09jr_5",
+        "lat": 60.45972222,
+        "lng": 22.34722222
     },
     {
         "wikidata_id": "Q500690",
         "name": "Oriniemi",
         "description": "district of the city of Turku, Finland",
-        "freebase_id": "/m/09fzch"
+        "freebase_id": "/m/09fzch",
+        "lat": 60.395,
+        "lng": 22.16583333
     },
     {
         "wikidata_id": "Q3926702",
         "name": "Iso-Heikkilä",
         "description": "district of the city of Turku",
-        "freebase_id": "/m/09fw41"
+        "freebase_id": "/m/09fw41",
+        "lat": 60.447,
+        "lng": 22.227
     },
     {
         "wikidata_id": "Q3926793",
         "name": "Kurala",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09js07"
+        "freebase_id": "/m/09js07",
+        "lat": 60.46111111,
+        "lng": 22.32777778
     },
     {
         "wikidata_id": "Q3926785",
         "name": "Perno",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09jsrm"
+        "freebase_id": "/m/09jsrm",
+        "lat": 60.45611111,
+        "lng": 22.16111111
     },
     {
         "wikidata_id": "Q6375147",
         "name": "Katariina",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09gc9v"
+        "freebase_id": "/m/09gc9v",
+        "lat": 60.413888888,
+        "lng": 22.279166666
     },
     {
         "wikidata_id": "Q2637511",
         "name": "Vähäheikkilä",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fwpr"
+        "freebase_id": "/m/09fwpr",
+        "lat": 60.4319,
+        "lng": 22.2583
     },
     {
         "wikidata_id": "Q2343820",
         "name": "IV District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/07g6jl"
+        "freebase_id": "/m/07g6jl",
+        "lat": 60.44055556,
+        "lng": 22.25555556
     },
     {
         "wikidata_id": "Q2343789",
         "name": "V District",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/07g6n4"
+        "freebase_id": "/m/07g6n4",
+        "lat": 60.4364,
+        "lng": 22.2447
     },
     {
         "wikidata_id": "Q3927152",
         "name": "Runosmäki",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/05snx2"
+        "freebase_id": "/m/05snx2",
+        "lat": 60.49027778,
+        "lng": 22.25611111
     },
     {
         "wikidata_id": "Q3927340",
         "name": "Pahaniemi",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09jsp5"
+        "freebase_id": "/m/09jsp5",
+        "lat": 60.45694444,
+        "lng": 22.2
     },
     {
         "wikidata_id": "Q3927458",
         "name": "Itäharju",
         "description": "city district in Turku, Finland",
-        "freebase_id": "/m/09jryg"
+        "freebase_id": "/m/09jryg",
+        "lat": 60.45,
+        "lng": 22.30833333
     },
     {
         "wikidata_id": "Q2097015",
         "name": "Ruissalo",
         "description": "island and city district in Turku, Finland",
-        "freebase_id": "/m/079sjv"
+        "freebase_id": "/m/079sjv",
+        "lat": 60.433333333,
+        "lng": 22.166666666
     },
     {
         "wikidata_id": "Q2365189",
         "name": "Lauttaranta",
         "description": "district of Turku, Finland",
-        "freebase_id": "/m/09fyj0"
+        "freebase_id": "/m/09fyj0",
+        "lat": 60.42638889,
+        "lng": 22.225
     },
     {
         "wikidata_id": "Q3927487",
         "name": "Varissuo",
         "description": "city district of Turku, Finland",
-        "freebase_id": "/m/05sn7m"
+        "freebase_id": "/m/05sn7m",
+        "lat": 60.448,
+        "lng": 22.356
     },
     {
         "wikidata_id": "Q3927576",
         "name": "Puistomäki",
         "description": "district of city",
-        "freebase_id": "/m/09gcgr"
+        "freebase_id": "/m/09gcgr",
+        "lat": 60.42861111,
+        "lng": 22.25305556
     },
     {
         "wikidata_id": "Q1639838",
         "name": "Kakskerta",
         "description": "former municipality, now city district in Turku, Finland",
-        "freebase_id": "/m/075t1d"
+        "freebase_id": "/m/075t1d",
+        "lat": 60.366666666,
+        "lng": 22.216666666
     },
     {
         "wikidata_id": "Q2840532",
         "name": "Aluemeri",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09rws3p"
+        "freebase_id": "/m/09rws3p",
+        "lat": 60.003653595,
+        "lng": 25.035693259
     },
     {
         "wikidata_id": "Q3059226",
         "name": "Etelä-Haaga",
         "description": "quarter in Haaga, Helsinki, Finland",
-        "freebase_id": "/m/09rwlj7"
+        "freebase_id": "/m/09rwlj7",
+        "lat": 60.215604573,
+        "lng": 24.891778008
     },
     {
         "wikidata_id": "Q3068697",
         "name": "Pohjois-Pasila",
         "description": "quarter in Pasila, Helsinki, Finland",
-        "freebase_id": "/m/09ry1vz"
+        "freebase_id": "/m/09ry1vz",
+        "lat": 60.213678603,
+        "lng": 24.925724619
     },
     {
         "wikidata_id": "Q2840133",
         "name": "Alppila",
         "description": "neighbourhood in Helsinki, Finland",
-        "freebase_id": "/m/0g_dyy"
+        "freebase_id": "/m/0g_dyy",
+        "lat": 60.19166667,
+        "lng": 24.94277778
     },
     {
         "wikidata_id": "Q2739588",
         "name": "Lehtisaari",
         "description": "island in Helsinki, Finland",
-        "freebase_id": "/m/0cm89d0"
+        "freebase_id": "/m/0cm89d0",
+        "lat": 60.17621686,
+        "lng": 24.859471982
     },
     {
         "wikidata_id": "Q30422",
         "name": "Tuuri",
         "description": "village in Alavus, Finland",
-        "freebase_id": "/m/0216wd"
+        "freebase_id": "/m/0216wd",
+        "lat": 62.6,
+        "lng": 23.75
     },
     {
         "wikidata_id": "Q6710875",
         "name": "Länsikylä",
         "description": "village in Finland",
-        "freebase_id": "/m/04q31dn"
+        "freebase_id": "/m/04q31dn",
+        "lat": 60.51,
+        "lng": 26.665
     },
     {
         "wikidata_id": "Q7395694",
         "name": "Saarenmaa",
         "description": "district of Jyväskylä in Western Finland, Finland",
-        "freebase_id": "/m/0cmc1vv"
+        "freebase_id": "/m/0cmc1vv",
+        "lat": 62.311322222,
+        "lng": 25.609880555
     },
     {
         "wikidata_id": "Q4556262",
         "name": "Hakunila",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/02qdcv5"
+        "freebase_id": "/m/02qdcv5",
+        "lat": 60.27861111,
+        "lng": 25.10527778
     },
     {
         "wikidata_id": "Q3737025",
         "name": "Röykkä",
         "description": "village in Nurmijärvi, Finland",
-        "freebase_id": "/m/026fqxs"
+        "freebase_id": "/m/026fqxs",
+        "lat": 60.486666666,
+        "lng": 24.65
     },
     {
         "wikidata_id": "Q5700923",
         "name": "Heinätorinpuisto Park",
         "description": "park in Oulu, Finland",
-        "freebase_id": "/m/0fp2yy"
+        "freebase_id": "/m/0fp2yy",
+        "lat": 65.0075,
+        "lng": 25.4625
     },
     {
         "wikidata_id": "Q4349550",
         "name": "Rajamäki",
         "description": "village in Nurmijärvi, Finland",
-        "freebase_id": "/m/05d0wv"
+        "freebase_id": "/m/05d0wv",
+        "lat": 60.5275,
+        "lng": 24.75
     },
     {
         "wikidata_id": "Q2640455",
         "name": "Tikkurila",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/07fjnr"
+        "freebase_id": "/m/07fjnr",
+        "lat": 60.29666667,
+        "lng": 25.03333333
     },
     {
         "wikidata_id": "Q828417",
         "name": "Old Rauma",
         "description": "old town of the city of Rauma, Finland",
-        "freebase_id": "/m/020bfm"
+        "freebase_id": "/m/020bfm",
+        "lat": 61.128269,
+        "lng": 21.513215
     },
     {
         "wikidata_id": "Q892304",
         "name": "Kaitaa",
         "description": "district of southern Espoo, Finland",
-        "freebase_id": "/m/04cqnzs"
+        "freebase_id": "/m/04cqnzs",
+        "lat": 60.15,
+        "lng": 24.7
     },
     {
         "wikidata_id": "Q13569766",
         "name": "Kuusimäki",
         "description": "No description available",
-        "freebase_id": "/m/0267k5m"
+        "freebase_id": "/m/0267k5m",
+        "lat": 61.054,
+        "lng": 28.14155556
     },
     {
         "wikidata_id": "Q2545517",
         "name": "Yyteri",
         "description": "district and beach in Finland",
-        "freebase_id": "/m/08xb4g"
+        "freebase_id": "/m/08xb4g",
+        "lat": 61.56416667,
+        "lng": 21.5225
     },
     {
         "wikidata_id": "Q5642997",
         "name": "Hallila",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/054wlp"
+        "freebase_id": "/m/054wlp",
+        "lat": 61.4625,
+        "lng": 23.82916667
     },
     {
         "wikidata_id": "Q6989789",
         "name": "Nekala",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/05sywvs"
+        "freebase_id": "/m/05sywvs",
+        "lat": 61.48333333,
+        "lng": 23.79055556
     },
     {
         "wikidata_id": "Q386151",
         "name": "Vaalimaa",
         "description": "village in Virolahti, Finland",
-        "freebase_id": "/m/06ftj0"
+        "freebase_id": "/m/06ftj0",
+        "lat": 60.6,
+        "lng": 27.808333333
     },
     {
         "wikidata_id": "Q7034502",
         "name": "Niittykumpu",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/028460s"
+        "freebase_id": "/m/028460s",
+        "lat": 60.171666666,
+        "lng": 24.765555555
     },
     {
         "wikidata_id": "Q539767",
         "name": "Ivalo",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/05ymjp"
+        "freebase_id": "/m/05ymjp",
+        "lat": 68.6564675,
+        "lng": 27.5403605
     },
     {
         "wikidata_id": "Q7336412",
         "name": "Ristikivi",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/0cm8k1v"
+        "freebase_id": "/m/0cm8k1v",
+        "lat": 62.20455556,
+        "lng": 25.75389444
     },
     {
         "wikidata_id": "Q7923327",
         "name": "Vespuoli",
         "description": "district of Jyväskylä in Western Finland, Finland",
-        "freebase_id": "/m/0j7hzp6"
+        "freebase_id": "/m/0j7hzp6",
+        "lat": 62.8833,
+        "lng": 25.7167
     },
     {
         "wikidata_id": "Q254734",
         "name": "Äkäslompolo",
         "description": "village in Kolari, Finland",
-        "freebase_id": "/m/0w7q5xq"
+        "freebase_id": "/m/0w7q5xq",
+        "lat": 67.6050196,
+        "lng": 24.145848
     },
     {
         "wikidata_id": "Q4708106",
         "name": "Martinlaakso",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/0fr9_l"
+        "freebase_id": "/m/0fr9_l",
+        "lat": 60.28333333,
+        "lng": 24.85
     },
     {
         "wikidata_id": "Q6704581",
         "name": "Luohuan Ylipää",
         "description": "village in Siikajoki, Finland",
-        "freebase_id": "/m/0cn_mgd"
+        "freebase_id": "/m/0cn_mgd",
+        "lat": 64.53333333,
+        "lng": 25.2
     },
     {
         "wikidata_id": "Q198663",
         "name": "Olari",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0261_2n"
+        "freebase_id": "/m/0261_2n",
+        "lat": 60.166666666,
+        "lng": 24.75
     },
     {
         "wikidata_id": "Q7264843",
         "name": "Pörhölä",
         "description": "village in Lapland, Finland",
-        "freebase_id": "/m/04q1zqt"
+        "freebase_id": "/m/04q1zqt",
+        "lat": 65.8,
+        "lng": 24.48333333
     },
     {
         "wikidata_id": "Q5996378",
         "name": "Ikuri",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/0gvsm5t"
+        "freebase_id": "/m/0gvsm5t",
+        "lat": 61.5112,
+        "lng": 23.5968
     },
     {
         "wikidata_id": "Q673425",
         "name": "Helsinki metropolitan area",
         "description": "metropolitan area in Uusimaa, Finland",
-        "freebase_id": "/m/03k958"
+        "freebase_id": "/m/03k958",
+        "lat": 60.170833333,
+        "lng": 24.9375
     },
     {
         "wikidata_id": "Q211489",
         "name": "Espoon keskus",
         "description": "city district of Espoo, Finland",
-        "freebase_id": "/m/07gmk5"
+        "freebase_id": "/m/07gmk5",
+        "lat": 60.20439,
+        "lng": 24.65439
     },
     {
         "wikidata_id": "Q18659590",
         "name": "Q18659590",
         "description": "No description available",
-        "freebase_id": "/m/0w0d_0r"
+        "freebase_id": "/m/0w0d_0r",
+        "lat": 60.494,
+        "lng": 26.90425
     },
     {
         "wikidata_id": "Q653536",
         "name": "Kilo",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284tb3"
+        "freebase_id": "/m/0284tb3",
+        "lat": 60.216666666,
+        "lng": 24.783333333
     },
     {
         "wikidata_id": "Q7071265",
         "name": "Nyrölä",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/0cmbrrz"
+        "freebase_id": "/m/0cmbrrz",
+        "lat": 62.36306944,
+        "lng": 25.48313056
     },
     {
         "wikidata_id": "Q653749",
         "name": "Viherlaakso",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284tr5"
+        "freebase_id": "/m/0284tr5",
+        "lat": 60.233333333,
+        "lng": 24.75
     },
     {
         "wikidata_id": "Q4350782",
         "name": "Lippajärvi",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284tn2"
+        "freebase_id": "/m/0284tn2",
+        "lat": 60.229166666,
+        "lng": 24.711111111
     },
     {
         "wikidata_id": "Q11884084",
         "name": "Nautsi",
         "description": "Former human settlement in Russia",
-        "freebase_id": "/m/0gj8ft8"
+        "freebase_id": "/m/0gj8ft8",
+        "lat": 69.00027778,
+        "lng": 29.05555556
     },
     {
         "wikidata_id": "Q7907801",
         "name": "Vaajakoski",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/0j426tl"
+        "freebase_id": "/m/0j426tl",
+        "lat": 62.2483,
+        "lng": 25.8711
     },
     {
         "wikidata_id": "Q4350831",
         "name": "Karakallio",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284t81"
+        "freebase_id": "/m/0284t81",
+        "lat": 60.233333333,
+        "lng": 24.783333333
     },
     {
         "wikidata_id": "Q653107",
         "name": "Haukilahti",
         "description": "14th city district of Espoo, Finland",
-        "freebase_id": "/m/07p77z"
+        "freebase_id": "/m/07p77z",
+        "lat": 60.162819444,
+        "lng": 24.775461111
     },
     {
         "wikidata_id": "Q892533",
         "name": "Suvisaaristo",
         "description": "district of Espoo",
-        "freebase_id": "/m/04f22z7"
+        "freebase_id": "/m/04f22z7",
+        "lat": 60.116666666,
+        "lng": 24.716666666
     },
     {
         "wikidata_id": "Q11884428",
         "name": "Niinisalo",
         "description": "village in Kankaanpää, Finland",
-        "freebase_id": "/m/01220glm"
+        "freebase_id": "/m/01220glm",
+        "lat": 61.8391,
+        "lng": 22.4673
     },
     {
         "wikidata_id": "Q6305087",
         "name": "Lintuvaara",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284tl0"
+        "freebase_id": "/m/0284tl0",
+        "lat": 60.233333333,
+        "lng": 24.816666666
     },
     {
         "wikidata_id": "Q4412208",
         "name": "Lentokenttä",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/04n5wnl"
+        "freebase_id": "/m/04n5wnl",
+        "lat": 60.31722222,
+        "lng": 24.96333333
     },
     {
         "wikidata_id": "Q19313989",
         "name": "Tammisaari prison camp",
         "description": "Concentration camp and prison in Dragsvik, Ekenäs in Finland",
-        "freebase_id": "/m/012vxv9m"
+        "freebase_id": "/m/012vxv9m",
+        "lat": 59.9878,
+        "lng": 23.4861
     },
     {
         "wikidata_id": "Q520764",
         "name": "Nuorgam",
         "description": "village in Utsjoki, Finland",
-        "freebase_id": "/m/03jly9"
+        "freebase_id": "/m/03jly9",
+        "lat": 70.080555555,
+        "lng": 27.875
     },
     {
         "wikidata_id": "Q10669527",
         "name": "Seutula",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/010vq13f"
+        "freebase_id": "/m/010vq13f",
+        "lat": 60.3478,
+        "lng": 24.8656
     },
     {
         "wikidata_id": "Q6544133",
         "name": "Lielahti",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/026mbqj"
+        "freebase_id": "/m/026mbqj",
+        "lat": 61.51666667,
+        "lng": 23.66666667
     },
     {
         "wikidata_id": "Q4412184",
         "name": "Hämevaara",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/061pvd"
+        "freebase_id": "/m/061pvd",
+        "lat": 60.25,
+        "lng": 24.8
     },
     {
         "wikidata_id": "Q7081559",
         "name": "Oittaa",
         "description": "district in Espoo, Finland",
-        "freebase_id": "/m/076szg5"
+        "freebase_id": "/m/076szg5",
+        "lat": 60.23853333,
+        "lng": 24.65589444
     },
     {
         "wikidata_id": "Q5950064",
         "name": "Husula",
         "description": "town district in Hamina, Finland",
-        "freebase_id": "/m/04p6lc"
+        "freebase_id": "/m/04p6lc",
+        "lat": 60.61666667,
+        "lng": 27.18333333
     },
     {
         "wikidata_id": "Q6935612",
         "name": "Munapirtti",
         "description": "village in Pyhtää, Finland",
-        "freebase_id": "/m/03qft20"
+        "freebase_id": "/m/03qft20",
+        "lat": 60.434616,
+        "lng": 26.596862
     },
     {
         "wikidata_id": "Q498622",
         "name": "Hautajärvi",
         "description": "village in Salla, Finland",
-        "freebase_id": "/m/0bhbbsm"
+        "freebase_id": "/m/0bhbbsm",
+        "lat": 66.5112449,
+        "lng": 29.0333622
     },
     {
         "wikidata_id": "Q772712",
         "name": "Henttaa",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/02846dg"
+        "freebase_id": "/m/02846dg",
+        "lat": 60.2,
+        "lng": 24.733333333
     },
     {
         "wikidata_id": "Q610685",
         "name": "Sepänkylä",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284tpg"
+        "freebase_id": "/m/0284tpg",
+        "lat": 60.204166666,
+        "lng": 24.733333333
     },
     {
         "wikidata_id": "Q6360788",
         "name": "Kanavuori",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/0j7lgw8"
+        "freebase_id": "/m/0j7lgw8",
+        "lat": 62.23222222,
+        "lng": 25.89638889
     },
     {
         "wikidata_id": "Q1668730",
         "name": "Q1668730",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0dhhm"
+        "freebase_id": "/m/0dhhm",
+        "lat": 60.175555555,
+        "lng": 24.8025
     },
     {
         "wikidata_id": "Q867580",
         "name": "Nuuksio",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/025rrhp"
+        "freebase_id": "/m/025rrhp",
+        "lat": 60.25,
+        "lng": 24.6
     },
     {
         "wikidata_id": "Q3735539",
         "name": "Hiekkaharju",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/03cs684"
+        "freebase_id": "/m/03cs684",
+        "lat": 60.3,
+        "lng": 25.05
     },
     {
         "wikidata_id": "Q3736278",
         "name": "Veromies",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/04mxxln"
+        "freebase_id": "/m/04mxxln",
+        "lat": 60.2972,
+        "lng": 24.9639
     },
     {
         "wikidata_id": "Q3107346",
         "name": "Matinkylä",
         "description": "23rd city district of Espoo, Finland",
-        "freebase_id": "/m/01ct31"
+        "freebase_id": "/m/01ct31",
+        "lat": 60.1583915,
+        "lng": 24.7338766
     },
     {
         "wikidata_id": "Q6744373",
         "name": "Malmi, Pyhtää",
         "description": "village in municipality of Pyhtää, Kymenlaakso, Southern Finland",
-        "freebase_id": "/m/0411cj4"
+        "freebase_id": "/m/0411cj4",
+        "lat": 60.43075833,
+        "lng": 26.58721389
     },
     {
         "wikidata_id": "Q5491338",
         "name": "Pohjois-Tapiola",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284690"
+        "freebase_id": "/m/0284690",
+        "lat": 60.195833333,
+        "lng": 24.791666666
     },
     {
         "wikidata_id": "Q7564038",
         "name": "Sotunki",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/03d0k27"
+        "freebase_id": "/m/03d0k27",
+        "lat": 60.282,
+        "lng": 25.139
     },
     {
         "wikidata_id": "Q867276",
         "name": "Nöykkiö",
         "description": "district of Espoo",
-        "freebase_id": "/m/0998wf"
+        "freebase_id": "/m/0998wf",
+        "lat": 60.15,
+        "lng": 24.666666666
     },
     {
         "wikidata_id": "Q611226",
         "name": "Saunalahti",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/04ctqss"
+        "freebase_id": "/m/04ctqss",
+        "lat": 60.16275,
+        "lng": 24.612166666
     },
     {
         "wikidata_id": "Q219044",
         "name": "Kauklahti",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/05d7_x"
+        "freebase_id": "/m/05d7_x",
+        "lat": 60.183333333,
+        "lng": 24.616666666
     },
     {
         "wikidata_id": "Q2743766",
         "name": "Otaniemi",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0gj01"
+        "freebase_id": "/m/0gj01",
+        "lat": 60.183333333,
+        "lng": 24.833333333
     },
     {
         "wikidata_id": "Q610667",
         "name": "Laaksolahti",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/0284tfx"
+        "freebase_id": "/m/0284tfx",
+        "lat": 60.25,
+        "lng": 24.766666666
     },
     {
         "wikidata_id": "Q6819502",
         "name": "Merirauma",
         "description": "neighbourhood in Rauma sub-region, Satakunta, Finland",
-        "freebase_id": "/m/0h3xgsk"
+        "freebase_id": "/m/0h3xgsk",
+        "lat": 61.14805556,
+        "lng": 21.46666667
     },
     {
         "wikidata_id": "Q3736737",
         "name": "Myyrmäki",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/02vzqms"
+        "freebase_id": "/m/02vzqms",
+        "lat": 60.26666667,
+        "lng": 24.85
     },
     {
         "wikidata_id": "Q3609412",
         "name": "Hvitträsk",
         "description": "artist's home in Kirkkonummi, Finland",
-        "freebase_id": "/m/027zq3p"
+        "freebase_id": "/m/027zq3p",
+        "lat": 60.18133347,
+        "lng": 24.51974524
     },
     {
         "wikidata_id": "Q6432701",
         "name": "Kortepohja",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/05225_q"
+        "freebase_id": "/m/05225_q",
+        "lat": 62.249144444,
+        "lng": 25.707386111
     },
     {
         "wikidata_id": "Q6000985",
         "name": "Ilola",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/0hgq828"
+        "freebase_id": "/m/0hgq828",
+        "lat": 60.32666667,
+        "lng": 25.01277778
     },
     {
         "wikidata_id": "Q6419813",
         "name": "Klaukkala",
         "description": "urban area in Nurmijärvi, Finland",
-        "freebase_id": "/m/0ch3y8"
+        "freebase_id": "/m/0ch3y8",
+        "lat": 60.382,
+        "lng": 24.749166666
     },
     {
         "wikidata_id": "Q7564142",
         "name": "Soukka",
         "description": "district of Espoo in Finland",
-        "freebase_id": "/m/04ct91j"
+        "freebase_id": "/m/04ct91j",
+        "lat": 60.140555555,
+        "lng": 24.671944444
     },
     {
         "wikidata_id": "Q18659797",
         "name": "Kalkku",
         "description": "city district in Tampere, Finland",
-        "freebase_id": "/m/0w0d_0v"
+        "freebase_id": "/m/0w0d_0v",
+        "lat": 61.496944444,
+        "lng": 23.585833333
     },
     {
         "wikidata_id": "Q6452306",
         "name": "Kypärämäki",
         "description": "city district in Jyväskylä, Finland",
-        "freebase_id": "/m/0j7lgvx"
+        "freebase_id": "/m/0j7lgvx",
+        "lat": 62.23805556,
+        "lng": 25.6925
     },
     {
         "wikidata_id": "Q10424153",
         "name": "Pakkala",
         "description": "city district in Vantaa, Finland",
-        "freebase_id": "/m/01347yjc"
+        "freebase_id": "/m/01347yjc",
+        "lat": 60.2869,
+        "lng": 24.9522
     },
     {
         "wikidata_id": "Q211491",
         "name": "Espoonlahti",
         "description": "city district in Espoo, Finland",
-        "freebase_id": "/m/02846ln"
+        "freebase_id": "/m/02846ln",
+        "lat": 60.15,
+        "lng": 24.658333333
     },
     {
         "wikidata_id": "Q1702583",
         "name": "Jokela",
         "description": "village in Tuusula, Finland",
-        "freebase_id": "/m/03cv9lv"
+        "freebase_id": "/m/03cv9lv",
+        "lat": 60.55263889,
+        "lng": 24.96630556
     },
     {
         "wikidata_id": "Q14955623",
         "name": "Pukkila parish village",
         "description": "village in Pukkila, Finland",
-        "freebase_id": "/m/03c1wl"
+        "freebase_id": "/m/03c1wl",
+        "lat": 60.64444444,
+        "lng": 25.58194444
     },
     {
         "wikidata_id": "Q7081588",
         "name": "Ojakkala",
         "description": "village in Finland",
-        "freebase_id": "/m/0fph5n9"
+        "freebase_id": "/m/0fph5n9",
+        "lat": 60.368275,
+        "lng": 24.395072222
     },
     {
         "wikidata_id": "Q762945",
         "name": "Rukatunturi",
         "description": "mountain in Kuusamo, Finland",
-        "freebase_id": "/m/02811sb"
+        "freebase_id": "/m/02811sb",
+        "lat": 66.165555555,
+        "lng": 29.151666666
     },
     {
         "wikidata_id": "Q6305111",
         "name": "Upinniemi",
         "description": "village and garrison in Kirkkonummi, Finland",
-        "freebase_id": "/m/02vwwnw"
+        "freebase_id": "/m/02vwwnw",
+        "lat": 60.0292,
+        "lng": 24.3583
     },
     {
         "wikidata_id": "Q2532089",
         "name": "Angeli",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/025stzx"
+        "freebase_id": "/m/025stzx",
+        "lat": 68.9104236,
+        "lng": 25.6628296
     },
     {
         "wikidata_id": "Q7943684",
@@ -2355,247 +3135,329 @@
         "wikidata_id": "Q4497769",
         "name": "Himos",
         "description": "ski resort in Jämsä, Finland",
-        "freebase_id": "/m/0w0f1l1"
+        "freebase_id": "/m/0w0f1l1",
+        "lat": 61.863819,
+        "lng": 25.189617
     },
     {
         "wikidata_id": "Q826263",
         "name": "Kellokoski",
         "description": "village in Tuusula, Finland",
-        "freebase_id": "/m/09ghvsk"
+        "freebase_id": "/m/09ghvsk",
+        "lat": 60.53055556,
+        "lng": 25.10527778
     },
     {
         "wikidata_id": "Q3069718",
         "name": "Marjaniemi",
         "description": "settlement in Vartiokylä, Helsinki, Finland",
-        "freebase_id": "/m/03hh3q_"
+        "freebase_id": "/m/03hh3q_",
+        "lat": 60.20416667,
+        "lng": 25.0875
     },
     {
         "wikidata_id": "Q15178579",
         "name": "Aimala",
         "description": "village in Pirkanmaa, Finland",
-        "freebase_id": "/m/0wbglrg"
+        "freebase_id": "/m/0wbglrg",
+        "lat": 61.33,
+        "lng": 23.69
     },
     {
         "wikidata_id": "Q6319956",
         "name": "Jänhijoki",
         "description": "village in Tavastia, Finland",
-        "freebase_id": "/m/02wzbwf"
+        "freebase_id": "/m/02wzbwf",
+        "lat": 60.8693,
+        "lng": 23.471033
     },
     {
         "wikidata_id": "Q1757",
         "name": "Helsinki",
         "description": "capital and most populous city of Finland",
-        "freebase_id": "/m/03khn"
+        "freebase_id": "/m/03khn",
+        "lat": 60.170833333,
+        "lng": 24.9375
     },
     {
         "wikidata_id": "Q6527853",
         "name": "Lepsämä",
         "description": "village in Nurmijärvi, Finland",
-        "freebase_id": "/m/04f1n5z"
+        "freebase_id": "/m/04f1n5z",
+        "lat": 60.38333333,
+        "lng": 24.63333333
     },
     {
         "wikidata_id": "Q3751914",
         "name": "Kaamasmukka",
         "description": "village in Utsjoki, Finland",
-        "freebase_id": "/m/04cs2kq"
+        "freebase_id": "/m/04cs2kq",
+        "lat": 69.3496141,
+        "lng": 26.5162942
     },
     {
         "wikidata_id": "Q4411734",
         "name": "Nikkilä",
         "description": "village in Sipoo, Finland",
-        "freebase_id": "/m/027pw13"
+        "freebase_id": "/m/027pw13",
+        "lat": 60.37666667,
+        "lng": 25.26833333
     },
     {
         "wikidata_id": "Q6305019",
         "name": "Lautiosaari",
         "description": "village in Finland",
-        "freebase_id": "/m/04q3h78"
+        "freebase_id": "/m/04q3h78",
+        "lat": 65.8,
+        "lng": 24.583333333
     },
     {
         "wikidata_id": "Q11872198",
         "name": "Kolho",
         "description": "village in Mänttä-Vilppula, Finland",
-        "freebase_id": "/m/03f1r0"
+        "freebase_id": "/m/03f1r0",
+        "lat": 62.13333333,
+        "lng": 24.51666667
     },
     {
         "wikidata_id": "Q2097419",
         "name": "Alakurtti",
         "description": "human settlement in Kandalakshsky District, Murmansk Oblast, Russia",
-        "freebase_id": "/m/0bx_fym"
+        "freebase_id": "/m/0bx_fym",
+        "lat": 66.967222222,
+        "lng": 30.338333333
     },
     {
         "wikidata_id": "Q4357913",
         "name": "Törmänen",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/02ryn71"
+        "freebase_id": "/m/02ryn71",
+        "lat": 68.6090242,
+        "lng": 27.4962007
     },
     {
         "wikidata_id": "Q7382753",
         "name": "Rutalahti",
         "description": "village in Joutsa, Finland",
-        "freebase_id": "/m/0bvsgy"
+        "freebase_id": "/m/0bvsgy",
+        "lat": 61.99555556,
+        "lng": 25.97305556
     },
     {
         "wikidata_id": "Q6434797",
         "name": "Kouva",
         "description": "village in Finland",
-        "freebase_id": "/m/064ng4r"
+        "freebase_id": "/m/064ng4r",
+        "lat": 65.83333333,
+        "lng": 27.7
     },
     {
         "wikidata_id": "Q2024882",
         "name": "Oitti",
         "description": "village in Hausjärvi, Finland",
-        "freebase_id": "/m/02vw14r"
+        "freebase_id": "/m/02vw14r",
+        "lat": 60.78333,
+        "lng": 25.03333
     },
     {
         "wikidata_id": "Q6406091",
         "name": "Kiipu",
         "description": "Finnish village",
-        "freebase_id": "/m/03cpq5d"
+        "freebase_id": "/m/03cpq5d",
+        "lat": 60.83333333,
+        "lng": 23.38333333
     },
     {
         "wikidata_id": "Q2375069",
         "name": "Khelyulya",
         "description": "human settlement in Khelyulskoye urban settlement, Sortavalskiy District, Republic of Karelia, Russia",
-        "freebase_id": "/m/0272z26"
+        "freebase_id": "/m/0272z26",
+        "lat": 61.75,
+        "lng": 30.666666666
     },
     {
         "wikidata_id": "Q5963157",
         "name": "Hämeenmäki",
         "description": "village in Finland",
-        "freebase_id": "/m/0r4ryfs"
+        "freebase_id": "/m/0r4ryfs",
+        "lat": 61.68222222,
+        "lng": 26.59333333
     },
     {
         "wikidata_id": "Q2305394",
         "name": "Karesuvanto",
         "description": "village in Enontekiö, Finland",
-        "freebase_id": "/m/05_5z97"
+        "freebase_id": "/m/05_5z97",
+        "lat": 68.4510494,
+        "lng": 22.4859149
     },
     {
         "wikidata_id": "Q920968",
         "name": "Nellim",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/0271gxy"
+        "freebase_id": "/m/0271gxy",
+        "lat": 68.85,
+        "lng": 28.31666667
     },
     {
         "wikidata_id": "Q15223353",
         "name": "Havumäki",
         "description": "village in Finland",
-        "freebase_id": "/m/05mv01l"
+        "freebase_id": "/m/05mv01l",
+        "lat": 61.98333333,
+        "lng": 26.26666667
     },
     {
         "wikidata_id": "Q3069640",
         "name": "Herttoniemenranta",
         "description": "quarter in Herttoniemi, Helsinki, Finland",
-        "freebase_id": "/m/09rv5hk"
+        "freebase_id": "/m/09rv5hk",
+        "lat": 60.188611111,
+        "lng": 25.034166666
     },
     {
         "wikidata_id": "Q7857096",
         "name": "Tuuski",
         "description": "village in Finland",
-        "freebase_id": "/m/0411cmh"
+        "freebase_id": "/m/0411cmh",
+        "lat": 60.4053,
+        "lng": 26.5456
     },
     {
         "wikidata_id": "Q4349517",
         "name": "Haapamäki",
         "description": "village in Keuruu, Finland",
-        "freebase_id": "/m/07pcfy"
+        "freebase_id": "/m/07pcfy",
+        "lat": 62.25,
+        "lng": 24.45
     },
     {
         "wikidata_id": "Q3738514",
         "name": "Vieki",
         "description": "village in Lieksa, Finland",
-        "freebase_id": "/m/0fm4tm"
+        "freebase_id": "/m/0fm4tm",
+        "lat": 63.46666667,
+        "lng": 29.61666667
     },
     {
         "wikidata_id": "Q6407011",
         "name": "Kiljava",
         "description": "village in Nurmijärvi, Finland",
-        "freebase_id": "/m/0fbnmy"
+        "freebase_id": "/m/0fbnmy",
+        "lat": 60.5,
+        "lng": 24.66666667
     },
     {
         "wikidata_id": "Q6418813",
         "name": "Kivisuo",
         "description": "village in Finland",
-        "freebase_id": "/m/0btsxn"
+        "freebase_id": "/m/0btsxn",
+        "lat": 61.9046,
+        "lng": 25.9727
     },
     {
         "wikidata_id": "Q16860752",
         "name": "Kusans",
         "description": "No description available",
-        "freebase_id": "/m/0brts6"
+        "freebase_id": "/m/0brts6",
+        "lat": 60.083333333,
+        "lng": 23.933333333
     },
     {
         "wikidata_id": "Q1865930",
         "name": "Littoinen",
         "description": "village in Finland",
-        "freebase_id": "/m/05t7zq"
+        "freebase_id": "/m/05t7zq",
+        "lat": 60.43333333,
+        "lng": 22.4
     },
     {
         "wikidata_id": "Q2233799",
         "name": "Vääksy",
         "description": "central village of Asikkala, Finland",
-        "freebase_id": "/m/0ft4h0"
+        "freebase_id": "/m/0ft4h0",
+        "lat": 61.1725715,
+        "lng": 25.5488464
     },
     {
         "wikidata_id": "Q1025014",
         "name": "Inari",
         "description": "village in Inari municipality, Finland",
-        "freebase_id": "/m/02r14_5"
+        "freebase_id": "/m/02r14_5",
+        "lat": 68.905555555,
+        "lng": 27.027777777
     },
     {
         "wikidata_id": "Q999185",
         "name": "Kilpisjärvi",
         "description": "village in Enontekiö, Finland",
-        "freebase_id": "/m/076f1j"
+        "freebase_id": "/m/076f1j",
+        "lat": 69.01654,
+        "lng": 20.87314
     },
     {
         "wikidata_id": "Q6782496",
         "name": "Masala",
         "description": "village in Kirkkonummi, Finland",
-        "freebase_id": "/m/02q9qb_"
+        "freebase_id": "/m/02q9qb_",
+        "lat": 60.15,
+        "lng": 24.53333333
     },
     {
         "wikidata_id": "Q4414652",
         "name": "Tuukkala",
         "description": "village in Hirvensalmi, Finland",
-        "freebase_id": "/m/0r3vcl9"
+        "freebase_id": "/m/0r3vcl9",
+        "lat": 61.7167,
+        "lng": 26.5833
     },
     {
         "wikidata_id": "Q4357920",
         "name": "Kuttura",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/02rzxy_"
+        "freebase_id": "/m/02rzxy_",
+        "lat": 68.40694444,
+        "lng": 26.45944444
     },
     {
         "wikidata_id": "Q11882118",
         "name": "Merikasarmi",
         "description": "barracks area in Helsinki, Finland",
-        "freebase_id": "/m/05lb9fp"
+        "freebase_id": "/m/05lb9fp",
+        "lat": 60.1681,
+        "lng": 24.9721
     },
     {
         "wikidata_id": "Q17013482",
         "name": "Parkumäki",
         "description": "village in Rantasalmi, Finland",
-        "freebase_id": "/m/010pqsw1"
+        "freebase_id": "/m/010pqsw1",
+        "lat": 61.97333,
+        "lng": 28.52083
     },
     {
         "wikidata_id": "Q837165",
         "name": "Hyrylä",
         "description": "village in Tuusula, Finland",
-        "freebase_id": "/m/09g828v"
+        "freebase_id": "/m/09g828v",
+        "lat": 60.400583333,
+        "lng": 25.021555555
     },
     {
         "wikidata_id": "Q3750913",
         "name": "Kaamanen",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/03gvxm8"
+        "freebase_id": "/m/03gvxm8",
+        "lat": 69.1046309,
+        "lng": 27.1984528
     },
     {
         "wikidata_id": "Q18660894",
         "name": "Muurahainen",
         "description": "village",
-        "freebase_id": "/m/012nvxh4"
+        "freebase_id": "/m/012nvxh4",
+        "lat": 62.1481,
+        "lng": 22.2678
     },
     {
         "wikidata_id": "Q7918624",
@@ -2607,978 +3469,1304 @@
         "wikidata_id": "Q6397865",
         "name": "Keväjärvi",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/02ryc61"
+        "freebase_id": "/m/02ryc61",
+        "lat": 68.70833333,
+        "lng": 27.77777778
     },
     {
         "wikidata_id": "Q4890077",
         "name": "Bennäs",
         "description": "village in Pedersöre, Finland",
-        "freebase_id": "/m/02rqwdv"
+        "freebase_id": "/m/02rqwdv",
+        "lat": 63.6,
+        "lng": 22.79166667
     },
     {
         "wikidata_id": "Q7882306",
         "name": "Unari",
         "description": "village in Sodankylä, Finland",
-        "freebase_id": "/m/02vw17v"
+        "freebase_id": "/m/02vw17v",
+        "lat": 67.1439886,
+        "lng": 25.726259
     },
     {
         "wikidata_id": "Q4357910",
         "name": "Maula",
         "description": "village in Keminmaa, Finland",
-        "freebase_id": "/m/04q832d"
+        "freebase_id": "/m/04q832d",
+        "lat": 66.866666666,
+        "lng": 24.666666666
     },
     {
         "wikidata_id": "Q1355001",
         "name": "Uspenski Cathedral",
         "description": "orthodox cathedral church of Helsinki, Finland",
-        "freebase_id": "/m/0gclrr"
+        "freebase_id": "/m/0gclrr",
+        "lat": 60.1685184,
+        "lng": 24.9599422
     },
     {
         "wikidata_id": "Q4413407",
         "name": "Törmä",
         "description": "village in Finland",
-        "freebase_id": "/m/04q6xtt"
+        "freebase_id": "/m/04q6xtt",
+        "lat": 65.901794,
+        "lng": 24.687746
     },
     {
         "wikidata_id": "Q4411842",
         "name": "Sompujärvi",
         "description": "village in Finland",
-        "freebase_id": "/m/04q8lrz"
+        "freebase_id": "/m/04q8lrz",
+        "lat": 65.95,
+        "lng": 25.166666666
     },
     {
         "wikidata_id": "Q5682219",
         "name": "Hattuvaara",
         "description": "village in Ilomantsi, Finland",
-        "freebase_id": "/m/02rh8_p"
+        "freebase_id": "/m/02rh8_p",
+        "lat": 62.93194444,
+        "lng": 31.28166667
     },
     {
         "wikidata_id": "Q6845433",
         "name": "Miiluranta",
         "description": "village in Finland",
-        "freebase_id": "/m/04q77pl"
+        "freebase_id": "/m/04q77pl",
+        "lat": 63.96666667,
+        "lng": 25.98333333
     },
     {
         "wikidata_id": "Q4356808",
         "name": "Niinimaa",
         "description": "village in Finland",
-        "freebase_id": "/m/02q_603"
+        "freebase_id": "/m/02q_603",
+        "lat": 62.6458,
+        "lng": 23.4016
     },
     {
         "wikidata_id": "Q4413402",
         "name": "Liedakkala",
         "description": "village in Finland",
-        "freebase_id": "/m/04q3vcg"
+        "freebase_id": "/m/04q3vcg",
+        "lat": 65.866666666,
+        "lng": 24.6
     },
     {
         "wikidata_id": "Q4413416",
         "name": "Itäkoski",
         "description": "village in Finland",
-        "freebase_id": "/m/04q0gjf"
+        "freebase_id": "/m/04q0gjf",
+        "lat": 65.966666666,
+        "lng": 24.766666666
     },
     {
         "wikidata_id": "Q6269794",
         "name": "Jokisuu",
         "description": "village in Finland",
-        "freebase_id": "/m/04qb12x"
+        "freebase_id": "/m/04qb12x",
+        "lat": 66.816666666,
+        "lng": 24.416666666
     },
     {
         "wikidata_id": "Q1089774",
         "name": "Sevettijärvi",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/02rymhp"
+        "freebase_id": "/m/02rymhp",
+        "lat": 69.5050318,
+        "lng": 28.58649
     },
     {
         "wikidata_id": "Q4356137",
         "name": "Pohjavaara",
         "description": "village in Sotkamo, Finland",
-        "freebase_id": "/m/03c97hl"
+        "freebase_id": "/m/03c97hl",
+        "lat": 64.25,
+        "lng": 28.05
     },
     {
         "wikidata_id": "Q916942",
         "name": "Hetta",
         "description": "village in the municipality of Enontekiö, Finland",
-        "freebase_id": "/m/04q9tjs"
+        "freebase_id": "/m/04q9tjs",
+        "lat": 68.3857401,
+        "lng": 23.6189254
     },
     {
         "wikidata_id": "Q4410925",
         "name": "Smedsby",
         "description": "village in Korsholm, Finland",
-        "freebase_id": "/m/04n3q88"
+        "freebase_id": "/m/04n3q88",
+        "lat": 63.1166,
+        "lng": 21.69863
     },
     {
         "wikidata_id": "Q6453485",
         "name": "Kärpänkylä",
         "description": "village in Kuusamo, Finland",
-        "freebase_id": "/m/09v78xp"
+        "freebase_id": "/m/09v78xp",
+        "lat": 65.93333333,
+        "lng": 29.8
     },
     {
         "wikidata_id": "Q7852314",
         "name": "Tulppio",
         "description": "village in Savukoski, Finland",
-        "freebase_id": "/m/0fwb_y"
+        "freebase_id": "/m/0fwb_y",
+        "lat": 67.7696306,
+        "lng": 29.2116511
     },
     {
         "wikidata_id": "Q5908924",
         "name": "Hossa",
         "description": "village in Suomussalmi, Finland",
-        "freebase_id": "/m/02q0qh9"
+        "freebase_id": "/m/02q0qh9",
+        "lat": 65.442,
+        "lng": 29.555
     },
     {
         "wikidata_id": "Q7862350",
         "name": "Törmäsenvaara",
         "description": "village in Kuusamo, Finland",
-        "freebase_id": "/m/09v2r0n"
+        "freebase_id": "/m/09v2r0n",
+        "lat": 65.90604,
+        "lng": 29.47117
     },
     {
         "wikidata_id": "Q3757078",
         "name": "Lisma",
         "description": "village in Inari, Finland",
-        "freebase_id": "/m/02vndw4"
+        "freebase_id": "/m/02vndw4",
+        "lat": 68.3716342,
+        "lng": 25.4812335
     },
     {
         "wikidata_id": "Q5305513",
         "name": "Dragsvik",
         "description": "village North East of Ekenäs in Raseborg, Finland",
-        "freebase_id": "/m/0jl030w"
+        "freebase_id": "/m/0jl030w",
+        "lat": 59.98333333,
+        "lng": 23.48333333
     },
     {
         "wikidata_id": "Q2673718",
         "name": "Parola",
         "description": "town in Hattula, Finland",
-        "freebase_id": "/m/04vb9f"
+        "freebase_id": "/m/04vb9f",
+        "lat": 61.0529409,
+        "lng": 24.3667006
     },
     {
         "wikidata_id": "Q5493315",
         "name": "Ilmola",
         "description": "village in Finland",
-        "freebase_id": "/m/04q75bq"
+        "freebase_id": "/m/04q75bq",
+        "lat": 65.866666666,
+        "lng": 24.633333333
     },
     {
         "wikidata_id": "Q6501810",
         "name": "Laurila",
         "description": "village in Keminmaa, Finland",
-        "freebase_id": "/m/04q2sys"
+        "freebase_id": "/m/04q2sys",
+        "lat": 65.80158,
+        "lng": 24.54483
     },
     {
         "wikidata_id": "Q6418773",
         "name": "Kivesjärvi",
         "description": "village in Paltamo, Finland",
-        "freebase_id": "/m/0dps_p"
+        "freebase_id": "/m/0dps_p",
+        "lat": 64.46944444,
+        "lng": 27.46361111
     },
     {
         "wikidata_id": "Q7125428",
         "name": "Pakankylä",
         "description": "village in Finland",
-        "freebase_id": "/m/03qs_z"
+        "freebase_id": "/m/03qs_z",
+        "lat": 62.1,
+        "lng": 21.53333333
     },
     {
         "wikidata_id": "Q5767235",
         "name": "Hinkaböle",
         "description": "village in Finland",
-        "freebase_id": "/m/0411ch3"
+        "freebase_id": "/m/0411ch3",
+        "lat": 60.42119722,
+        "lng": 26.58297222
     },
     {
         "wikidata_id": "Q262837",
         "name": "Levi",
         "description": "ski resort in Kittilä, Finland",
-        "freebase_id": "/m/08f8ss"
+        "freebase_id": "/m/08f8ss",
+        "lat": 67.799166666,
+        "lng": 24.821388888
     },
     {
         "wikidata_id": "Q7446992",
         "name": "Seitajärvi",
         "description": "village in Savukoski, Finland",
-        "freebase_id": "/m/0dljxcj"
+        "freebase_id": "/m/0dljxcj",
+        "lat": 67.561388888,
+        "lng": 27.885833333
     },
     {
         "wikidata_id": "Q6949997",
         "name": "Mätäsvaara",
         "description": "village in Lieksa, Finland",
-        "freebase_id": "/m/04cvv9v"
+        "freebase_id": "/m/04cvv9v",
+        "lat": 63.43777778,
+        "lng": 29.59027778
     },
     {
         "wikidata_id": "Q3069425",
         "name": "Maunulanpuisto",
         "description": "neighborhood of Helsinki in Uusimaa, Southern Finland, Finland",
-        "freebase_id": "/m/09ry5qg"
+        "freebase_id": "/m/09ry5qg",
+        "lat": 60.223498764,
+        "lng": 24.921136253
     },
     {
         "wikidata_id": "Q5769886",
         "name": "Hirmula",
         "description": "village in Finland",
-        "freebase_id": "/m/04qbj9d"
+        "freebase_id": "/m/04qbj9d",
+        "lat": 65.8468572,
+        "lng": 24.60137
     },
     {
         "wikidata_id": "Q6451699",
         "name": "Kylmälänkylä",
         "description": "village in Muhos, Finland",
-        "freebase_id": "/m/070z23"
+        "freebase_id": "/m/070z23",
+        "lat": 64.58333333,
+        "lng": 26.26666667
     },
     {
         "wikidata_id": "Q3069685",
         "name": "Pihlajamäki",
         "description": "neighborhood in Helsinki, Finland",
-        "freebase_id": "/m/09rxr52"
+        "freebase_id": "/m/09rxr52",
+        "lat": 60.236145127,
+        "lng": 25.010733809
     },
     {
         "wikidata_id": "Q10572499",
         "name": "Lågskär",
         "description": "island and village in Lemland, Åland Islands, Finland",
-        "freebase_id": "/m/0xnv63r"
+        "freebase_id": "/m/0xnv63r",
+        "lat": 59.8416,
+        "lng": 19.9166
     },
     {
         "wikidata_id": "Q2384827",
         "name": "Liinakhamari",
         "description": "human settlement in Pechengsky District, Murmansk Oblast, Russia",
-        "freebase_id": "/m/02w9t7d"
+        "freebase_id": "/m/02w9t7d",
+        "lat": 69.641388888,
+        "lng": 31.343055555
     },
     {
         "wikidata_id": "Q8054002",
         "name": "Ylike",
         "description": "village in Finland",
-        "freebase_id": "/m/03cstvg"
+        "freebase_id": "/m/03cstvg",
+        "lat": 60.3833,
+        "lng": 25.85
     },
     {
         "wikidata_id": "Q11887569",
         "name": "Perttula",
         "description": "village in Nurmijärvi, Finland",
-        "freebase_id": "/m/05q8z82"
+        "freebase_id": "/m/05q8z82",
+        "lat": 60.443055555,
+        "lng": 24.7
     },
     {
         "wikidata_id": "Q6278969",
         "name": "Jormua",
         "description": "village in Kajaani, Finland",
-        "freebase_id": "/m/04f0nmy"
+        "freebase_id": "/m/04f0nmy",
+        "lat": 64.29421,
+        "lng": 28.01473
     },
     {
         "wikidata_id": "Q5636582",
         "name": "Haavisto",
         "description": "village in Finland",
-        "freebase_id": "/m/04cwprl"
+        "freebase_id": "/m/04cwprl",
+        "lat": 60.52083333,
+        "lng": 24.34583333
     },
     {
         "wikidata_id": "Q5475957",
         "name": "Ruonala",
         "description": "village in Finland",
-        "freebase_id": "/m/04qzb6"
+        "freebase_id": "/m/04qzb6",
+        "lat": 60.48333333,
+        "lng": 26.88333333
     },
     {
         "wikidata_id": "Q1247157",
         "name": "Iittala",
         "description": "village in Hämeenlinna, Finland",
-        "freebase_id": "/m/0w0d_jb"
+        "freebase_id": "/m/0w0d_jb",
+        "lat": 61.1,
+        "lng": 24.11666667
     },
     {
         "wikidata_id": "Q1001775",
         "name": "Vierumäki",
         "description": "village in Heinola, Finland",
-        "freebase_id": "/m/03y5l05"
+        "freebase_id": "/m/03y5l05",
+        "lat": 61.1056148,
+        "lng": 25.933488
     },
     {
         "wikidata_id": "Q7857094",
         "name": "Tuurala",
         "description": "village in Isokyrö, Finland",
-        "freebase_id": "/m/02qj6wz"
+        "freebase_id": "/m/02qj6wz",
+        "lat": 63.01488,
+        "lng": 22.2704
     },
     {
         "wikidata_id": "Q3503204",
         "name": "Fiskars",
         "description": "village in Raseborg, Finland",
-        "freebase_id": "/m/0bmc5jr"
+        "freebase_id": "/m/0bmc5jr",
+        "lat": 60.1297,
+        "lng": 23.5403
     },
     {
         "wikidata_id": "Q207753",
         "name": "Hyvinkää",
         "description": "town in Uusimaa, Finland",
-        "freebase_id": "/m/02g11w"
+        "freebase_id": "/m/02g11w",
+        "lat": 60.630555555,
+        "lng": 24.859722222
     },
     {
         "wikidata_id": "Q193367",
         "name": "Porvoo",
         "description": "city in the region of Uusimaa in Finland",
-        "freebase_id": "/m/0d92r"
+        "freebase_id": "/m/0d92r",
+        "lat": 60.393055555,
+        "lng": 25.663888888
     },
     {
         "wikidata_id": "Q683512",
         "name": "Savonlinna",
         "description": "town in the region of Southern Savonia in Finland",
-        "freebase_id": "/m/0d5fq"
+        "freebase_id": "/m/0d5fq",
+        "lat": 61.868055555,
+        "lng": 28.886111111
     },
     {
         "wikidata_id": "Q6009",
         "name": "Kauhava",
         "description": "town in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bqg6"
+        "freebase_id": "/m/03bqg6",
+        "lat": 63.101388888,
+        "lng": 23.063888888
     },
     {
         "wikidata_id": "Q1017108",
         "name": "Lieto",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03b_bc"
+        "freebase_id": "/m/03b_bc",
+        "lat": 60.504166666,
+        "lng": 22.458333333
     },
     {
         "wikidata_id": "Q1017129",
         "name": "Paimio",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03c1cn"
+        "freebase_id": "/m/03c1cn",
+        "lat": 60.456944444,
+        "lng": 22.686111111
     },
     {
         "wikidata_id": "Q103717",
         "name": "Rovaniemi",
         "description": "city in the region of Lapland in Finland",
-        "freebase_id": "/m/015nb0"
+        "freebase_id": "/m/015nb0",
+        "lat": 66.5027903,
+        "lng": 25.7284789
     },
     {
         "wikidata_id": "Q986409",
         "name": "Kokemäki",
         "description": "town in the region of Satakunta in Finland",
-        "freebase_id": "/m/03bz3n"
+        "freebase_id": "/m/03bz3n",
+        "lat": 61.255555555,
+        "lng": 22.348611111
     },
     {
         "wikidata_id": "Q11872134",
         "name": "Kokemäki Castle",
         "description": "demolished medieval castle in Finland",
-        "freebase_id": "/m/011q8c2p"
+        "freebase_id": "/m/011q8c2p",
+        "lat": 61.274386,
+        "lng": 22.302661
     },
     {
         "wikidata_id": "Q503862",
         "name": "Naantali",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03c0yt"
+        "freebase_id": "/m/03c0yt",
+        "lat": 60.468055555,
+        "lng": 22.026388888
     },
     {
         "wikidata_id": "Q984858",
         "name": "Saarijärvi",
         "description": "town in the region of Central Finland",
-        "freebase_id": "/m/03c2zy"
+        "freebase_id": "/m/03c2zy",
+        "lat": 62.705555555,
+        "lng": 25.256944444
     },
     {
         "wikidata_id": "Q5482658",
         "name": "Hakoinen Castle",
         "description": "No description available",
-        "freebase_id": "/m/026m02z"
+        "freebase_id": "/m/026m02z",
+        "lat": 60.877677,
+        "lng": 24.587389
     },
     {
         "wikidata_id": "Q990573",
         "name": "Pyhäjärvi",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/01h6by"
+        "freebase_id": "/m/01h6by",
+        "lat": 63.681944444,
+        "lng": 25.977777777
     },
     {
         "wikidata_id": "Q367780",
         "name": "Hamina",
         "description": "town in the region of Kymenlaakso in Finland",
-        "freebase_id": "/m/01lq9p"
+        "freebase_id": "/m/01lq9p",
+        "lat": 60.569722222,
+        "lng": 27.198055555
     },
     {
         "wikidata_id": "Q1001927",
         "name": "Sastamala",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/05b6qjk"
+        "freebase_id": "/m/05b6qjk",
+        "lat": 61.341666666,
+        "lng": 22.908333333
     },
     {
         "wikidata_id": "Q656988",
         "name": "Nurmes",
         "description": "town in the region of North Karelia in Finland",
-        "freebase_id": "/m/03c12k"
+        "freebase_id": "/m/03c12k",
+        "lat": 63.544444444,
+        "lng": 29.133333333
     },
     {
         "wikidata_id": "Q735583",
         "name": "Ylivieska",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/02tdtr"
+        "freebase_id": "/m/02tdtr",
+        "lat": 64.072222222,
+        "lng": 24.5375
     },
     {
         "wikidata_id": "Q807901",
         "name": "Laitila",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03b_10"
+        "freebase_id": "/m/03b_10",
+        "lat": 60.879166666,
+        "lng": 21.693055555
     },
     {
         "wikidata_id": "Q28911",
         "name": "Lahti",
         "description": "city in the region of Päijänne Tavastia in Finland",
-        "freebase_id": "/m/01shj_"
+        "freebase_id": "/m/01shj_",
+        "lat": 60.9803806,
+        "lng": 25.654988
     },
     {
         "wikidata_id": "Q6172",
         "name": "Ähtäri",
         "description": "town in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/021722"
+        "freebase_id": "/m/021722",
+        "lat": 62.55,
+        "lng": 24.066666666
     },
     {
         "wikidata_id": "Q953070",
         "name": "Parkano",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/01dg8b"
+        "freebase_id": "/m/01dg8b",
+        "lat": 62.009722222,
+        "lng": 23.025
     },
     {
         "wikidata_id": "Q208287",
         "name": "Kauniainen",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/0c76c"
+        "freebase_id": "/m/0c76c",
+        "lat": 60.209722222,
+        "lng": 24.729166666
     },
     {
         "wikidata_id": "Q984927",
         "name": "Kannus",
         "description": "town in the region of Central Ostrobothnia in Finland",
-        "freebase_id": "/m/03bq88"
+        "freebase_id": "/m/03bq88",
+        "lat": 63.9017454,
+        "lng": 23.9150542
     },
     {
         "wikidata_id": "Q48329",
         "name": "Mariehamn",
         "description": "capital of Åland, Finland",
-        "freebase_id": "/m/01nm5c"
+        "freebase_id": "/m/01nm5c",
+        "lat": 60.09861111,
+        "lng": 19.94444444
     },
     {
         "wikidata_id": "Q180233",
         "name": "Pori",
         "description": "city in the region of Satakunta in Finland",
-        "freebase_id": "/m/020mjt"
+        "freebase_id": "/m/020mjt",
+        "lat": 61.486666666,
+        "lng": 21.7975
     },
     {
         "wikidata_id": "Q939758",
         "name": "Kalajoki",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bq3g"
+        "freebase_id": "/m/03bq3g",
+        "lat": 64.259722222,
+        "lng": 23.948611111
     },
     {
         "wikidata_id": "Q939727",
         "name": "Somero",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03c3g3"
+        "freebase_id": "/m/03c3g3",
+        "lat": 60.629166666,
+        "lng": 23.513888888
     },
     {
         "wikidata_id": "Q186237",
         "name": "Joensuu",
         "description": "city in the region of North Karelia in Finland",
-        "freebase_id": "/m/01t5fg"
+        "freebase_id": "/m/01t5fg",
+        "lat": 62.6,
+        "lng": 29.763888888
     },
     {
         "wikidata_id": "Q38511",
         "name": "Turku",
         "description": "city in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/0c_zx"
+        "freebase_id": "/m/0c_zx",
+        "lat": 60.451666666,
+        "lng": 22.266944444
     },
     {
         "wikidata_id": "Q744704",
         "name": "Kemijärvi",
         "description": "town in the region of Lapland in Finland",
-        "freebase_id": "/m/030t17"
+        "freebase_id": "/m/030t17",
+        "lat": 66.7150185,
+        "lng": 27.4305775
     },
     {
         "wikidata_id": "Q819387",
         "name": "Haapavesi",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bfdr"
+        "freebase_id": "/m/03bfdr",
+        "lat": 64.1375,
+        "lng": 25.366666666
     },
     {
         "wikidata_id": "Q192155",
         "name": "Kotka",
         "description": "city in the region of Kymenlaakso in Finland",
-        "freebase_id": "/m/021l12"
+        "freebase_id": "/m/021l12",
+        "lat": 60.466666666,
+        "lng": 26.945833333
     },
     {
         "wikidata_id": "Q781249",
         "name": "Närpes",
         "description": "town in the region of Ostrobothnia in Finland",
-        "freebase_id": "/m/03c15g"
+        "freebase_id": "/m/03c15g",
+        "lat": 62.473611111,
+        "lng": 21.3375
     },
     {
         "wikidata_id": "Q190583",
         "name": "Mikkeli",
         "description": "city in the region of Southern Savonia in Finland",
-        "freebase_id": "/m/021210"
+        "freebase_id": "/m/021210",
+        "lat": 61.6875,
+        "lng": 27.273611111
     },
     {
         "wikidata_id": "Q210987",
         "name": "Salo",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03c32j"
+        "freebase_id": "/m/03c32j",
+        "lat": 60.383055555,
+        "lng": 23.133055555
     },
     {
         "wikidata_id": "Q435492",
         "name": "Old Castle of Lieto",
         "description": "fortified hill in Lieto, Finland",
-        "freebase_id": "/m/0f3fkc"
+        "freebase_id": "/m/0f3fkc",
+        "lat": 60.48638889,
+        "lng": 22.37722222
     },
     {
         "wikidata_id": "Q429864",
         "name": "Riihimäki",
         "description": "town in the region of Tavastia Proper in Finland",
-        "freebase_id": "/m/03c2qq"
+        "freebase_id": "/m/03c2qq",
+        "lat": 60.733333333,
+        "lng": 24.766666666
     },
     {
         "wikidata_id": "Q203619",
         "name": "Kemi",
         "description": "town in the region of Lapland in Finland",
-        "freebase_id": "/m/021bfb"
+        "freebase_id": "/m/021bfb",
+        "lat": 65.7336354,
+        "lng": 24.5634156
     },
     {
         "wikidata_id": "Q1010550",
         "name": "Pargas",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/02rzz88"
+        "freebase_id": "/m/02rzz88",
+        "lat": 60.3,
+        "lng": 22.3
     },
     {
         "wikidata_id": "Q124919",
         "name": "Kiuruvesi",
         "description": "town in the region of Northern Savonia in Finland",
-        "freebase_id": "/m/03byyq"
+        "freebase_id": "/m/03byyq",
+        "lat": 63.652777777,
+        "lng": 26.619444444
     },
     {
         "wikidata_id": "Q134620",
         "name": "Jyväskylä",
         "description": "city in the region of Central Finland",
-        "freebase_id": "/m/01m3y_"
+        "freebase_id": "/m/01m3y_",
+        "lat": 62.240277777,
+        "lng": 25.744444444
     },
     {
         "wikidata_id": "Q47034",
         "name": "Espoo",
         "description": "city in the region of Uusimaa in Finland",
-        "freebase_id": "/m/0c75w"
+        "freebase_id": "/m/0c75w",
+        "lat": 60.205555555,
+        "lng": 24.655555555
     },
     {
         "wikidata_id": "Q216900",
         "name": "Kerava",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/03bqy9"
+        "freebase_id": "/m/03bqy9",
+        "lat": 60.402777777,
+        "lng": 25.1
     },
     {
         "wikidata_id": "Q659642",
         "name": "Kristinestad",
         "description": "town in the region of Ostrobothnia in Finland",
-        "freebase_id": "/m/01g6z7"
+        "freebase_id": "/m/01g6z7",
+        "lat": 62.273611111,
+        "lng": 21.377777777
     },
     {
         "wikidata_id": "Q6546966",
         "name": "Liinmaa Castle",
         "description": "No description available",
-        "freebase_id": "/m/0h6ymw"
+        "freebase_id": "/m/0h6ymw",
+        "lat": 61.217966,
+        "lng": 21.608839
     },
     {
         "wikidata_id": "Q952374",
         "name": "Outokumpu",
         "description": "town in the region of North Karelia in Finland",
-        "freebase_id": "/m/03bzsb"
+        "freebase_id": "/m/03bzsb",
+        "lat": 62.725,
+        "lng": 29.018055555
     },
     {
         "wikidata_id": "Q40840",
         "name": "Tampere",
         "description": "city in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/0hzgf"
+        "freebase_id": "/m/0hzgf",
+        "lat": 61.498055555,
+        "lng": 23.76
     },
     {
         "wikidata_id": "Q939771",
         "name": "Kuhmo",
         "description": "town in the region of Kainuu in Finland",
-        "freebase_id": "/m/03bzgj"
+        "freebase_id": "/m/03bzgj",
+        "lat": 64.127777777,
+        "lng": 29.518055555
     },
     {
         "wikidata_id": "Q986578",
         "name": "Harjavalta",
         "description": "town in the region of Satakunta in Finland",
-        "freebase_id": "/m/03bfl2"
+        "freebase_id": "/m/03bfl2",
+        "lat": 61.313888888,
+        "lng": 22.141666666
     },
     {
         "wikidata_id": "Q125080",
         "name": "Vaasa",
         "description": "city in the region of Ostrobothnia in Finland",
-        "freebase_id": "/m/019xhk"
+        "freebase_id": "/m/019xhk",
+        "lat": 63.095833333,
+        "lng": 21.615277777
     },
     {
         "wikidata_id": "Q613701",
         "name": "Pieksämäki",
         "description": "town in the region of Southern Savonia in Finland",
-        "freebase_id": "/m/03c1ks"
+        "freebase_id": "/m/03c1ks",
+        "lat": 62.300277777,
+        "lng": 27.164166666
     },
     {
         "wikidata_id": "Q5980",
         "name": "Alajärvi",
         "description": "town in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/020m__"
+        "freebase_id": "/m/020m__",
+        "lat": 63.0,
+        "lng": 23.816666666
     },
     {
         "wikidata_id": "Q372075",
         "name": "Raisio",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03c2l9"
+        "freebase_id": "/m/03c2l9",
+        "lat": 60.486111111,
+        "lng": 22.169444444
     },
     {
         "wikidata_id": "Q735563",
         "name": "Kaarina",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03bq10"
+        "freebase_id": "/m/03bq10",
+        "lat": 60.406944444,
+        "lng": 22.372222222
     },
     {
         "wikidata_id": "Q6157",
         "name": "Seinäjoki",
         "description": "city in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/02kf89"
+        "freebase_id": "/m/02kf89",
+        "lat": 62.790277777,
+        "lng": 22.840277777
     },
     {
         "wikidata_id": "Q622592",
         "name": "Raahe",
         "description": "town in the North Ostrobothnia region, Finland",
-        "freebase_id": "/m/03c2kx"
+        "freebase_id": "/m/03c2kx",
+        "lat": 64.684722222,
+        "lng": 24.479166666
     },
     {
         "wikidata_id": "Q258447",
         "name": "Äänekoski",
         "description": "town in the region of Central Finland",
-        "freebase_id": "/m/02msj7"
+        "freebase_id": "/m/02msj7",
+        "lat": 62.6,
+        "lng": 25.725
     },
     {
         "wikidata_id": "Q742854",
         "name": "Keuruu",
         "description": "town in the region of Central Finland",
-        "freebase_id": "/m/03br07"
+        "freebase_id": "/m/03br07",
+        "lat": 62.259722222,
+        "lng": 24.706944444
     },
     {
         "wikidata_id": "Q207999",
         "name": "Kuusamo",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bzq7"
+        "freebase_id": "/m/03bzq7",
+        "lat": 65.966666666,
+        "lng": 29.183333333
     },
     {
         "wikidata_id": "Q4411170",
         "name": "Sibbesborg",
         "description": "was a medieval castle in Sipoo, Finland",
-        "freebase_id": "/m/0h6y96"
+        "freebase_id": "/m/0h6y96",
+        "lat": 60.292279,
+        "lng": 25.319489
     },
     {
         "wikidata_id": "Q953081",
         "name": "Orivesi",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/03c177"
+        "freebase_id": "/m/03c177",
+        "lat": 61.677777777,
+        "lng": 24.356944444
     },
     {
         "wikidata_id": "Q37013",
         "name": "Rauma",
         "description": "town in the region of Satakunta in Finland",
-        "freebase_id": "/m/018c6m"
+        "freebase_id": "/m/018c6m",
+        "lat": 61.116666666,
+        "lng": 21.5
     },
     {
         "wikidata_id": "Q642696",
         "name": "Jämsä",
         "description": "town in the region of Central Finland",
-        "freebase_id": "/m/03bntf"
+        "freebase_id": "/m/03bntf",
+        "lat": 61.863888888,
+        "lng": 25.190277777
     },
     {
         "wikidata_id": "Q11867917",
         "name": "Junkarsborg",
         "description": "island in Raseborg, Finland",
-        "freebase_id": "/m/0brtbz"
+        "freebase_id": "/m/0brtbz",
+        "lat": 60.153344,
+        "lng": 23.786004
     },
     {
         "wikidata_id": "Q990548",
         "name": "Juankoski",
         "description": "former town and municipality of Finland, now part of Kuopio",
-        "freebase_id": "/m/03bnqr"
+        "freebase_id": "/m/03bnqr",
+        "lat": 63.063888888,
+        "lng": 28.327777777
     },
     {
         "wikidata_id": "Q316211",
         "name": "Haapajärvi",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bfc9"
+        "freebase_id": "/m/03bfc9",
+        "lat": 63.748611111,
+        "lng": 25.318055555
     },
     {
         "wikidata_id": "Q748513",
         "name": "Loviisa",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/01nlz3"
+        "freebase_id": "/m/01nlz3",
+        "lat": 60.456944444,
+        "lng": 26.225
     },
     {
         "wikidata_id": "Q530309",
         "name": "Karkkila",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/03bqcm"
+        "freebase_id": "/m/03bqcm",
+        "lat": 60.534722222,
+        "lng": 24.209722222
     },
     {
         "wikidata_id": "Q162279",
         "name": "Kuopio",
         "description": "city in the region of Northern Savonia in Finland",
-        "freebase_id": "/m/01shkv"
+        "freebase_id": "/m/01shkv",
+        "lat": 62.8925,
+        "lng": 27.678333333
     },
     {
         "wikidata_id": "Q633371",
         "name": "Raseborg",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/02pskmv"
+        "freebase_id": "/m/02pskmv",
+        "lat": 59.975,
+        "lng": 23.436111111
     },
     {
         "wikidata_id": "Q165285",
         "name": "Huittinen",
         "description": "town in the region of Satakunta in Finland",
-        "freebase_id": "/m/03183n"
+        "freebase_id": "/m/03183n",
+        "lat": 61.176388888,
+        "lng": 22.698611111
     },
     {
         "wikidata_id": "Q247128",
         "name": "Ulvila",
         "description": "town in the region of Satakunta in Finland",
-        "freebase_id": "/m/03c4cb"
+        "freebase_id": "/m/03c4cb",
+        "lat": 61.4325,
+        "lng": 21.8825
     },
     {
         "wikidata_id": "Q915420",
         "name": "Loimaa",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03b_d5"
+        "freebase_id": "/m/03b_d5",
+        "lat": 60.85,
+        "lng": 23.058333333
     },
     {
         "wikidata_id": "Q939701",
         "name": "Orimattila",
         "description": "town in the region of Päijänne Tavastia in Finland",
-        "freebase_id": "/m/03c164"
+        "freebase_id": "/m/03c164",
+        "lat": 60.804166666,
+        "lng": 25.733333333
     },
     {
         "wikidata_id": "Q127623",
         "name": "Vantaa",
         "description": "city in the region of Uusimaa in Finland",
-        "freebase_id": "/m/0blf3"
+        "freebase_id": "/m/0blf3",
+        "lat": 60.294444444,
+        "lng": 25.040277777
     },
     {
         "wikidata_id": "Q5992",
         "name": "Kauhajoki",
         "description": "town in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bqfv"
+        "freebase_id": "/m/03bqfv",
+        "lat": 62.423611111,
+        "lng": 22.176388888
     },
     {
         "wikidata_id": "Q608752",
         "name": "Lieksa",
         "description": "town in the region of North Karelia in Finland",
-        "freebase_id": "/m/03b_9z"
+        "freebase_id": "/m/03b_9z",
+        "lat": 63.318055555,
+        "lng": 30.025
     },
     {
         "wikidata_id": "Q413747",
         "name": "Akaa",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/027j7zw"
+        "freebase_id": "/m/027j7zw",
+        "lat": 61.166666666,
+        "lng": 23.868055555
     },
     {
         "wikidata_id": "Q214777",
         "name": "Lohja",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/03b_m3"
+        "freebase_id": "/m/03b_m3",
+        "lat": 60.25,
+        "lng": 24.066666666
     },
     {
         "wikidata_id": "Q735133",
         "name": "Ikaalinen",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/030tv4"
+        "freebase_id": "/m/030tv4",
+        "lat": 61.769444444,
+        "lng": 23.068055555
     },
     {
         "wikidata_id": "Q202158",
         "name": "Hämeenlinna",
         "description": "city in the region of Kanta-Häme in Finland",
-        "freebase_id": "/m/01ndyr"
+        "freebase_id": "/m/01ndyr",
+        "lat": 60.994444444,
+        "lng": 24.466666666
     },
     {
         "wikidata_id": "Q986322",
         "name": "Kangasala",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/0hdvr"
+        "freebase_id": "/m/0hdvr",
+        "lat": 61.463889,
+        "lng": 24.065
     },
     {
         "wikidata_id": "Q935847",
         "name": "Viitasaari",
         "description": "town in the region of Central Finland",
-        "freebase_id": "/m/03c4rp"
+        "freebase_id": "/m/03c4rp",
+        "lat": 63.075,
+        "lng": 25.859722222
     },
     {
         "wikidata_id": "Q192870",
         "name": "Nokia",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/01gnt0"
+        "freebase_id": "/m/01gnt0",
+        "lat": 61.476666666,
+        "lng": 23.505277777
     },
     {
         "wikidata_id": "Q211020",
         "name": "Imatra",
         "description": "town in the region of South Karelia in Finland",
-        "freebase_id": "/m/01g61f"
+        "freebase_id": "/m/01g61f",
+        "lat": 61.193055555,
+        "lng": 28.776388888
     },
     {
         "wikidata_id": "Q5981",
         "name": "Alavus",
         "description": "town in the region of South Ostrobothnia in Finland",
-        "freebase_id": "/m/020q18"
+        "freebase_id": "/m/020q18",
+        "lat": 62.586111111,
+        "lng": 23.619444444
     },
     {
         "wikidata_id": "Q181854",
         "name": "Lappeenranta",
         "description": "city in the region of South Karelia in Finland",
-        "freebase_id": "/m/01lhf7"
+        "freebase_id": "/m/01lhf7",
+        "lat": 61.058333333,
+        "lng": 28.186111111
     },
     {
         "wikidata_id": "Q2558854",
         "name": "Lintula Holy Trinity Convent",
         "description": "convent in Heinävesi, Finland",
-        "freebase_id": "/m/03cbd_4"
+        "freebase_id": "/m/03cbd_4",
+        "lat": 62.571111111,
+        "lng": 28.591666666
     },
     {
         "wikidata_id": "Q829842",
         "name": "Forssa",
         "description": "town in the region of Kanta-Häme, Finland",
-        "freebase_id": "/m/021bcg"
+        "freebase_id": "/m/021bcg",
+        "lat": 60.813888888,
+        "lng": 23.622222222
     },
     {
         "wikidata_id": "Q322126",
         "name": "Valkeakoski",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/02p3vb"
+        "freebase_id": "/m/02p3vb",
+        "lat": 61.266666666,
+        "lng": 24.030555555
     },
     {
         "wikidata_id": "Q11890113",
         "name": "Rapola Castle",
         "description": "hillfort in Valkeakoski, Finland",
-        "freebase_id": "/m/026t68y"
+        "freebase_id": "/m/026t68y",
+        "lat": 61.205786,
+        "lng": 24.056611
     },
     {
         "wikidata_id": "Q491603",
         "name": "Kitee",
         "description": "town in the region of North Karelia in Finland",
-        "freebase_id": "/m/03byx_"
+        "freebase_id": "/m/03byx_",
+        "lat": 62.098611111,
+        "lng": 30.1375
     },
     {
         "wikidata_id": "Q990569",
         "name": "Kankaanpää",
         "description": "town in the region of Satakunta in Finland",
-        "freebase_id": "/m/0262p2"
+        "freebase_id": "/m/0262p2",
+        "lat": 61.804166666,
+        "lng": 22.394444444
     },
     {
         "wikidata_id": "Q6016",
         "name": "Kurikka",
         "description": "town in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/03bzmz"
+        "freebase_id": "/m/03bzmz",
+        "lat": 62.616666666,
+        "lng": 22.4
     },
     {
         "wikidata_id": "Q207891",
         "name": "Kokkola",
         "description": "town in the region of Central Ostrobothnia in Finland",
-        "freebase_id": "/m/0ktxm"
+        "freebase_id": "/m/0ktxm",
+        "lat": 63.8375831,
+        "lng": 23.1319617
     },
     {
         "wikidata_id": "Q849934",
         "name": "Heinola",
         "description": "town in the region of Päijänne Tavastia in Finland",
-        "freebase_id": "/m/01g60q"
+        "freebase_id": "/m/01g60q",
+        "lat": 61.2052356,
+        "lng": 26.0348412
     },
     {
         "wikidata_id": "Q259636",
         "name": "Suonenjoki",
         "description": "town in the region of Northern Savonia in Finland",
-        "freebase_id": "/m/03c3v_"
+        "freebase_id": "/m/03c3v_",
+        "lat": 62.625,
+        "lng": 27.122222222
     },
     {
         "wikidata_id": "Q985458",
         "name": "Nivala",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03c112"
+        "freebase_id": "/m/03c112",
+        "lat": 63.929166666,
+        "lng": 24.977777777
     },
     {
         "wikidata_id": "Q1679567",
         "name": "Jakobstad",
         "description": "town in the region of Ostrobothnia in Finland",
-        "freebase_id": "/m/01__94"
+        "freebase_id": "/m/01__94",
+        "lat": 63.666666666,
+        "lng": 22.7
     },
     {
         "wikidata_id": "Q938820",
         "name": "Virrat",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/03c4tt"
+        "freebase_id": "/m/03c4tt",
+        "lat": 62.240277777,
+        "lng": 23.770833333
     },
     {
         "wikidata_id": "Q207295",
         "name": "Uusikaupunki",
         "description": "town in the region of Southwest Finland, Finland",
-        "freebase_id": "/m/03c4gl"
+        "freebase_id": "/m/03c4gl",
+        "lat": 60.8,
+        "lng": 21.409722222
     },
     {
         "wikidata_id": "Q683525",
         "name": "Varkaus",
         "description": "town in the region of Northern Savonia in Finland",
-        "freebase_id": "/m/03c4kz"
+        "freebase_id": "/m/03c4kz",
+        "lat": 62.313888888,
+        "lng": 27.893055555
     },
     {
         "wikidata_id": "Q193180",
         "name": "Kajaani",
         "description": "town in the region of Kainuu in Finland",
-        "freebase_id": "/m/021bdx"
+        "freebase_id": "/m/021bdx",
+        "lat": 64.225,
+        "lng": 27.733333333
     },
     {
         "wikidata_id": "Q664599",
         "name": "Nykarleby",
         "description": "town in the region of Ostrobothnia in Finland",
-        "freebase_id": "/m/01p46_"
+        "freebase_id": "/m/01p46_",
+        "lat": 63.516666666,
+        "lng": 22.533333333
     },
     {
         "wikidata_id": "Q830009",
         "name": "Alatornio",
         "description": "former municipality of Finland, now part of Tornio",
-        "freebase_id": "/m/011cbch5"
+        "freebase_id": "/m/011cbch5",
+        "lat": 65.8251634,
+        "lng": 24.1772581
     },
     {
         "wikidata_id": "Q47048",
         "name": "Oulu",
         "description": "city in the North Ostrobothnia region, Finland",
-        "freebase_id": "/m/01dnlr"
+        "freebase_id": "/m/01dnlr",
+        "lat": 65.014166666,
+        "lng": 25.471944444
     },
     {
         "wikidata_id": "Q543800",
         "name": "Ylöjärvi",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/030tk7"
+        "freebase_id": "/m/030tk7",
+        "lat": 61.55,
+        "lng": 23.583333333
     },
     {
         "wikidata_id": "Q748533",
         "name": "Iisalmi",
         "description": "town in the region of Northern Savonia in Finland",
-        "freebase_id": "/m/03bnbg"
+        "freebase_id": "/m/03bnbg",
+        "lat": 63.556666666,
+        "lng": 27.188333333
     },
     {
         "wikidata_id": "Q985459",
         "name": "Oulainen",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03c17m"
+        "freebase_id": "/m/03c17m",
+        "lat": 64.266666666,
+        "lng": 24.816666666
     },
     {
         "wikidata_id": "Q912952",
         "name": "Pudasjärvi",
         "description": "town in the region of Northern Ostrobothnia in Finland",
-        "freebase_id": "/m/03c1vv"
+        "freebase_id": "/m/03c1vv",
+        "lat": 65.359722222,
+        "lng": 26.997222222
     },
     {
         "wikidata_id": "Q204382",
         "name": "Kouvola",
         "description": "city in the region of Kymenlaakso in Finland",
-        "freebase_id": "/m/021tgg"
+        "freebase_id": "/m/021tgg",
+        "lat": 60.868055555,
+        "lng": 26.704166666
     },
     {
         "wikidata_id": "Q1016922",
         "name": "Mänttä-Vilppula",
         "description": "town in the region of Pirkanmaa in Finland",
-        "freebase_id": "/m/05h1s28"
+        "freebase_id": "/m/05h1s28",
+        "lat": 62.033333333,
+        "lng": 24.616666666
     },
     {
         "wikidata_id": "Q6023",
         "name": "Lapua",
         "description": "town in the region of Southern Ostrobothnia in Finland",
-        "freebase_id": "/m/03b_3s"
+        "freebase_id": "/m/03b_3s",
+        "lat": 62.97,
+        "lng": 23.006944444
     },
     {
         "wikidata_id": "Q208293",
         "name": "Järvenpää",
         "description": "city in the region of Uusimaa in Finland",
-        "freebase_id": "/m/03bnw6"
+        "freebase_id": "/m/03bnw6",
+        "lat": 60.472222222,
+        "lng": 25.088888888
     },
     {
         "wikidata_id": "Q216790",
         "name": "Hanko",
         "description": "town in the region of Uusimaa in Finland",
-        "freebase_id": "/m/01byfl"
+        "freebase_id": "/m/01byfl",
+        "lat": 59.823611111,
+        "lng": 22.968055555
     },
     {
         "wikidata_id": "Q1735037",
         "name": "Kaskinen",
         "description": "town in the region of Ostrobothnia in Finland",
-        "freebase_id": "/m/03bqf2"
+        "freebase_id": "/m/03bqf2",
+        "lat": 62.384722222,
+        "lng": 21.222222222
     }
 ]

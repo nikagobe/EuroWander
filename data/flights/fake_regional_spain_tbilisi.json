@@ -1,0 +1,410 @@
+{
+  "search_metadata": { "id": "fake_regional_spain_tbilisi", "status": "Success", "total_time_taken": 1.0 },
+  "search_parameters": {
+    "engine": "google_flights", "hl": "en", "gl": "us", "type": "2",
+    "departure_id": "/m/07y_p,/m/01f62,/m/0947l,/m/05qtj,/m/04llb",
+    "arrival_id": "/m/0bm4j",
+    "outbound_date": "2026-06-15",
+    "currency": "EUR"
+  },
+  "best_flights": [],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "EuroAirport Basel-Mulhouse-Freiburg", "id": "BSL", "time": "2026-06-15 11:45" },
+          "arrival_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 15:45" },
+          "duration": 180, "airplane": "Boeing 737MAX 8 Passenger", "airline": "AJet",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VF.png",
+          "travel_class": "Economy", "flight_number": "VF 106", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 21:45" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 01:05" },
+          "duration": 140, "airplane": "Airbus A321neo", "airline": "AJet",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VF.png",
+          "travel_class": "Economy", "flight_number": "VF 225", "legroom": "30 in", "extensions": []
+        }
+      ],
+      "total_duration": 680, "price": 119, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VF.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZ3RXUmpFd05ueFdSakl5TlJvS0NLZGNFQUlhQTBWVlVqZ2NjS1JyIixbWyJCU0wiLCIyMDI2LTA2LTE1IiwiU0FXIixudWxsLCJWRiIsIjEwNiJdLFsiU0FXIiwiMjAyNi0wNi0xNSIsIlRCUyIsbnVsbCwiVkYiLCIyMjUiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "EuroAirport Basel-Mulhouse-Freiburg", "id": "BSL", "time": "2026-06-15 13:55" },
+          "arrival_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 17:50" },
+          "duration": 175, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 940", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-16 01:25" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 04:35" },
+          "duration": 130, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 314", "legroom": "28 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 760, "price": 148, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZ3RRUXprME1IeFFRek14TkJvS0NNZHpFQUlhQTBWVlVqZ2NjS2FHQVE9PSIsW1siQlNMIiwiMjAyNi0wNi0xNSIsIlNBVyIsbnVsbCwiUEMiLCI5NDAiXSxbIlNBVyIsIjIwMjYtMDYtMTYiLCJUQlMiLG51bGwsIlBDIiwiMzE0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Alicante-Elche Miguel Hernández Airport", "id": "ALC", "time": "2026-06-15 21:05" },
+          "arrival_airport": { "name": "Belgrade Nikola Tesla Airport", "id": "BEG", "time": "2026-06-15 23:50" },
+          "duration": 165, "airplane": "Airbus A320", "airline": "Air Serbia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+          "travel_class": "Economy", "flight_number": "JU 587", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Belgrade Nikola Tesla Airport", "id": "BEG", "time": "2026-06-17 08:25" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-17 13:20" },
+          "duration": 175, "airplane": "Airbus A319", "airline": "Air Serbia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+          "travel_class": "Economy", "flight_number": "JU 890", "legroom": "30 in", "extensions": []
+        }
+      ],
+      "total_duration": 2295, "price": 150, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUzNOalNIRk9la3hwY0dOQlJHRjNSVUZDUnkwdExTMHRMWFozYUdReE55MXVNVUZCUVVGQlIyOUhOMUJqVG1VdFIydEJFZ3RLVlRVNE4zeEtWVGc1TUJvS0NQVjBFQUlhQTBWVlVqZ2NjUENIQVE9PSIsW1siQUxDIiwiMjAyNi0wNi0xNSIsIkJFRyIsbnVsbCwiSlUiLCI1ODciXSxbIkJFRyIsIjIwMjYtMDYtMTciLCJUQlMiLG51bGwsIkpVIiwiODkwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Charles de Gaulle Airport", "id": "CDG", "time": "2026-06-15 21:20" },
+          "arrival_airport": { "name": "Athens International Airport \"Eleftherios Venizelos\"", "id": "ATH", "time": "2026-06-16 01:25" },
+          "duration": 185, "airplane": "Airbus A321neo", "airline": "Aegean",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/A3.png",
+          "travel_class": "Economy", "flight_number": "A3 615", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Athens International Airport \"Eleftherios Venizelos\"", "id": "ATH", "time": "2026-06-17 00:05" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-17 03:45" },
+          "duration": 160, "airplane": "Airbus A320neo", "airline": "Aegean",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/A3.png",
+          "travel_class": "Economy", "flight_number": "A3 896", "legroom": "28 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 1705, "price": 152, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/A3.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJVlZjdFVVeG1WV3RXUjFsQlJscGlhVkZDUnkwdExTMHRMUzB0TFc5NVltc3hOa0ZCUVVGQlIyOUhOMUJuU3kwNGVGRkJFZ3RCTXpZeE5YeEJNemc1TmhvS0NMZDJFQUlhQTBWVlVqZ2NjTktKQVE9PSIsW1siQ0RHIiwiMjAyNi0wNi0xNSIsIkFUSCIsbnVsbCwiQTMiLCI2MTUiXSxbIkFUSCIsIjIwMjYtMDYtMTciLCJUQlMiLG51bGwsIkEzIiwiODk2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "EuroAirport Basel-Mulhouse-Freiburg", "id": "BSL", "time": "2026-06-15 13:55" },
+          "arrival_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 17:50" },
+          "duration": 175, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 940", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 22:30" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 01:40" },
+          "duration": 130, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 318", "legroom": "28 in", "extensions": []
+        }
+      ],
+      "total_duration": 585, "price": 158, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZ3RRUXprME1IeFFRek14T0JvS0NKOTdFQUlhQTBWVlVqZ2NjSjZQQVE9PSIsW1siQlNMIiwiMjAyNi0wNi0xNSIsIlNBVyIsbnVsbCwiUEMiLCI5NDAiXSxbIlNBVyIsIjIwMjYtMDYtMTUiLCJUQlMiLG51bGwsIlBDIiwiMzE4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "EuroAirport Basel-Mulhouse-Freiburg", "id": "BSL", "time": "2026-06-15 18:05" },
+          "arrival_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 22:00" },
+          "duration": 175, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 942", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-16 01:25" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 04:35" },
+          "duration": 130, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 314", "legroom": "28 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 510, "price": 158, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZ3RRUXprME1ueFFRek14TkJvS0NKOTdFQUlhQTBWVlVqZ2NjSjZQQVE9PSIsW1siQlNMIiwiMjAyNi0wNi0xNSIsIlNBVyIsbnVsbCwiUEMiLCI5NDIiXSxbIlNBVyIsIjIwMjYtMDYtMTYiLCJUQlMiLG51bGwsIlBDIiwiMzE0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Adolfo Suárez Madrid-Barajas Airport", "id": "MAD", "time": "2026-06-15 14:30" },
+          "arrival_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 19:40" },
+          "duration": 250, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 1100", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 22:30" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 01:40" },
+          "duration": 130, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 318", "legroom": "28 in", "extensions": []
+        }
+      ],
+      "total_duration": 550, "price": 164, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUzNOalNIRk9la3hwY0dOQlJHRjNSVUZDUnkwdExTMHRMWFozYUdReE55MXVNVUZCUVVGQlIyOUhOMUJqVG1VdFIydEJFZ3hRUXpFeE1EQjhVRU16TVRnYUNnaldmeEFDR2dORlZWSTRISEN4bEFFPSIsW1siTUFEIiwiMjAyNi0wNi0xNSIsIlNBVyIsbnVsbCwiUEMiLCIxMTAwIl0sWyJTQVciLCIyMDI2LTA2LTE1IiwiVEJTIixudWxsLCJQQyIsIjMxOCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 20:35" },
+          "arrival_airport": { "name": "Belgrade Nikola Tesla Airport", "id": "BEG", "time": "2026-06-15 23:10" },
+          "duration": 155, "airplane": "Airbus A320", "airline": "Air Serbia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+          "travel_class": "Economy", "flight_number": "JU 585", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Belgrade Nikola Tesla Airport", "id": "BEG", "time": "2026-06-17 08:25" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-17 13:20" },
+          "duration": 175, "airplane": "Airbus A319", "airline": "Air Serbia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+          "travel_class": "Economy", "flight_number": "JU 890", "legroom": "30 in", "extensions": []
+        }
+      ],
+      "total_duration": 2325, "price": 170, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUzNOalNIRk9la3hwY0dOQlJHRjNSVUZDUnkwdExTMHRMWFozYUdReE55MXVNVUZCUVVGQlIyOUhOMUJqVG1VdFIydEJFZ3RLVlRVNE5YeEtWVGc1TUJvTENOMkVBUkFDR2dORlZWSTRISENobWdFPSIsW1siQkNOIiwiMjAyNi0wNi0xNSIsIkJFRyIsbnVsbCwiSlUiLCI1ODUiXSxbIkJFRyIsIjIwMjYtMDYtMTciLCJUQlMiLG51bGwsIkpVIiwiODkwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Marseille Provence Airport", "id": "MRS", "time": "2026-06-15 16:20" },
+          "arrival_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 20:25" },
+          "duration": 185, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 1126", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Sabiha Gökçen International Airport", "id": "SAW", "time": "2026-06-15 22:30" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 01:40" },
+          "duration": 130, "airplane": "Airbus A321", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 318", "legroom": "28 in", "extensions": []
+        }
+      ],
+      "total_duration": 440, "price": 170, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJVlZjdFVVeG1WV3RXUjFsQlJscGlhVkZDUnkwdExTMHRMUzB0TFc5NVltc3hOa0ZCUVVGQlIyOUhOMUJuU3kwNGVGRkJFZ3hRUXpFeE1qWjhVRU16TVRnYUN3aWRoQUVRQWhvRFJWVlNPQnh3MXBrQiIsW1siTVJTIiwiMjAyNi0wNi0xNSIsIlNBVyIsbnVsbCwiUEMiLCIxMTI2Il0sWyJTQVciLCIyMDI2LTA2LTE1IiwiVEJTIixudWxsLCJQQyIsIjMxOCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "EuroAirport Basel-Mulhouse-Freiburg", "id": "BSL", "time": "2026-06-15 19:35" },
+          "arrival_airport": { "name": "Antalya Airport", "id": "AYT", "time": "2026-06-15 23:50" },
+          "duration": 195, "airplane": "Airbus A320", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 5054", "legroom": "28 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Antalya Airport", "id": "AYT", "time": "2026-06-16 03:40" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 06:45" },
+          "duration": 125, "airplane": "Airbus A320", "airline": "Pegasus",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+          "travel_class": "Economy", "flight_number": "PC 1840", "legroom": "28 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 550, "price": 171, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PC.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZzFRUXpVd05UUjhVRU14T0RRd0dnc0l3SVVCRUFJYUEwVlZVamdjY0pTYkFRPT0iLFtbIkJTTCIsIjIwMjYtMDYtMTUiLCJBWVQiLG51bGwsIlBDIiwiNTA1NCJdLFsiQVlUIiwiMjAyNi0wNi0xNiIsIlRCUyIsbnVsbCwiUEMiLCIxODQwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Nice Côte d'Azur Airport", "id": "NCE", "time": "2026-06-15 10:40" },
+          "arrival_airport": { "name": "Warsaw Frederic Chopin", "id": "WAW", "time": "2026-06-15 13:00" },
+          "duration": 140, "airplane": "Boeing 737MAX 8 Passenger", "airline": "LOT",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LO.png",
+          "travel_class": "Economy", "flight_number": "LO 342", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Warsaw Frederic Chopin", "id": "WAW", "time": "2026-06-15 22:45" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 04:25" },
+          "duration": 220, "airplane": "Boeing 737", "airline": "LOT",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LO.png",
+          "travel_class": "Economy", "flight_number": "LO 725", "legroom": "30 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 945, "price": 184, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LO.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZ3RNVHpNME1ueE1UemN5TlJvTENMMlBBUkFDR2dORlZWSTRISERncGdFPSIsW1siTkNFIiwiMjAyNi0wNi0xNSIsIldBVyIsbnVsbCwiTE8iLCIzNDIiXSxbIldBVyIsIjIwMjYtMDYtMTUiLCJUQlMiLG51bGwsIkxPIiwiNzI1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Charles de Gaulle Airport", "id": "CDG", "time": "2026-06-15 07:05" },
+          "arrival_airport": { "name": "Warsaw Frederic Chopin", "id": "WAW", "time": "2026-06-15 09:25" },
+          "duration": 140, "airplane": "Boeing 737", "airline": "LOT",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LO.png",
+          "travel_class": "Economy", "flight_number": "LO 334", "legroom": "30 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Warsaw Frederic Chopin", "id": "WAW", "time": "2026-06-15 22:45" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 04:25" },
+          "duration": 220, "airplane": "Boeing 737", "airline": "LOT",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LO.png",
+          "travel_class": "Economy", "flight_number": "LO 725", "legroom": "30 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 1160, "price": 207, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LO.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJVlZjdFVVeG1WV3RXUjFsQlJscGlhVkZDUnkwdExTMHRMUzB0TFc5NVltc3hOa0ZCUVVGQlIyOUhOMUJuU3kwNGVGRkJFZ3RNVHpNek5IeE1UemN5TlJvTENLZWhBUkFDR2dORlZWSTRISEM4dXdFPSIsW1siQ0RHIiwiMjAyNi0wNi0xNSIsIldBVyIsbnVsbCwiTE8iLCIzMzQiXSxbIldBVyIsIjIwMjYtMDYtMTUiLCJUQlMiLG51bGwsIkxPIiwiNzI1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Francisco Sá Carneiro Airport", "id": "OPO", "time": "2026-06-15 19:20" },
+          "arrival_airport": { "name": "Zurich Airport", "id": "ZRH", "time": "2026-06-15 22:50" },
+          "duration": 150, "airplane": "Airbus A321", "airline": "SWISS",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+          "travel_class": "Economy", "flight_number": "LX 2065", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Zurich Airport", "id": "ZRH", "time": "2026-06-16 22:45" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-17 05:00" },
+          "duration": 255, "airplane": "Airbus A320", "airline": "Edelweiss Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WK.png",
+          "travel_class": "Economy", "flight_number": "WK 170", "legroom": "30 in",
+          "overnight": true, "extensions": []
+        }
+      ],
+      "total_duration": 1840, "price": 212, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUTBOR2VuSk1MVWM0VnpoQlEwNDVja0ZDUnkwdExTMHRMUzB0Y0daaWFuY3lNa0ZCUVVGQlIyOUhOMUJyU0dVM2VUSkJFZ3hNV0RJd05qVjhWMHN4TnpBYUN3akVwVUVRQWhvRFJWVlNPQnh3c2NBQiIsW1siT1BPIiwiMjAyNi0wNi0xNSIsIlpSSCIsbnVsbCwiTFgiLCIyMDY1Il0sWyJaUkgiLCIyMDI2LTA2LTE2IiwiVEJTIixudWxsLCJXSyIsIjE3MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 20:50" },
+          "arrival_airport": { "name": "Zvartnots International Airport", "id": "EVN", "time": "2026-06-16 03:30" },
+          "duration": 280, "airplane": "Airbus A320", "airline": "FLYONE Armenia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/3F.png",
+          "travel_class": "Economy", "flight_number": "3F 232", "legroom": "",
+          "overnight": true, "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Zvartnots International Airport", "id": "EVN", "time": "2026-06-16 11:00" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-16 11:40" },
+          "duration": 40, "airplane": "Airbus A320", "airline": "FLYONE Armenia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/3F.png",
+          "travel_class": "Economy", "flight_number": "3F 583", "legroom": "", "extensions": []
+        }
+      ],
+      "total_duration": 770, "price": 220, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/3F.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUzNOalNIRk9la3hwY0dOQlJHRjNSVUZDUnkwdExTMHRMWFozYUdReE55MXVNVUZCUVVGQlIyOUhOMUJqVG1VdFIydEJFZ3N6UmpJek1ud3pSalU0TXhvTENQQ3JBUkFDR2dORlZWSTRISERoeHdFPSIsW1siQkNOIiwiMjAyNi0wNi0xNSIsIkVWTiIsbnVsbCwiM0YiLCIyMzIiXSxbIkVWTiIsIjIwMjYtMDYtMTYiLCJUQlMiLG51bGwsIjNGIiwiNTgzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Humberto Delgado Airport", "id": "LIS", "time": "2026-06-15 05:00" },
+          "arrival_airport": { "name": "Amsterdam Airport Schiphol", "id": "AMS", "time": "2026-06-15 08:55" },
+          "duration": 175, "airplane": "Airbus A321neo", "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy", "flight_number": "KL 1578", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Amsterdam Airport Schiphol", "id": "AMS", "time": "2026-06-15 10:40" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-15 17:15" },
+          "duration": 275, "airplane": "Boeing 737", "airline": "Georgian Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/A9.png",
+          "travel_class": "Economy", "flight_number": "A9 652", "legroom": "30 in", "extensions": []
+        }
+      ],
+      "total_duration": 555, "price": 229, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUTBOR2VuSk1MVWM0VnpoQlEwNDVja0ZDUnkwdExTMHRMUzB0Y0daaWFuY3lNa0ZCUVVGQlIyOUhOMUJyU0dVM2VUSkJFZ3hMVERFMU56aDhRVGsyTlRJYUN3akxzZ0VRQWhvRFJWVlNPQnh3eDg4QiIsW1siTElTIiwiMjAyNi0wNi0xNSIsIkFNUyIsbnVsbCwiS0wiLCIxNTc4Il0sWyJBTVMiLCIyMDI2LTA2LTE1IiwiVEJTIixudWxsLCJBOSIsIjY1MiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "EuroAirport Basel-Mulhouse-Freiburg", "id": "BSL", "time": "2026-06-15 06:30" },
+          "arrival_airport": { "name": "Amsterdam Airport Schiphol", "id": "AMS", "time": "2026-06-15 08:00" },
+          "duration": 90, "airplane": "Embraer 190", "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy", "flight_number": "KL 1942", "legroom": "31 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Amsterdam Airport Schiphol", "id": "AMS", "time": "2026-06-15 10:40" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-15 17:15" },
+          "duration": 275, "airplane": "Boeing 737", "airline": "Georgian Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/A9.png",
+          "travel_class": "Economy", "flight_number": "A9 652", "legroom": "30 in", "extensions": []
+        }
+      ],
+      "total_duration": 525, "price": 243, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJY0ZadVIwZHlXa295YkVsQlFqQnVRWGRDUnkwdExTMHRMUzB0TFMxd2FtWm1ORUZCUVVGQlIyOUhOMUJuVGtabmNHRkJFZ3hMVERFNU5ESjhRVGsyTlRJYUN3am12UUVRQWhvRFJWVlNPQnh3eTl3QiIsW1siQlNMIiwiMjAyNi0wNi0xNSIsIkFNUyIsbnVsbCwiS0wiLCIxOTQyIl0sWyJBTVMiLCIyMDI2LTA2LTE1IiwiVEJTIixudWxsLCJBOSIsIjY1MiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 09:55" },
+          "arrival_airport": { "name": "Belgrade Nikola Tesla Airport", "id": "BEG", "time": "2026-06-15 12:30" },
+          "duration": 155, "airplane": "Airbus A320", "airline": "Air Serbia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+          "travel_class": "Economy", "flight_number": "JU 581", "legroom": "29 in", "extensions": []
+        },
+        {
+          "departure_airport": { "name": "Belgrade Nikola Tesla Airport", "id": "BEG", "time": "2026-06-15 13:25" },
+          "arrival_airport": { "name": "Tbilisi International Airport", "id": "TBS", "time": "2026-06-15 18:20" },
+          "duration": 175, "airplane": "Airbus A319", "airline": "Air Serbia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+          "travel_class": "Economy", "flight_number": "JU 890", "legroom": "30 in", "extensions": []
+        }
+      ],
+      "total_duration": 385, "price": 245, "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JU.png",
+      "extensions": ["Checked baggage for a fee"],
+      "booking_token": "WyJDalJJUzNOalNIRk9la3hwY0dOQlJHRjNSVUZDUnkwdExTMHRMWFozYUdReE55MXVNVUZCUVVGQlIyOUhOMUJqVG1VdFIydEJFZ3RLVlRVNE1YeEtWVGc1TUJvTENOUytBUkFDR2dORlZWSTRISERMM1FFPSIsW1siQkNOIiwiMjAyNi0wNi0xNSIsIkJFRyIsbnVsbCwiSlUiLCI1ODEiXSxbIkJFRyIsIjIwMjYtMDYtMTUiLCJUQlMiLG51bGwsIkpVIiwiODkwIl1dXQ=="
+    }
+  ],
+  "airports": [
+    {
+      "departure": [
+        { "airport": { "id": "/m/07y_p", "name": "Madrid" }, "city": "Madrid", "country": "Spain", "country_code": "ES" },
+        { "airport": { "id": "/m/01f62", "name": "Barcelona" }, "city": "Barcelona", "country": "Spain", "country_code": "ES" },
+        { "airport": { "id": "/m/0947l", "name": "Milan" }, "city": "Milan", "country": "Italy", "country_code": "IT" },
+        { "airport": { "id": "/m/05qtj", "name": "Paris" }, "city": "Paris", "country": "France", "country_code": "FR" },
+        { "airport": { "id": "/m/04llb", "name": "Lisbon" }, "city": "Lisbon", "country": "Portugal", "country_code": "PT" }
+      ],
+      "arrival": [
+        { "airport": { "id": "/m/0bm4j", "name": "Tbilisi" }, "city": "Tbilisi", "country": "Georgia", "country_code": "GE" }
+      ]
+    }
+  ]
+}
+

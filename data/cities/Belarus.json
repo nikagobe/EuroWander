@@ -3,1554 +3,2072 @@
         "wikidata_id": "Q2045200",
         "name": "Partyzanski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/0c01jww"
+        "freebase_id": "/m/0c01jww",
+        "lat": 53.9043,
+        "lng": 27.7073
     },
     {
         "wikidata_id": "Q6509451",
         "name": "Litva",
         "description": "village in Liachavičy district, Belarus",
-        "freebase_id": "/m/0v39txx"
+        "freebase_id": "/m/0v39txx",
+        "lat": 53.112222222,
+        "lng": 26.153055555
     },
     {
         "wikidata_id": "Q2045165",
         "name": "Pyershamayski District",
         "description": "adiministrative subdivision of the city of Minsk, Belarus",
-        "freebase_id": "/m/0c02vhk"
+        "freebase_id": "/m/0c02vhk",
+        "lat": 53.9378,
+        "lng": 27.6633
     },
     {
         "wikidata_id": "Q154835",
         "name": "Mogilev",
         "description": "city in Belarus, capital of Mahilioŭ region, on Dniapro River",
-        "freebase_id": "/m/0159fw"
+        "freebase_id": "/m/0159fw",
+        "lat": 53.90894,
+        "lng": 30.34296
     },
     {
         "wikidata_id": "Q980500",
         "name": "Silichy",
         "description": "ski resort in Belarus",
-        "freebase_id": "/m/043qfs1"
+        "freebase_id": "/m/043qfs1",
+        "lat": 54.1566969,
+        "lng": 27.8332596
     },
     {
         "wikidata_id": "Q4399632",
         "name": "Rudnia",
         "description": "village in Brest district, Belarus",
-        "freebase_id": "/m/09gdq53"
+        "freebase_id": "/m/09gdq53",
+        "lat": 51.7375,
+        "lng": 23.675
     },
     {
         "wikidata_id": "Q16693385",
         "name": "Bujki",
         "description": "village in Miadziel district, Belarus",
-        "freebase_id": "/m/03cs1dj"
+        "freebase_id": "/m/03cs1dj",
+        "lat": 54.770944444,
+        "lng": 26.602444444
     },
     {
         "wikidata_id": "Q6533079",
         "name": "Saltaniški",
         "description": "village in Belarus",
-        "freebase_id": "/m/0cmbh3n"
+        "freebase_id": "/m/0cmbh3n",
+        "lat": 54.01666667,
+        "lng": 24.85
     },
     {
         "wikidata_id": "Q13642128",
         "name": "Paloškava",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0_x9pmt"
+        "freebase_id": "/m/0_x9pmt",
+        "lat": 53.711944444,
+        "lng": 31.943333333
     },
     {
         "wikidata_id": "Q525667",
         "name": "Grodno Ghetto",
         "description": "Nazi ghetto in occupied Poland consisting of two interconnected areas: Ghetto One and Ghetto Two (1941–1943)",
-        "freebase_id": "/m/0660lsx"
+        "freebase_id": "/m/0660lsx",
+        "lat": 53.683333333,
+        "lng": 23.833333333
     },
     {
         "wikidata_id": "Q2029657",
         "name": "Daŭhinava",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/028403_"
+        "freebase_id": "/m/028403_",
+        "lat": 54.645277777,
+        "lng": 27.477222222
     },
     {
         "wikidata_id": "Q3495455",
         "name": "Žyrmuny",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/05zl3jj"
+        "freebase_id": "/m/05zl3jj",
+        "lat": 54.022222222,
+        "lng": 25.220555555
     },
     {
         "wikidata_id": "Q6431229",
         "name": "Kapciuhi",
         "description": "human settlement in Belarus",
-        "freebase_id": "/m/052_63p"
+        "freebase_id": "/m/052_63p",
+        "lat": 54.896111111,
+        "lng": 27.947222222
     },
     {
         "wikidata_id": "Q2380854",
         "name": "Staryja Vasiliški",
         "description": "village in Belarus",
-        "freebase_id": "/m/0bh9132"
+        "freebase_id": "/m/0bh9132",
+        "lat": 53.763611111,
+        "lng": 24.828611111
     },
     {
         "wikidata_id": "Q6522701",
         "name": "Obieč",
         "description": "village in Pružany district, Belarus",
-        "freebase_id": "/m/02g69f"
+        "freebase_id": "/m/02g69f",
+        "lat": 52.43333333,
+        "lng": 24.66666667
     },
     {
         "wikidata_id": "Q6475641",
         "name": "Vosava",
         "description": "village in Minsk district, Belarus",
-        "freebase_id": "/m/02r8vkd"
+        "freebase_id": "/m/02r8vkd",
+        "lat": 54.018888888,
+        "lng": 27.500277777
     },
     {
         "wikidata_id": "Q266821",
         "name": "Kaviardziaki",
         "description": "village in Belarus",
-        "freebase_id": "/m/064lj6z"
+        "freebase_id": "/m/064lj6z",
+        "lat": 52.17722222,
+        "lng": 23.66916667
     },
     {
         "wikidata_id": "Q1527795",
         "name": "Lakhva",
         "description": "village in Belarus",
-        "freebase_id": "/m/098yjx"
+        "freebase_id": "/m/098yjx",
+        "lat": 52.218333333,
+        "lng": 27.095833333
     },
     {
         "wikidata_id": "Q204150",
         "name": "Pinsk",
         "description": "city in Brest region, Belarus",
-        "freebase_id": "/m/02g1v0"
+        "freebase_id": "/m/02g1v0",
+        "lat": 52.115277777,
+        "lng": 26.103055555
     },
     {
         "wikidata_id": "Q1022491",
         "name": "Višnieva",
         "description": "agrotown in Valožyn district, Belarus",
-        "freebase_id": "/m/03c2br8"
+        "freebase_id": "/m/03c2br8",
+        "lat": 54.140555555,
+        "lng": 26.217222222
     },
     {
         "wikidata_id": "Q2280",
         "name": "Minsk",
         "description": "capital and largest city of Belarus",
-        "freebase_id": "/m/0dlxj"
+        "freebase_id": "/m/0dlxj",
+        "lat": 53.902246,
+        "lng": 27.561837
     },
     {
         "wikidata_id": "Q2499527",
         "name": "Dzivin",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0h_9rms"
+        "freebase_id": "/m/0h_9rms",
+        "lat": 51.957777777,
+        "lng": 24.575277777
     },
     {
         "wikidata_id": "Q5289469",
         "name": "Hresk",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0j2542y"
+        "freebase_id": "/m/0j2542y",
+        "lat": 53.16888889,
+        "lng": 27.49194444
     },
     {
         "wikidata_id": "Q3569713",
         "name": "Koldichevo concentration camp",
         "description": "No description available",
-        "freebase_id": "/m/0gkyk7m"
+        "freebase_id": "/m/0gkyk7m",
+        "lat": 53.281666666,
+        "lng": 26.065
     },
     {
         "wikidata_id": "Q3917241",
         "name": "Samachvalavičy",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0bxz2pq"
+        "freebase_id": "/m/0bxz2pq",
+        "lat": 53.74083333,
+        "lng": 27.50194444
     },
     {
         "wikidata_id": "Q181376",
         "name": "Hrodna",
         "description": "city in Belarus, capital of Hrodna Region",
-        "freebase_id": "/m/0159ff"
+        "freebase_id": "/m/0159ff",
+        "lat": 53.666666666,
+        "lng": 23.816666666
     },
     {
         "wikidata_id": "Q6484633",
         "name": "Hubina",
         "description": "village in Belarus",
-        "freebase_id": "/m/0rfh1dj"
+        "freebase_id": "/m/0rfh1dj",
+        "lat": 55.040277777,
+        "lng": 28.948333333
     },
     {
         "wikidata_id": "Q2028695",
         "name": "Troitsky Markov Monastery",
         "description": "men's Orthodox monastery in Vitebsk",
-        "freebase_id": "/m/04y66z6"
+        "freebase_id": "/m/04y66z6",
+        "lat": 55.1717,
+        "lng": 30.1544
     },
     {
         "wikidata_id": "Q6510493",
         "name": "Makarava",
         "description": "agrotown in Kamieniec district, Belarus",
-        "freebase_id": "/m/0v39q63"
+        "freebase_id": "/m/0v39q63",
+        "lat": 52.3615,
+        "lng": 23.3227
     },
     {
         "wikidata_id": "Q2478326",
         "name": "Prazaroki",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0120x0s2"
+        "freebase_id": "/m/0120x0s2",
+        "lat": 55.295277777,
+        "lng": 28.218888888
     },
     {
         "wikidata_id": "Q819159",
         "name": "Bereza Kartuska prison",
         "description": "1930s Polish prison",
-        "freebase_id": "/m/025xhc8"
+        "freebase_id": "/m/025xhc8",
+        "lat": 52.531111111,
+        "lng": 24.960555555
     },
     {
         "wikidata_id": "Q2335805",
         "name": "Dzyarechyn",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0j7jsr7"
+        "freebase_id": "/m/0j7jsr7",
+        "lat": 53.246944444,
+        "lng": 24.919444444
     },
     {
         "wikidata_id": "Q6537448",
         "name": "Stročyca",
         "description": "village in Belarus",
-        "freebase_id": "/m/0g55hw4"
+        "freebase_id": "/m/0g55hw4",
+        "lat": 53.8197,
+        "lng": 27.365
     },
     {
         "wikidata_id": "Q6537513",
         "name": "Stryhaniec",
         "description": "village in Belarus",
-        "freebase_id": "/m/0rfhn6y"
+        "freebase_id": "/m/0rfhn6y",
+        "lat": 52.119722222,
+        "lng": 24.016666666
     },
     {
         "wikidata_id": "Q3918670",
         "name": "Pińsk Ghetto",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/010gmxxs"
+        "freebase_id": "/m/010gmxxs",
+        "lat": 52.116666666,
+        "lng": 26.116666666
     },
     {
         "wikidata_id": "Q2073605",
         "name": "Dublin",
         "description": "village in Belarus",
-        "freebase_id": "/m/0120xr4z"
+        "freebase_id": "/m/0120xr4z",
+        "lat": 51.735277777,
+        "lng": 30.327222222
     },
     {
         "wikidata_id": "Q21650960",
         "name": "Niežaŭka",
         "description": "human settlement in Belarus",
-        "freebase_id": "/m/0hhpr7s"
+        "freebase_id": "/m/0hhpr7s",
+        "lat": 53.842222222,
+        "lng": 28.188055555
     },
     {
         "wikidata_id": "Q21651600",
         "name": "Chmiali",
         "description": "village in Belarus",
-        "freebase_id": "/m/0v3g7mc"
+        "freebase_id": "/m/0v3g7mc",
+        "lat": 52.333055555,
+        "lng": 23.343888888
     },
     {
         "wikidata_id": "Q6514380",
         "name": "Mačulišča",
         "description": "village in Kamieniec district, Belarus",
-        "freebase_id": "/m/0v3gt54"
+        "freebase_id": "/m/0v3gt54",
+        "lat": 52.326944444,
+        "lng": 23.2675
     },
     {
         "wikidata_id": "Q2335712",
         "name": "Vitebsk Ghetto",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/06w7f5n"
+        "freebase_id": "/m/06w7f5n",
+        "lat": 55.2,
+        "lng": 30.183333333
     },
     {
         "wikidata_id": "Q3692408",
         "name": "Malaja Bierastavica",
         "description": "village in Belarus",
-        "freebase_id": "/m/04n52h0"
+        "freebase_id": "/m/04n52h0",
+        "lat": 53.286944444,
+        "lng": 23.938611111
     },
     {
         "wikidata_id": "Q3692584",
         "name": "Usieliub",
         "description": "village in Belarus",
-        "freebase_id": "/m/04yg__v"
+        "freebase_id": "/m/04yg__v",
+        "lat": 53.719166666,
+        "lng": 25.798055555
     },
     {
         "wikidata_id": "Q4874542",
         "name": "Bajkal",
         "description": "village in Talačyn District, Belarus",
-        "freebase_id": "/m/0414p9v"
+        "freebase_id": "/m/0414p9v",
+        "lat": 54.463833333,
+        "lng": 29.916888888
     },
     {
         "wikidata_id": "Q237655",
         "name": "Baranavichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/04r3ww"
+        "freebase_id": "/m/04r3ww",
+        "lat": 53.1325,
+        "lng": 26.017777777
     },
     {
         "wikidata_id": "Q4082408",
         "name": "Bielaje Voziera",
         "description": "settlement in Brest district, Belarus",
-        "freebase_id": "/m/0zwk2fp"
+        "freebase_id": "/m/0zwk2fp",
+        "lat": 51.820277777,
+        "lng": 23.701111111
     },
     {
         "wikidata_id": "Q3917357",
         "name": "Sosny",
         "description": "human settlement in Belarus",
-        "freebase_id": "/m/0267_fh"
+        "freebase_id": "/m/0267_fh",
+        "lat": 53.82625,
+        "lng": 27.77061
     },
     {
         "wikidata_id": "Q2576564",
         "name": "Slutsk Affair",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/09ggcn"
+        "freebase_id": "/m/09ggcn",
+        "lat": 53.027222,
+        "lng": 27.561944
     },
     {
         "wikidata_id": "Q4153850",
         "name": "Davydaŭka",
         "description": "village in Svietlahorsk district, Belarus",
-        "freebase_id": "/m/0130fgl5"
+        "freebase_id": "/m/0130fgl5",
+        "lat": 52.5375,
+        "lng": 29.526666666
     },
     {
         "wikidata_id": "Q487945",
         "name": "Tatarskaya Slabada",
         "description": "historical Lipka Tatar settlement in Minsk, Belarus",
-        "freebase_id": "/m/0cd93s"
+        "freebase_id": "/m/0cd93s",
+        "lat": 53.905833333,
+        "lng": 27.541111111
     },
     {
         "wikidata_id": "Q2678",
         "name": "Gomel",
         "description": "city in Belarus",
-        "freebase_id": "/m/0159dz"
+        "freebase_id": "/m/0159dz",
+        "lat": 52.441666666,
+        "lng": 30.983333333
     },
     {
         "wikidata_id": "Q2621007",
         "name": "Kreva",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/06vd3t"
+        "freebase_id": "/m/06vd3t",
+        "lat": 54.310833333,
+        "lng": 26.283333333
     },
     {
         "wikidata_id": "Q3919533",
         "name": "Hajciuniški",
         "description": "village in Belarus",
-        "freebase_id": "/m/05zyfzc"
+        "freebase_id": "/m/05zyfzc",
+        "lat": 54.25194444,
+        "lng": 25.43333333
     },
     {
         "wikidata_id": "Q21657085",
         "name": "Katera",
         "description": "village in Belarus",
-        "freebase_id": "/m/0v3gmh9"
+        "freebase_id": "/m/0v3gmh9",
+        "lat": 52.294166666,
+        "lng": 23.311666666
     },
     {
         "wikidata_id": "Q6538270",
         "name": "Lieninski",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0405drn"
+        "freebase_id": "/m/0405drn",
+        "lat": 52.16545556,
+        "lng": 24.10863889
     },
     {
         "wikidata_id": "Q102217",
         "name": "Vitebsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/0159g9"
+        "freebase_id": "/m/0159g9",
+        "lat": 55.183333333,
+        "lng": 30.166666666
     },
     {
         "wikidata_id": "Q21651597",
         "name": "Piaski",
         "description": "village in Kamieniec district, Belarus",
-        "freebase_id": "/m/0v3drn5"
+        "freebase_id": "/m/0v3drn5",
+        "lat": 52.325833333,
+        "lng": 23.385277777
     },
     {
         "wikidata_id": "Q2152309",
         "name": "Frunzyenski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/0c3_3bz"
+        "freebase_id": "/m/0c3_3bz",
+        "lat": 53.9084,
+        "lng": 27.4868
     },
     {
         "wikidata_id": "Q2152317",
         "name": "Kastrychnitski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/09gf_7w"
+        "freebase_id": "/m/09gf_7w",
+        "lat": 53.85,
+        "lng": 27.5333
     },
     {
         "wikidata_id": "Q2152301",
         "name": "Maskowski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/0b__zx5"
+        "freebase_id": "/m/0b__zx5",
+        "lat": 53.8736,
+        "lng": 27.4956
     },
     {
         "wikidata_id": "Q661254",
         "name": "Vowchyn",
         "description": "village in Belarus",
-        "freebase_id": "/m/025ygqz"
+        "freebase_id": "/m/025ygqz",
+        "lat": 52.285,
+        "lng": 23.310833333
     },
     {
         "wikidata_id": "Q1487327",
         "name": "Hančaroŭka",
         "description": "village in Babrujsk district, Belarus",
-        "freebase_id": "/m/03wfrbw"
+        "freebase_id": "/m/03wfrbw",
+        "lat": 53.168333333,
+        "lng": 29.370833333
     },
     {
         "wikidata_id": "Q13032618",
         "name": "Svislač Castle",
         "description": "former castle in Svislach, Belarus",
-        "freebase_id": "/m/0bwkfsj"
+        "freebase_id": "/m/0bwkfsj",
+        "lat": 53.4318,
+        "lng": 28.9782
     },
     {
         "wikidata_id": "Q6460761",
         "name": "Aharodniki",
         "description": "agrotown in Aharodnicki sieĺsaviet, Kamieniec district, Belarus",
-        "freebase_id": "/m/0v39sxj"
+        "freebase_id": "/m/0v39sxj",
+        "lat": 52.346944444,
+        "lng": 23.345
     },
     {
         "wikidata_id": "Q19313",
         "name": "Barysaw",
         "description": "city in Belarus",
-        "freebase_id": "/m/0393w9"
+        "freebase_id": "/m/0393w9",
+        "lat": 54.22429,
+        "lng": 28.51198
     },
     {
         "wikidata_id": "Q1025855",
         "name": "Nalibaki",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/05b47w6"
+        "freebase_id": "/m/05b47w6",
+        "lat": 53.763055555,
+        "lng": 26.475277777
     },
     {
         "wikidata_id": "Q1990060",
         "name": "Zhyrovichy Monastery",
         "description": "orthodox monastery in Belarus",
-        "freebase_id": "/m/03d3w0_"
+        "freebase_id": "/m/03d3w0_",
+        "lat": 53.014358333,
+        "lng": 25.344436111
     },
     {
         "wikidata_id": "Q1572234",
         "name": "Halshany",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/03y1v97"
+        "freebase_id": "/m/03y1v97",
+        "lat": 54.255766,
+        "lng": 26.014276
     },
     {
         "wikidata_id": "Q2500789",
         "name": "Rakaŭ",
         "description": "agrotown in Valožyn district, Belarus",
-        "freebase_id": "/m/0478vw6"
+        "freebase_id": "/m/0478vw6",
+        "lat": 53.967222222,
+        "lng": 27.056666666
     },
     {
         "wikidata_id": "Q2607478",
         "name": "Drutsk",
         "description": "historical town in Belarus",
-        "freebase_id": "/m/069rkf"
+        "freebase_id": "/m/069rkf",
+        "lat": 54.333333333,
+        "lng": 29.766666666
     },
     {
         "wikidata_id": "Q1025878",
         "name": "Stary Dziedzin",
         "description": "village in Belarus",
-        "freebase_id": "/m/0cz9c2j"
+        "freebase_id": "/m/0cz9c2j",
+        "lat": 53.763333333,
+        "lng": 32.086111111
     },
     {
         "wikidata_id": "Q2895570",
         "name": "Łachwa Ghetto",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/05s_b_h"
+        "freebase_id": "/m/05s_b_h",
+        "lat": 52.2167,
+        "lng": 27.1
     },
     {
         "wikidata_id": "Q207294",
         "name": "Babruysk",
         "description": "city in Belarus",
-        "freebase_id": "/m/021h2g"
+        "freebase_id": "/m/021h2g",
+        "lat": 53.15,
+        "lng": 29.233333333
     },
     {
         "wikidata_id": "Q1011346",
         "name": "Lunna",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/03c3vb7"
+        "freebase_id": "/m/03c3vb7",
+        "lat": 53.454722222,
+        "lng": 24.261388888
     },
     {
         "wikidata_id": "Q4272559",
         "name": "Liady",
         "description": "agrotown in Dubroŭna district, Belarus",
-        "freebase_id": "/m/0yqm95_"
+        "freebase_id": "/m/0yqm95_",
+        "lat": 54.601388888,
+        "lng": 31.169722222
     },
     {
         "wikidata_id": "Q6545068",
         "name": "Chidry",
         "description": "agrotown in Kobryn district, Belarus",
-        "freebase_id": "/m/010hng3m"
+        "freebase_id": "/m/010hng3m",
+        "lat": 52.151944444,
+        "lng": 24.367222222
     },
     {
         "wikidata_id": "Q2360251",
         "name": "Biaroza Monastery",
         "description": "former Roman Catholic monastery in Byaroza, Belarus",
-        "freebase_id": "/m/0g9x4h"
+        "freebase_id": "/m/0g9x4h",
+        "lat": 52.5319,
+        "lng": 24.9592
     },
     {
         "wikidata_id": "Q3917194",
         "name": "Puchavičy",
         "description": "agrotown in Puchavičy district, Belarus",
-        "freebase_id": "/m/09gj033"
+        "freebase_id": "/m/09gj033",
+        "lat": 53.5297,
+        "lng": 28.2467
     },
     {
         "wikidata_id": "Q20469578",
         "name": "Ziuzina",
         "description": "populated place in Belarus",
-        "freebase_id": "/m/06_xmv4"
+        "freebase_id": "/m/06_xmv4",
+        "lat": 55.512222222,
+        "lng": 28.949444444
     },
     {
         "wikidata_id": "Q42302919",
         "name": "Drazdy",
         "description": "district in Minsk, Belarus",
-        "freebase_id": "/m/03md1sr"
+        "freebase_id": "/m/03md1sr",
+        "lat": 53.947222,
+        "lng": 27.503611
     },
     {
         "wikidata_id": "Q6503163",
         "name": "Krucha",
         "description": "village in Kruhlaje district, Belarus",
-        "freebase_id": "/m/0131zfy7"
+        "freebase_id": "/m/0131zfy7",
+        "lat": 54.244083333,
+        "lng": 29.545111111
     },
     {
         "wikidata_id": "Q773891",
         "name": "Motal",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/09gr51"
+        "freebase_id": "/m/09gr51",
+        "lat": 52.315277777,
+        "lng": 25.614444444
     },
     {
         "wikidata_id": "Q2993992",
         "name": "Budslaŭ",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/058nnjh"
+        "freebase_id": "/m/058nnjh",
+        "lat": 54.783333333,
+        "lng": 27.45
     },
     {
         "wikidata_id": "Q1415346",
         "name": "Liachčycy",
         "description": "village in Kobryn district, Belarus",
-        "freebase_id": "/m/0j66pnd"
+        "freebase_id": "/m/0j66pnd",
+        "lat": 52.086944444,
+        "lng": 24.395833333
     },
     {
         "wikidata_id": "Q2648542",
         "name": "Voŭpa",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/05zn2wb"
+        "freebase_id": "/m/05zn2wb",
+        "lat": 53.368611111,
+        "lng": 24.361944444
     },
     {
         "wikidata_id": "Q4523323",
         "name": "Šastakova",
         "description": "village in Belarus",
-        "freebase_id": "/m/0vbd44n"
+        "freebase_id": "/m/0vbd44n",
+        "lat": 52.371666666,
+        "lng": 23.560833333
     },
     {
         "wikidata_id": "Q3919612",
         "name": "Uzliany",
         "description": "village in Puchavičy district, Belarus",
-        "freebase_id": "/m/02rmqvj"
+        "freebase_id": "/m/02rmqvj",
+        "lat": 53.623333333,
+        "lng": 27.714722222
     },
     {
         "wikidata_id": "Q2632629",
         "name": "Vasilishki",
         "description": "village in Belarus",
-        "freebase_id": "/m/0bh913h"
+        "freebase_id": "/m/0bh913h",
+        "lat": 53.782777777,
+        "lng": 24.848611111
     },
     {
         "wikidata_id": "Q5092585",
         "name": "Čartok",
         "description": "village in Belarus",
-        "freebase_id": "/m/080h_2t"
+        "freebase_id": "/m/080h_2t",
+        "lat": 53.86666667,
+        "lng": 23.65
     },
     {
         "wikidata_id": "Q153336",
         "name": "Minsk Ghetto",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/05s_shq"
+        "freebase_id": "/m/05s_shq",
+        "lat": 53.909786,
+        "lng": 27.542875
     },
     {
         "wikidata_id": "Q140147",
         "name": "Brest",
         "description": "city of Belarus, capital of Brest Region",
-        "freebase_id": "/m/015jsm"
+        "freebase_id": "/m/015jsm",
+        "lat": 52.084722222,
+        "lng": 23.656944444
     },
     {
         "wikidata_id": "Q4302806",
         "name": "Mormaĺ",
         "description": "village in Belarus",
-        "freebase_id": "/m/0kf7c9s"
+        "freebase_id": "/m/0kf7c9s",
+        "lat": 52.766666666,
+        "lng": 29.888333333
     },
     {
         "wikidata_id": "Q3917887",
         "name": "Svyato-Dukhov Monastery",
         "description": "No description available",
-        "freebase_id": "/m/04yh3t3"
+        "freebase_id": "/m/04yh3t3",
+        "lat": 55.195,
+        "lng": 30.20166667
     },
     {
         "wikidata_id": "Q3920884",
         "name": "Chyzhouka",
         "description": "No description available",
-        "freebase_id": "/m/0zwnj5w"
+        "freebase_id": "/m/0zwnj5w",
+        "lat": 53.8397,
+        "lng": 27.6367
     },
     {
         "wikidata_id": "Q967102",
         "name": "Zdzitava",
         "description": "village in Sporaŭski sieĺsaviet, Biaroza district, Belarus",
-        "freebase_id": "/m/0ftv9b"
+        "freebase_id": "/m/0ftv9b",
+        "lat": 52.427373,
+        "lng": 25.263932
     },
     {
         "wikidata_id": "Q3499049",
         "name": "Baruny",
         "description": "agrotown in Ašmiany district, Belarus",
-        "freebase_id": "/m/0vptl48"
+        "freebase_id": "/m/0vptl48",
+        "lat": 54.316944444,
+        "lng": 26.138333333
     },
     {
         "wikidata_id": "Q6483719",
         "name": "Horki",
         "description": "village in Žabinka district, Belarus",
-        "freebase_id": "/m/0zrrn4y"
+        "freebase_id": "/m/0zrrn4y",
+        "lat": 52.273055555,
+        "lng": 23.971666666
     },
     {
         "wikidata_id": "Q4289425",
         "name": "Mialieškavičy",
         "description": "agrotown in Mazyr district, Belarus",
-        "freebase_id": "/m/0ggj0n"
+        "freebase_id": "/m/0ggj0n",
+        "lat": 51.923611111,
+        "lng": 28.983055555
     },
     {
         "wikidata_id": "Q2669831",
         "name": "Brest Ghetto",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/06_x33b"
+        "freebase_id": "/m/06_x33b",
+        "lat": 52.1,
+        "lng": 23.7
     },
     {
         "wikidata_id": "Q2584145",
         "name": "Lienina",
         "description": "agrotown in Horki district, Belarus",
-        "freebase_id": "/m/0bh7pxn"
+        "freebase_id": "/m/0bh7pxn",
+        "lat": 54.406944444,
+        "lng": 31.123611111
     },
     {
         "wikidata_id": "Q2562806",
         "name": "Lukoml",
         "description": "village in Belarus",
-        "freebase_id": "/m/05b47hc"
+        "freebase_id": "/m/05b47hc",
+        "lat": 54.708888888,
+        "lng": 29.151111111
     },
     {
         "wikidata_id": "Q1050375",
         "name": "Narach",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/09k4kf0"
+        "freebase_id": "/m/09k4kf0",
+        "lat": 54.93472222,
+        "lng": 26.68611111
     },
     {
         "wikidata_id": "Q2043177",
         "name": "Zavodski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/0c3_smz"
+        "freebase_id": "/m/0c3_smz",
+        "lat": 53.8591,
+        "lng": 27.6769
     },
     {
         "wikidata_id": "Q386487",
         "name": "Mazyr",
         "description": "city in Belarus",
-        "freebase_id": "/m/04r4q1"
+        "freebase_id": "/m/04r4q1",
+        "lat": 52.05,
+        "lng": 29.233333333
     },
     {
         "wikidata_id": "Q6501692",
         "name": "Koladna",
         "description": "village in Belarus",
-        "freebase_id": "/m/0v3g5fn"
+        "freebase_id": "/m/0v3g5fn",
+        "lat": 52.308888888,
+        "lng": 23.343888888
     },
     {
         "wikidata_id": "Q2023936",
         "name": "Tsentralny District",
         "description": "intercity district of Minsk, Belarus",
-        "freebase_id": "/m/0c01mph"
+        "freebase_id": "/m/0c01mph",
+        "lat": 53.9510456,
+        "lng": 27.5101904
     },
     {
         "wikidata_id": "Q48491",
         "name": "Sialiec",
         "description": "agrotown in Biaroza district, Belarus",
-        "freebase_id": "/m/09gmtsw"
+        "freebase_id": "/m/09gmtsw",
+        "lat": 52.58333333,
+        "lng": 24.86666667
     },
     {
         "wikidata_id": "Q2579602",
         "name": "Mieračoŭščyna",
         "description": "former manor in Belarus",
-        "freebase_id": "/m/0wy4_2y"
+        "freebase_id": "/m/0wy4_2y",
+        "lat": 52.765533333,
+        "lng": 25.123752777
     },
     {
         "wikidata_id": "Q1066728",
         "name": "Babinavičy",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0b0vkg"
+        "freebase_id": "/m/0b0vkg",
+        "lat": 54.836388888,
+        "lng": 30.575833333
     },
     {
         "wikidata_id": "Q4384536",
         "name": "Puchavičy",
         "description": "village in Žytkavičy District, Belarus",
-        "freebase_id": "/m/09gh894"
+        "freebase_id": "/m/09gh894",
+        "lat": 52.376111111,
+        "lng": 27.964444444
     },
     {
         "wikidata_id": "Q2918243",
         "name": "Zdzięcioł Ghetto",
         "description": "Nazi ghetto in occupied Belarus",
-        "freebase_id": "/m/02x4pq1"
+        "freebase_id": "/m/02x4pq1",
+        "lat": 53.488055,
+        "lng": 25.413333
     },
     {
         "wikidata_id": "Q40376",
         "name": "Lauryshava Monastery",
         "description": "Eastern Orthodox monastery in Belarus",
-        "freebase_id": "/m/0cn_jg8"
+        "freebase_id": "/m/0cn_jg8",
+        "lat": 53.70194444,
+        "lng": 26.18944444
     },
     {
         "wikidata_id": "Q3919194",
         "name": "St. Nicholas Monastery Complex, Mahilioŭ",
         "description": "monastic complex in Belarus",
-        "freebase_id": "/m/0t53ltn"
+        "freebase_id": "/m/0t53ltn",
+        "lat": 53.893611111,
+        "lng": 30.345555555
     },
     {
         "wikidata_id": "Q21630320",
         "name": "Kosaŭka",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/02z2vq"
+        "freebase_id": "/m/02z2vq",
+        "lat": 53.7925,
+        "lng": 29.0325
     },
     {
         "wikidata_id": "Q5213666",
         "name": "Ilya",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0bhb9j4"
+        "freebase_id": "/m/0bhb9j4",
+        "lat": 54.4175,
+        "lng": 27.29333333
     },
     {
         "wikidata_id": "Q2044762",
         "name": "Lyeninski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/0c3y4r2"
+        "freebase_id": "/m/0c3y4r2",
+        "lat": 53.8657,
+        "lng": 27.5859
     },
     {
         "wikidata_id": "Q2621918",
         "name": "Druya",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/0c429d1"
+        "freebase_id": "/m/0c429d1",
+        "lat": 55.789444444,
+        "lng": 27.453333333
     },
     {
         "wikidata_id": "Q20577101",
         "name": "Čyhirynka",
         "description": "village in Belarus",
-        "freebase_id": "/m/065z4pk"
+        "freebase_id": "/m/065z4pk",
+        "lat": 53.420277777,
+        "lng": 29.852777777
     },
     {
         "wikidata_id": "Q776879",
         "name": "Packaŭ",
         "description": "former hamlet in Belarus",
-        "freebase_id": "/m/0gh7rcy"
+        "freebase_id": "/m/0gh7rcy",
+        "lat": 51.774444444,
+        "lng": 30.314444444
     },
     {
         "wikidata_id": "Q3493753",
         "name": "Muravanaja Ašmianka",
         "description": "agrotown in Belarus",
-        "freebase_id": "/m/03cl_yx"
+        "freebase_id": "/m/03cl_yx",
+        "lat": 54.4577,
+        "lng": 25.7787
     },
     {
         "wikidata_id": "Q2991136",
         "name": "Ruba",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/03cs1cv"
+        "freebase_id": "/m/03cs1cv",
+        "lat": 55.302222222,
+        "lng": 30.311666666
     },
     {
         "wikidata_id": "Q4215244",
         "name": "Karlin",
         "description": "former town in Belarus",
-        "freebase_id": "/m/02qby9p"
+        "freebase_id": "/m/02qby9p",
+        "lat": 52.11666667,
+        "lng": 26.1
     },
     {
         "wikidata_id": "Q316109",
         "name": "Maly Trostenets",
         "description": "Nazi extermination site near Minsk in Belarus",
-        "freebase_id": "/m/02h7p7"
+        "freebase_id": "/m/02h7p7",
+        "lat": 53.851111111,
+        "lng": 27.704722222
     },
     {
         "wikidata_id": "Q3493620",
         "name": "Zavosse",
         "description": "village in Belarus",
-        "freebase_id": "/m/0cn_trm"
+        "freebase_id": "/m/0cn_trm",
+        "lat": 53.289166666,
+        "lng": 26.100277777
     },
     {
         "wikidata_id": "Q2045076",
         "name": "Savyetski District",
         "description": "district of Minsk in Belarus",
-        "freebase_id": "/m/0c01t2y"
+        "freebase_id": "/m/0c01t2y",
+        "lat": 53.9393,
+        "lng": 27.5862
     },
     {
         "wikidata_id": "Q909612",
         "name": "Rechytsa",
         "description": "city in Belarus",
-        "freebase_id": "/m/025sj6l"
+        "freebase_id": "/m/025sj6l",
+        "lat": 52.3724,
+        "lng": 30.38796
     },
     {
         "wikidata_id": "Q201429",
         "name": "Uzda",
         "description": "city in Belarus",
-        "freebase_id": "/m/0g55p8d"
+        "freebase_id": "/m/0g55p8d",
+        "lat": 53.466111111,
+        "lng": 27.224444444
     },
     {
         "wikidata_id": "Q730175",
         "name": "Škłow",
         "description": "city in Belarus",
-        "freebase_id": "/m/04tw54"
+        "freebase_id": "/m/04tw54",
+        "lat": 54.208333333,
+        "lng": 30.286944444
     },
     {
         "wikidata_id": "Q937344",
         "name": "Kalinkavichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/04r3k1"
+        "freebase_id": "/m/04r3k1",
+        "lat": 52.133333333,
+        "lng": 29.333333333
     },
     {
         "wikidata_id": "Q200937",
         "name": "Klyetsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/0b61sh"
+        "freebase_id": "/m/0b61sh",
+        "lat": 53.063611111,
+        "lng": 26.637222222
     },
     {
         "wikidata_id": "Q200950",
         "name": "Kapyĺ",
         "description": "city in Belarus",
-        "freebase_id": "/m/0cm7xq3"
+        "freebase_id": "/m/0cm7xq3",
+        "lat": 53.15,
+        "lng": 27.091666666
     },
     {
         "wikidata_id": "Q200968",
         "name": "Lahojsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/08sbqr"
+        "freebase_id": "/m/08sbqr",
+        "lat": 54.2,
+        "lng": 27.85
     },
     {
         "wikidata_id": "Q200917",
         "name": "Zaslaŭje",
         "description": "city in Belarus",
-        "freebase_id": "/m/06dpvg"
+        "freebase_id": "/m/06dpvg",
+        "lat": 54.0,
+        "lng": 27.283333333
     },
     {
         "wikidata_id": "Q738777",
         "name": "Iŭje",
         "description": "city in Belarus",
-        "freebase_id": "/m/04r8yh"
+        "freebase_id": "/m/04r8yh",
+        "lat": 53.93071,
+        "lng": 25.77026
     },
     {
         "wikidata_id": "Q656579",
         "name": "Malaryta",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqqcm"
+        "freebase_id": "/m/0fqqcm",
+        "lat": 51.797222222,
+        "lng": 24.080833333
     },
     {
         "wikidata_id": "Q954114",
         "name": "Hlybokaye",
         "description": "city in Belarus",
-        "freebase_id": "/m/0gkg9x"
+        "freebase_id": "/m/0gkg9x",
+        "lat": 55.133333333,
+        "lng": 27.683333333
     },
     {
         "wikidata_id": "Q750424",
         "name": "Navapolack",
         "description": "city in Belarus",
-        "freebase_id": "/m/07bqb3"
+        "freebase_id": "/m/07bqb3",
+        "lat": 55.533333333,
+        "lng": 28.666666666
     },
     {
         "wikidata_id": "Q954343",
         "name": "Talachyn",
         "description": "city in Belarus",
-        "freebase_id": "/m/08sbxn"
+        "freebase_id": "/m/08sbxn",
+        "lat": 54.409722222,
+        "lng": 29.693611111
     },
     {
         "wikidata_id": "Q742161",
         "name": "Asipovichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/085h43"
+        "freebase_id": "/m/085h43",
+        "lat": 53.3,
+        "lng": 28.633333333
     },
     {
         "wikidata_id": "Q954812",
         "name": "Horki",
         "description": "city in Belarus",
-        "freebase_id": "/m/08qgjs"
+        "freebase_id": "/m/08qgjs",
+        "lat": 54.283333333,
+        "lng": 30.983333333
     },
     {
         "wikidata_id": "Q201173",
         "name": "Marjina Horka",
         "description": "city in Belarus",
-        "freebase_id": "/m/09gg4ss"
+        "freebase_id": "/m/09gg4ss",
+        "lat": 53.516666666,
+        "lng": 28.141666666
     },
     {
         "wikidata_id": "Q628623",
         "name": "Braslaw",
         "description": "city in Belarus",
-        "freebase_id": "/m/08sbtw"
+        "freebase_id": "/m/08sbtw",
+        "lat": 55.641666666,
+        "lng": 27.033333333
     },
     {
         "wikidata_id": "Q200905",
         "name": "Žodzina",
         "description": "city in Minsk voblasć, Belarus",
-        "freebase_id": "/m/0gt6p4"
+        "freebase_id": "/m/0gt6p4",
+        "lat": 54.094444444,
+        "lng": 28.321388888
     },
     {
         "wikidata_id": "Q201203",
         "name": "Maladzyechna",
         "description": "city in Belarus",
-        "freebase_id": "/m/04twk1"
+        "freebase_id": "/m/04twk1",
+        "lat": 54.313611111,
+        "lng": 26.851666666
     },
     {
         "wikidata_id": "Q201218",
         "name": "Miadziel",
         "description": "city in Belarus",
-        "freebase_id": "/m/08hsh6"
+        "freebase_id": "/m/08hsh6",
+        "lat": 54.875,
+        "lng": 26.933333333
     },
     {
         "wikidata_id": "Q201230",
         "name": "Niasviž",
         "description": "city in Belarus",
-        "freebase_id": "/m/09zfpx"
+        "freebase_id": "/m/09zfpx",
+        "lat": 53.218778,
+        "lng": 26.681982
     },
     {
         "wikidata_id": "Q201265",
         "name": "Smaliavičy",
         "description": "city in Belarus",
-        "freebase_id": "/m/0bh6xc1"
+        "freebase_id": "/m/0bh6xc1",
+        "lat": 54.030176,
+        "lng": 28.089742
     },
     {
         "wikidata_id": "Q261024",
         "name": "Astraviec",
         "description": "city in Belarus",
-        "freebase_id": "/m/08qmg9"
+        "freebase_id": "/m/08qmg9",
+        "lat": 54.613611111,
+        "lng": 25.955277777
     },
     {
         "wikidata_id": "Q879406",
         "name": "Biaroza",
         "description": "city in Belarus",
-        "freebase_id": "/m/04x6l4"
+        "freebase_id": "/m/04x6l4",
+        "lat": 52.533333333,
+        "lng": 24.9825
     },
     {
         "wikidata_id": "Q954618",
         "name": "Dokshytsy",
         "description": "city in Belarus",
-        "freebase_id": "/m/0czb5cw"
+        "freebase_id": "/m/0czb5cw",
+        "lat": 54.883333333,
+        "lng": 27.766666666
     },
     {
         "wikidata_id": "Q799939",
         "name": "Byarozawka",
         "description": "city in Belarus",
-        "freebase_id": "/m/0115lfnm"
+        "freebase_id": "/m/0115lfnm",
+        "lat": 53.716666666,
+        "lng": 25.5
     },
     {
         "wikidata_id": "Q265670",
         "name": "Turov",
         "description": "city in Belarus",
-        "freebase_id": "/m/012f23"
+        "freebase_id": "/m/012f23",
+        "lat": 52.069166666,
+        "lng": 27.736111111
     },
     {
         "wikidata_id": "Q954505",
         "name": "Dubroŭna",
         "description": "city in Belarus",
-        "freebase_id": "/m/05h3ncb"
+        "freebase_id": "/m/05h3ncb",
+        "lat": 54.566666666,
+        "lng": 30.683333333
     },
     {
         "wikidata_id": "Q201439",
         "name": "Fanipaĺ",
         "description": "city in Belarus",
-        "freebase_id": "/m/025wsy6"
+        "freebase_id": "/m/025wsy6",
+        "lat": 53.75,
+        "lng": 27.333333333
     },
     {
         "wikidata_id": "Q201393",
         "name": "Salihorsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/04twf2"
+        "freebase_id": "/m/04twf2",
+        "lat": 52.78416,
+        "lng": 27.5425
     },
     {
         "wikidata_id": "Q201458",
         "name": "Červień",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fwtcg"
+        "freebase_id": "/m/0fwtcg",
+        "lat": 53.707777777,
+        "lng": 28.432222222
     },
     {
         "wikidata_id": "Q201403",
         "name": "Staryja Darohi",
         "description": "city in Belarus",
-        "freebase_id": "/m/0bs0ghl"
+        "freebase_id": "/m/0bs0ghl",
+        "lat": 53.039444444,
+        "lng": 28.265
     },
     {
         "wikidata_id": "Q201421",
         "name": "Stowbtsy",
         "description": "city in Belarus",
-        "freebase_id": "/m/08cw1g"
+        "freebase_id": "/m/08cw1g",
+        "lat": 53.483333333,
+        "lng": 26.733333333
     },
     {
         "wikidata_id": "Q181632",
         "name": "Vileyka",
         "description": "city in Belarus",
-        "freebase_id": "/m/09qrm3"
+        "freebase_id": "/m/09qrm3",
+        "lat": 54.483333333,
+        "lng": 26.916666666
     },
     {
         "wikidata_id": "Q539012",
         "name": "Pastavy",
         "description": "city in Belarus",
-        "freebase_id": "/m/08sbwz"
+        "freebase_id": "/m/08sbwz",
+        "lat": 55.116666666,
+        "lng": 26.833333333
     },
     {
         "wikidata_id": "Q518559",
         "name": "Vetka",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhrf"
+        "freebase_id": "/m/0fqhrf",
+        "lat": 52.559166666,
+        "lng": 31.180833333
     },
     {
         "wikidata_id": "Q867722",
         "name": "Chachersk",
         "description": "city in Belarus",
-        "freebase_id": "/m/025tr4b"
+        "freebase_id": "/m/025tr4b",
+        "lat": 52.916666666,
+        "lng": 30.916666666
     },
     {
         "wikidata_id": "Q201243",
         "name": "Slutsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/04qhbm"
+        "freebase_id": "/m/04qhbm",
+        "lat": 53.016666666,
+        "lng": 27.55
     },
     {
         "wikidata_id": "Q744167",
         "name": "Mscislaŭ",
         "description": "city in Belarus",
-        "freebase_id": "/m/027t65_"
+        "freebase_id": "/m/027t65_",
+        "lat": 54.0196,
+        "lng": 31.7247
     },
     {
         "wikidata_id": "Q954519",
         "name": "Syanno",
         "description": "city in Belarus",
-        "freebase_id": "/m/0gg76r4"
+        "freebase_id": "/m/0gg76r4",
+        "lat": 54.8,
+        "lng": 29.7
     },
     {
         "wikidata_id": "Q431779",
         "name": "Shchuchyn",
         "description": "city in Belarus",
-        "freebase_id": "/m/08l6pz"
+        "freebase_id": "/m/08l6pz",
+        "lat": 53.604444444,
+        "lng": 24.7425
     },
     {
         "wikidata_id": "Q200991",
         "name": "Lyuban",
         "description": "city in Belarus",
-        "freebase_id": "/m/0g54bbt"
+        "freebase_id": "/m/0g54bbt",
+        "lat": 52.8,
+        "lng": 27.994444444
     },
     {
         "wikidata_id": "Q954265",
         "name": "Haradok",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fbtml"
+        "freebase_id": "/m/0fbtml",
+        "lat": 55.466666666,
+        "lng": 29.983333333
     },
     {
         "wikidata_id": "Q278743",
         "name": "Navahrudak",
         "description": "city in Belarus",
-        "freebase_id": "/m/029crq"
+        "freebase_id": "/m/029crq",
+        "lat": 53.599166666,
+        "lng": 25.825555555
     },
     {
         "wikidata_id": "Q954178",
         "name": "Novalukomĺ",
         "description": "city in Belarus",
-        "freebase_id": "/m/05b6f6m"
+        "freebase_id": "/m/05b6f6m",
+        "lat": 54.665833333,
+        "lng": 29.154722222
     },
     {
         "wikidata_id": "Q954610",
         "name": "Vyerkhnyadzvinsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/0bmd_45"
+        "freebase_id": "/m/0bmd_45",
+        "lat": 55.766666666,
+        "lng": 27.933333333
     },
     {
         "wikidata_id": "Q954948",
         "name": "Bychaŭ",
         "description": "city in Belarus",
-        "freebase_id": "/m/06jqns"
+        "freebase_id": "/m/06jqns",
+        "lat": 53.526111111,
+        "lng": 30.235833333
     },
     {
         "wikidata_id": "Q614294",
         "name": "Slawharad",
         "description": "city in Belarus",
-        "freebase_id": "/m/0j3dm3m"
+        "freebase_id": "/m/0j3dm3m",
+        "lat": 53.445277777,
+        "lng": 30.996388888
     },
     {
         "wikidata_id": "Q200960",
         "name": "Krupki",
         "description": "city in Belarus",
-        "freebase_id": "/m/05zl60b"
+        "freebase_id": "/m/05zl60b",
+        "lat": 54.325,
+        "lng": 29.136111111
     },
     {
         "wikidata_id": "Q954914",
         "name": "Krychaw",
         "description": "city in Belarus",
-        "freebase_id": "/m/08sbwm"
+        "freebase_id": "/m/08sbwm",
+        "lat": 53.719444444,
+        "lng": 31.713888888
     },
     {
         "wikidata_id": "Q739491",
         "name": "Vawkavysk",
         "description": "city in Belarus",
-        "freebase_id": "/m/08dc9z"
+        "freebase_id": "/m/08dc9z",
+        "lat": 53.166666666,
+        "lng": 24.466666666
     },
     {
         "wikidata_id": "Q587173",
         "name": "Ivatsevichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/08s5r6"
+        "freebase_id": "/m/08s5r6",
+        "lat": 52.709166666,
+        "lng": 25.338888888
     },
     {
         "wikidata_id": "Q954132",
         "name": "Liepieĺ",
         "description": "city in Belarus",
-        "freebase_id": "/m/08c1wk"
+        "freebase_id": "/m/08c1wk",
+        "lat": 54.875,
+        "lng": 28.694444444
     },
     {
         "wikidata_id": "Q651555",
         "name": "Dzisna",
         "description": "city in Belarus",
-        "freebase_id": "/m/05bzlc9"
+        "freebase_id": "/m/05bzlc9",
+        "lat": 55.562777777,
+        "lng": 28.225833333
     },
     {
         "wikidata_id": "Q241475",
         "name": "Lida",
         "description": "city in Belarus",
-        "freebase_id": "/m/04nmvc"
+        "freebase_id": "/m/04nmvc",
+        "lat": 53.895555555,
+        "lng": 25.295833333
     },
     {
         "wikidata_id": "Q208609",
         "name": "Orsha",
         "description": "city in Belarus",
-        "freebase_id": "/m/02hqvs"
+        "freebase_id": "/m/02hqvs",
+        "lat": 54.509166666,
+        "lng": 30.425833333
     },
     {
         "wikidata_id": "Q837765",
         "name": "Zhlobin",
         "description": "city in Belarus",
-        "freebase_id": "/m/04tvyp"
+        "freebase_id": "/m/04tvyp",
+        "lat": 52.9,
+        "lng": 30.033333333
     },
     {
         "wikidata_id": "Q722836",
         "name": "Ašmiany",
         "description": "city in Belarus",
-        "freebase_id": "/m/02hs0b"
+        "freebase_id": "/m/02hs0b",
+        "lat": 54.425,
+        "lng": 25.9375
     },
     {
         "wikidata_id": "Q520162",
         "name": "Zhabinka",
         "description": "city in Belarus",
-        "freebase_id": "/m/08yk3h"
+        "freebase_id": "/m/08yk3h",
+        "lat": 52.200555555,
+        "lng": 24.023333333
     },
     {
         "wikidata_id": "Q286964",
         "name": "Baran",
         "description": "city in Belarus",
-        "freebase_id": "/m/0jt7sst"
+        "freebase_id": "/m/0jt7sst",
+        "lat": 54.481388888,
+        "lng": 30.318888888
     },
     {
         "wikidata_id": "Q603249",
         "name": "Klimavičy",
         "description": "city in Belarus",
-        "freebase_id": "/m/048y4t"
+        "freebase_id": "/m/048y4t",
+        "lat": 53.616666666,
+        "lng": 31.95
     },
     {
         "wikidata_id": "Q863576",
         "name": "Slonim",
         "description": "city in Belarus",
-        "freebase_id": "/m/04r911"
+        "freebase_id": "/m/04r911",
+        "lat": 53.083333333,
+        "lng": 25.316666666
     },
     {
         "wikidata_id": "Q266841",
         "name": "Miory",
         "description": "city in Belarus",
-        "freebase_id": "/m/03yj2bh"
+        "freebase_id": "/m/03yj2bh",
+        "lat": 55.616666666,
+        "lng": 27.616666666
     },
     {
         "wikidata_id": "Q200797",
         "name": "Polatsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/022dsw"
+        "freebase_id": "/m/022dsw",
+        "lat": 55.483333333,
+        "lng": 28.8
     },
     {
         "wikidata_id": "Q954421",
         "name": "Chashniki",
         "description": "city in Belarus",
-        "freebase_id": "/m/09wlds"
+        "freebase_id": "/m/09wlds",
+        "lat": 54.853333333,
+        "lng": 29.164722222
     },
     {
         "wikidata_id": "Q200833",
         "name": "Byerazino",
         "description": "city in Belarus",
-        "freebase_id": "/m/08dbt0"
+        "freebase_id": "/m/08dbt0",
+        "lat": 53.833333333,
+        "lng": 28.983333333
     },
     {
         "wikidata_id": "Q200891",
         "name": "Dzyarzhynsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/02txnc"
+        "freebase_id": "/m/02txnc",
+        "lat": 53.683333333,
+        "lng": 27.133333333
     },
     {
         "wikidata_id": "Q200876",
         "name": "Valozhyn",
         "description": "city in Belarus",
-        "freebase_id": "/m/04twcn"
+        "freebase_id": "/m/04twcn",
+        "lat": 54.083333333,
+        "lng": 26.516666666
     },
     {
         "wikidata_id": "Q2995176",
         "name": "Raduń",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0286xkz"
+        "freebase_id": "/m/0286xkz",
+        "lat": 54.053055555,
+        "lng": 24.997777777
     },
     {
         "wikidata_id": "Q2993986",
         "name": "Radaškovičy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/03cb330"
+        "freebase_id": "/m/03cb330",
+        "lat": 54.15,
+        "lng": 27.233333333
     },
     {
         "wikidata_id": "Q956614",
         "name": "Kamieniec",
         "description": "city in Belarus",
-        "freebase_id": "/m/0719tb"
+        "freebase_id": "/m/0719tb",
+        "lat": 52.402833333,
+        "lng": 23.808333333
     },
     {
         "wikidata_id": "Q599374",
         "name": "Mačuliščy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0g56kbc"
+        "freebase_id": "/m/0g56kbc",
+        "lat": 53.781388888,
+        "lng": 27.595833333
     },
     {
         "wikidata_id": "Q2478305",
         "name": "Porazava",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0ql0hpk"
+        "freebase_id": "/m/0ql0hpk",
+        "lat": 52.936666666,
+        "lng": 24.366944444
     },
     {
         "wikidata_id": "Q608888",
         "name": "Antopaĺ",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0bhg0m"
+        "freebase_id": "/m/0bhg0m",
+        "lat": 52.203888888,
+        "lng": 24.786111111
     },
     {
         "wikidata_id": "Q2995144",
         "name": "Ivianiec",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/03cspht"
+        "freebase_id": "/m/03cspht",
+        "lat": 53.89,
+        "lng": 26.741388888
     },
     {
         "wikidata_id": "Q956159",
         "name": "Pružany",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhh0"
+        "freebase_id": "/m/0fqhh0",
+        "lat": 52.556666666,
+        "lng": 24.464444444
     },
     {
         "wikidata_id": "Q2659505",
         "name": "Šarkaŭščyna",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0111445x"
+        "freebase_id": "/m/0111445x",
+        "lat": 55.366666666,
+        "lng": 27.466666666
     },
     {
         "wikidata_id": "Q1033593",
         "name": "Beshankovichy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/04tw14"
+        "freebase_id": "/m/04tw14",
+        "lat": 55.045833333,
+        "lng": 29.457777777
     },
     {
         "wikidata_id": "Q2659499",
         "name": "Rudziensk",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0g57kdv"
+        "freebase_id": "/m/0g57kdv",
+        "lat": 53.59526,
+        "lng": 27.8645
     },
     {
         "wikidata_id": "Q955726",
         "name": "Yelsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhq1"
+        "freebase_id": "/m/0fqhq1",
+        "lat": 51.810555555,
+        "lng": 29.153055555
     },
     {
         "wikidata_id": "Q2494383",
         "name": "Akciabrski",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/09gfftj"
+        "freebase_id": "/m/09gfftj",
+        "lat": 52.643055555,
+        "lng": 28.882222222
     },
     {
         "wikidata_id": "Q958617",
         "name": "Smarhon",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhbj"
+        "freebase_id": "/m/0fqhbj",
+        "lat": 54.483611111,
+        "lng": 26.4
     },
     {
         "wikidata_id": "Q2607484",
         "name": "Lyelchytsy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/09gmhm9"
+        "freebase_id": "/m/09gmhm9",
+        "lat": 51.785833333,
+        "lng": 28.324722222
     },
     {
         "wikidata_id": "Q956132",
         "name": "Luninyets",
         "description": "city in Belarus",
-        "freebase_id": "/m/08prnl"
+        "freebase_id": "/m/08prnl",
+        "lat": 52.248611111,
+        "lng": 26.803611111
     },
     {
         "wikidata_id": "Q955740",
         "name": "Vasilyevichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhr2"
+        "freebase_id": "/m/0fqhr2",
+        "lat": 52.247222222,
+        "lng": 29.827222222
     },
     {
         "wikidata_id": "Q956565",
         "name": "Stolin",
         "description": "city in Belarus",
-        "freebase_id": "/m/01mwv4"
+        "freebase_id": "/m/01mwv4",
+        "lat": 51.88968313,
+        "lng": 26.85067172
     },
     {
         "wikidata_id": "Q956471",
         "name": "Drahichyn",
         "description": "city in Belarus",
-        "freebase_id": "/m/08s5rx"
+        "freebase_id": "/m/08s5rx",
+        "lat": 52.186666666,
+        "lng": 25.153055555
     },
     {
         "wikidata_id": "Q1025883",
         "name": "Dzyatlava",
         "description": "city in Belarus",
-        "freebase_id": "/m/04r8_z"
+        "freebase_id": "/m/04r8_z",
+        "lat": 53.45,
+        "lng": 25.4
     },
     {
         "wikidata_id": "Q1025869",
         "name": "Kareličy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/07_3cz"
+        "freebase_id": "/m/07_3cz",
+        "lat": 53.566388888,
+        "lng": 26.1425
     },
     {
         "wikidata_id": "Q1025872",
         "name": "Liozna",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0h28sb"
+        "freebase_id": "/m/0h28sb",
+        "lat": 55.026111111,
+        "lng": 30.794722222
     },
     {
         "wikidata_id": "Q956635",
         "name": "Kosava",
         "description": "city in Belarus",
-        "freebase_id": "/m/01px16"
+        "freebase_id": "/m/01px16",
+        "lat": 52.75802,
+        "lng": 25.15294
     },
     {
         "wikidata_id": "Q955474",
         "name": "Dobrush",
         "description": "city in Belarus",
-        "freebase_id": "/m/0dp1zl"
+        "freebase_id": "/m/0dp1zl",
+        "lat": 52.416666666,
+        "lng": 31.316666666
     },
     {
         "wikidata_id": "Q956607",
         "name": "Liachavičy",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqqbl"
+        "freebase_id": "/m/0fqqbl",
+        "lat": 53.03958,
+        "lng": 26.263
     },
     {
         "wikidata_id": "Q956460",
         "name": "Bielaaziorsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqq4q"
+        "freebase_id": "/m/0fqq4q",
+        "lat": 52.471666666,
+        "lng": 25.178333333
     },
     {
         "wikidata_id": "Q2630527",
         "name": "Bialynichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/03h5vrk"
+        "freebase_id": "/m/03h5vrk",
+        "lat": 53.99558,
+        "lng": 29.70958
     },
     {
         "wikidata_id": "Q955113",
         "name": "Chavusy",
         "description": "city in Belarus",
-        "freebase_id": "/m/07kr9h"
+        "freebase_id": "/m/07kr9h",
+        "lat": 53.8,
+        "lng": 30.966666666
     },
     {
         "wikidata_id": "Q958685",
         "name": "Masty",
         "description": "city in Belarus",
-        "freebase_id": "/m/09g7mvq"
+        "freebase_id": "/m/09g7mvq",
+        "lat": 53.4,
+        "lng": 24.533333333
     },
     {
         "wikidata_id": "Q955468",
         "name": "Rahachow",
         "description": "city in Belarus",
-        "freebase_id": "/m/08dcjb"
+        "freebase_id": "/m/08dcjb",
+        "lat": 53.1,
+        "lng": 30.05
     },
     {
         "wikidata_id": "Q955564",
         "name": "Zhytkavichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/08prl3"
+        "freebase_id": "/m/08prl3",
+        "lat": 52.217094444,
+        "lng": 27.8547
     },
     {
         "wikidata_id": "Q955992",
         "name": "Kobryn",
         "description": "city in Belarus",
-        "freebase_id": "/m/02y9t6"
+        "freebase_id": "/m/02y9t6",
+        "lat": 52.2125,
+        "lng": 24.356666666
     },
     {
         "wikidata_id": "Q578807",
         "name": "Balbasava",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0274t12"
+        "freebase_id": "/m/0274t12",
+        "lat": 54.421944444,
+        "lng": 30.29
     },
     {
         "wikidata_id": "Q956464",
         "name": "Mikashevichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqq0x"
+        "freebase_id": "/m/0fqq0x",
+        "lat": 52.216666666,
+        "lng": 27.466666666
     },
     {
         "wikidata_id": "Q278100",
         "name": "Smilavičy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/082zvv"
+        "freebase_id": "/m/082zvv",
+        "lat": 53.7485,
+        "lng": 28.009166666
     },
     {
         "wikidata_id": "Q922668",
         "name": "Mir",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/04x_xw"
+        "freebase_id": "/m/04x_xw",
+        "lat": 53.454722222,
+        "lng": 26.466666666
     },
     {
         "wikidata_id": "Q2618952",
         "name": "Zeĺva",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/09gpgnb"
+        "freebase_id": "/m/09gpgnb",
+        "lat": 53.15,
+        "lng": 24.816666666
     },
     {
         "wikidata_id": "Q958847",
         "name": "Skidzieĺ",
         "description": "city in Belarus",
-        "freebase_id": "/m/02p_4rv"
+        "freebase_id": "/m/02p_4rv",
+        "lat": 53.583333333,
+        "lng": 24.25
     },
     {
         "wikidata_id": "Q956207",
         "name": "Ivanava",
         "description": "city in Belarus",
-        "freebase_id": "/m/08s5z7"
+        "freebase_id": "/m/08s5z7",
+        "lat": 52.147222222,
+        "lng": 25.533888888
     },
     {
         "wikidata_id": "Q1460634",
         "name": "Vialikaja Bierastavica",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/04n442_"
+        "freebase_id": "/m/04n442_",
+        "lat": 53.195555555,
+        "lng": 24.020833333
     },
     {
         "wikidata_id": "Q955013",
         "name": "Kastsyukovichy",
         "description": "city in Belarus",
-        "freebase_id": "/m/0j2479p"
+        "freebase_id": "/m/0j2479p",
+        "lat": 53.338888888,
+        "lng": 32.046111111
     },
     {
         "wikidata_id": "Q550040",
         "name": "Damačava",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/09k5vdd"
+        "freebase_id": "/m/09k5vdd",
+        "lat": 51.75,
+        "lng": 23.6
     },
     {
         "wikidata_id": "Q2470405",
         "name": "Brahin",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/04mzb_t"
+        "freebase_id": "/m/04mzb_t",
+        "lat": 51.783333333,
+        "lng": 30.266666666
     },
     {
         "wikidata_id": "Q2470394",
         "name": "Voranava",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/05zystn"
+        "freebase_id": "/m/05zystn",
+        "lat": 54.15,
+        "lng": 25.316666666
     },
     {
         "wikidata_id": "Q955126",
         "name": "Cherykaw",
         "description": "city in Belarus",
-        "freebase_id": "/m/0j3h0xf"
+        "freebase_id": "/m/0j3h0xf",
+        "lat": 53.566666666,
+        "lng": 31.366666666
     },
     {
         "wikidata_id": "Q955115",
         "name": "Kirawsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/09g6l84"
+        "freebase_id": "/m/09g6l84",
+        "lat": 53.268611111,
+        "lng": 29.473611111
     },
     {
         "wikidata_id": "Q955153",
         "name": "Klichaw",
         "description": "city in Belarus",
-        "freebase_id": "/m/0j3fcxv"
+        "freebase_id": "/m/0j3fcxv",
+        "lat": 53.482777777,
+        "lng": 29.341111111
     },
     {
         "wikidata_id": "Q955359",
         "name": "Svyetlahorsk",
         "description": "city in Belarus",
-        "freebase_id": "/m/021gxw"
+        "freebase_id": "/m/021gxw",
+        "lat": 52.633333333,
+        "lng": 29.733333333
     },
     {
         "wikidata_id": "Q2987244",
         "name": "Haradzieja",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0gkz0_q"
+        "freebase_id": "/m/0gkz0_q",
+        "lat": 53.315276,
+        "lng": 26.540439
     },
     {
         "wikidata_id": "Q2987234",
         "name": "Ushachy",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/01283yjy"
+        "freebase_id": "/m/01283yjy",
+        "lat": 55.183333333,
+        "lng": 28.616666666
     },
     {
         "wikidata_id": "Q2987876",
         "name": "Biahomĺ",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/063ybzc"
+        "freebase_id": "/m/063ybzc",
+        "lat": 54.733333333,
+        "lng": 28.05
     },
     {
         "wikidata_id": "Q955588",
         "name": "Khoiniki",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhd8"
+        "freebase_id": "/m/0fqhd8",
+        "lat": 51.9,
+        "lng": 29.966666666
     },
     {
         "wikidata_id": "Q955729",
         "name": "Buda-Kašaliova",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhpq"
+        "freebase_id": "/m/0fqhpq",
+        "lat": 52.716944444,
+        "lng": 30.567777777
     },
     {
         "wikidata_id": "Q955717",
         "name": "Pietrykaŭ",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhqd"
+        "freebase_id": "/m/0fqhqd",
+        "lat": 52.133333333,
+        "lng": 28.5
     },
     {
         "wikidata_id": "Q955736",
         "name": "Naroŭlia",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqhf9"
+        "freebase_id": "/m/0fqhf9",
+        "lat": 51.8,
+        "lng": 29.5
     },
     {
         "wikidata_id": "Q956627",
         "name": "Vysokaye",
         "description": "city in Kamianiec district, Belarus",
-        "freebase_id": "/m/0bjj1v"
+        "freebase_id": "/m/0bjj1v",
+        "lat": 52.366666666,
+        "lng": 23.366666666
     },
     {
         "wikidata_id": "Q2471155",
         "name": "Narač",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/09k5n12"
+        "freebase_id": "/m/09k5n12",
+        "lat": 54.906771,
+        "lng": 26.706599
     },
     {
         "wikidata_id": "Q576393",
         "name": "Cieliachany",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/03d07cq"
+        "freebase_id": "/m/03d07cq",
+        "lat": 52.512777777,
+        "lng": 25.842222222
     },
     {
         "wikidata_id": "Q16977915",
         "name": "Hramada",
         "description": "Rural settlement in Mogilev region, Belarus",
-        "freebase_id": "/m/02wvbtq"
+        "freebase_id": "/m/02wvbtq",
+        "lat": 53.370277777,
+        "lng": 30.486944444
     },
     {
         "wikidata_id": "Q2494413",
         "name": "Loyew",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/08yk5z"
+        "freebase_id": "/m/08yk5z",
+        "lat": 51.933333333,
+        "lng": 30.801111111
     },
     {
         "wikidata_id": "Q1076109",
         "name": "Svislač",
         "description": "city in Belarus",
-        "freebase_id": "/m/04h07f"
+        "freebase_id": "/m/04h07f",
+        "lat": 53.033333333,
+        "lng": 24.1
     },
     {
         "wikidata_id": "Q2596991",
         "name": "Liubča",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/04n0y6h"
+        "freebase_id": "/m/04n0y6h",
+        "lat": 53.751944444,
+        "lng": 26.057222222
     },
     {
         "wikidata_id": "Q2596984",
         "name": "Sapotskin",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/0b06jf"
+        "freebase_id": "/m/0b06jf",
+        "lat": 53.833333333,
+        "lng": 23.65
     },
     {
         "wikidata_id": "Q956470",
         "name": "Hancavičy",
         "description": "city in Belarus",
-        "freebase_id": "/m/08s5wd"
+        "freebase_id": "/m/08s5wd",
+        "lat": 52.761666666,
+        "lng": 26.427777777
     },
     {
         "wikidata_id": "Q981755",
         "name": "Kopyś",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/026nxpq"
+        "freebase_id": "/m/026nxpq",
+        "lat": 54.324444444,
+        "lng": 30.291666666
     },
     {
         "wikidata_id": "Q956621",
         "name": "Davyd-Haradok",
         "description": "city in Belarus",
-        "freebase_id": "/m/0fqq6f"
+        "freebase_id": "/m/0fqq6f",
+        "lat": 52.055555555,
+        "lng": 27.213888888
     },
     {
         "wikidata_id": "Q615132",
         "name": "Ruzhany",
         "description": "urban-type settlement in Belarus",
-        "freebase_id": "/m/03c5tvk"
+        "freebase_id": "/m/03c5tvk",
+        "lat": 52.864444444,
+        "lng": 24.890833333
     }
 ]

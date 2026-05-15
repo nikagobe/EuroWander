@@ -3,121 +3,161 @@
         "wikidata_id": "Q4103295",
         "name": "Wangerberg",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd62j"
+        "freebase_id": "/m/03wd62j",
+        "lat": 47.105953,
+        "lng": 9.544029
     },
     {
         "wikidata_id": "Q4290029",
         "name": "Mäls",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5pd"
+        "freebase_id": "/m/03wd5pd",
+        "lat": 47.061497222,
+        "lng": 9.493819444
     },
     {
         "wikidata_id": "Q4191863",
         "name": "Silum",
         "description": "village in Oberland, Liechtenstein",
-        "freebase_id": "/m/03wd5kf"
+        "freebase_id": "/m/03wd5kf",
+        "lat": 47.131361111,
+        "lng": 9.554222222
     },
     {
         "wikidata_id": "Q1844",
         "name": "Vaduz",
         "description": "capital of Liechtenstein",
-        "freebase_id": "/m/0g35d"
+        "freebase_id": "/m/0g35d",
+        "lat": 47.140555555,
+        "lng": 9.522222222
     },
     {
         "wikidata_id": "Q816776",
         "name": "Bendern",
         "description": "human settlement",
-        "freebase_id": "/m/03wd5n0"
+        "freebase_id": "/m/03wd5n0",
+        "lat": 47.211111111,
+        "lng": 9.5075
     },
     {
         "wikidata_id": "Q4497829",
         "name": "Hinterschellenberg",
         "description": "village in Oberland, Liechtenstein",
-        "freebase_id": "/m/03wd5t6"
+        "freebase_id": "/m/03wd5t6",
+        "lat": 47.233333333,
+        "lng": 9.533333333
     },
     {
         "wikidata_id": "Q49657",
         "name": "Schaan",
         "description": "municipality of Liechtenstein",
-        "freebase_id": "/m/03y5r4"
+        "freebase_id": "/m/03y5r4",
+        "lat": 47.166666666,
+        "lng": 9.516666666
     },
     {
         "wikidata_id": "Q49661",
         "name": "Mauren",
         "description": "municipality of Liechtenstein",
-        "freebase_id": "/m/07vw5r"
+        "freebase_id": "/m/07vw5r",
+        "lat": 47.219722222,
+        "lng": 9.542777777
     },
     {
         "wikidata_id": "Q921634",
         "name": "Fraxinetum",
         "description": "A site of a 10th-century fortress near Saint-Tropez, in Provence, in France, extending into Austria, & Italy, & Leichenstein, & Monaco, & Switzerland.",
-        "freebase_id": "/m/051677"
+        "freebase_id": "/m/051677",
+        "lat": 43.321388888,
+        "lng": 6.463888888
     },
     {
         "wikidata_id": "Q4529531",
         "name": "Ebenholz",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5x9"
+        "freebase_id": "/m/03wd5x9",
+        "lat": 47.148888888,
+        "lng": 9.513888888
     },
     {
         "wikidata_id": "Q49663",
         "name": "Balzers",
         "description": "municipality of Liechtenstein",
-        "freebase_id": "/m/06l9ms"
+        "freebase_id": "/m/06l9ms",
+        "lat": 47.066666666,
+        "lng": 9.5
     },
     {
         "wikidata_id": "Q4398638",
         "name": "Rotenboden",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5_d"
+        "freebase_id": "/m/03wd5_d",
+        "lat": 47.128333333,
+        "lng": 9.538611111
     },
     {
         "wikidata_id": "Q4194966",
         "name": "Sücka",
         "description": "village in Oberland, Liechtenstein",
-        "freebase_id": "/m/03wd613"
+        "freebase_id": "/m/03wd613",
+        "lat": 47.116388888,
+        "lng": 9.565277777
     },
     {
         "wikidata_id": "Q4309980",
         "name": "Mühleholz",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5yb"
+        "freebase_id": "/m/03wd5yb",
+        "lat": 47.155277777,
+        "lng": 9.509444444
     },
     {
         "wikidata_id": "Q4274516",
         "name": "Masescha",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5jd"
+        "freebase_id": "/m/03wd5jd",
+        "lat": 47.13252,
+        "lng": 9.544201
     },
     {
         "wikidata_id": "Q991615",
         "name": "Nendeln",
         "description": "village in Eschen, Liechteinstein",
-        "freebase_id": "/m/03wd5nq"
+        "freebase_id": "/m/03wd5nq",
+        "lat": 47.2,
+        "lng": 9.547222222
     },
     {
         "wikidata_id": "Q2251899",
         "name": "Malbun",
         "description": "village in Oberland, Liechtenstein",
-        "freebase_id": "/m/027h4p4"
+        "freebase_id": "/m/027h4p4",
+        "lat": 47.1027,
+        "lng": 9.6078
     },
     {
         "wikidata_id": "Q49662",
         "name": "Gamprin",
         "description": "municipality of Liechtenstein",
-        "freebase_id": "/m/07vwc8"
+        "freebase_id": "/m/07vwc8",
+        "lat": 47.21986,
+        "lng": 9.50995
     },
     {
         "wikidata_id": "Q49659",
         "name": "Ruggell",
         "description": "municipality of Liechtenstein",
-        "freebase_id": "/m/07vw89"
+        "freebase_id": "/m/07vw89",
+        "lat": 47.24502,
+        "lng": 9.53323
     },
     {
         "wikidata_id": "Q593158",
         "name": "Steg",
         "description": "town in Liechtenstein",
-        "freebase_id": "/m/07kchkb"
+        "freebase_id": "/m/07kchkb",
+        "lat": 47.1125,
+        "lng": 9.575
     },
     {
         "wikidata_id": "Q236185",
@@ -129,24 +169,32 @@
         "wikidata_id": "Q4185733",
         "name": "Samina",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5mb"
+        "freebase_id": "/m/03wd5mb",
+        "lat": 47.127812,
+        "lng": 9.53918
     },
     {
         "wikidata_id": "Q2064292",
         "name": "Schaanwald",
         "description": "village in Liechtenstein",
-        "freebase_id": "/m/03wd5p1"
+        "freebase_id": "/m/03wd5p1",
+        "lat": 47.216666666,
+        "lng": 9.566666666
     },
     {
         "wikidata_id": "Q2064447",
         "name": "Gaflei",
         "description": "village in Oberland, Liechtenstein",
-        "freebase_id": "/m/03wd5l3"
+        "freebase_id": "/m/03wd5l3",
+        "lat": 47.143188,
+        "lng": 9.544587
     },
     {
         "wikidata_id": "Q49655",
         "name": "Schellenberg",
         "description": "municipality of Liechtenstein",
-        "freebase_id": "/m/03rdmd"
+        "freebase_id": "/m/03rdmd",
+        "lat": 47.22833,
+        "lng": 9.53951
     }
 ]

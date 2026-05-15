@@ -61,6 +61,52 @@ class SerpApiFlightClient(FlightSearchProvider):
 
         return _parse_serpapi_response(data)
 
+    async def search_multi_origin(
+        self,
+        origins: list[str],
+        destination: str,
+        outbound_date: str,
+        return_date: str | None,
+        adults: int,
+    ) -> list[FlightOffer]:
+        """
+        SerpApi accepts up to 5 comma-separated freebase IDs in departure_id.
+        Callers must ensure len(origins) <= 5.
+        """
+        departure_id = ",".join(origins)
+        params: dict[str, str | int] = {
+            "engine": "google_flights",
+            "departure_id": departure_id,
+            "arrival_id": destination,
+            "outbound_date": outbound_date,
+            "currency": "EUR",
+            "hl": "en",
+            "gl": "us",
+            "deep_search": "true",
+            "adults": adults,
+            "api_key": self._api_key,
+        }
+        if return_date:
+            params["return_date"] = return_date
+            params["type"] = "1"
+        else:
+            params["type"] = "2"
+
+        try:
+            import ssl as _ssl
+            import truststore
+            ssl_ctx = truststore.SSLContext(_ssl.PROTOCOL_TLS_CLIENT)
+            verify: bool | object = ssl_ctx
+        except ImportError:
+            verify = True
+
+        async with httpx.AsyncClient(timeout=20, verify=verify) as client:
+            response = await client.get(_BASE_URL, params=params)
+            response.raise_for_status()
+            data = response.json()
+
+        return _parse_serpapi_response(data)
+
 
 def _parse_serpapi_response(data: dict) -> list[FlightOffer]:
     """Parse a SerpApi Google Flights JSON response into domain FlightOffer objects."""

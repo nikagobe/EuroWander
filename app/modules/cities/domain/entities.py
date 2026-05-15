@@ -10,4 +10,6 @@ class City:
     country: str
     description: str = ""
     freebase_id: str = ""   # used as departure_id / arrival_id in SerpApi flight search
+    lat: float | None = None
+    lng: float | None = None
 

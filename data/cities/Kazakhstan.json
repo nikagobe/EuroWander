@@ -3,235 +3,313 @@
         "wikidata_id": "Q4506471",
         "name": "Ali",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0641yjh"
+        "freebase_id": "/m/0641yjh",
+        "lat": 43.563601,
+        "lng": 77.032685
     },
     {
         "wikidata_id": "Q4506303",
         "name": "Shengel'dy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqm6f1"
+        "freebase_id": "/m/0fqm6f1",
+        "lat": 43.98527778,
+        "lng": 77.45138889
     },
     {
         "wikidata_id": "Q4506279",
         "name": "Aqtam",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06407_8"
+        "freebase_id": "/m/06407_8",
+        "lat": 43.439722222,
+        "lng": 79.819166666
     },
     {
         "wikidata_id": "Q4505840",
         "name": "Karaoy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqrmy0"
+        "freebase_id": "/m/0fqrmy0",
+        "lat": 43.522423,
+        "lng": 76.832996
     },
     {
         "wikidata_id": "Q4509505",
         "name": "Akdala",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063yn6w"
+        "freebase_id": "/m/063yn6w",
+        "lat": 43.3275,
+        "lng": 77.2
     },
     {
         "wikidata_id": "Q4512888",
         "name": "Karakastek",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqqgj0"
+        "freebase_id": "/m/0fqqgj0",
+        "lat": 43.133611111,
+        "lng": 76.100277777
     },
     {
         "wikidata_id": "Q4516389",
         "name": "Birlik",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_qsm"
+        "freebase_id": "/m/063_qsm",
+        "lat": 43.30694444,
+        "lng": 77.145
     },
     {
         "wikidata_id": "Q4506253",
         "name": "Aktyube",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06401sm"
+        "freebase_id": "/m/06401sm",
+        "lat": 45.243268,
+        "lng": 79.598685
     },
     {
         "wikidata_id": "Q4505582",
         "name": "Kerbūlaq",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqt56d"
+        "freebase_id": "/m/0fqt56d",
+        "lat": 43.935,
+        "lng": 77.599722222
     },
     {
         "wikidata_id": "Q4507118",
         "name": "Kazarma",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqszc5"
+        "freebase_id": "/m/0fqszc5",
+        "lat": 43.73277778,
+        "lng": 77.14333333
     },
     {
         "wikidata_id": "Q4506219",
         "name": "Azat",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063zd_s"
+        "freebase_id": "/m/063zd_s",
+        "lat": 43.335756,
+        "lng": 77.257635
     },
     {
         "wikidata_id": "Q4505007",
         "name": "Terekti",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqpn1v"
+        "freebase_id": "/m/0fqpn1v",
+        "lat": 43.245833333,
+        "lng": 76.791666666
     },
     {
         "wikidata_id": "Q4506272",
         "name": "Akshiy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640p78"
+        "freebase_id": "/m/0640p78",
+        "lat": 43.514783,
+        "lng": 77.637545
     },
     {
         "wikidata_id": "Q4507951",
         "name": "Koksu",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqns8q"
+        "freebase_id": "/m/0fqns8q",
+        "lat": 45.00277778,
+        "lng": 77.94638889
     },
     {
         "wikidata_id": "Q4509615",
         "name": "Ashchibulak",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_n0w"
+        "freebase_id": "/m/063_n0w",
+        "lat": 45.253453,
+        "lng": 79.527274
     },
     {
         "wikidata_id": "Q4505096",
         "name": "Ketpen",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmj0d"
+        "freebase_id": "/m/0fqmj0d",
+        "lat": 43.45027778,
+        "lng": 80.35
     },
     {
         "wikidata_id": "Q4506312",
         "name": "Gerasimovka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqp9dw"
+        "freebase_id": "/m/0fqp9dw",
+        "lat": 45.78916667,
+        "lng": 80.86777778
     },
     {
         "wikidata_id": "Q4506393",
         "name": "Balatopar",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640b8x"
+        "freebase_id": "/m/0640b8x",
+        "lat": 45.058611111,
+        "lng": 76.612777777
     },
     {
         "wikidata_id": "Q4509423",
         "name": "Bel'bulak",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_2zd"
+        "freebase_id": "/m/063_2zd",
+        "lat": 43.314444444,
+        "lng": 77.095833333
     },
     {
         "wikidata_id": "Q4506418",
         "name": "Aksu",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640xzp"
+        "freebase_id": "/m/0640xzp",
+        "lat": 45.611666666,
+        "lng": 79.466388888
     },
     {
         "wikidata_id": "Q4506329",
         "name": "Nikolaevka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmf2f"
+        "freebase_id": "/m/0fqmf2f",
+        "lat": 43.67805556,
+        "lng": 77.11277778
     },
     {
         "wikidata_id": "Q4507719",
         "name": "Karakemer",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqrjqb"
+        "freebase_id": "/m/0fqrjqb",
+        "lat": 43.42611111,
+        "lng": 77.62305556
     },
     {
         "wikidata_id": "Q4509427",
         "name": "Muhametjan Tüymebaev",
         "description": "village in Kazakhstan, former Ashchybulak",
-        "freebase_id": "/m/0641cbc"
+        "freebase_id": "/m/0641cbc",
+        "lat": 43.421954,
+        "lng": 76.911518
     },
     {
         "wikidata_id": "Q4509447",
         "name": "Chapayevo",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640sqx"
+        "freebase_id": "/m/0640sqx",
+        "lat": 43.472222222,
+        "lng": 76.807222222
     },
     {
         "wikidata_id": "Q4506318",
         "name": "Novopokrovka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqpd45"
+        "freebase_id": "/m/0fqpd45",
+        "lat": 45.45083333,
+        "lng": 79.98916667
     },
     {
         "wikidata_id": "Q4506535",
         "name": "Gagarino",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqlzl3"
+        "freebase_id": "/m/0fqlzl3",
+        "lat": 43.3809,
+        "lng": 77.004
     },
     {
         "wikidata_id": "Q4506554",
         "name": "Yevgenyevka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/05h2v5l"
+        "freebase_id": "/m/05h2v5l",
+        "lat": 43.508617,
+        "lng": 77.671667
     },
     {
         "wikidata_id": "Q4506565",
         "name": "Aydarly",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640y_1"
+        "freebase_id": "/m/0640y_1",
+        "lat": 44.032777777,
+        "lng": 79.520277777
     },
     {
         "wikidata_id": "Q4505036",
         "name": "Qumqudyq",
         "description": "village in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9vznq"
+        "freebase_id": "/m/0g9vznq",
+        "lat": 50.469444444,
+        "lng": 61.219444444
     },
     {
         "wikidata_id": "Q4506757",
         "name": "Aqdala",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063yddn"
+        "freebase_id": "/m/063yddn",
+        "lat": 45.033055555,
+        "lng": 74.528888888
     },
     {
         "wikidata_id": "Q4505948",
         "name": "Isayevo",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmw5p"
+        "freebase_id": "/m/0fqmw5p",
+        "lat": 43.38083333,
+        "lng": 76.75194444
     },
     {
         "wikidata_id": "Q4513169",
         "name": "Alga",
         "description": "village in Almaty Region of south-eastern Kazakhstan",
-        "freebase_id": "/m/0bxyvz6"
+        "freebase_id": "/m/0bxyvz6",
+        "lat": 43.44155,
+        "lng": 77.1774
     },
     {
         "wikidata_id": "Q4506171",
         "name": "Ekpindi",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06w7q4b"
+        "freebase_id": "/m/06w7q4b",
+        "lat": 45.736388888,
+        "lng": 80.618333333
     },
     {
         "wikidata_id": "Q4506740",
         "name": "Rudnichny",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0gty6b7"
+        "freebase_id": "/m/0gty6b7",
+        "lat": 44.67194444,
+        "lng": 78.90472222
     },
     {
         "wikidata_id": "Q4505936",
         "name": "Masaq",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqrbj_"
+        "freebase_id": "/m/0fqrbj_",
+        "lat": 43.62027778,
+        "lng": 78.30555556
     },
     {
         "wikidata_id": "Q4505043",
         "name": "Molaly",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqm55h"
+        "freebase_id": "/m/0fqm55h",
+        "lat": 45.450824,
+        "lng": 78.308005
     },
     {
         "wikidata_id": "Q4505029",
         "name": "Qyzylashchy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmtx5"
+        "freebase_id": "/m/0fqmtx5",
+        "lat": 45.998767,
+        "lng": 80.730764
     },
     {
         "wikidata_id": "Q4505577",
         "name": "Kokpek",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqnqp6"
+        "freebase_id": "/m/0fqnqp6",
+        "lat": 43.448387,
+        "lng": 78.675
     },
     {
         "wikidata_id": "Q4505599",
         "name": "Intymak",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqlzlk"
+        "freebase_id": "/m/0fqlzlk",
+        "lat": 43.415772,
+        "lng": 76.969256
     },
     {
         "wikidata_id": "Q4504981",
@@ -243,97 +321,129 @@
         "wikidata_id": "Q4505606",
         "name": "Panzhim",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqqzlq"
+        "freebase_id": "/m/0fqqzlq",
+        "lat": 44.20666667,
+        "lng": 80.21
     },
     {
         "wikidata_id": "Q4506296",
         "name": "Kamenka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0gtw31t"
+        "freebase_id": "/m/0gtw31t",
+        "lat": 43.18472222,
+        "lng": 76.83083333
     },
     {
         "wikidata_id": "Q4505865",
         "name": "Balasaz",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/064210k"
+        "freebase_id": "/m/064210k",
+        "lat": 45.139596,
+        "lng": 79.404161
     },
     {
         "wikidata_id": "Q4505861",
         "name": "Kengzhyra",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqt3ws"
+        "freebase_id": "/m/0fqt3ws",
+        "lat": 45.50027778,
+        "lng": 79.75
     },
     {
         "wikidata_id": "Q4505991",
         "name": "Koktobe, Almaty Province",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqnvgj"
+        "freebase_id": "/m/0fqnvgj",
+        "lat": 43.26055556,
+        "lng": 76.97638889
     },
     {
         "wikidata_id": "Q4506071",
         "name": "Maylybay",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsltq"
+        "freebase_id": "/m/0fqsltq",
+        "lat": 45.63916667,
+        "lng": 77.46166667
     },
     {
         "wikidata_id": "Q4506086",
         "name": "Kamennoye Plato",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqq6hf"
+        "freebase_id": "/m/0fqq6hf",
+        "lat": 43.516666666,
+        "lng": 77.166666666
     },
     {
         "wikidata_id": "Q4506089",
         "name": "Kokkaynar",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmsvt"
+        "freebase_id": "/m/0fqmsvt",
+        "lat": 43.45333333,
+        "lng": 76.945
     },
     {
         "wikidata_id": "Q4506029",
         "name": "Uzynbulaq",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsd8m"
+        "freebase_id": "/m/0fqsd8m",
+        "lat": 43.1589,
+        "lng": 79.0106
     },
     {
         "wikidata_id": "Q4506339",
         "name": "Altynemel",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06422py"
+        "freebase_id": "/m/06422py",
+        "lat": 44.336111111,
+        "lng": 78.444722222
     },
     {
         "wikidata_id": "Q4506349",
         "name": "Aynabulaq",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_840"
+        "freebase_id": "/m/063_840",
+        "lat": 44.62805,
+        "lng": 77.994902777
     },
     {
         "wikidata_id": "Q4506358",
         "name": "Arqarly",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_5gl"
+        "freebase_id": "/m/063_5gl",
+        "lat": 46.251184,
+        "lng": 80.097644
     },
     {
         "wikidata_id": "Q4506751",
         "name": "Narynkol",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqm928"
+        "freebase_id": "/m/0fqm928",
+        "lat": 42.726111111,
+        "lng": 80.174722222
     },
     {
         "wikidata_id": "Q4509481",
         "name": "Basqynshy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640m14"
+        "freebase_id": "/m/0640m14",
+        "lat": 44.340555555,
+        "lng": 80.382222222
     },
     {
         "wikidata_id": "Q4509462",
         "name": "Raz'yezd Sem'desyat",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640ghf"
+        "freebase_id": "/m/0640ghf",
+        "lat": 43.36,
+        "lng": 76.758888888
     },
     {
         "wikidata_id": "Q4509807",
         "name": "Aqshi",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_23f"
+        "freebase_id": "/m/063_23f",
+        "lat": 43.991944444,
+        "lng": 76.323611111
     },
     {
         "wikidata_id": "Q4505015",
@@ -345,31 +455,41 @@
         "wikidata_id": "Q4504973",
         "name": "Imeni Sverdlova",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqs5hg"
+        "freebase_id": "/m/0fqs5hg",
+        "lat": 43.489545,
+        "lng": 77.055602
     },
     {
         "wikidata_id": "Q4507126",
         "name": "Klyuchi",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0gtw8j9"
+        "freebase_id": "/m/0gtw8j9",
+        "lat": 43.40666667,
+        "lng": 77.14722222
     },
     {
         "wikidata_id": "Q4507131",
         "name": "Uspenovka",
         "description": "village in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9ztg8"
+        "freebase_id": "/m/0g9ztg8",
+        "lat": 50.77472222,
+        "lng": 61.79694444
     },
     {
         "wikidata_id": "Q4505846",
         "name": "Kauchuk",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqrzwk"
+        "freebase_id": "/m/0fqrzwk",
+        "lat": 43.41666667,
+        "lng": 76.93333333
     },
     {
         "wikidata_id": "Q4505944",
         "name": "Qyzylaghash",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqmrb1"
+        "freebase_id": "/m/0fqmrb1",
+        "lat": 45.378888888,
+        "lng": 78.728611111
     },
     {
         "wikidata_id": "Q4505595",
@@ -381,205 +501,273 @@
         "wikidata_id": "Q4505880",
         "name": "Aqbalyq",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0641psm"
+        "freebase_id": "/m/0641psm",
+        "lat": 46.566111111,
+        "lng": 79.209444444
     },
     {
         "wikidata_id": "Q4505889",
         "name": "Aqkol",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063zjx5"
+        "freebase_id": "/m/063zjx5",
+        "lat": 45.023333333,
+        "lng": 75.665555555
     },
     {
         "wikidata_id": "Q4505869",
         "name": "Elaman",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06w2y_z"
+        "freebase_id": "/m/06w2y_z",
+        "lat": 43.576111111,
+        "lng": 77.167777777
     },
     {
         "wikidata_id": "Q4505902",
         "name": "Ekiasha",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06wbbd4"
+        "freebase_id": "/m/06wbbd4",
+        "lat": 45.382777777,
+        "lng": 80.134722222
     },
     {
         "wikidata_id": "Q4505912",
         "name": "Cherkasskoe",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063yc5y"
+        "freebase_id": "/m/063yc5y",
+        "lat": 45.668888888,
+        "lng": 80.371388888
     },
     {
         "wikidata_id": "Q4505825",
         "name": "Yanaturmysh",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/05p53dz"
+        "freebase_id": "/m/05p53dz",
+        "lat": 43.528886111,
+        "lng": 77.7499
     },
     {
         "wikidata_id": "Q4506226",
         "name": "Baybulak",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063z5c5"
+        "freebase_id": "/m/063z5c5",
+        "lat": 43.2775,
+        "lng": 77.190277777
     },
     {
         "wikidata_id": "Q4506244",
         "name": "Baganashyl",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063yglf"
+        "freebase_id": "/m/063yglf",
+        "lat": 43.198611111,
+        "lng": 76.915277777
     },
     {
         "wikidata_id": "Q4506372",
         "name": "Dyusen'",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/064214p"
+        "freebase_id": "/m/064214p",
+        "lat": 43.583333333,
+        "lng": 76.916666666
     },
     {
         "wikidata_id": "Q4506381",
         "name": "Enbekshi",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06wbgxw"
+        "freebase_id": "/m/06wbgxw",
+        "lat": 46.162777777,
+        "lng": 80.705
     },
     {
         "wikidata_id": "Q4506457",
         "name": "Bozinggen",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640yk_"
+        "freebase_id": "/m/0640yk_",
+        "lat": 45.3875,
+        "lng": 75.252777777
     },
     {
         "wikidata_id": "Q4506496",
         "name": "Alghabas",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063y7f6"
+        "freebase_id": "/m/063y7f6",
+        "lat": 44.674166666,
+        "lng": 78.105
     },
     {
         "wikidata_id": "Q4506544",
         "name": "Burunday",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640xpd"
+        "freebase_id": "/m/0640xpd",
+        "lat": 43.360277777,
+        "lng": 77.857777777
     },
     {
         "wikidata_id": "Q4506623",
         "name": "Bayserka",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_pvc"
+        "freebase_id": "/m/063_pvc",
+        "lat": 43.383611111,
+        "lng": 77.108888888
     },
     {
         "wikidata_id": "Q4506734",
         "name": "Baidibek Bi",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/064ns8m"
+        "freebase_id": "/m/064ns8m",
+        "lat": 43.511522222,
+        "lng": 77.698402777
     },
     {
         "wikidata_id": "Q4509126",
         "name": "Ekinshi Beszhyldyq",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06w9blj"
+        "freebase_id": "/m/06w9blj",
+        "lat": 43.183333333,
+        "lng": 76.9
     },
     {
         "wikidata_id": "Q4509440",
         "name": "Artel' vostok",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063zpz1"
+        "freebase_id": "/m/063zpz1",
+        "lat": 45.2,
+        "lng": 79.05
     },
     {
         "wikidata_id": "Q4509466",
         "name": "Bazarkel'dy",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_m4_"
+        "freebase_id": "/m/063_m4_",
+        "lat": 43.547777777,
+        "lng": 77.280555555
     },
     {
         "wikidata_id": "Q4509513",
         "name": "Dzhanek",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640jpp"
+        "freebase_id": "/m/0640jpp",
+        "lat": 43.416666666,
+        "lng": 76.9
     },
     {
         "wikidata_id": "Q4509816",
         "name": "Baqbaqty",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_3nv"
+        "freebase_id": "/m/063_3nv",
+        "lat": 44.569416,
+        "lng": 76.723674
     },
     {
         "wikidata_id": "Q4506778",
         "name": "Al'manbyuruk",
         "description": "village in Atyrau Region, Kazakhstan",
-        "freebase_id": "/m/0g9vj56"
+        "freebase_id": "/m/0g9vj56",
+        "lat": 46.58333333,
+        "lng": 48.71666667
     },
     {
         "wikidata_id": "Q4505929",
         "name": "Obukhovka",
         "description": "village in the Almaty Province, Kazakhstan",
-        "freebase_id": "/m/0fqpfl1"
+        "freebase_id": "/m/0fqpfl1",
+        "lat": 46.192313,
+        "lng": 81.093495
     },
     {
         "wikidata_id": "Q4513183",
         "name": "Taldysay",
         "description": "city of Kazakhstan",
-        "freebase_id": "/m/0g9xdb6"
+        "freebase_id": "/m/0g9xdb6",
+        "lat": 50.196341666,
+        "lng": 55.971716666
     },
     {
         "wikidata_id": "Q4506559",
         "name": "Kayrat",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsxrx"
+        "freebase_id": "/m/0fqsxrx",
+        "lat": 43.54527778,
+        "lng": 77.58805556
     },
     {
         "wikidata_id": "Q4505856",
         "name": "Kokozek",
         "description": "disambiguation page",
-        "freebase_id": "/m/0fqmw67"
+        "freebase_id": "/m/0fqmw67",
+        "lat": 43.3475,
+        "lng": 76.76805556
     },
     {
         "wikidata_id": "Q4507122",
         "name": "Arshinov",
         "description": "village in Atyrau Region, Kazakhstan",
-        "freebase_id": "/m/0g9x4t8"
+        "freebase_id": "/m/0g9x4t8",
+        "lat": 46.583333333,
+        "lng": 48.866666666
     },
     {
         "wikidata_id": "Q4509445",
         "name": "Bereke",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06413kw"
+        "freebase_id": "/m/06413kw",
+        "lat": 45.983206,
+        "lng": 78.768618
     },
     {
         "wikidata_id": "Q4505100",
         "name": "Frunze",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06wbht9"
+        "freebase_id": "/m/06wbht9",
+        "lat": 43.707407,
+        "lng": 77.269921
     },
     {
         "wikidata_id": "Q4505612",
         "name": "Malybay",
         "description": "Wikimedia disambiguation page",
-        "freebase_id": "/m/0fqr90y"
+        "freebase_id": "/m/0fqr90y",
+        "lat": 43.49388889,
+        "lng": 78.4075
     },
     {
         "wikidata_id": "Q4505877",
         "name": "Algabas",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06416cf"
+        "freebase_id": "/m/06416cf",
+        "lat": 43.254722222,
+        "lng": 76.801388888
     },
     {
         "wikidata_id": "Q4506448",
         "name": "Arasan",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063yy95"
+        "freebase_id": "/m/063yy95",
+        "lat": 45.278638,
+        "lng": 79.350921
     },
     {
         "wikidata_id": "Q4516113",
         "name": "Bezvodnyy",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640q20"
+        "freebase_id": "/m/0640q20",
+        "lat": 43.533333333,
+        "lng": 76.866666666
     },
     {
         "wikidata_id": "Q4504792",
         "name": "Komsomol'skoe",
         "description": "town in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9_79p"
+        "freebase_id": "/m/0g9_79p",
+        "lat": 50.432944444,
+        "lng": 60.49975
     },
     {
         "wikidata_id": "Q1977617",
         "name": "Chundzha",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_ndx"
+        "freebase_id": "/m/063_ndx",
+        "lat": 43.55,
+        "lng": 79.466666666
     },
     {
         "wikidata_id": "Q1895055",
@@ -591,235 +779,313 @@
         "wikidata_id": "Q4227473",
         "name": "Koktobe, Pavlodar Province",
         "description": "settlement in Kazakhstan",
-        "freebase_id": "/m/011x3j_y"
+        "freebase_id": "/m/011x3j_y",
+        "lat": 51.529166666,
+        "lng": 77.473333333
     },
     {
         "wikidata_id": "Q4236381",
         "name": "Kotyaevka",
         "description": "No description available",
-        "freebase_id": "/m/03cjc43"
+        "freebase_id": "/m/03cjc43",
+        "lat": 46.545277777,
+        "lng": 48.766388888
     },
     {
         "wikidata_id": "Q4083203",
         "name": "Belbulaq",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/063_2zd"
+        "freebase_id": "/m/063_2zd",
+        "lat": 43.314652777,
+        "lng": 77.101
     },
     {
         "wikidata_id": "Q4494091",
         "name": "Terekti",
         "description": "village in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05n_hsc"
+        "freebase_id": "/m/05n_hsc",
+        "lat": 51.221111111,
+        "lng": 51.957222222
     },
     {
         "wikidata_id": "Q7299510",
         "name": "Razdol'noye",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqnm40"
+        "freebase_id": "/m/0fqnm40",
+        "lat": 43.34734,
+        "lng": 77.231898
     },
     {
         "wikidata_id": "Q4163271",
         "name": "Ötegen Batyr",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqprly"
+        "freebase_id": "/m/0fqprly",
+        "lat": 43.423055555,
+        "lng": 77.017222222
     },
     {
         "wikidata_id": "Q2386823",
         "name": "Uzınağaş",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/04gm2x5"
+        "freebase_id": "/m/04gm2x5",
+        "lat": 43.216666666,
+        "lng": 76.316666666
     },
     {
         "wikidata_id": "Q1756009",
         "name": "Karabulak",
         "description": "human settlement",
-        "freebase_id": "/m/0rphrkm"
+        "freebase_id": "/m/0rphrkm",
+        "lat": 42.526944444,
+        "lng": 69.773055555
     },
     {
         "wikidata_id": "Q1251114",
         "name": "Dostyk",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0h0yy3"
+        "freebase_id": "/m/0h0yy3",
+        "lat": 45.255,
+        "lng": 82.48783
     },
     {
         "wikidata_id": "Q4085606",
         "name": "Besqaynar",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0j_60v4"
+        "freebase_id": "/m/0j_60v4",
+        "lat": 43.217502777,
+        "lng": 77.1017
     },
     {
         "wikidata_id": "Q4203114",
         "name": "Yrgyz",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/04gnk8n"
+        "freebase_id": "/m/04gnk8n",
+        "lat": 48.616666666,
+        "lng": 61.266666666
     },
     {
         "wikidata_id": "Q162548",
         "name": "Oskemen",
         "description": "city in East Kazakhstan",
-        "freebase_id": "/m/02fgkc"
+        "freebase_id": "/m/02fgkc",
+        "lat": 49.95,
+        "lng": 82.616666666
     },
     {
         "wikidata_id": "Q3644611",
         "name": "Egindikol",
         "description": "village in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/0bs3ndq"
+        "freebase_id": "/m/0bs3ndq",
+        "lat": 50.846944444,
+        "lng": 70.832777777
     },
     {
         "wikidata_id": "Q18391009",
         "name": "Zhaisan",
         "description": "border crossing point between Kazakhstan and Russia",
-        "freebase_id": "/m/011x3zxv"
+        "freebase_id": "/m/011x3zxv",
+        "lat": 50.856378,
+        "lng": 56.147861
     },
     {
         "wikidata_id": "Q805515",
         "name": "Balkhash",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/027xy_h"
+        "freebase_id": "/m/027xy_h",
+        "lat": 46.85,
+        "lng": 75.0
     },
     {
         "wikidata_id": "Q1046498",
         "name": "Kurshim",
         "description": "human settlement",
-        "freebase_id": "/m/0j64wk1"
+        "freebase_id": "/m/0j64wk1",
+        "lat": 48.564722222,
+        "lng": 83.660277777
     },
     {
         "wikidata_id": "Q1046536",
         "name": "Korgalzhyn",
         "description": "human settlement",
-        "freebase_id": "/m/0ch2wqn"
+        "freebase_id": "/m/0ch2wqn",
+        "lat": 50.588333333,
+        "lng": 70.023055555
     },
     {
         "wikidata_id": "Q1046094",
         "name": "Arshaly",
         "description": "human settlement in Akmola Region, Kazakhstan",
-        "freebase_id": "/m/0bs70mn"
+        "freebase_id": "/m/0bs70mn",
+        "lat": 50.834302,
+        "lng": 72.171699
     },
     {
         "wikidata_id": "Q4210041",
         "name": "Kalkaman",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqq53r"
+        "freebase_id": "/m/0fqq53r",
+        "lat": 51.95349,
+        "lng": 76.02723
     },
     {
         "wikidata_id": "Q4212822",
         "name": "Qapal",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqp583"
+        "freebase_id": "/m/0fqp583",
+        "lat": 45.133333333,
+        "lng": 79.05
     },
     {
         "wikidata_id": "Q4445604",
         "name": "Sozak",
         "description": "place in South Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/012gbgvf"
+        "freebase_id": "/m/012gbgvf",
+        "lat": 44.140277777,
+        "lng": 68.475
     },
     {
         "wikidata_id": "Q2622157",
         "name": "Tyuratam",
         "description": "station on the Moscow to Tashkent railway in Kazakhstan",
-        "freebase_id": "/m/01c9_6"
+        "freebase_id": "/m/01c9_6",
+        "lat": 45.65005,
+        "lng": 63.31163
     },
     {
         "wikidata_id": "Q15266084",
         "name": "Petrovka settlement",
         "description": "Bronze Age settlement in Zhambyl District, North Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/07hz83"
+        "freebase_id": "/m/07hz83",
+        "lat": 54.28333333,
+        "lng": 68.25
     },
     {
         "wikidata_id": "Q1046159",
         "name": "Zerendi",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/0bs1cfb"
+        "freebase_id": "/m/0bs1cfb",
+        "lat": 52.910102777,
+        "lng": 69.153341666
     },
     {
         "wikidata_id": "Q4179780",
         "name": "Alatau",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/047cr_n"
+        "freebase_id": "/m/047cr_n",
+        "lat": 43.678916666,
+        "lng": 77.116694444
     },
     {
         "wikidata_id": "Q4212763",
         "name": "Qanshenggel",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqp3sd"
+        "freebase_id": "/m/0fqp3sd",
+        "lat": 44.33333333,
+        "lng": 75.55
     },
     {
         "wikidata_id": "Q4214360",
         "name": "Karaturyk",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqrts1"
+        "freebase_id": "/m/0fqrts1",
+        "lat": 43.556944444,
+        "lng": 77.985277777
     },
     {
         "wikidata_id": "Q16533362",
         "name": "Akchi",
         "description": "Pavlodar Province, Kazakhstan",
-        "freebase_id": "/m/010fb52j"
+        "freebase_id": "/m/010fb52j",
+        "lat": 50.724166,
+        "lng": 74.189849
     },
     {
         "wikidata_id": "Q4309401",
         "name": "Myñbaev",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqm6dl"
+        "freebase_id": "/m/0fqm6dl",
+        "lat": 43.28835,
+        "lng": 76.451552777
     },
     {
         "wikidata_id": "Q3259788",
         "name": "Kurmangazy",
         "description": "place in Atyrau Region, Kazakhstan",
-        "freebase_id": "/m/02rsgbr"
+        "freebase_id": "/m/02rsgbr",
+        "lat": 46.6,
+        "lng": 49.266666666
     },
     {
         "wikidata_id": "Q279568",
         "name": "Lepsy",
         "description": "human settlement in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/012hcqch"
+        "freebase_id": "/m/012hcqch",
+        "lat": 45.528612,
+        "lng": 80.616642
     },
     {
         "wikidata_id": "Q2121436",
         "name": "Karabulak",
         "description": "human settlement in Jetisu Region, Kazakhstan",
-        "freebase_id": "/m/04gphyy"
+        "freebase_id": "/m/04gphyy",
+        "lat": 44.908888888,
+        "lng": 78.492222222
     },
     {
         "wikidata_id": "Q1703483",
         "name": "Saran",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/0265qmw"
+        "freebase_id": "/m/0265qmw",
+        "lat": 49.802777777,
+        "lng": 72.827777777
     },
     {
         "wikidata_id": "Q4537933",
         "name": "Jankent",
         "description": "archaeological site in Kazakhstan",
-        "freebase_id": "/m/0gmdgfx"
+        "freebase_id": "/m/0gmdgfx",
+        "lat": 45.61194444,
+        "lng": 61.92166667
     },
     {
         "wikidata_id": "Q12546465",
         "name": "Wasij",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/03r5gq"
+        "freebase_id": "/m/03r5gq",
+        "lat": 42.951666666,
+        "lng": 68.0325
     },
     {
         "wikidata_id": "Q622760",
         "name": "Aksay",
         "description": "human settlement",
-        "freebase_id": "/m/05p9py2"
+        "freebase_id": "/m/05p9py2",
+        "lat": 51.167777777,
+        "lng": 52.995
     },
     {
         "wikidata_id": "Q1520",
         "name": "Astana",
         "description": "capital of Kazakhstan",
-        "freebase_id": "/m/0fn08"
+        "freebase_id": "/m/0fn08",
+        "lat": 51.133333333,
+        "lng": 71.433333333
     },
     {
         "wikidata_id": "Q374060",
         "name": "Ushqonyr",
         "description": "human settlement",
-        "freebase_id": "/m/06x0wg"
+        "freebase_id": "/m/06x0wg",
+        "lat": 43.194166666,
+        "lng": 76.536666666
     },
     {
         "wikidata_id": "Q1019405",
         "name": "Priozersk",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/0b74fmq"
+        "freebase_id": "/m/0b74fmq",
+        "lat": 46.030991666,
+        "lng": 73.701947222
     },
     {
         "wikidata_id": "Q13647374",
@@ -831,139 +1097,185 @@
         "wikidata_id": "Q4259190",
         "name": "Lepsi",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqq15q"
+        "freebase_id": "/m/0fqq15q",
+        "lat": 46.235,
+        "lng": 78.945555555
     },
     {
         "wikidata_id": "Q4214673",
         "name": "Qarğalı",
         "description": "populated place in Zhambyl District, Almaty Province, Kazakhstan",
-        "freebase_id": "/m/06w9zvj"
+        "freebase_id": "/m/06w9zvj",
+        "lat": 43.167287,
+        "lng": 76.40768
     },
     {
         "wikidata_id": "Q4218840",
         "name": "Kegen",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063zrnc"
+        "freebase_id": "/m/063zrnc",
+        "lat": 43.018329,
+        "lng": 79.2243
     },
     {
         "wikidata_id": "Q1047089",
         "name": "Bakanas",
         "description": "human settlement",
-        "freebase_id": "/m/04gss54"
+        "freebase_id": "/m/04gss54",
+        "lat": 44.808055555,
+        "lng": 76.277222222
     },
     {
         "wikidata_id": "Q4477345",
         "name": "Urunkhayka",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0bbz5_f"
+        "freebase_id": "/m/0bbz5_f",
+        "lat": 48.786833333,
+        "lng": 86.026472222
     },
     {
         "wikidata_id": "Q4061783",
         "name": "Alexeyevka",
         "description": "settlement in Zerendi District, Kazakhstan",
-        "freebase_id": "/m/0gxj23"
+        "freebase_id": "/m/0gxj23",
+        "lat": 53.512023,
+        "lng": 69.514184
     },
     {
         "wikidata_id": "Q1340535",
         "name": "Sarkand",
         "description": "human settlement",
-        "freebase_id": "/m/04gp928"
+        "freebase_id": "/m/04gp928",
+        "lat": 45.41,
+        "lng": 79.918611111
     },
     {
         "wikidata_id": "Q7273154",
         "name": "Qyzylqayyng",
         "description": "village in Alakol District, Kazakhstan",
-        "freebase_id": "/m/03y9dd_"
+        "freebase_id": "/m/03y9dd_",
+        "lat": 45.848263888,
+        "lng": 80.226722222
     },
     {
         "wikidata_id": "Q141468",
         "name": "Zhanybek",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/05p6gc7"
+        "freebase_id": "/m/05p6gc7",
+        "lat": 49.42207,
+        "lng": 46.84705
     },
     {
         "wikidata_id": "Q7082688",
         "name": "Nura",
         "description": "village in Talgar District, Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqppqv"
+        "freebase_id": "/m/0fqppqv",
+        "lat": 43.687426,
+        "lng": 77.19414
     },
     {
         "wikidata_id": "Q1688290",
         "name": "Esik",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0271hh4"
+        "freebase_id": "/m/0271hh4",
+        "lat": 43.3552,
+        "lng": 77.45245
     },
     {
         "wikidata_id": "Q1976359",
         "name": "Zhansugirov",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/04gvcx0"
+        "freebase_id": "/m/04gvcx0",
+        "lat": 45.383333333,
+        "lng": 79.5
     },
     {
         "wikidata_id": "Q2655139",
         "name": "Kierzek",
         "description": "village in Masovian, Poland",
-        "freebase_id": "/m/04q0wcs"
+        "freebase_id": "/m/04q0wcs",
+        "lat": 53.2333,
+        "lng": 21.3167
     },
     {
         "wikidata_id": "Q4249095",
         "name": "Kuryk",
         "description": "settlement of Kazakhstan",
-        "freebase_id": "/m/010lz4tn"
+        "freebase_id": "/m/010lz4tn",
+        "lat": 43.183333333,
+        "lng": 51.683333333
     },
     {
         "wikidata_id": "Q6389184",
         "name": "Kengir",
         "description": "village in Karaganda Region, Kazakhstan",
-        "freebase_id": "/m/07tz3w"
+        "freebase_id": "/m/07tz3w",
+        "lat": 47.8363,
+        "lng": 67.61932222
     },
     {
         "wikidata_id": "Q6452967",
         "name": "Kyzyltu",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqm_ls"
+        "freebase_id": "/m/0fqm_ls",
+        "lat": 43.401858333,
+        "lng": 77.066952777
     },
     {
         "wikidata_id": "Q1047734",
         "name": "Ertis",
         "description": "city",
-        "freebase_id": "/m/011jjhfx"
+        "freebase_id": "/m/011jjhfx",
+        "lat": 53.33367,
+        "lng": 75.45901
     },
     {
         "wikidata_id": "Q7943262",
         "name": "Vtoraya Pyatiletka",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsh30"
+        "freebase_id": "/m/0fqsh30",
+        "lat": 43.183224,
+        "lng": 76.89915
     },
     {
         "wikidata_id": "Q3900621",
         "name": "Pervomayskiy",
         "description": "village in Almaty, Kazakhstan",
-        "freebase_id": "/m/0fqr32p"
+        "freebase_id": "/m/0fqr32p",
+        "lat": 43.37106,
+        "lng": 76.941974
     },
     {
         "wikidata_id": "Q6380637",
         "name": "Qaynazar",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsw53"
+        "freebase_id": "/m/0fqsw53",
+        "lat": 43.370591,
+        "lng": 77.316228
     },
     {
         "wikidata_id": "Q2374438",
         "name": "Kandyagash",
         "description": "town in Aktobe Province, Kazakhstan",
-        "freebase_id": "/m/0g9v7my"
+        "freebase_id": "/m/0g9v7my",
+        "lat": 49.464444444,
+        "lng": 57.418055555
     },
     {
         "wikidata_id": "Q6380924",
         "name": "Kazatkom",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqt2js"
+        "freebase_id": "/m/0fqt2js",
+        "lat": 43.581157777,
+        "lng": 77.724550555
     },
     {
         "wikidata_id": "Q4469981",
         "name": "Uil",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/010ls15r"
+        "freebase_id": "/m/010ls15r",
+        "lat": 49.074705,
+        "lng": 54.665945
     },
     {
         "wikidata_id": "Q17072815",
@@ -975,283 +1287,377 @@
         "wikidata_id": "Q3820453",
         "name": "Jand",
         "description": "medieval town in Transoxiana in modern-day Kazakhstan",
-        "freebase_id": "/m/03h3sz2"
+        "freebase_id": "/m/03h3sz2",
+        "lat": 44.616666666,
+        "lng": 64.15
     },
     {
         "wikidata_id": "Q2752954",
         "name": "Aksuat",
         "description": "place in East Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/0bhchdk"
+        "freebase_id": "/m/0bhchdk",
+        "lat": 47.76220833,
+        "lng": 82.801625
     },
     {
         "wikidata_id": "Q4701902",
         "name": "Aqtuma",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640yx_"
+        "freebase_id": "/m/0640yx_",
+        "lat": 45.297222222,
+        "lng": 79.065
     },
     {
         "wikidata_id": "Q4093446",
         "name": "Boralday",
         "description": "settlement in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640j4h"
+        "freebase_id": "/m/0640j4h",
+        "lat": 43.366666666,
+        "lng": 76.85
     },
     {
         "wikidata_id": "Q254928",
         "name": "Ushtobe",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/063z10s"
+        "freebase_id": "/m/063z10s",
+        "lat": 45.258888888,
+        "lng": 77.978611111
     },
     {
         "wikidata_id": "Q1047754",
         "name": "Kaztal",
         "description": "human settlement",
-        "freebase_id": "/m/05pbl7m"
+        "freebase_id": "/m/05pbl7m",
+        "lat": 49.7575,
+        "lng": 48.695
     },
     {
         "wikidata_id": "Q1047747",
         "name": "Sharbakty (Sharbakty District)",
         "description": "human settlement",
-        "freebase_id": "/m/02vpv79"
+        "freebase_id": "/m/02vpv79",
+        "lat": 52.488611111,
+        "lng": 78.159722222
     },
     {
         "wikidata_id": "Q3884178",
         "name": "Zhosaly",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/010lrc12"
+        "freebase_id": "/m/010lrc12",
+        "lat": 45.488888888,
+        "lng": 64.09
     },
     {
         "wikidata_id": "Q6363715",
         "name": "Ladyzhenka",
         "description": "No description available",
-        "freebase_id": "/m/0glrxbn"
+        "freebase_id": "/m/0glrxbn",
+        "lat": 50.9982,
+        "lng": 68.698102777
     },
     {
         "wikidata_id": "Q4791651",
         "name": "Arkabay",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640412"
+        "freebase_id": "/m/0640412",
+        "lat": 43.4175,
+        "lng": 77.091944444
     },
     {
         "wikidata_id": "Q13646475",
         "name": "Kokozek, Karasay District",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqmw67"
+        "freebase_id": "/m/0fqmw67",
+        "lat": 43.348102777,
+        "lng": 76.772602777
     },
     {
         "wikidata_id": "Q574555",
         "name": "Sayram",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/028934m"
+        "freebase_id": "/m/028934m",
+        "lat": 42.301944444,
+        "lng": 69.770277777
     },
     {
         "wikidata_id": "Q2073917",
         "name": "Urzhar",
         "description": "place in East Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/0k8wtwk"
+        "freebase_id": "/m/0k8wtwk",
+        "lat": 47.09,
+        "lng": 81.622777777
     },
     {
         "wikidata_id": "Q335042",
         "name": "Usharal",
         "description": "human settlement",
-        "freebase_id": "/m/04gs0sb"
+        "freebase_id": "/m/04gs0sb",
+        "lat": 46.169722222,
+        "lng": 80.939444444
     },
     {
         "wikidata_id": "Q698941",
         "name": "Arkalyk",
         "description": "city in Kostanay Province, Kazakhstan",
-        "freebase_id": "/m/0641hp"
+        "freebase_id": "/m/0641hp",
+        "lat": 50.248611111,
+        "lng": 66.911388888
     },
     {
         "wikidata_id": "Q262448",
         "name": "Saryshaghan",
         "description": "human settlement",
-        "freebase_id": "/m/026zkb2"
+        "freebase_id": "/m/026zkb2",
+        "lat": 46.119166666,
+        "lng": 73.619166666
     },
     {
         "wikidata_id": "Q4177934",
         "name": "Zhalagash",
         "description": "settlement in Kazakhstan",
-        "freebase_id": "/m/010lwcyk"
+        "freebase_id": "/m/010lwcyk",
+        "lat": 45.0833,
+        "lng": 64.6667
     },
     {
         "wikidata_id": "Q2302162",
         "name": "Talgar",
         "description": "town in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0271hf2"
+        "freebase_id": "/m/0271hf2",
+        "lat": 43.303611111,
+        "lng": 77.240833333
     },
     {
         "wikidata_id": "Q6985453",
         "name": "Nechayev Sad",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmcvq"
+        "freebase_id": "/m/0fqmcvq",
+        "lat": 45.13611111,
+        "lng": 79.0
     },
     {
         "wikidata_id": "Q4063922",
         "name": "Amangeldi",
         "description": "village in Kostanay Region, Kazakhstan",
-        "freebase_id": "/m/011v5ngy"
+        "freebase_id": "/m/011v5ngy",
+        "lat": 50.181111111,
+        "lng": 65.188611111
     },
     {
         "wikidata_id": "Q6416571",
         "name": "Kishi Qaraoy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqmlcz"
+        "freebase_id": "/m/0fqmlcz",
+        "lat": 43.54527778,
+        "lng": 77.04277778
     },
     {
         "wikidata_id": "Q2378028",
         "name": "Embi",
         "description": "town in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9zf17"
+        "freebase_id": "/m/0g9zf17",
+        "lat": 48.826388888,
+        "lng": 58.144166666
     },
     {
         "wikidata_id": "Q3947005",
         "name": "Beskol",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640_36"
+        "freebase_id": "/m/0640_36",
+        "lat": 46.175277777,
+        "lng": 81.098888888
     },
     {
         "wikidata_id": "Q1651017",
         "name": "Auliekol",
         "description": "human settlement",
-        "freebase_id": "/m/011vb6sw"
+        "freebase_id": "/m/011vb6sw",
+        "lat": 52.368611111,
+        "lng": 64.131111111
     },
     {
         "wikidata_id": "Q13649088",
         "name": "Utery",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0g9_80z"
+        "freebase_id": "/m/0g9_80z",
+        "lat": 46.491388888,
+        "lng": 48.996944444
     },
     {
         "wikidata_id": "Q8070123",
         "name": "Zhanakala",
         "description": "town in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/0bryfks"
+        "freebase_id": "/m/0bryfks",
+        "lat": 49.216666666,
+        "lng": 50.333333333
     },
     {
         "wikidata_id": "Q622786",
         "name": "Aqtas",
         "description": "village in Kazakhstan, Almaty Oblast",
-        "freebase_id": "/m/04sdds"
+        "freebase_id": "/m/04sdds",
+        "lat": 43.38541,
+        "lng": 77.2338
     },
     {
         "wikidata_id": "Q3448684",
         "name": "Astrakhanka",
         "description": "village in Aqmola Region, Kazakhstan",
-        "freebase_id": "/m/0bs1lgp"
+        "freebase_id": "/m/0bs1lgp",
+        "lat": 51.5981,
+        "lng": 69.978
     },
     {
         "wikidata_id": "Q3192204",
         "name": "Kalinino",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqnwk2"
+        "freebase_id": "/m/0fqnwk2",
+        "lat": 44.158888888,
+        "lng": 78.751944444
     },
     {
         "wikidata_id": "Q13641721",
         "name": "Kalachi",
         "description": "village in Esil, Akmola, Kazakhstan",
-        "freebase_id": "/m/012hmrqb"
+        "freebase_id": "/m/012hmrqb",
+        "lat": 52.253498,
+        "lng": 66.536852
     },
     {
         "wikidata_id": "Q4523462",
         "name": "Shetpe",
         "description": "place in Mangystau Region, Kazakhstan",
-        "freebase_id": "/m/0j27wcv"
+        "freebase_id": "/m/0j27wcv",
+        "lat": 44.133333333,
+        "lng": 52.15
     },
     {
         "wikidata_id": "Q4216074",
         "name": "Karsakpay",
         "description": "place in Karaganda Region, Kazakhstan",
-        "freebase_id": "/m/0qfrswn"
+        "freebase_id": "/m/0qfrswn",
+        "lat": 47.833333333,
+        "lng": 66.733333333
     },
     {
         "wikidata_id": "Q4214344",
         "name": "Karatobe",
         "description": "village and district seat in West Kazakhstan",
-        "freebase_id": "/m/05p5sdv"
+        "freebase_id": "/m/05p5sdv",
+        "lat": 49.69,
+        "lng": 53.507777777
     },
     {
         "wikidata_id": "Q4173607",
         "name": "Yegindybulak",
         "description": "place in Karaganda Region, Kazakhstan",
-        "freebase_id": "/m/0lqd79k"
+        "freebase_id": "/m/0lqd79k",
+        "lat": 49.784722222,
+        "lng": 76.39
     },
     {
         "wikidata_id": "Q5445962",
         "name": "Fetisovo",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0j261tt"
+        "freebase_id": "/m/0j261tt",
+        "lat": 42.756519,
+        "lng": 52.64204
     },
     {
         "wikidata_id": "Q1238323",
         "name": "Esil",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/0bs9275"
+        "freebase_id": "/m/0bs9275",
+        "lat": 51.955555555,
+        "lng": 66.404166666
     },
     {
         "wikidata_id": "Q13648441",
         "name": "Kalinovka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqp06p"
+        "freebase_id": "/m/0fqp06p",
+        "lat": 45.099722222,
+        "lng": 78.708611111
     },
     {
         "wikidata_id": "Q3403059",
         "name": "Şelek",
         "description": "settlement in Kazakhstan",
-        "freebase_id": "/m/063zwlh"
+        "freebase_id": "/m/063zwlh",
+        "lat": 43.597752777,
+        "lng": 78.249594444
     },
     {
         "wikidata_id": "Q35493",
         "name": "Almaty",
         "description": "largest city of Kazakhstan",
-        "freebase_id": "/m/0151s1"
+        "freebase_id": "/m/0151s1",
+        "lat": 43.24,
+        "lng": 76.915
     },
     {
         "wikidata_id": "Q2753561",
         "name": "Aktogay, East Kazakhstan Province",
         "description": "urban-type settlement in East Kazakhstan, Kazakhstan",
-        "freebase_id": "/m/0bh7llv"
+        "freebase_id": "/m/0bh7llv",
+        "lat": 46.95,
+        "lng": 79.666666666
     },
     {
         "wikidata_id": "Q6433146",
         "name": "Koshkar",
         "description": "village in Atyrau Region, Kazakhstan",
-        "freebase_id": "/m/0g9_33d"
+        "freebase_id": "/m/0g9_33d",
+        "lat": 47.43333333,
+        "lng": 53.45
     },
     {
         "wikidata_id": "Q30505",
         "name": "Kişkeneköl",
         "description": "administrative center of Ualikhanov District, North Kazakhstan province",
-        "freebase_id": "/m/0g9wmnd"
+        "freebase_id": "/m/0g9wmnd",
+        "lat": 53.639444444,
+        "lng": 72.343888888
     },
     {
         "wikidata_id": "Q1921811",
         "name": "Merki",
         "description": "city of Kazakhstan",
-        "freebase_id": "/m/0r4qvq4"
+        "freebase_id": "/m/0r4qvq4",
+        "lat": 42.864956,
+        "lng": 73.185854
     },
     {
         "wikidata_id": "Q13648627",
         "name": "Aqsai",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsngz"
+        "freebase_id": "/m/0fqsngz",
+        "lat": 43.45277778,
+        "lng": 76.72277778
     },
     {
         "wikidata_id": "Q2380922",
         "name": "Ayteke Bi",
         "description": "urban-type settlement in Kyzylorda Province, Kazakhstan",
-        "freebase_id": "/m/0265q8r"
+        "freebase_id": "/m/0265q8r",
+        "lat": 45.853611111,
+        "lng": 62.156111111
     },
     {
         "wikidata_id": "Q718108",
         "name": "Arys",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/03ccyqn"
+        "freebase_id": "/m/03ccyqn",
+        "lat": 42.42965,
+        "lng": 68.80463
     },
     {
         "wikidata_id": "Q3498700",
         "name": "Steplag",
         "description": "Soviet labor camp",
-        "freebase_id": "/m/0121lm0q"
+        "freebase_id": "/m/0121lm0q",
+        "lat": 47.84111111,
+        "lng": 67.615
     },
     {
         "wikidata_id": "Q7111029",
@@ -1263,690 +1669,920 @@
         "wikidata_id": "Q638946",
         "name": "Mangistau",
         "description": "rural locality in Mangystau Province, Kazakhstan",
-        "freebase_id": "/m/0j_502v"
+        "freebase_id": "/m/0j_502v",
+        "lat": 43.693611111,
+        "lng": 51.304444444
     },
     {
         "wikidata_id": "Q6367905",
         "name": "Karagayly",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqqbbx"
+        "freebase_id": "/m/0fqqbbx",
+        "lat": 43.168611111,
+        "lng": 76.850277777
     },
     {
         "wikidata_id": "Q4075758",
         "name": "Novoalekseevka",
         "description": "town in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqnhh5"
+        "freebase_id": "/m/0fqnhh5",
+        "lat": 43.402777777,
+        "lng": 77.225
     },
     {
         "wikidata_id": "Q2030552",
         "name": "Shchuchinsk",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/0bs7yc7"
+        "freebase_id": "/m/0bs7yc7",
+        "lat": 52.933333333,
+        "lng": 70.2
     },
     {
         "wikidata_id": "Q650715",
         "name": "Beyneu",
         "description": "human settlement",
-        "freebase_id": "/m/02q2v1n"
+        "freebase_id": "/m/02q2v1n",
+        "lat": 45.316666666,
+        "lng": 55.2
     },
     {
         "wikidata_id": "Q163479",
         "name": "Korday",
         "description": "human settlement",
-        "freebase_id": "/m/03cq1_n"
+        "freebase_id": "/m/03cq1_n",
+        "lat": 43.036944444,
+        "lng": 74.711388888
     },
     {
         "wikidata_id": "Q1521311",
         "name": "Ghabiden Mustafin",
         "description": "human settlement",
-        "freebase_id": "/m/0drz90n"
+        "freebase_id": "/m/0drz90n",
+        "lat": 50.119166666,
+        "lng": 73.165555555
     },
     {
         "wikidata_id": "Q61944",
         "name": "Semey",
         "description": "city in Eastern Kazakhstan, capital of Abay Region",
-        "freebase_id": "/m/02f03_"
+        "freebase_id": "/m/02f03_",
+        "lat": 50.411111111,
+        "lng": 80.2275
     },
     {
         "wikidata_id": "Q145802",
         "name": "Shu",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/026dq1v"
+        "freebase_id": "/m/026dq1v",
+        "lat": 43.598333333,
+        "lng": 73.761388888
     },
     {
         "wikidata_id": "Q1018868",
         "name": "Zhitikara",
         "description": "town in Kostanay Province, Kazakhstan",
-        "freebase_id": "/m/0kvkx2k"
+        "freebase_id": "/m/0kvkx2k",
+        "lat": 52.190833333,
+        "lng": 61.200555555
     },
     {
         "wikidata_id": "Q491123",
         "name": "Kyzylorda",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/09r88m"
+        "freebase_id": "/m/09r88m",
+        "lat": 44.8479,
+        "lng": 65.49989
     },
     {
         "wikidata_id": "Q1019392",
         "name": "Makinsk",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/0bs0m7x"
+        "freebase_id": "/m/0bs0m7x",
+        "lat": 52.633333333,
+        "lng": 70.416666666
     },
     {
         "wikidata_id": "Q1019810",
         "name": "Ereymentaw",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/0bs5fwz"
+        "freebase_id": "/m/0bs5fwz",
+        "lat": 51.616666666,
+        "lng": 73.1
     },
     {
         "wikidata_id": "Q622740",
         "name": "Akkol",
         "description": "human settlement",
-        "freebase_id": "/m/03h5jmv"
+        "freebase_id": "/m/03h5jmv",
+        "lat": 52.0,
+        "lng": 70.933333333
     },
     {
         "wikidata_id": "Q1025808",
         "name": "Karkaraly",
         "description": "town in Karagandy Province, Kazakhstan",
-        "freebase_id": "/m/0bbwxjs"
+        "freebase_id": "/m/0bbwxjs",
+        "lat": 49.405833333,
+        "lng": 75.474166666
     },
     {
         "wikidata_id": "Q486282",
         "name": "Pavlodar",
         "description": "city in Kazakhstan, former capital of the Kimek Khanate",
-        "freebase_id": "/m/05d8f8"
+        "freebase_id": "/m/05d8f8",
+        "lat": 52.315555555,
+        "lng": 76.956388888
     },
     {
         "wikidata_id": "Q1192007",
         "name": "Fort-Shevchenko",
         "description": "human settlement",
-        "freebase_id": "/m/09cxty"
+        "freebase_id": "/m/09cxty",
+        "lat": 44.516666666,
+        "lng": 50.266666666
     },
     {
         "wikidata_id": "Q12528524",
         "name": "Almaty District",
         "description": "district of Astana, Kazakhstan",
-        "freebase_id": "/m/012zlg7n"
+        "freebase_id": "/m/012zlg7n",
+        "lat": 51.15,
+        "lng": 71.5
     },
     {
         "wikidata_id": "Q490643",
         "name": "Kokshetau",
         "description": "city in Kazakhstan, seat of Akmola Region",
-        "freebase_id": "/m/02c8ky"
+        "freebase_id": "/m/02c8ky",
+        "lat": 53.28245,
+        "lng": 69.396919444
     },
     {
         "wikidata_id": "Q488990",
         "name": "Kostanay",
         "description": "city in Kazakhstan, administrative centre of the Kostanay Province",
-        "freebase_id": "/m/0131z_j8"
+        "freebase_id": "/m/0131z_j8",
+        "lat": 53.21435,
+        "lng": 63.62463
     },
     {
         "wikidata_id": "Q488990",
         "name": "Kostanay",
         "description": "city in Kazakhstan, administrative centre of the Kostanay Province",
-        "freebase_id": "/m/06_5gq"
+        "freebase_id": "/m/06_5gq",
+        "lat": 53.21435,
+        "lng": 63.62463
     },
     {
         "wikidata_id": "Q487439",
         "name": "Oral",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/03gwhx"
+        "freebase_id": "/m/03gwhx",
+        "lat": 51.2225,
+        "lng": 51.3725
     },
     {
         "wikidata_id": "Q657052",
         "name": "Lisakov",
         "description": "human settlement",
-        "freebase_id": "/m/0cm979d"
+        "freebase_id": "/m/0cm979d",
+        "lat": 52.536944444,
+        "lng": 62.493611111
     },
     {
         "wikidata_id": "Q2374413",
         "name": "Kenesary",
         "description": "town in Akmola Region, Kazakhstan",
-        "freebase_id": "/m/0j29bxb"
+        "freebase_id": "/m/0j29bxb",
+        "lat": 51.1,
+        "lng": 66.316666666
     },
     {
         "wikidata_id": "Q491102",
         "name": "Taldyqorğan",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/09r8c0"
+        "freebase_id": "/m/09r8c0",
+        "lat": 45.016666666,
+        "lng": 78.366666666
     },
     {
         "wikidata_id": "Q1881641",
         "name": "Zaysan",
         "description": "place in East Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/0b5ddt"
+        "freebase_id": "/m/0b5ddt",
+        "lat": 47.466666666,
+        "lng": 84.866666666
     },
     {
         "wikidata_id": "Q848638",
         "name": "Turkistan",
         "description": "city in Turkistan Region, Kazakhstan",
-        "freebase_id": "/m/058m53"
+        "freebase_id": "/m/058m53",
+        "lat": 43.301944444,
+        "lng": 68.269166666
     },
     {
         "wikidata_id": "Q165450",
         "name": "Aral",
         "description": "city in southwest Kazakhstan in the Kyzylorda region",
-        "freebase_id": "/m/06dkfl"
+        "freebase_id": "/m/06dkfl",
+        "lat": 46.8,
+        "lng": 61.666666666
     },
     {
         "wikidata_id": "Q2231416",
         "name": "Zharkent",
         "description": "town in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0bdn2h"
+        "freebase_id": "/m/0bdn2h",
+        "lat": 44.166666666,
+        "lng": 80.006666666
     },
     {
         "wikidata_id": "Q304827",
         "name": "Abay",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/05zzkv7"
+        "freebase_id": "/m/05zzkv7",
+        "lat": 49.63111111,
+        "lng": 72.85388889
     },
     {
         "wikidata_id": "Q986100",
         "name": "Ridder",
         "description": "city",
-        "freebase_id": "/m/0bwjxq"
+        "freebase_id": "/m/0bwjxq",
+        "lat": 50.344166666,
+        "lng": 83.512777777
     },
     {
         "wikidata_id": "Q1816833",
         "name": "Qonayev",
         "description": "capital of Almaty Region, Kazakhstan",
-        "freebase_id": "/m/05h1xg2"
+        "freebase_id": "/m/05h1xg2",
+        "lat": 43.883333333,
+        "lng": 77.083333333
     },
     {
         "wikidata_id": "Q2302185",
         "name": "Tekeli",
         "description": "town in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063zv6m"
+        "freebase_id": "/m/063zv6m",
+        "lat": 44.83322,
+        "lng": 78.83089
     },
     {
         "wikidata_id": "Q740832",
         "name": "Jezkazgan",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/02k51d"
+        "freebase_id": "/m/02k51d",
+        "lat": 47.783333333,
+        "lng": 67.7
     },
     {
         "wikidata_id": "Q1008853",
         "name": "Rudny",
         "description": "Quarry and industrial city in the European part, Kostanay region of Kazakhstan",
-        "freebase_id": "/m/0ggtn9"
+        "freebase_id": "/m/0ggtn9",
+        "lat": 52.966666666,
+        "lng": 63.116666666
     },
     {
         "wikidata_id": "Q1020484",
         "name": "Satpayev",
         "description": "city in Ulytau region, Kazakhstan",
-        "freebase_id": "/m/03wgb60"
+        "freebase_id": "/m/03wgb60",
+        "lat": 47.9,
+        "lng": 67.533333333
     },
     {
         "wikidata_id": "Q1315249",
         "name": "Kentau",
         "description": "place in Turkistan Region, Kazakhstan",
-        "freebase_id": "/m/03d1h8c"
+        "freebase_id": "/m/03d1h8c",
+        "lat": 43.516944444,
+        "lng": 68.504444444
     },
     {
         "wikidata_id": "Q1047824",
         "name": "Shemonaikha",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/0_x6q75"
+        "freebase_id": "/m/0_x6q75",
+        "lat": 50.628055555,
+        "lng": 81.912222222
     },
     {
         "wikidata_id": "Q767177",
         "name": "Kurchatov",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/03cyns9"
+        "freebase_id": "/m/03cyns9",
+        "lat": 50.756666666,
+        "lng": 78.54
     },
     {
         "wikidata_id": "Q486913",
         "name": "Atyrau",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/0151sx"
+        "freebase_id": "/m/0151sx",
+        "lat": 47.116666666,
+        "lng": 51.883333333
     },
     {
         "wikidata_id": "Q1557559",
         "name": "Kazaly",
         "description": "human settlement in Kazakhstan",
-        "freebase_id": "/m/0bmfx1"
+        "freebase_id": "/m/0bmfx1",
+        "lat": 45.766666666,
+        "lng": 62.1
     },
     {
         "wikidata_id": "Q486545",
         "name": "Taraz",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/038gkv"
+        "freebase_id": "/m/038gkv",
+        "lat": 42.883333333,
+        "lng": 71.366666666
     },
     {
         "wikidata_id": "Q2030615",
         "name": "Stepnogorsk",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/0fjl0x"
+        "freebase_id": "/m/0fjl0x",
+        "lat": 52.346944444,
+        "lng": 71.881666666
     },
     {
         "wikidata_id": "Q488379",
         "name": "Petropavl",
         "description": "city in Kazakhstan, seat of North Kazakhstan Province",
-        "freebase_id": "/m/0151tb"
+        "freebase_id": "/m/0151tb",
+        "lat": 54.862222222,
+        "lng": 69.140833333
     },
     {
         "wikidata_id": "Q496442",
         "name": "Ekibastuz",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/04rc2s"
+        "freebase_id": "/m/04rc2s",
+        "lat": 51.729777777,
+        "lng": 75.326583333
     },
     {
         "wikidata_id": "Q2378015",
         "name": "Lenger",
         "description": "city in South Kazakhstan",
-        "freebase_id": "/m/0r4j078"
+        "freebase_id": "/m/0r4j078",
+        "lat": 42.181944444,
+        "lng": 69.887777777
     },
     {
         "wikidata_id": "Q477232",
         "name": "Aktobe",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/03wyr5"
+        "freebase_id": "/m/03wyr5",
+        "lat": 50.283611111,
+        "lng": 57.229722222
     },
     {
         "wikidata_id": "Q1000852",
         "name": "Zhanaozen",
         "description": "town in Mangystau Province, Kazakhstan",
-        "freebase_id": "/m/0g18vt"
+        "freebase_id": "/m/0g18vt",
+        "lat": 43.338888888,
+        "lng": 52.855555555
     },
     {
         "wikidata_id": "Q1001104",
         "name": "Temirtau",
         "description": "place in Karaganda Region, Kazakhstan",
-        "freebase_id": "/m/07_r4g"
+        "freebase_id": "/m/07_r4g",
+        "lat": 50.066666666,
+        "lng": 72.966666666
     },
     {
         "wikidata_id": "Q2374447",
         "name": "Shalkar",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/0g9vbdb"
+        "freebase_id": "/m/0g9vbdb",
+        "lat": 47.833333333,
+        "lng": 59.6
     },
     {
         "wikidata_id": "Q484706",
         "name": "Karaganda",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/01nlrz"
+        "freebase_id": "/m/01nlrz",
+        "lat": 49.8,
+        "lng": 73.116666666
     },
     {
         "wikidata_id": "Q1268163",
         "name": "Kulsary",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/053nrsk"
+        "freebase_id": "/m/053nrsk",
+        "lat": 46.963055555,
+        "lng": 54.013333333
     },
     {
         "wikidata_id": "Q198989",
         "name": "Aktau",
         "description": "city in western Kazakhstan",
-        "freebase_id": "/m/02gzlg"
+        "freebase_id": "/m/02gzlg",
+        "lat": 43.6525,
+        "lng": 51.1575
     },
     {
         "wikidata_id": "Q2139924",
         "name": "Altai",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/02vndh3"
+        "freebase_id": "/m/02vndh3",
+        "lat": 49.738611111,
+        "lng": 84.271944444
     },
     {
         "wikidata_id": "Q30534",
         "name": "Mamlyut",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/03qmyp2"
+        "freebase_id": "/m/03qmyp2",
+        "lat": 54.9375,
+        "lng": 68.539444444
     },
     {
         "wikidata_id": "Q1850973",
         "name": "Karatau",
         "description": "place in Jambyl Region, Kazakhstan",
-        "freebase_id": "/m/02vqpb1"
+        "freebase_id": "/m/02vqpb1",
+        "lat": 43.16667,
+        "lng": 70.46667
     },
     {
         "wikidata_id": "Q1087785",
         "name": "Khromtau",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/03hjn9z"
+        "freebase_id": "/m/03hjn9z",
+        "lat": 50.250277777,
+        "lng": 58.434722222
     },
     {
         "wikidata_id": "Q622780",
         "name": "Aksu",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/02rq8nq"
+        "freebase_id": "/m/02rq8nq",
+        "lat": 52.033333333,
+        "lng": 76.916666666
     },
     {
         "wikidata_id": "Q2121478",
         "name": "Kaskelen",
         "description": "town in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_2r2"
+        "freebase_id": "/m/063_2r2",
+        "lat": 43.198333333,
+        "lng": 76.631111111
     },
     {
         "wikidata_id": "Q612144",
         "name": "Atbasar",
         "description": "town in Aqmola Region of the northern Kazakhstan",
-        "freebase_id": "/m/05_5n_m"
+        "freebase_id": "/m/05_5n_m",
+        "lat": 51.816666666,
+        "lng": 68.366666666
     },
     {
         "wikidata_id": "Q4505892",
         "name": "Baltabay",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_mv9"
+        "freebase_id": "/m/063_mv9",
+        "lat": 43.505,
+        "lng": 77.540555555
     },
     {
         "wikidata_id": "Q13220395",
         "name": "Aqtas",
         "description": "town in Kazakhstan, Karaganda Oblast",
-        "freebase_id": "/m/04sdds"
+        "freebase_id": "/m/04sdds",
+        "lat": 49.77952,
+        "lng": 72.96128
     },
     {
         "wikidata_id": "Q13650418",
         "name": "Shengeldy",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqm6f1"
+        "freebase_id": "/m/0fqm6f1",
+        "lat": 43.981205,
+        "lng": 77.46563
     },
     {
         "wikidata_id": "Q4507469",
         "name": "Shar",
         "description": "town in East Kazakhstan Province, Kazakhstan",
-        "freebase_id": "/m/0yt2_ld"
+        "freebase_id": "/m/0yt2_ld",
+        "lat": 49.588611111,
+        "lng": 81.045277777
     },
     {
         "wikidata_id": "Q4417399",
         "name": "Serebryansk",
         "description": "town in East Kazakhstan, Kazakhstan",
-        "freebase_id": "/m/0zn2qps"
+        "freebase_id": "/m/0zn2qps",
+        "lat": 49.6925,
+        "lng": 83.289166666
     },
     {
         "wikidata_id": "Q4505564",
         "name": "Karakhobda",
         "description": "village in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9v0sc"
+        "freebase_id": "/m/0g9v0sc",
+        "lat": 50.048498,
+        "lng": 56.686793
     },
     {
         "wikidata_id": "Q13645852",
         "name": "Q13645852",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqrbj_"
+        "freebase_id": "/m/0fqrbj_",
+        "lat": 43.62,
+        "lng": 78.305277777
     },
     {
         "wikidata_id": "Q4505941",
         "name": "Karabau",
         "description": "village in Atyrau Region, Kazakhstan",
-        "freebase_id": "/m/0g9s_49"
+        "freebase_id": "/m/0g9s_49",
+        "lat": 48.452777777,
+        "lng": 52.930277777
     },
     {
         "wikidata_id": "Q4452325",
         "name": "Taskala",
         "description": "town in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05p8h3l"
+        "freebase_id": "/m/05p8h3l",
+        "lat": 51.11073,
+        "lng": 50.29454
     },
     {
         "wikidata_id": "Q12562768",
         "name": "Sortobe",
         "description": "place in Kazakhstan",
-        "freebase_id": "/m/03wcrrx"
+        "freebase_id": "/m/03wcrrx",
+        "lat": 42.866666666,
+        "lng": 75.251388888
     },
     {
         "wikidata_id": "Q4509464",
         "name": "Abay",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0641y_z"
+        "freebase_id": "/m/0641y_z",
+        "lat": 43.210555555,
+        "lng": 76.7625
     },
     {
         "wikidata_id": "Q4350661",
         "name": "Peremyotnoye",
         "description": "town in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05p8vb6"
+        "freebase_id": "/m/05p8vb6",
+        "lat": 51.197777777,
+        "lng": 50.850833333
     },
     {
         "wikidata_id": "Q4509442",
         "name": "Aleksandrovka",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0640s_c"
+        "freebase_id": "/m/0640s_c",
+        "lat": 43.448433,
+        "lng": 77.33336
     },
     {
         "wikidata_id": "Q4509479",
         "name": "Akozek",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/063_7bm"
+        "freebase_id": "/m/063_7bm",
+        "lat": 43.937493,
+        "lng": 77.518285
     },
     {
         "wikidata_id": "Q4741801",
         "name": "Zhanakorgan",
         "description": "settlement in Kazakhstan",
-        "freebase_id": "/m/010lz9ym"
+        "freebase_id": "/m/010lz9ym",
+        "lat": 43.9044,
+        "lng": 67.2511
     },
     {
         "wikidata_id": "Q4405313",
         "name": "Saykyn",
         "description": "town in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05p5p8g"
+        "freebase_id": "/m/05p5p8g",
+        "lat": 48.85611,
+        "lng": 46.83361
     },
     {
         "wikidata_id": "Q4507143",
         "name": "Chapaev",
         "description": "town in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05p19tg"
+        "freebase_id": "/m/05p19tg",
+        "lat": 50.182777777,
+        "lng": 51.175277777
     },
     {
         "wikidata_id": "Q4737934",
         "name": "Zhympity",
         "description": "village in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05pc6v9"
+        "freebase_id": "/m/05pc6v9",
+        "lat": 50.253611111,
+        "lng": 52.595
     },
     {
         "wikidata_id": "Q4505125",
         "name": "Kotrtas",
         "description": "village in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9tw36"
+        "freebase_id": "/m/0g9tw36",
+        "lat": 48.344166666,
+        "lng": 58.827222222
     },
     {
         "wikidata_id": "Q13646020",
         "name": "Kasymbek",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqrwd8"
+        "freebase_id": "/m/0fqrwd8",
+        "lat": 43.2488,
+        "lng": 76.436847222
     },
     {
         "wikidata_id": "Q13646037",
         "name": "Umbetaly Karibayev (selo)",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0gtwm4t"
+        "freebase_id": "/m/0gtwm4t",
+        "lat": 43.251666666,
+        "lng": 76.361388888
     },
     {
         "wikidata_id": "Q4509518",
         "name": "Akbulak",
         "description": "suburb of Almaty in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_zhk"
+        "freebase_id": "/m/063_zhk",
+        "lat": 43.250555555,
+        "lng": 77.086111111
     },
     {
         "wikidata_id": "Q4506285",
         "name": "Koktal",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqnt20"
+        "freebase_id": "/m/0fqnt20",
+        "lat": 45.465111,
+        "lng": 75.209159
     },
     {
         "wikidata_id": "Q4504968",
         "name": "Zhapek Batyr aul",
         "description": "aul",
-        "freebase_id": "/m/063z_qg"
+        "freebase_id": "/m/063z_qg",
+        "lat": 43.419014,
+        "lng": 76.898274
     },
     {
         "wikidata_id": "Q4349267",
         "name": "Pervomayka",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/012n8dzl"
+        "freebase_id": "/m/012n8dzl",
+        "lat": 51.287097222,
+        "lng": 70.130602777
     },
     {
         "wikidata_id": "Q4367347",
         "name": "Podgornoye",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqsh2p"
+        "freebase_id": "/m/0fqsh2p",
+        "lat": 43.33305556,
+        "lng": 79.48
     },
     {
         "wikidata_id": "Q956911",
         "name": "Otrar",
         "description": "Archaeological site in South Kazakhstan",
-        "freebase_id": "/m/092vcx"
+        "freebase_id": "/m/092vcx",
+        "lat": 42.8514829,
+        "lng": 68.3029696
     },
     {
         "wikidata_id": "Q4505588",
         "name": "Mädeniet",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqr32b"
+        "freebase_id": "/m/0fqr32b",
+        "lat": 43.34055556,
+        "lng": 76.81583333
     },
     {
         "wikidata_id": "Q4992279",
         "name": "Imeni Diny Nurpeisovoy",
         "description": "passing loop in Kazakhstan",
-        "freebase_id": "/m/0g9x2jx"
+        "freebase_id": "/m/0g9x2jx",
+        "lat": 46.66666667,
+        "lng": 48.53333333
     },
     {
         "wikidata_id": "Q6445678",
         "name": "Kurayli",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0g9spwv"
+        "freebase_id": "/m/0g9spwv",
+        "lat": 50.461001,
+        "lng": 57.020044
     },
     {
         "wikidata_id": "Q165413",
         "name": "Baikonur",
         "description": "city in Kazakhstan, administered by Russia",
-        "freebase_id": "/m/018nsx"
+        "freebase_id": "/m/018nsx",
+        "lat": 45.63,
+        "lng": 63.314
     },
     {
         "wikidata_id": "Q4516058",
         "name": "Shyngyrlau",
         "description": "village in West Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/05p2q3d"
+        "freebase_id": "/m/05p2q3d",
+        "lat": 51.095,
+        "lng": 54.081388888
     },
     {
         "wikidata_id": "Q955521",
         "name": "Karlag",
         "description": "forced labor camp in the gulag system",
-        "freebase_id": "/m/04f4dc1"
+        "freebase_id": "/m/04f4dc1",
+        "lat": 49.6775,
+        "lng": 72.681944444
     },
     {
         "wikidata_id": "Q4506366",
         "name": "Avat",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/06409md"
+        "freebase_id": "/m/06409md",
+        "lat": 43.400952777,
+        "lng": 77.2692
     },
     {
         "wikidata_id": "Q4506570",
         "name": "Amangel'dy",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/063_cq9"
+        "freebase_id": "/m/063_cq9",
+        "lat": 43.473461,
+        "lng": 77.351617
     },
     {
         "wikidata_id": "Q4454439",
         "name": "Temir",
         "description": "town in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9x3d1"
+        "freebase_id": "/m/0g9x3d1",
+        "lat": 49.141388888,
+        "lng": 57.13
     },
     {
         "wikidata_id": "Q4507938",
         "name": "Imeni Panfilova",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqs2bw"
+        "freebase_id": "/m/0fqs2bw",
+        "lat": 43.38972222,
+        "lng": 77.12777778
     },
     {
         "wikidata_id": "Q4509498",
         "name": "Akkaynar",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0641plf"
+        "freebase_id": "/m/0641plf",
+        "lat": 43.170833333,
+        "lng": 76.045555555
     },
     {
         "wikidata_id": "Q4227474",
         "name": "Koktuma",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0fqpswd"
+        "freebase_id": "/m/0fqpswd",
+        "lat": 45.87178,
+        "lng": 81.64285
     },
     {
         "wikidata_id": "Q7601464",
         "name": "Staraya Masra",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0gtx9rx"
+        "freebase_id": "/m/0gtx9rx",
+        "lat": 50.1167,
+        "lng": 56.0833
     },
     {
         "wikidata_id": "Q4509486",
         "name": "Aqzhar",
         "description": "place in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0641jr5"
+        "freebase_id": "/m/0641jr5",
+        "lat": 46.013333333,
+        "lng": 77.185555555
     },
     {
         "wikidata_id": "Q4506521",
         "name": "Mukur",
         "description": "village in Atyrau Region, Kazakhstan",
-        "freebase_id": "/m/0g9x9gf"
+        "freebase_id": "/m/0g9x9gf",
+        "lat": 48.046111111,
+        "lng": 54.491666666
     },
     {
         "wikidata_id": "Q2435663",
         "name": "Alga",
         "description": "town in the Aktobe Region of western Kazakhstan",
-        "freebase_id": "/m/064207g"
+        "freebase_id": "/m/064207g",
+        "lat": 49.902777777,
+        "lng": 57.335
     },
     {
         "wikidata_id": "Q7702054",
         "name": "Terenozek",
         "description": "town in Kyzylorda Region, Kazakhstan",
-        "freebase_id": "/m/0g57x_9"
+        "freebase_id": "/m/0g57x_9",
+        "lat": 45.051944444,
+        "lng": 64.980555555
     },
     {
         "wikidata_id": "Q2996387",
         "name": "Saray-Jük",
         "description": "Medieval city of the Golden Horde",
-        "freebase_id": "/m/0282_jb"
+        "freebase_id": "/m/0282_jb",
+        "lat": 47.5,
+        "lng": 51.73333333
     },
     {
         "wikidata_id": "Q7687363",
         "name": "Taskesken",
         "description": "town in Kazakhstan",
-        "freebase_id": "/m/0j634c9"
+        "freebase_id": "/m/0j634c9",
+        "lat": 47.2231,
+        "lng": 80.7889
     },
     {
         "wikidata_id": "Q4076856",
         "name": "Balpyq Bi",
         "description": "settlement in Zhetysu Region, Kazakhstan",
-        "freebase_id": "/m/063ydd9"
+        "freebase_id": "/m/063ydd9",
+        "lat": 44.900508333,
+        "lng": 78.217847222
     },
     {
         "wikidata_id": "Q22906198",
         "name": "Koszhar",
         "description": "village in Kazakhstan",
-        "freebase_id": "/m/0138nq_x"
+        "freebase_id": "/m/0138nq_x",
+        "lat": 46.14981842,
+        "lng": 61.75846863
     },
     {
         "wikidata_id": "Q485496",
         "name": "Shymkent",
         "description": "city in Kazakhstan",
-        "freebase_id": "/m/075dh9"
+        "freebase_id": "/m/075dh9",
+        "lat": 42.3,
+        "lng": 69.6
     },
     {
         "wikidata_id": "Q2963663",
         "name": "Shymbulak",
         "description": "Ski resort near Almaty, Kazakhstan",
-        "freebase_id": "/m/03cc8t_"
+        "freebase_id": "/m/03cc8t_",
+        "lat": 43.12805556,
+        "lng": 77.08083333
     },
     {
         "wikidata_id": "Q6522628",
         "name": "Karatobe, Almaty Region",
         "description": "village in Almaty Region, Kazakhstan",
-        "freebase_id": "/m/0fqpv5y"
+        "freebase_id": "/m/0fqpv5y",
+        "lat": 43.42777778,
+        "lng": 76.73333333
     },
     {
         "wikidata_id": "Q4504811",
         "name": "Abay",
         "description": "village in Aktobe Region, Kazakhstan",
-        "freebase_id": "/m/0g9_gv5"
+        "freebase_id": "/m/0g9_gv5",
+        "lat": 50.181397222,
+        "lng": 58.3194
     },
     {
         "wikidata_id": "Q13662708",
         "name": "Krasnokamenka",
         "description": "village in North Kazakhstan Region, Kazakhstan",
-        "freebase_id": "/m/03g_y1p"
+        "freebase_id": "/m/03g_y1p",
+        "lat": 53.733296,
+        "lng": 68.886487
     },
     {
         "wikidata_id": "Q13664517",
         "name": "Burubaytal",
         "description": "place in Jambyl Region, Kazakhstan",
-        "freebase_id": "/m/0j3g7pp"
+        "freebase_id": "/m/0j3g7pp",
+        "lat": 44.939722222,
+        "lng": 74.017777777
     },
     {
         "wikidata_id": "Q2391391",
         "name": "Ayagoz",
         "description": "city in East Kazakhstan",
-        "freebase_id": "/m/09s9hz"
+        "freebase_id": "/m/09s9hz",
+        "lat": 47.96447,
+        "lng": 80.43437
     }
 ]

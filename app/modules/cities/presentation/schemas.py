@@ -12,6 +12,8 @@ class CityResponse(BaseModel):
                 "description": "capital and largest city of France",
                 "country": "France",
                 "freebase_id": "/m/05qtj",
+                "lat": 48.8566,
+                "lng": 2.3522,
             }
         }
     )
@@ -20,7 +22,9 @@ class CityResponse(BaseModel):
     name: str
     description: str
     country: str
-    freebase_id: str   # pass this as origin_id / destination_id in flight search
+    freebase_id: str
+    lat: float | None = None
+    lng: float | None = None
 
     @classmethod
     def from_entity(cls, city: City) -> "CityResponse":
@@ -30,5 +34,6 @@ class CityResponse(BaseModel):
             description=city.description,
             country=city.country,
             freebase_id=city.freebase_id,
+            lat=city.lat,
+            lng=city.lng,
         )
-

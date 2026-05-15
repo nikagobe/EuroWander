@@ -25,5 +25,7 @@ class MongoCityRepository(CityRepository):
             description=doc.get("description", ""),
             country=doc.get("country", "").capitalize(),
             freebase_id=doc.get("freebase_id", ""),
+            lat=doc.get("lat"),
+            lng=doc.get("lng"),
         )
 

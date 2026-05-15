@@ -3,312 +3,416 @@
         "wikidata_id": "Q24558",
         "name": "Pal",
         "description": "village in La Massana, Andorra",
-        "freebase_id": "/m/03wcsr4"
+        "freebase_id": "/m/03wcsr4",
+        "lat": 42.55,
+        "lng": 1.48333333
     },
     {
         "wikidata_id": "Q24483",
         "name": "Llorts",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsh6"
+        "freebase_id": "/m/03wcsh6",
+        "lat": 42.596389,
+        "lng": 1.526638
     },
     {
         "wikidata_id": "Q24478",
         "name": "Arans",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs38"
+        "freebase_id": "/m/03wcs38",
+        "lat": 42.58333333,
+        "lng": 1.51666667
     },
     {
         "wikidata_id": "Q24486",
         "name": "La Cortinada",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsjl"
+        "freebase_id": "/m/03wcsjl",
+        "lat": 42.57667,
+        "lng": 1.51773
     },
     {
         "wikidata_id": "Q24495",
         "name": "Sornàs",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsgj"
+        "freebase_id": "/m/03wcsgj",
+        "lat": 42.56666667,
+        "lng": 1.53333333
     },
     {
         "wikidata_id": "Q24499",
         "name": "Segudet",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsjy"
+        "freebase_id": "/m/03wcsjy",
+        "lat": 42.55,
+        "lng": 1.53333333
     },
     {
         "wikidata_id": "Q4944722",
         "name": "Bordes d'Envalira",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/03wcs5v"
+        "freebase_id": "/m/03wcs5v",
+        "lat": 42.56666667,
+        "lng": 1.61666667
     },
     {
         "wikidata_id": "Q24390",
         "name": "Meritxell",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcrz3"
+        "freebase_id": "/m/03wcrz3",
+        "lat": 42.55416667,
+        "lng": 1.59055556
     },
     {
         "wikidata_id": "Q6896400",
         "name": "Molleres",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/03wcs7x"
+        "freebase_id": "/m/03wcs7x",
+        "lat": 42.55,
+        "lng": 1.58333333
     },
     {
         "wikidata_id": "Q24540",
         "name": "L'Aldosa de la Massana",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcstk"
+        "freebase_id": "/m/03wcstk",
+        "lat": 42.54391,
+        "lng": 1.52289
     },
     {
         "wikidata_id": "Q1863",
         "name": "Andorra la Vella",
         "description": "capital of Andorra",
-        "freebase_id": "/m/0g53z"
+        "freebase_id": "/m/0g53z",
+        "lat": 42.507222222,
+        "lng": 1.522222222
     },
     {
         "wikidata_id": "Q24551",
         "name": "Anyós",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsrh"
+        "freebase_id": "/m/03wcsrh",
+        "lat": 42.53459167,
+        "lng": 1.54165
     },
     {
         "wikidata_id": "Q24556",
         "name": "Erts",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsrv"
+        "freebase_id": "/m/03wcsrv",
+        "lat": 42.56361111,
+        "lng": 1.495
     },
     {
         "wikidata_id": "Q24668",
         "name": "Aixirivall",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcr_v"
+        "freebase_id": "/m/03wcr_v",
+        "lat": 42.461208333,
+        "lng": 1.498611111
     },
     {
         "wikidata_id": "Q5034280",
         "name": "Canòlic",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/03wcsps"
+        "freebase_id": "/m/03wcsps",
+        "lat": 42.47444444,
+        "lng": 1.45194444
     },
     {
         "wikidata_id": "Q24554",
         "name": "Arinsal",
         "description": "Andorran village",
-        "freebase_id": "/m/0b_1sk"
+        "freebase_id": "/m/0b_1sk",
+        "lat": 42.57198,
+        "lng": 1.4847
     },
     {
         "wikidata_id": "Q6455591",
         "name": "L'Armiana",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/03wcs8y"
+        "freebase_id": "/m/03wcs8y",
+        "lat": 42.53333333,
+        "lng": 1.56666667
     },
     {
         "wikidata_id": "Q24562",
         "name": "Sispony",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcss5"
+        "freebase_id": "/m/03wcss5",
+        "lat": 42.53333333,
+        "lng": 1.51666667
     },
     {
         "wikidata_id": "Q1050185",
         "name": "Les Escaldes",
         "description": "human settlement",
-        "freebase_id": "/m/0h5ydy"
+        "freebase_id": "/m/0h5ydy",
+        "lat": 42.5,
+        "lng": 1.53333333
     },
     {
         "wikidata_id": "Q24566",
         "name": "Escàs",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcssj"
+        "freebase_id": "/m/03wcssj",
+        "lat": 42.55,
+        "lng": 1.51666667
     },
     {
         "wikidata_id": "Q24371",
         "name": "L'Aldosa de Canillo",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcst6"
+        "freebase_id": "/m/03wcst6",
+        "lat": 42.57777778,
+        "lng": 1.61944444
     },
     {
         "wikidata_id": "Q24597",
         "name": "Santa Coloma d'Andorra",
         "description": "town in Andorra",
-        "freebase_id": "/m/04f6dsc"
+        "freebase_id": "/m/04f6dsc",
+        "lat": 42.493897222,
+        "lng": 1.497683333
     },
     {
         "wikidata_id": "Q24611",
         "name": "Nagol",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsnc"
+        "freebase_id": "/m/03wcsnc",
+        "lat": 42.47111111,
+        "lng": 1.50333333
     },
     {
         "wikidata_id": "Q2536296",
         "name": "La Margineda",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/04f2myy"
+        "freebase_id": "/m/04f2myy",
+        "lat": 42.4859,
+        "lng": 1.49045
     },
     {
         "wikidata_id": "Q24388",
         "name": "Incles",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs76"
+        "freebase_id": "/m/03wcs76",
+        "lat": 42.583,
+        "lng": 1.662
     },
     {
         "wikidata_id": "Q24392",
         "name": "Ransol",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs6w"
+        "freebase_id": "/m/03wcs6w",
+        "lat": 42.58333333,
+        "lng": 1.63333333
     },
     {
         "wikidata_id": "Q24417",
         "name": "Els Plans",
         "description": "village in Andorra",
-        "freebase_id": "/m/012wlz84"
+        "freebase_id": "/m/012wlz84",
+        "lat": 42.580603,
+        "lng": 1.635486
     },
     {
         "wikidata_id": "Q24629",
         "name": "Fontaneda",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcspd"
+        "freebase_id": "/m/03wcspd",
+        "lat": 42.4539,
+        "lng": 1.4575
     },
     {
         "wikidata_id": "Q24622",
         "name": "Llumeneres",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsmb"
+        "freebase_id": "/m/03wcsmb",
+        "lat": 42.4725,
+        "lng": 1.51111111
     },
     {
         "wikidata_id": "Q24625",
         "name": "Juberri",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcr_h"
+        "freebase_id": "/m/03wcr_h",
+        "lat": 42.438888888,
+        "lng": 1.491944444
     },
     {
         "wikidata_id": "Q24398",
         "name": "Soldeu",
         "description": "village in Andorra",
-        "freebase_id": "/m/05l37q"
+        "freebase_id": "/m/05l37q",
+        "lat": 42.576944444,
+        "lng": 1.667222222
     },
     {
         "wikidata_id": "Q24490",
         "name": "El Serrat",
         "description": "village in Ordino, Andorra",
-        "freebase_id": "/m/09vznj"
+        "freebase_id": "/m/09vznj",
+        "lat": 42.618123,
+        "lng": 1.538225
     },
     {
         "wikidata_id": "Q24411",
         "name": "El Vilar",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsy1"
+        "freebase_id": "/m/03wcsy1",
+        "lat": 42.56666667,
+        "lng": 1.6
     },
     {
         "wikidata_id": "Q746899",
         "name": "Engolasters",
         "description": "human settlement",
-        "freebase_id": "/m/03wcs_5"
+        "freebase_id": "/m/03wcs_5",
+        "lat": 42.51147,
+        "lng": 1.560467
     },
     {
         "wikidata_id": "Q4699394",
         "name": "Aixàs",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/03wcrq5"
+        "freebase_id": "/m/03wcrq5",
+        "lat": 42.48638889,
+        "lng": 1.46722222
     },
     {
         "wikidata_id": "Q24630",
         "name": "Certés",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsn0"
+        "freebase_id": "/m/03wcsn0",
+        "lat": 42.47527778,
+        "lng": 1.50583333
     },
     {
         "wikidata_id": "Q989558",
         "name": "Encamp",
         "description": "city of Andorra",
-        "freebase_id": "/m/04n_w_"
+        "freebase_id": "/m/04n_w_",
+        "lat": 42.53474,
+        "lng": 1.58014
     },
     {
         "wikidata_id": "Q24379",
         "name": "El Forn",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs9z"
+        "freebase_id": "/m/03wcs9z",
+        "lat": 42.53333333,
+        "lng": 1.56666667
     },
     {
         "wikidata_id": "Q24641",
         "name": "Bixessarri",
         "description": "town in Andorra",
-        "freebase_id": "/m/03wcrys"
+        "freebase_id": "/m/03wcrys",
+        "lat": 42.48251111,
+        "lng": 1.45860833
     },
     {
         "wikidata_id": "Q24413",
         "name": "El Tarter",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs87"
+        "freebase_id": "/m/03wcs87",
+        "lat": 42.58333333,
+        "lng": 1.65
     },
     {
         "wikidata_id": "Q24656",
         "name": "Aixovall",
         "description": "village in Andorra",
-        "freebase_id": "/m/03w98qv"
+        "freebase_id": "/m/03w98qv",
+        "lat": 42.47635833,
+        "lng": 1.48949167
     },
     {
         "wikidata_id": "Q24650",
         "name": "Aubinyà",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsnq"
+        "freebase_id": "/m/03wcsnq",
+        "lat": 42.4528,
+        "lng": 1.493
     },
     {
         "wikidata_id": "Q3825778",
         "name": "El Fener",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/03wcs_w"
+        "freebase_id": "/m/03wcs_w",
+        "lat": 42.507542,
+        "lng": 1.536581
     },
     {
         "wikidata_id": "Q24415",
         "name": "Prats",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs7k"
+        "freebase_id": "/m/03wcs7k",
+        "lat": 42.560397,
+        "lng": 1.593975
     },
     {
         "wikidata_id": "Q7419109",
         "name": "Sant Pere",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs6j"
+        "freebase_id": "/m/03wcs6j",
+        "lat": 42.58333333,
+        "lng": 1.65
     },
     {
         "wikidata_id": "Q586510",
         "name": "Engordany",
         "description": "human settlement",
-        "freebase_id": "/m/03wcszh"
+        "freebase_id": "/m/03wcszh",
+        "lat": 42.511830555,
+        "lng": 1.540075
     },
     {
         "wikidata_id": "Q24459",
         "name": "Vila",
         "description": "village in Encamp, Andorra",
-        "freebase_id": "/m/03wcsb9"
+        "freebase_id": "/m/03wcsb9",
+        "lat": 42.5319,
+        "lng": 1.5656
     },
     {
         "wikidata_id": "Q24447",
         "name": "Les Bons",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcsdc"
+        "freebase_id": "/m/03wcsdc",
+        "lat": 42.53333333,
+        "lng": 1.58333333
     },
     {
         "wikidata_id": "Q24456",
         "name": "El Pas de la Casa",
         "description": "town in Andorra",
-        "freebase_id": "/m/07dwl_"
+        "freebase_id": "/m/07dwl_",
+        "lat": 42.543736111,
+        "lng": 1.733736111
     },
     {
         "wikidata_id": "Q1154347",
         "name": "Els Vilars d'Engordany",
         "description": "human settlement",
-        "freebase_id": "/m/03wcszv"
+        "freebase_id": "/m/03wcszv",
+        "lat": 42.516401,
+        "lng": 1.539099
     },
     {
         "wikidata_id": "Q2544237",
         "name": "Xixerella",
         "description": "human settlement in Andorra",
-        "freebase_id": "/m/02rwdkj"
+        "freebase_id": "/m/02rwdkj",
+        "lat": 42.55,
+        "lng": 1.48333
     },
     {
         "wikidata_id": "Q24475",
         "name": "Ansalonga",
         "description": "village in Andorra",
-        "freebase_id": "/m/03wcs2l"
+        "freebase_id": "/m/03wcs2l",
+        "lat": 42.568443,
+        "lng": 1.521571
     }
 ]

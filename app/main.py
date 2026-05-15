@@ -2,9 +2,11 @@ from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import settings
 from app.database.client import get_client
+from app.modules.airports.presentation.router import router as airports_router
 from app.modules.cities.presentation.router import router as cities_router
 from app.modules.countries.presentation.router import router as countries_router
 from app.modules.flights.presentation.router import router as flights_router
@@ -35,6 +37,15 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=settings.cors_origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+app.include_router(airports_router, prefix="/api/v1")
 app.include_router(cities_router, prefix="/api/v1")
 app.include_router(countries_router, prefix="/api/v1")
 app.include_router(flights_router, prefix="/api/v1")

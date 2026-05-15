@@ -3,235 +3,313 @@
         "wikidata_id": "Q524108",
         "name": "Pušanjski Do",
         "description": "village",
-        "freebase_id": "/m/012wp0lr"
+        "freebase_id": "/m/012wp0lr",
+        "lat": 43.1581,
+        "lng": 19.3247
     },
     {
         "wikidata_id": "Q2928645",
         "name": "Burtaiši",
         "description": "town in Bar, Montenegro",
-        "freebase_id": "/m/0cc8xns"
+        "freebase_id": "/m/0cc8xns",
+        "lat": 42.090277777,
+        "lng": 19.108055555
     },
     {
         "wikidata_id": "Q5484241",
         "name": "Franciskovici",
         "description": "village in Boka Kotorska, Montenegro",
-        "freebase_id": "/m/0j640gh"
+        "freebase_id": "/m/0j640gh",
+        "lat": 42.4,
+        "lng": 18.65
     },
     {
         "wikidata_id": "Q596983",
         "name": "Vilusi",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0rytbpy"
+        "freebase_id": "/m/0rytbpy",
+        "lat": 42.7539,
+        "lng": 18.5906
     },
     {
         "wikidata_id": "Q15267168",
         "name": "Podmalinsko Monastery",
         "description": "Monastery near Šavnik, Montenegro",
-        "freebase_id": "/m/0wfp8h_"
+        "freebase_id": "/m/0wfp8h_",
+        "lat": 42.9554,
+        "lng": 19.1587
     },
     {
         "wikidata_id": "Q12754832",
         "name": "Dobrilovina Monastery",
         "description": "Serbian Orthodox monastery",
-        "freebase_id": "/m/0yt28_6"
+        "freebase_id": "/m/0yt28_6",
+        "lat": 43.0278,
+        "lng": 19.4008
     },
     {
         "wikidata_id": "Q3400063",
         "name": "Potkrajci",
         "description": "town in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/0cc60_4"
+        "freebase_id": "/m/0cc60_4",
+        "lat": 43.0689,
+        "lng": 19.7714
     },
     {
         "wikidata_id": "Q3121867",
         "name": "Petnjik",
         "description": "village in Berane, Montenegro",
-        "freebase_id": "/m/02q3_00"
+        "freebase_id": "/m/02q3_00",
+        "lat": 42.82638889,
+        "lng": 19.90277778
     },
     {
         "wikidata_id": "Q958220",
         "name": "Grab",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012wl107"
+        "freebase_id": "/m/012wl107",
+        "lat": 43.2056,
+        "lng": 19.6178
     },
     {
         "wikidata_id": "Q15232844",
         "name": "Kalaja",
         "description": "Tentative World Heritage site",
-        "freebase_id": "/m/0swklnq"
+        "freebase_id": "/m/0swklnq",
+        "lat": 41.923834,
+        "lng": 19.201355
     },
     {
         "wikidata_id": "Q3109772",
         "name": "Godijevo",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wjmmw"
+        "freebase_id": "/m/012wjmmw",
+        "lat": 43.0,
+        "lng": 19.895
     },
     {
         "wikidata_id": "Q954185",
         "name": "Čevo",
         "description": "village",
-        "freebase_id": "/m/0rythnw"
+        "freebase_id": "/m/0rythnw",
+        "lat": 42.54111111,
+        "lng": 18.91722222
     },
     {
         "wikidata_id": "Q3574906",
         "name": "Zaton",
         "description": "village in the municipality of Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2fcn"
+        "freebase_id": "/m/012z2fcn",
+        "lat": 43.0019,
+        "lng": 19.785
     },
     {
         "wikidata_id": "Q1006453",
         "name": "Vranjina",
         "description": "island",
-        "freebase_id": "/m/0fkmwg"
+        "freebase_id": "/m/0fkmwg",
+        "lat": 42.2742,
+        "lng": 19.1356
     },
     {
         "wikidata_id": "Q193103",
         "name": "Herceg Novi",
         "description": "city in Montenegro",
-        "freebase_id": "/m/0567cj"
+        "freebase_id": "/m/0567cj",
+        "lat": 42.453055555,
+        "lng": 18.5375
     },
     {
         "wikidata_id": "Q4301484",
         "name": "Donji Brčeli Monastery",
         "description": "Serbian Orthodox monastery in Montenegro",
-        "freebase_id": "/m/0yt1lhg"
+        "freebase_id": "/m/0yt1lhg",
+        "lat": 42.247434,
+        "lng": 19.009263
     },
     {
         "wikidata_id": "Q1190698",
         "name": "Golubovci",
         "description": "human settlement",
-        "freebase_id": "/m/0d2rvv"
+        "freebase_id": "/m/0d2rvv",
+        "lat": 42.334444444,
+        "lng": 19.225277777
     },
     {
         "wikidata_id": "Q252273",
         "name": "Doclea",
         "description": "archaeological site in Montenegro",
-        "freebase_id": "/m/026zq8q"
+        "freebase_id": "/m/026zq8q",
+        "lat": 42.468108,
+        "lng": 19.265639
     },
     {
         "wikidata_id": "Q579951",
         "name": "Male Krće",
         "description": "village",
-        "freebase_id": "/m/012wn0ly"
+        "freebase_id": "/m/012wn0ly",
+        "lat": 43.4178,
+        "lng": 19.2817
     },
     {
         "wikidata_id": "Q2741385",
         "name": "Donje Luge",
         "description": "town in Berane, Montenegro",
-        "freebase_id": "/m/0cc6ywf"
+        "freebase_id": "/m/0cc6ywf",
+        "lat": 42.825,
+        "lng": 19.884444444
     },
     {
         "wikidata_id": "Q2927973",
         "name": "Buljarica",
         "description": "village in Budva Municipality, Montenegro",
-        "freebase_id": "/m/0dmgbd"
+        "freebase_id": "/m/0dmgbd",
+        "lat": 42.19861111,
+        "lng": 18.96527778
     },
     {
         "wikidata_id": "Q4900464",
         "name": "Beška Monastery",
         "description": "Serbian Orthodox monastery on Beška island, Montenegro",
-        "freebase_id": "/m/0py1ljy"
+        "freebase_id": "/m/0py1ljy",
+        "lat": 42.164722,
+        "lng": 19.229444
     },
     {
         "wikidata_id": "Q3131872",
         "name": "Medun",
         "description": "settlement in Podgorica Municipality, Montenegro",
-        "freebase_id": "/m/050z9_"
+        "freebase_id": "/m/050z9_",
+        "lat": 42.4725,
+        "lng": 19.361666666
     },
     {
         "wikidata_id": "Q3123299",
         "name": "Njegovuđa",
         "description": "village in Žabljak Municipality, Montenegro",
-        "freebase_id": "/m/0cc6xsf"
+        "freebase_id": "/m/0cc6xsf",
+        "lat": 43.1225,
+        "lng": 19.220277777
     },
     {
         "wikidata_id": "Q998789",
         "name": "Perast",
         "description": "town in Montenegro",
-        "freebase_id": "/m/05t_lv"
+        "freebase_id": "/m/05t_lv",
+        "lat": 42.486944444,
+        "lng": 18.699166666
     },
     {
         "wikidata_id": "Q2842478",
         "name": "Ambula",
         "description": "village in Ulcinj Municipality, Montenegro",
-        "freebase_id": "/m/0bm9f25"
+        "freebase_id": "/m/0bm9f25",
+        "lat": 41.98027778,
+        "lng": 19.3525
     },
     {
         "wikidata_id": "Q549938",
         "name": "Rastovac",
         "description": "human settlement",
-        "freebase_id": "/m/0cc5h9_"
+        "freebase_id": "/m/0cc5h9_",
+        "lat": 42.8344,
+        "lng": 18.9403
     },
     {
         "wikidata_id": "Q16902773",
         "name": "Vranjina Monastery",
         "description": "Serbian Orthodox monastery on Vranjina island, Montenegro",
-        "freebase_id": "/m/0tkgqdg"
+        "freebase_id": "/m/0tkgqdg",
+        "lat": 42.2706,
+        "lng": 19.145
     },
     {
         "wikidata_id": "Q2711869",
         "name": "Šas",
         "description": "village in Ulcinj Municipality, Montenegro",
-        "freebase_id": "/m/09rx58n"
+        "freebase_id": "/m/09rx58n",
+        "lat": 41.99166667,
+        "lng": 19.32
     },
     {
         "wikidata_id": "Q2741376",
         "name": "Ðenovići",
         "description": "village in Herceg Novi Municipality, Montenegro",
-        "freebase_id": "/m/0cc8gf2"
+        "freebase_id": "/m/0cc8gf2",
+        "lat": 42.436944444,
+        "lng": 18.601944444
     },
     {
         "wikidata_id": "Q2926367",
         "name": "Brskovo",
         "description": "village in Montenegro",
-        "freebase_id": "/m/09h2zm"
+        "freebase_id": "/m/09h2zm",
+        "lat": 42.945,
+        "lng": 19.628888888
     },
     {
         "wikidata_id": "Q385116",
         "name": "Moćevići",
         "description": "village",
-        "freebase_id": "/m/012wkz40"
+        "freebase_id": "/m/012wkz40",
+        "lat": 43.5453,
+        "lng": 18.9936
     },
     {
         "wikidata_id": "Q670276",
         "name": "Kostenica",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012whnfj"
+        "freebase_id": "/m/012whnfj",
+        "lat": 43.0414,
+        "lng": 19.8547
     },
     {
         "wikidata_id": "Q612730",
         "name": "Podi",
         "description": "human settlement",
-        "freebase_id": "/m/0cc58r2"
+        "freebase_id": "/m/0cc58r2",
+        "lat": 42.463611111,
+        "lng": 18.543333333
     },
     {
         "wikidata_id": "Q3110827",
         "name": "Goransko",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc60_h"
+        "freebase_id": "/m/0cc60_h",
+        "lat": 43.119444444,
+        "lng": 18.830277777
     },
     {
         "wikidata_id": "Q3109789",
         "name": "Godinje",
         "description": "village in Bar, Montenegro",
-        "freebase_id": "/m/0bxq6h"
+        "freebase_id": "/m/0bxq6h",
+        "lat": 42.22111111,
+        "lng": 19.10916667
     },
     {
         "wikidata_id": "Q172521",
         "name": "Bogaje",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012965w8"
+        "freebase_id": "/m/012965w8",
+        "lat": 42.84111111,
+        "lng": 20.08444444
     },
     {
         "wikidata_id": "Q4301501",
         "name": "Podmaine Monastery",
         "description": "Serbian Orthodox monastery near Budva, Montenegro",
-        "freebase_id": "/m/0wftqs0"
+        "freebase_id": "/m/0wftqs0",
+        "lat": 42.297944444,
+        "lng": 18.844555555
     },
     {
         "wikidata_id": "Q2712460",
         "name": "Donja Lastva",
         "description": "town in Tivat, Montenegro",
-        "freebase_id": "/m/0cc99kt"
+        "freebase_id": "/m/0cc99kt",
+        "lat": 42.443055555,
+        "lng": 18.688611111
     },
     {
         "wikidata_id": "Q16896993",
@@ -243,619 +321,825 @@
         "wikidata_id": "Q30305712",
         "name": "Moračnik Monastery",
         "description": "Serbian Orthodox monastery in Montenegro",
-        "freebase_id": "/m/0wfqsdb"
+        "freebase_id": "/m/0wfqsdb",
+        "lat": 42.14,
+        "lng": 19.2572
     },
     {
         "wikidata_id": "Q1190321",
         "name": "Stari Bar",
         "description": "human settlement",
-        "freebase_id": "/m/0cc6sqv"
+        "freebase_id": "/m/0cc6sqv",
+        "lat": 42.09362,
+        "lng": 19.13398
     },
     {
         "wikidata_id": "Q964425",
         "name": "Ograđenica",
         "description": "village",
-        "freebase_id": "/m/012x30h8"
+        "freebase_id": "/m/012x30h8",
+        "lat": 43.25,
+        "lng": 19.08805556
     },
     {
         "wikidata_id": "Q1257434",
         "name": "Ostrog monastery",
         "description": "monastery of the Serbian Orthodox Church",
-        "freebase_id": "/m/03kmyl"
+        "freebase_id": "/m/03kmyl",
+        "lat": 42.675,
+        "lng": 19.029166666
     },
     {
         "wikidata_id": "Q12758206",
         "name": "Ratac Abbey",
         "description": "No description available",
-        "freebase_id": "/m/0_1kcr1"
+        "freebase_id": "/m/0_1kcr1",
+        "lat": 42.1223,
+        "lng": 19.0612
     },
     {
         "wikidata_id": "Q2908210",
         "name": "Bobovište",
         "description": "village in Bar, Montenegro",
-        "freebase_id": "/m/0bmkfx4"
+        "freebase_id": "/m/0bmkfx4",
+        "lat": 42.11916667,
+        "lng": 19.27055556
     },
     {
         "wikidata_id": "Q2904300",
         "name": "Bioče",
         "description": "human settlement in Montenegro",
-        "freebase_id": "/m/0b2hnd"
+        "freebase_id": "/m/0b2hnd",
+        "lat": 42.51306,
+        "lng": 19.35139
     },
     {
         "wikidata_id": "Q3120492",
         "name": "Krašići",
         "description": "village in Tivat Municipality, Montenegro",
-        "freebase_id": "/m/082qns"
+        "freebase_id": "/m/082qns",
+        "lat": 42.40583333,
+        "lng": 18.64055556
     },
     {
         "wikidata_id": "Q788450",
         "name": "Zupci",
         "description": "village",
-        "freebase_id": "/m/012g48r2"
+        "freebase_id": "/m/012g48r2",
+        "lat": 42.128094,
+        "lng": 19.121701
     },
     {
         "wikidata_id": "Q642972",
         "name": "Reč",
         "description": "human settlement",
-        "freebase_id": "/m/0nb5lt6"
+        "freebase_id": "/m/0nb5lt6",
+        "lat": 41.92111111,
+        "lng": 19.36361111
     },
     {
         "wikidata_id": "Q3120740",
         "name": "Tomba",
         "description": "town in Bar, Montenegro",
-        "freebase_id": "/m/0cc6bzc"
+        "freebase_id": "/m/0cc6bzc",
+        "lat": 42.079722222,
+        "lng": 19.128888888
     },
     {
         "wikidata_id": "Q3432448",
         "name": "Škaljari",
         "description": "village in Kotor Municipality, Montenegro",
-        "freebase_id": "/m/0cc68zz"
+        "freebase_id": "/m/0cc68zz",
+        "lat": 42.418611111,
+        "lng": 18.766388888
     },
     {
         "wikidata_id": "Q3200302",
         "name": "Kukulje",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wjrsc"
+        "freebase_id": "/m/012wjrsc",
+        "lat": 43.0803,
+        "lng": 19.7383
     },
     {
         "wikidata_id": "Q247339",
         "name": "Grahovo",
         "description": "place in Nikšić, Montenegro",
-        "freebase_id": "/m/011lbn1w"
+        "freebase_id": "/m/011lbn1w",
+        "lat": 42.65144722,
+        "lng": 18.67300278
     },
     {
         "wikidata_id": "Q11784971",
         "name": "Reževići Monastery",
         "description": "Serbian Orthodox monastery in Katun Reževići, Montenegro",
-        "freebase_id": "/m/0whzl5y"
+        "freebase_id": "/m/0whzl5y",
+        "lat": 42.2149,
+        "lng": 18.924
     },
     {
         "wikidata_id": "Q374764",
         "name": "Osmanbegovo Selo",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012wsbfk"
+        "freebase_id": "/m/012wsbfk",
+        "lat": 43.0386,
+        "lng": 19.9539
     },
     {
         "wikidata_id": "Q3180511",
         "name": "Đurđevi Stupovi",
         "description": "orthodox monastery",
-        "freebase_id": "/m/0263mtv"
+        "freebase_id": "/m/0263mtv",
+        "lat": 42.852439,
+        "lng": 19.860948
     },
     {
         "wikidata_id": "Q2715074",
         "name": "Sutorina",
         "description": "village in Montenegro",
-        "freebase_id": "/m/02rzzw5"
+        "freebase_id": "/m/02rzzw5",
+        "lat": 42.47361111,
+        "lng": 18.47222222
     },
     {
         "wikidata_id": "Q7042462",
         "name": "Njivice",
         "description": "place in Herceg Novi Municipality, Montenegro",
-        "freebase_id": "/m/02qscdp"
+        "freebase_id": "/m/02qscdp",
+        "lat": 42.4361,
+        "lng": 18.5139
     },
     {
         "wikidata_id": "Q3123315",
         "name": "Spuž",
         "description": "settlement in Danilovgrad Municipality, Montenegro",
-        "freebase_id": "/m/0g3llf"
+        "freebase_id": "/m/0g3llf",
+        "lat": 42.508055555,
+        "lng": 19.193888888
     },
     {
         "wikidata_id": "Q3123319",
         "name": "Židovići",
         "description": "town in Pljevlja, Montenegro",
-        "freebase_id": "/m/0cc4z1m"
+        "freebase_id": "/m/0cc4z1m",
+        "lat": 43.352777777,
+        "lng": 19.316944444
     },
     {
         "wikidata_id": "Q956292",
         "name": "Petnjica",
         "description": "village",
-        "freebase_id": "/m/012psq27"
+        "freebase_id": "/m/012psq27",
+        "lat": 42.9797,
+        "lng": 19.0786
     },
     {
         "wikidata_id": "Q1700305",
         "name": "Petnjica",
         "description": "human settlement",
-        "freebase_id": "/m/075tbv"
+        "freebase_id": "/m/075tbv",
+        "lat": 42.9077662,
+        "lng": 19.9484681
     },
     {
         "wikidata_id": "Q994211",
         "name": "Risan",
         "description": "village in Montenegro",
-        "freebase_id": "/m/06j5xn"
+        "freebase_id": "/m/06j5xn",
+        "lat": 42.514722222,
+        "lng": 18.695
     },
     {
         "wikidata_id": "Q837219",
         "name": "Šavnik",
         "description": "village in Montenegro",
-        "freebase_id": "/m/075t3g"
+        "freebase_id": "/m/075t3g",
+        "lat": 42.95639,
+        "lng": 19.09667
     },
     {
         "wikidata_id": "Q3044588",
         "name": "Zagrađe",
         "description": "village in Bar, Montenegro",
-        "freebase_id": "/m/047d0_c"
+        "freebase_id": "/m/047d0_c",
+        "lat": 42.1453,
+        "lng": 19.0236
     },
     {
         "wikidata_id": "Q968107",
         "name": "Velika",
         "description": "village",
-        "freebase_id": "/m/01270sqn"
+        "freebase_id": "/m/01270sqn",
+        "lat": 42.6644,
+        "lng": 19.9561
     },
     {
         "wikidata_id": "Q546487",
         "name": "Čeluga",
         "description": "human settlement",
-        "freebase_id": "/m/05sd3l"
+        "freebase_id": "/m/05sd3l",
+        "lat": 42.075277777,
+        "lng": 19.107777777
     },
     {
         "wikidata_id": "Q2929089",
         "name": "Buče",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0cc81ww"
+        "freebase_id": "/m/0cc81ww",
+        "lat": 42.819722222,
+        "lng": 19.852777777
     },
     {
         "wikidata_id": "Q3045739",
         "name": "Laz",
         "description": "village in Nikšić Municipality, Montenegro",
-        "freebase_id": "/m/02vx622"
+        "freebase_id": "/m/02vx622",
+        "lat": 42.75611111,
+        "lng": 19.03777778
     },
     {
         "wikidata_id": "Q16466156",
         "name": "Holy Trinity monastery ( Pljevlja )",
         "description": "Holy Trinity monastery (Pljevlja )",
-        "freebase_id": "/m/010gmq0y"
+        "freebase_id": "/m/010gmq0y",
+        "lat": 43.369611,
+        "lng": 19.358108
     },
     {
         "wikidata_id": "Q3395258",
         "name": "Polja",
         "description": "village in Mojkovac municipality, Montenegro",
-        "freebase_id": "/m/0cc5mzc"
+        "freebase_id": "/m/0cc5mzc",
+        "lat": 42.9714013,
+        "lng": 19.5345926
     },
     {
         "wikidata_id": "Q5584515",
         "name": "Gorana",
         "description": "place in Bar, Montenegro",
-        "freebase_id": "/m/02qg7nq"
+        "freebase_id": "/m/02qg7nq",
+        "lat": 41.999872,
+        "lng": 19.207709
     },
     {
         "wikidata_id": "Q925048",
         "name": "Ljutići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wjtkn"
+        "freebase_id": "/m/012wjtkn",
+        "lat": 43.2408,
+        "lng": 19.4564
     },
     {
         "wikidata_id": "Q2548973",
         "name": "Njeguši",
         "description": "settlement in Montenegro",
-        "freebase_id": "/m/051xtc"
+        "freebase_id": "/m/051xtc",
+        "lat": 42.433888888,
+        "lng": 18.810277777
     },
     {
         "wikidata_id": "Q3028473",
         "name": "Dinoša",
         "description": "village in Montenegro",
-        "freebase_id": "/m/010rb0nl"
+        "freebase_id": "/m/010rb0nl",
+        "lat": 42.41361111,
+        "lng": 19.33861111
     },
     {
         "wikidata_id": "Q393309",
         "name": "Žabljak",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0b9786"
+        "freebase_id": "/m/0b9786",
+        "lat": 43.158333333,
+        "lng": 19.130277777
     },
     {
         "wikidata_id": "Q3124641",
         "name": "Vusanje",
         "description": "settlement in Montenegro",
-        "freebase_id": "/m/09gjmhf"
+        "freebase_id": "/m/09gjmhf",
+        "lat": 42.526666666,
+        "lng": 19.846111111
     },
     {
         "wikidata_id": "Q3033856",
         "name": "Dolac",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc8cp1"
+        "freebase_id": "/m/0cc8cp1",
+        "lat": 42.841388888,
+        "lng": 19.851666666
     },
     {
         "wikidata_id": "Q3044515",
         "name": "Ibarac",
         "description": "town in Rožaje, Montenegro",
-        "freebase_id": "/m/0cc92yd"
+        "freebase_id": "/m/0cc92yd",
+        "lat": 42.835,
+        "lng": 20.157222222
     },
     {
         "wikidata_id": "Q3045734",
         "name": "Pridvorica",
         "description": "village in Šavnik, Montenegro",
-        "freebase_id": "/m/04crdlq"
+        "freebase_id": "/m/04crdlq",
+        "lat": 42.96666667,
+        "lng": 19.06666667
     },
     {
         "wikidata_id": "Q2027553",
         "name": "Bijela",
         "description": "town in Herceg Novi Municipality, Montenegro",
-        "freebase_id": "/m/0gybmv"
+        "freebase_id": "/m/0gybmv",
+        "lat": 42.453333333,
+        "lng": 18.655555555
     },
     {
         "wikidata_id": "Q3113073",
         "name": "Gradac",
         "description": "town in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/0cc5yzw"
+        "freebase_id": "/m/0cc5yzw",
+        "lat": 42.949930555,
+        "lng": 19.085444444
     },
     {
         "wikidata_id": "Q287263",
         "name": "Bijela Crkva",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0129c10_"
+        "freebase_id": "/m/0129c10_",
+        "lat": 42.87222222,
+        "lng": 20.19138889
     },
     {
         "wikidata_id": "Q383766",
         "name": "Mrčići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012x1j7b"
+        "freebase_id": "/m/012x1j7b",
+        "lat": 43.4656,
+        "lng": 18.9836
     },
     {
         "wikidata_id": "Q2859687",
         "name": "Arbnež",
         "description": "village in Bar Municipality, Montenegro",
-        "freebase_id": "/m/0h54sw1"
+        "freebase_id": "/m/0h54sw1",
+        "lat": 42.0775,
+        "lng": 19.33861111
     },
     {
         "wikidata_id": "Q6429355",
         "name": "Konik",
         "description": "place in Montenegro",
-        "freebase_id": "/m/02z4wgw"
+        "freebase_id": "/m/02z4wgw",
+        "lat": 42.438238888,
+        "lng": 19.2819
     },
     {
         "wikidata_id": "Q1550605",
         "name": "Piva Monastery",
         "description": "monastery",
-        "freebase_id": "/m/0gyxcrb"
+        "freebase_id": "/m/0gyxcrb",
+        "lat": 43.11,
+        "lng": 18.81861111
     },
     {
         "wikidata_id": "Q1008132",
         "name": "Dobrota",
         "description": "human settlement",
-        "freebase_id": "/m/027lsk9"
+        "freebase_id": "/m/027lsk9",
+        "lat": 42.454166666,
+        "lng": 18.768333333
     },
     {
         "wikidata_id": "Q3124700",
         "name": "Polje",
         "description": "town in Bar Municipality, Montenegro",
-        "freebase_id": "/m/0cc9nkp"
+        "freebase_id": "/m/0cc9nkp",
+        "lat": 42.089166666,
+        "lng": 19.116666666
     },
     {
         "wikidata_id": "Q7322220",
         "name": "Ribarevina",
         "description": "place in Montenegro",
-        "freebase_id": "/m/0cvc38"
+        "freebase_id": "/m/0cvc38",
+        "lat": 42.9941525,
+        "lng": 19.745223
     },
     {
         "wikidata_id": "Q742111",
         "name": "Igalo",
         "description": "human settlement",
-        "freebase_id": "/m/0byhb1"
+        "freebase_id": "/m/0byhb1",
+        "lat": 42.458888888,
+        "lng": 18.512222222
     },
     {
         "wikidata_id": "Q646630",
         "name": "Crkvice",
         "description": "village in Montenegro",
-        "freebase_id": "/m/02rs4hb"
+        "freebase_id": "/m/02rs4hb",
+        "lat": 42.56666667,
+        "lng": 18.63333333
     },
     {
         "wikidata_id": "Q550264",
         "name": "Zbljevo",
         "description": "village",
-        "freebase_id": "/m/012wscmv"
+        "freebase_id": "/m/012wscmv",
+        "lat": 43.32305556,
+        "lng": 19.30388889
     },
     {
         "wikidata_id": "Q3112259",
         "name": "Šćepan Polje",
         "description": "village in Plužine, Montenegro",
-        "freebase_id": "/m/0bhb6kj"
+        "freebase_id": "/m/0bhb6kj",
+        "lat": 43.3475,
+        "lng": 18.8458
     },
     {
         "wikidata_id": "Q15243164",
         "name": "Luštica",
         "description": "populated place in Herceg Novi Municipality",
-        "freebase_id": "/m/0jzslk4"
+        "freebase_id": "/m/0jzslk4",
+        "lat": 42.39666667,
+        "lng": 18.60194444
     },
     {
         "wikidata_id": "Q664070",
         "name": "Lever Tara",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wpll4"
+        "freebase_id": "/m/012wpll4",
+        "lat": 43.1811,
+        "lng": 19.2483
     },
     {
         "wikidata_id": "Q534900",
         "name": "Pauče",
         "description": "village",
-        "freebase_id": "/m/012wpm_3"
+        "freebase_id": "/m/012wpm_3",
+        "lat": 43.31805556,
+        "lng": 19.28444444
     },
     {
         "wikidata_id": "Q3120804",
         "name": "Kaludra",
         "description": "village in Berane Municipality, Montenegro",
-        "freebase_id": "/m/05q4q5l"
+        "freebase_id": "/m/05q4q5l",
+        "lat": 42.77222222,
+        "lng": 19.84361111
     },
     {
         "wikidata_id": "Q965673",
         "name": "Kotorac",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wn9h0"
+        "freebase_id": "/m/012wn9h0",
+        "lat": 43.42472222,
+        "lng": 19.18611111
     },
     {
         "wikidata_id": "Q3117364",
         "name": "Mahala",
         "description": "village in Podgorica, Montenegro",
-        "freebase_id": "/m/0cc9fz2"
+        "freebase_id": "/m/0cc9fz2",
+        "lat": 42.350555555,
+        "lng": 19.218888888
     },
     {
         "wikidata_id": "Q2905147",
         "name": "Bjeliši",
         "description": "town in Bar, Montenegro",
-        "freebase_id": "/m/0cc6l1h"
+        "freebase_id": "/m/0cc6l1h",
+        "lat": 42.100833333,
+        "lng": 19.104166666
     },
     {
         "wikidata_id": "Q4301483",
         "name": "Dajbabe Monastery",
         "description": "Christian monastery in Montenegro",
-        "freebase_id": "/m/047r_kj"
+        "freebase_id": "/m/047r_kj",
+        "lat": 42.403852,
+        "lng": 19.232456
     },
     {
         "wikidata_id": "Q2465184",
         "name": "Mateševo",
         "description": "village in Kolašin Municipality, Montenegro",
-        "freebase_id": "/m/0g0xm2"
+        "freebase_id": "/m/0g0xm2",
+        "lat": 42.766666666,
+        "lng": 19.55
     },
     {
         "wikidata_id": "Q2329119",
         "name": "Bečići",
         "description": "village in Budva Municipality, Montenegro",
-        "freebase_id": "/m/0c1s2k"
+        "freebase_id": "/m/0c1s2k",
+        "lat": 42.283888888,
+        "lng": 18.869166666
     },
     {
         "wikidata_id": "Q2927571",
         "name": "Budimlja",
         "description": "town in Berane, Montenegro",
-        "freebase_id": "/m/0cc8skf"
+        "freebase_id": "/m/0cc8skf",
+        "lat": 42.863888888,
+        "lng": 19.891666666
     },
     {
         "wikidata_id": "Q3120518",
         "name": "Resnik",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc9wht"
+        "freebase_id": "/m/0cc9wht",
+        "lat": 43.038055555,
+        "lng": 19.771944444
     },
     {
         "wikidata_id": "Q3130865",
         "name": "Koći",
         "description": "place in Podgorica Municipality, Montenegro",
-        "freebase_id": "/m/0hq_dc6"
+        "freebase_id": "/m/0hq_dc6",
+        "lat": 42.46055556,
+        "lng": 19.40361111
     },
     {
         "wikidata_id": "Q3065761",
         "name": "Ubli",
         "description": "village in Podgorica Municipality, Montenegro",
-        "freebase_id": "/m/04yb6b8"
+        "freebase_id": "/m/04yb6b8",
+        "lat": 42.490555555,
+        "lng": 19.395833333
     },
     {
         "wikidata_id": "Q3120820",
         "name": "Pešca",
         "description": "town in Berane, Montenegro",
-        "freebase_id": "/m/0cc7w8w"
+        "freebase_id": "/m/0cc7w8w",
+        "lat": 42.823888888,
+        "lng": 19.858888888
     },
     {
         "wikidata_id": "Q3044092",
         "name": "Mrčevac",
         "description": "village in Tivat, Montenegro",
-        "freebase_id": "/m/0cc5rtd"
+        "freebase_id": "/m/0cc5rtd",
+        "lat": 42.418611111,
+        "lng": 18.7175
     },
     {
         "wikidata_id": "Q729435",
         "name": "Slatina",
         "description": "Montenegro village in Pljevlja town",
-        "freebase_id": "/m/012wtg0w"
+        "freebase_id": "/m/012wtg0w",
+        "lat": 43.3553,
+        "lng": 19.44
     },
     {
         "wikidata_id": "Q3182910",
         "name": "Mojanovići",
         "description": "settlement in Montenegro",
-        "freebase_id": "/m/0cc7r2q"
+        "freebase_id": "/m/0cc7r2q",
+        "lat": 42.338333333,
+        "lng": 19.219444444
     },
     {
         "wikidata_id": "Q2041638",
         "name": "Gubavač",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012x55gq"
+        "freebase_id": "/m/012x55gq",
+        "lat": 43.096666666,
+        "lng": 19.781944444
     },
     {
         "wikidata_id": "Q499444",
         "name": "Savina monastery",
         "description": "monastery",
-        "freebase_id": "/m/05t_m7"
+        "freebase_id": "/m/05t_m7",
+        "lat": 42.45347222,
+        "lng": 18.55505556
     },
     {
         "wikidata_id": "Q31183967",
         "name": "Majstorovina Monastery",
         "description": "Serbian Orthodox monastery in Majstorovina, Serbia",
-        "freebase_id": "/m/01347xsg"
+        "freebase_id": "/m/01347xsg",
+        "lat": 42.9619,
+        "lng": 19.72207
     },
     {
         "wikidata_id": "Q6645559",
         "name": "Stari Aerodrom",
         "description": "neighbourhood in Podgorica, Montenegro",
-        "freebase_id": "/m/02qh3fx"
+        "freebase_id": "/m/02qh3fx",
+        "lat": 42.42888889,
+        "lng": 19.27583333
     },
     {
         "wikidata_id": "Q3045012",
         "name": "Ozrinići",
         "description": "village in Nikšić Municipality, Montenegro",
-        "freebase_id": "/m/0cc5tvh"
+        "freebase_id": "/m/0cc5tvh",
+        "lat": 42.753888888,
+        "lng": 18.985277777
     },
     {
         "wikidata_id": "Q3111061",
         "name": "Goričani",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0cc55wh"
+        "freebase_id": "/m/0cc55wh",
+        "lat": 42.33,
+        "lng": 19.2117
     },
     {
         "wikidata_id": "Q2042246",
         "name": "Džafića Brdo",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012whp4b"
+        "freebase_id": "/m/012whp4b",
+        "lat": 43.043888888,
+        "lng": 19.755555555
     },
     {
         "wikidata_id": "Q1027457",
         "name": "Virpazar",
         "description": "town in Bar Municipality, Montenegro",
-        "freebase_id": "/m/03g_35g"
+        "freebase_id": "/m/03g_35g",
+        "lat": 42.244444444,
+        "lng": 19.090277777
     },
     {
         "wikidata_id": "Q3824331",
         "name": "Kom Monastery",
         "description": "Serbian Orthodox monastery in Montenegro",
-        "freebase_id": "/m/03cch_2"
+        "freebase_id": "/m/03cch_2",
+        "lat": 42.310003,
+        "lng": 19.128025
     },
     {
         "wikidata_id": "Q3045549",
         "name": "Mioče",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/0fpj0nx"
+        "freebase_id": "/m/0fpj0nx",
+        "lat": 43.13083333,
+        "lng": 19.73
     },
     {
         "wikidata_id": "Q514879",
         "name": "Tušina",
         "description": "village",
-        "freebase_id": "/m/02q56tr"
+        "freebase_id": "/m/02q56tr",
+        "lat": 42.915580555,
+        "lng": 19.2953
     },
     {
         "wikidata_id": "Q770580",
         "name": "Cetinje Monastery",
         "description": "monastery",
-        "freebase_id": "/m/03ch5vd"
+        "freebase_id": "/m/03ch5vd",
+        "lat": 42.387777777,
+        "lng": 18.921666666
     },
     {
         "wikidata_id": "Q2533313",
         "name": "Šušanj",
         "description": "town in Bar Municipality, Montenegro",
-        "freebase_id": "/m/0cc5000"
+        "freebase_id": "/m/0cc5000",
+        "lat": 42.10944444,
+        "lng": 19.08638889
     },
     {
         "wikidata_id": "Q3124985",
         "name": "Mirac",
         "description": "village in Kotor, Montenegro",
-        "freebase_id": "/m/047vn2j"
+        "freebase_id": "/m/047vn2j",
+        "lat": 42.38333333,
+        "lng": 18.78333333
     },
     {
         "wikidata_id": "Q3121900",
         "name": "Prijevor",
         "description": "village in Budva Municipality, Montenegro",
-        "freebase_id": "/m/0qfv3qm"
+        "freebase_id": "/m/0qfv3qm",
+        "lat": 42.28778056,
+        "lng": 18.80888889
     },
     {
         "wikidata_id": "Q3133533",
         "name": "Nikmaraš",
         "description": "settlement in Podgorica Municipality, Montenegro",
-        "freebase_id": "/m/03ckhck"
+        "freebase_id": "/m/03ckhck",
+        "lat": 42.43944444,
+        "lng": 19.43805556
     },
     {
         "wikidata_id": "Q920904",
         "name": "Podgora",
         "description": "human settlement",
-        "freebase_id": "/m/0j_6jd0"
+        "freebase_id": "/m/0j_6jd0",
+        "lat": 43.19861,
+        "lng": 19.15417
     },
     {
         "wikidata_id": "Q13436034",
         "name": "Praskvica Monastery",
         "description": "monastery in Montenegro",
-        "freebase_id": "/m/0vzv12m"
+        "freebase_id": "/m/0vzv12m",
+        "lat": 42.26888889,
+        "lng": 18.91027778
     },
     {
         "wikidata_id": "Q3182717",
         "name": "Nedakusi",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/0cc9_k1"
+        "freebase_id": "/m/0cc9_k1",
+        "lat": 43.053888888,
+        "lng": 19.7675
     },
     {
         "wikidata_id": "Q2158623",
         "name": "Prčanj",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc8ldr"
+        "freebase_id": "/m/0cc8ldr",
+        "lat": 42.4575,
+        "lng": 18.742222222
     },
     {
         "wikidata_id": "Q7320766",
         "name": "Rhizon",
         "description": "capital of the Illyrian kingdom under the Ardiaei",
-        "freebase_id": "/m/0rfhh7f"
+        "freebase_id": "/m/0rfhh7f",
+        "lat": 42.514722,
+        "lng": 18.695
     },
     {
         "wikidata_id": "Q2884411",
         "name": "Bare",
         "description": "town in Šavnik Municipality, Montenegro",
-        "freebase_id": "/m/0cc6431"
+        "freebase_id": "/m/0cc6431",
+        "lat": 42.938055555,
+        "lng": 19.236388888
     },
     {
         "wikidata_id": "Q925621",
         "name": "Darza",
         "description": "Montenegro village",
-        "freebase_id": "/m/012z8w8q"
+        "freebase_id": "/m/012z8w8q",
+        "lat": 41.94805556,
+        "lng": 19.31777778
     },
     {
         "wikidata_id": "Q2719859",
         "name": "Kumbor",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0cc78mq"
+        "freebase_id": "/m/0cc78mq",
+        "lat": 42.440555555,
+        "lng": 18.585833333
     },
     {
         "wikidata_id": "Q3046773",
         "name": "Smajlagića Polje",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc88qz"
+        "freebase_id": "/m/0cc88qz",
+        "lat": 42.8214,
+        "lng": 19.5394
     },
     {
         "wikidata_id": "Q517575",
         "name": "Šljuke",
         "description": "village",
-        "freebase_id": "/m/012wkjx5"
+        "freebase_id": "/m/012wkjx5",
+        "lat": 43.35666667,
+        "lng": 19.12333333
     },
     {
         "wikidata_id": "Q3047920",
         "name": "Meljine",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc652g"
+        "freebase_id": "/m/0cc652g",
+        "lat": 42.4558,
+        "lng": 18.5619
     },
     {
         "wikidata_id": "Q2733605",
         "name": "Beran Selo",
         "description": "village in Berane Municipality, Montenegro",
-        "freebase_id": "/m/04cvwf_"
+        "freebase_id": "/m/04cvwf_",
+        "lat": 42.853055555,
+        "lng": 19.858333333
     },
     {
         "wikidata_id": "Q18639597",
         "name": "Orahovo Monastery",
         "description": "Serbian Orthodox monastery",
-        "freebase_id": "/m/0128rpt3"
+        "freebase_id": "/m/0128rpt3",
+        "lat": 42.2428,
+        "lng": 19.0651
     },
     {
         "wikidata_id": "Q3044246",
         "name": "Mataguži",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0cc7kck"
+        "freebase_id": "/m/0cc7kck",
+        "lat": 42.320833333,
+        "lng": 19.270277777
     },
     {
         "wikidata_id": "Q6556810",
@@ -867,85 +1151,113 @@
         "wikidata_id": "Q991302",
         "name": "Tuzi",
         "description": "human settlement in Montenegro",
-        "freebase_id": "/m/08rrhc"
+        "freebase_id": "/m/08rrhc",
+        "lat": 42.365555555,
+        "lng": 19.331388888
     },
     {
         "wikidata_id": "Q2041597",
         "name": "Babaići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wv0by"
+        "freebase_id": "/m/012wv0by",
+        "lat": 42.934444444,
+        "lng": 19.934444444
     },
     {
         "wikidata_id": "Q3199404",
         "name": "Kovren",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wq60l"
+        "freebase_id": "/m/012wq60l",
+        "lat": 43.16916667,
+        "lng": 19.5575
     },
     {
         "wikidata_id": "Q2046718",
         "name": "Boturići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wg_hb"
+        "freebase_id": "/m/012wg_hb",
+        "lat": 43.069722222,
+        "lng": 19.821388888
     },
     {
         "wikidata_id": "Q3045719",
         "name": "Vučji Do",
         "description": "village in Nikšić, Montenegro",
-        "freebase_id": "/m/0134w7cf"
+        "freebase_id": "/m/0134w7cf",
+        "lat": 42.8867,
+        "lng": 18.5242
     },
     {
         "wikidata_id": "Q3041829",
         "name": "Dužice",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012whx47"
+        "freebase_id": "/m/012whx47",
+        "lat": 43.5292,
+        "lng": 19.0239
     },
     {
         "wikidata_id": "Q3047472",
         "name": "Sokolac",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z205v"
+        "freebase_id": "/m/012z205v",
+        "lat": 43.0867,
+        "lng": 19.5736
     },
     {
         "wikidata_id": "Q3046327",
         "name": "Lješnica",
         "description": "village in Petnjica Municipality, Montenegro",
-        "freebase_id": "/m/0w1ff63"
+        "freebase_id": "/m/0w1ff63",
+        "lat": 42.8869,
+        "lng": 19.9039
     },
     {
         "wikidata_id": "Q3216332",
         "name": "Laholo",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wh1gh"
+        "freebase_id": "/m/012wh1gh",
+        "lat": 42.97472222,
+        "lng": 19.82194444
     },
     {
         "wikidata_id": "Q3038630",
         "name": "Dragaši",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x01wk"
+        "freebase_id": "/m/012x01wk",
+        "lat": 43.25972222,
+        "lng": 19.25222222
     },
     {
         "wikidata_id": "Q2894544",
         "name": "Beljkovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x30v8"
+        "freebase_id": "/m/012x30v8",
+        "lat": 43.16972222,
+        "lng": 19.40944444
     },
     {
         "wikidata_id": "Q2909438",
         "name": "Boljanići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wkgpg"
+        "freebase_id": "/m/012wkgpg",
+        "lat": 43.4533,
+        "lng": 19.2081
     },
     {
         "wikidata_id": "Q3305150",
         "name": "Meljak",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012ww1my"
+        "freebase_id": "/m/012ww1my",
+        "lat": 43.3186,
+        "lng": 19.3211
     },
     {
         "wikidata_id": "Q3401158",
         "name": "Požeginja",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2wdl"
+        "freebase_id": "/m/012z2wdl",
+        "lat": 43.10138889,
+        "lng": 19.86944444
     },
     {
         "wikidata_id": "Q1135132",
@@ -957,1285 +1269,1713 @@
         "wikidata_id": "Q3199376",
         "name": "Kovačevići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012x2ccd"
+        "freebase_id": "/m/012x2ccd",
+        "lat": 43.472777777,
+        "lng": 19.014722222
     },
     {
         "wikidata_id": "Q3040581",
         "name": "Dubovo",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012wyhdq"
+        "freebase_id": "/m/012wyhdq",
+        "lat": 43.0078,
+        "lng": 19.8194
     },
     {
         "wikidata_id": "Q3316135",
         "name": "Mirojevići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wjykc"
+        "freebase_id": "/m/012wjykc",
+        "lat": 43.07111111,
+        "lng": 19.83361111
     },
     {
         "wikidata_id": "Q3041631",
         "name": "Durutovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wgzy5"
+        "freebase_id": "/m/012wgzy5",
+        "lat": 43.336947,
+        "lng": 19.374348
     },
     {
         "wikidata_id": "Q3298237",
         "name": "Mataruge",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wlbmw"
+        "freebase_id": "/m/012wlbmw",
+        "lat": 43.2658,
+        "lng": 19.4589
     },
     {
         "wikidata_id": "Q3113137",
         "name": "Gradina",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wm2tc"
+        "freebase_id": "/m/012wm2tc",
+        "lat": 43.3881,
+        "lng": 19.2739
     },
     {
         "wikidata_id": "Q3198955",
         "name": "Korita",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wjscq"
+        "freebase_id": "/m/012wjscq",
+        "lat": 43.0044,
+        "lng": 19.9597
     },
     {
         "wikidata_id": "Q3446678",
         "name": "Rudnica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wpmmc"
+        "freebase_id": "/m/012wpmmc",
+        "lat": 43.3744,
+        "lng": 19.3219
     },
     {
         "wikidata_id": "Q3220062",
         "name": "Lazovići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wg_pf"
+        "freebase_id": "/m/012wg_pf",
+        "lat": 43.02027778,
+        "lng": 19.9925
     },
     {
         "wikidata_id": "Q2046621",
         "name": "Boljanina",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wr8x7"
+        "freebase_id": "/m/012wr8x7",
+        "lat": 43.037777777,
+        "lng": 19.799166666
     },
     {
         "wikidata_id": "Q2046628",
         "name": "Bliškovo",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wn304"
+        "freebase_id": "/m/012wn304",
+        "lat": 43.153333333,
+        "lng": 19.556944444
     },
     {
         "wikidata_id": "Q2046643",
         "name": "Dobrakovo",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wvj4t"
+        "freebase_id": "/m/012wvj4t",
+        "lat": 43.139444444,
+        "lng": 19.774444444
     },
     {
         "wikidata_id": "Q2046702",
         "name": "Bijedići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wq8xs"
+        "freebase_id": "/m/012wq8xs",
+        "lat": 42.933333333,
+        "lng": 19.833333333
     },
     {
         "wikidata_id": "Q2046671",
         "name": "Voljavac",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012z24jk"
+        "freebase_id": "/m/012z24jk",
+        "lat": 43.113611111,
+        "lng": 19.786666666
     },
     {
         "wikidata_id": "Q3003054",
         "name": "Crljenice",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wv0tz"
+        "freebase_id": "/m/012wv0tz",
+        "lat": 43.35694444,
+        "lng": 19.39222222
     },
     {
         "wikidata_id": "Q3003106",
         "name": "Crnobori",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wwlxq"
+        "freebase_id": "/m/012wwlxq",
+        "lat": 43.25416667,
+        "lng": 19.30805556
     },
     {
         "wikidata_id": "Q2042256",
         "name": "Barice",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wmwsn"
+        "freebase_id": "/m/012wmwsn",
+        "lat": 43.016388888,
+        "lng": 19.726944444
     },
     {
         "wikidata_id": "Q3478044",
         "name": "Selac",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wpnp1"
+        "freebase_id": "/m/012wpnp1",
+        "lat": 43.13027778,
+        "lng": 19.35111111
     },
     {
         "wikidata_id": "Q3495215",
         "name": "Srđevac",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z338w"
+        "freebase_id": "/m/012z338w",
+        "lat": 42.95444444,
+        "lng": 19.85194444
     },
     {
         "wikidata_id": "Q3047460",
         "name": "Rastoka",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2qg9"
+        "freebase_id": "/m/012z2qg9",
+        "lat": 43.0292,
+        "lng": 19.7758
     },
     {
         "wikidata_id": "Q2911081",
         "name": "Borišići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn974"
+        "freebase_id": "/m/012wn974",
+        "lat": 43.48638889,
+        "lng": 19.01861111
     },
     {
         "wikidata_id": "Q3319339",
         "name": "Mojstir",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wjsd6"
+        "freebase_id": "/m/012wjsd6",
+        "lat": 43.0794,
+        "lng": 19.8722
     },
     {
         "wikidata_id": "Q3400065",
         "name": "Potkrajci",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wml59"
+        "freebase_id": "/m/012wml59",
+        "lat": 43.2214,
+        "lng": 19.4364
     },
     {
         "wikidata_id": "Q3400076",
         "name": "Potoci, PljevljaPotoci, Pljevlja",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wtgh1"
+        "freebase_id": "/m/012wtgh1",
+        "lat": 43.3597,
+        "lng": 19.2553
     },
     {
         "wikidata_id": "Q3400116",
         "name": "Potrlica",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wvl5t"
+        "freebase_id": "/m/012wvl5t",
+        "lat": 43.34,
+        "lng": 19.36861111
     },
     {
         "wikidata_id": "Q3200287",
         "name": "Kukavica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wp0h2"
+        "freebase_id": "/m/012wp0h2",
+        "lat": 43.5,
+        "lng": 19.0758
     },
     {
         "wikidata_id": "Q3033352",
         "name": "Dobrinje",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wh0h7"
+        "freebase_id": "/m/012wh0h7",
+        "lat": 43.1514,
+        "lng": 19.7197
     },
     {
         "wikidata_id": "Q3199173",
         "name": "Kotline",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wjsjm"
+        "freebase_id": "/m/012wjsjm",
+        "lat": 43.3817,
+        "lng": 19.3139
     },
     {
         "wikidata_id": "Q3389645",
         "name": "Pižure",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wsby8"
+        "freebase_id": "/m/012wsby8",
+        "lat": 43.435,
+        "lng": 19.20083333
     },
     {
         "wikidata_id": "Q3485313",
         "name": "Sirčići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wqw3l"
+        "freebase_id": "/m/012wqw3l",
+        "lat": 43.45444444,
+        "lng": 19.05555556
     },
     {
         "wikidata_id": "Q3050802",
         "name": "Q3050802",
         "description": "village in Bar Municipality, Montenegro",
-        "freebase_id": "/m/02qg7nq"
+        "freebase_id": "/m/02qg7nq",
+        "lat": 42.0011,
+        "lng": 19.2017
     },
     {
         "wikidata_id": "Q3392452",
         "name": "Pliješevina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn9ly"
+        "freebase_id": "/m/012wn9ly",
+        "lat": 43.34555556,
+        "lng": 19.21027778
     },
     {
         "wikidata_id": "Q3393016",
         "name": "Podborova",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wh5w1"
+        "freebase_id": "/m/012wh5w1",
+        "lat": 43.19222222,
+        "lng": 19.45388889
     },
     {
         "wikidata_id": "Q3478148",
         "name": "Selišta",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wqx90"
+        "freebase_id": "/m/012wqx90",
+        "lat": 43.4853,
+        "lng": 19.0492
     },
     {
         "wikidata_id": "Q3047543",
         "name": "Orahovica",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012whz00"
+        "freebase_id": "/m/012whz00",
+        "lat": 43.1131,
+        "lng": 19.75
     },
     {
         "wikidata_id": "Q3192680",
         "name": "Kanje",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wm15z"
+        "freebase_id": "/m/012wm15z",
+        "lat": 43.13694444,
+        "lng": 19.75416667
     },
     {
         "wikidata_id": "Q3043387",
         "name": "Slatina",
         "description": "small town in Andrijevica, Montenegro",
-        "freebase_id": "/m/0cc52xh"
+        "freebase_id": "/m/0cc52xh",
+        "lat": 42.754444444,
+        "lng": 19.772777777
     },
     {
         "wikidata_id": "Q2924195",
         "name": "Brda",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wh2lz"
+        "freebase_id": "/m/012wh2lz",
+        "lat": 43.47583333,
+        "lng": 19.04527778
     },
     {
         "wikidata_id": "Q3199116",
         "name": "Kostići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012w_7yx"
+        "freebase_id": "/m/012w_7yx",
+        "lat": 42.9914,
+        "lng": 19.8258
     },
     {
         "wikidata_id": "Q3104691",
         "name": "Geuši",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wrlqc"
+        "freebase_id": "/m/012wrlqc",
+        "lat": 43.50166667,
+        "lng": 18.92111111
     },
     {
         "wikidata_id": "Q3391084",
         "name": "Plakala",
         "description": "village in northern Montenegro",
-        "freebase_id": "/m/012wp3gc"
+        "freebase_id": "/m/012wp3gc",
+        "lat": 43.45388889,
+        "lng": 19.08611111
     },
     {
         "wikidata_id": "Q3040610",
         "name": "Dubrava",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wl8k3"
+        "freebase_id": "/m/012wl8k3",
+        "lat": 43.4894,
+        "lng": 19.2094
     },
     {
         "wikidata_id": "Q3400110",
         "name": "Potrk",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z213y"
+        "freebase_id": "/m/012z213y",
+        "lat": 43.04472222,
+        "lng": 19.61444444
     },
     {
         "wikidata_id": "Q3319407",
         "name": "Mokri Lug",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012wwf8v"
+        "freebase_id": "/m/012wwf8v",
+        "lat": 43.0669,
+        "lng": 19.8722
     },
     {
         "wikidata_id": "Q3111103",
         "name": "Gornja Brvenica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wl_z3"
+        "freebase_id": "/m/012wl_z3",
+        "lat": 43.3786,
+        "lng": 19.2353
     },
     {
         "wikidata_id": "Q2041619",
         "name": "Goduša",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wqx19"
+        "freebase_id": "/m/012wqx19",
+        "lat": 42.966944444,
+        "lng": 19.939722222
     },
     {
         "wikidata_id": "Q3198458",
         "name": "Kolijevka",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn9bs"
+        "freebase_id": "/m/012wn9bs",
+        "lat": 43.29972222,
+        "lng": 19.1
     },
     {
         "wikidata_id": "Q3313101",
         "name": "Mijakovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wj9gt"
+        "freebase_id": "/m/012wj9gt",
+        "lat": 43.2311,
+        "lng": 19.3808
     },
     {
         "wikidata_id": "Q3461148",
         "name": "Sadići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012z26z_"
+        "freebase_id": "/m/012z26z_",
+        "lat": 43.17083333,
+        "lng": 19.60027778
     },
     {
         "wikidata_id": "Q3392994",
         "name": "Poda",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012z2k_q"
+        "freebase_id": "/m/012z2k_q",
+        "lat": 42.9436,
+        "lng": 19.8525
     },
     {
         "wikidata_id": "Q3160549",
         "name": "Jahovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wtqv5"
+        "freebase_id": "/m/012wtqv5",
+        "lat": 43.45,
+        "lng": 19.05555556
     },
     {
         "wikidata_id": "Q3040499",
         "name": "Dubac",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wrkr7"
+        "freebase_id": "/m/012wrkr7",
+        "lat": 43.4669,
+        "lng": 19.0922
     },
     {
         "wikidata_id": "Q3485151",
         "name": "Sipanje",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z26n1"
+        "freebase_id": "/m/012z26n1",
+        "lat": 43.0,
+        "lng": 19.93638889
     },
     {
         "wikidata_id": "Q3229260",
         "name": "Lekovina",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wk_8c"
+        "freebase_id": "/m/012wk_8c",
+        "lat": 43.15194444,
+        "lng": 19.6125
     },
     {
         "wikidata_id": "Q2384534",
         "name": "Prijelozi",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z283_"
+        "freebase_id": "/m/012z283_",
+        "lat": 42.95277778,
+        "lng": 19.79111111
     },
     {
         "wikidata_id": "Q3314556",
         "name": "Milunići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wxsth"
+        "freebase_id": "/m/012wxsth",
+        "lat": 43.38694444,
+        "lng": 19.03972222
     },
     {
         "wikidata_id": "Q2837342",
         "name": "Alići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wqb_j"
+        "freebase_id": "/m/012wqb_j",
+        "lat": 43.25361111,
+        "lng": 19.35388889
     },
     {
         "wikidata_id": "Q3400058",
         "name": "Potkovač",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wjy0s"
+        "freebase_id": "/m/012wjy0s",
+        "lat": 43.42361111,
+        "lng": 19.26888889
     },
     {
         "wikidata_id": "Q3197685",
         "name": "Kičava",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wqbrb"
+        "freebase_id": "/m/012wqbrb",
+        "lat": 43.16333333,
+        "lng": 19.6675
     },
     {
         "wikidata_id": "Q3401489",
         "name": "Pračica",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wmy5t"
+        "freebase_id": "/m/012wmy5t",
+        "lat": 43.4025,
+        "lng": 19.10555556
     },
     {
         "wikidata_id": "Q3401564",
         "name": "Prehari",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x033b"
+        "freebase_id": "/m/012x033b",
+        "lat": 43.46861111,
+        "lng": 19.08388889
     },
     {
         "wikidata_id": "Q3402280",
         "name": "Premćani",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wkhsv"
+        "freebase_id": "/m/012wkhsv",
+        "lat": 43.12027778,
+        "lng": 19.37138889
     },
     {
         "wikidata_id": "Q3313851",
         "name": "Milakovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wj8mj"
+        "freebase_id": "/m/012wj8mj",
+        "lat": 43.4531,
+        "lng": 19.2375
     },
     {
         "wikidata_id": "Q3200003",
         "name": "Kruševo",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wr9xh"
+        "freebase_id": "/m/012wr9xh",
+        "lat": 43.4036,
+        "lng": 19.0242
     },
     {
         "wikidata_id": "Q3003118",
         "name": "Crnča",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012x7sr_"
+        "freebase_id": "/m/012x7sr_",
+        "lat": 42.9386,
+        "lng": 19.8519
     },
     {
         "wikidata_id": "Q3373133",
         "name": "Pavino Polje",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2c1h"
+        "freebase_id": "/m/012z2c1h",
+        "lat": 43.1375,
+        "lng": 19.6286
     },
     {
         "wikidata_id": "Q2413059",
         "name": "Kotlajići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x8fv3"
+        "freebase_id": "/m/012x8fv3",
+        "lat": 43.13361111,
+        "lng": 19.38444444
     },
     {
         "wikidata_id": "Q3316139",
         "name": "Mironići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wrxh_"
+        "freebase_id": "/m/012wrxh_",
+        "lat": 43.45555556,
+        "lng": 19.16861111
     },
     {
         "wikidata_id": "Q3034733",
         "name": "Kazanci, Gacko",
         "description": "village in Bosnia and Herzegovina",
-        "freebase_id": "/m/0crdzlp"
+        "freebase_id": "/m/0crdzlp",
+        "lat": 43.0597,
+        "lng": 18.6686
     },
     {
         "wikidata_id": "Q3257477",
         "name": "Ljuće",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wl1wq"
+        "freebase_id": "/m/012wl1wq",
+        "lat": 43.31,
+        "lng": 19.30666667
     },
     {
         "wikidata_id": "Q3041818",
         "name": "Dušići",
         "description": "village in Podgorica Municipality, Montenegro",
-        "freebase_id": "/m/0_qd9lc"
+        "freebase_id": "/m/0_qd9lc",
+        "lat": 42.34444444,
+        "lng": 19.30777778
     },
     {
         "wikidata_id": "Q3199453",
         "name": "Kozica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wg_q_"
+        "freebase_id": "/m/012wg_q_",
+        "lat": 43.2375,
+        "lng": 19.5056
     },
     {
         "wikidata_id": "Q3111218",
         "name": "Gornje Selo",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wm0tw"
+        "freebase_id": "/m/012wm0tw",
+        "lat": 43.2642,
+        "lng": 19.2939
     },
     {
         "wikidata_id": "Q3046297",
         "name": "Gornje Zaostro",
         "description": "village in Berane, Montenegro",
-        "freebase_id": "/m/011vl6ds"
+        "freebase_id": "/m/011vl6ds",
+        "lat": 42.89,
+        "lng": 19.8356
     },
     {
         "wikidata_id": "Q3220121",
         "name": "Lađana",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wj7c3"
+        "freebase_id": "/m/012wj7c3",
+        "lat": 43.30555556,
+        "lng": 19.26916667
     },
     {
         "wikidata_id": "Q3046162",
         "name": "Rasovo",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z21ty"
+        "freebase_id": "/m/012z21ty",
+        "lat": 43.0608,
+        "lng": 19.7836
     },
     {
         "wikidata_id": "Q3440565",
         "name": "Romac",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012xf4js"
+        "freebase_id": "/m/012xf4js",
+        "lat": 43.44111111,
+        "lng": 19.03944444
     },
     {
         "wikidata_id": "Q3377898",
         "name": "Pećarska",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z3ql4"
+        "freebase_id": "/m/012z3ql4",
+        "lat": 43.10111111,
+        "lng": 19.82027778
     },
     {
         "wikidata_id": "Q3033846",
         "name": "Dolac",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012wpmm_"
+        "freebase_id": "/m/012wpmm_",
+        "lat": 43.0556,
+        "lng": 19.7583
     },
     {
         "wikidata_id": "Q3264464",
         "name": "Lozna",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012x2_ht"
+        "freebase_id": "/m/012x2_ht",
+        "lat": 42.9531,
+        "lng": 19.8722
     },
     {
         "wikidata_id": "Q3495182",
         "name": "Srećanje",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wrwb8"
+        "freebase_id": "/m/012wrwb8",
+        "lat": 43.48694444,
+        "lng": 18.97944444
     },
     {
         "wikidata_id": "Q3229831",
         "name": "Leovo Brdo",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012ww31c"
+        "freebase_id": "/m/012ww31c",
+        "lat": 43.3833,
+        "lng": 19.1053
     },
     {
         "wikidata_id": "Q2908202",
         "name": "Bobovo",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wjn3d"
+        "freebase_id": "/m/012wjn3d",
+        "lat": 43.270555555,
+        "lng": 19.129444444
     },
     {
         "wikidata_id": "Q3307294",
         "name": "Metanjac",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wn99w"
+        "freebase_id": "/m/012wn99w",
+        "lat": 43.11888889,
+        "lng": 19.76861111
     },
     {
         "wikidata_id": "Q3068226",
         "name": "Femića Krš",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012whp7k"
+        "freebase_id": "/m/012whp7k",
+        "lat": 42.9711,
+        "lng": 19.7875
     },
     {
         "wikidata_id": "Q2923157",
         "name": "Boščinovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wpnv0"
+        "freebase_id": "/m/012wpnv0",
+        "lat": 43.287778,
+        "lng": 19.350833
     },
     {
         "wikidata_id": "Q3323705",
         "name": "Moraice",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wtfdm"
+        "freebase_id": "/m/012wtfdm",
+        "lat": 43.27194,
+        "lng": 19.13444
     },
     {
         "wikidata_id": "Q3140519",
         "name": "Horevina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wrxb3"
+        "freebase_id": "/m/012wrxb3",
+        "lat": 43.42638889,
+        "lng": 19.20472222
     },
     {
         "wikidata_id": "Q3003099",
         "name": "Crniš",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wkk7c"
+        "freebase_id": "/m/012wkk7c",
+        "lat": 42.94277778,
+        "lng": 19.90527778
     },
     {
         "wikidata_id": "Q3160524",
         "name": "Jagoče",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wkgfg"
+        "freebase_id": "/m/012wkgfg",
+        "lat": 42.96444444,
+        "lng": 19.88805556
     },
     {
         "wikidata_id": "Q3192045",
         "name": "Kakmuži",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wj0k5"
+        "freebase_id": "/m/012wj0k5",
+        "lat": 43.29527778,
+        "lng": 19.23138889
     },
     {
         "wikidata_id": "Q3192275",
         "name": "Kalušići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wxnzb"
+        "freebase_id": "/m/012wxnzb",
+        "lat": 43.24138889,
+        "lng": 19.085
     },
     {
         "wikidata_id": "Q3108906",
         "name": "Glisnica",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wjmr2"
+        "freebase_id": "/m/012wjmr2",
+        "lat": 43.40638889,
+        "lng": 19.20805556
     },
     {
         "wikidata_id": "Q3438191",
         "name": "Rodijelja",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2f57"
+        "freebase_id": "/m/012z2f57",
+        "lat": 43.09277778,
+        "lng": 19.80027778
     },
     {
         "wikidata_id": "Q3200123",
         "name": "Kržava",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wsdh3"
+        "freebase_id": "/m/012wsdh3",
+        "lat": 43.4711,
+        "lng": 18.9911
     },
     {
         "wikidata_id": "Q3199983",
         "name": "Krupice",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wmy0m"
+        "freebase_id": "/m/012wmy0m",
+        "lat": 43.12166667,
+        "lng": 19.43805556
     },
     {
         "wikidata_id": "Q3002562",
         "name": "Crhalj",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wg_qj"
+        "freebase_id": "/m/012wg_qj",
+        "lat": 42.97916667,
+        "lng": 19.92444444
     },
     {
         "wikidata_id": "Q3280609",
         "name": "Majstorovina",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wsb_l"
+        "freebase_id": "/m/012wsb_l",
+        "lat": 42.97416667,
+        "lng": 19.69166667
     },
     {
         "wikidata_id": "Q3003105",
         "name": "Crno Brdo",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wg_t3"
+        "freebase_id": "/m/012wg_t3",
+        "lat": 43.4081,
+        "lng": 19.1686
     },
     {
         "wikidata_id": "Q3266357",
         "name": "Lugovi",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012x1kr3"
+        "freebase_id": "/m/012x1kr3",
+        "lat": 43.3703,
+        "lng": 19.22
     },
     {
         "wikidata_id": "Q2906250",
         "name": "Blatina",
         "description": "village in Kolašin Municipality, Montenegro",
-        "freebase_id": "/m/03hm647"
+        "freebase_id": "/m/03hm647",
+        "lat": 42.85166667,
+        "lng": 19.48444444
     },
     {
         "wikidata_id": "Q3194266",
         "name": "Katun",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wj9nw"
+        "freebase_id": "/m/012wj9nw",
+        "lat": 43.2719,
+        "lng": 19.3403
     },
     {
         "wikidata_id": "Q3199490",
         "name": "Košare",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x47f_"
+        "freebase_id": "/m/012x47f_",
+        "lat": 43.1886,
+        "lng": 19.3375
     },
     {
         "wikidata_id": "Q3162831",
         "name": "Jasen",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wmx32"
+        "freebase_id": "/m/012wmx32",
+        "lat": 43.2875,
+        "lng": 19.3881
     },
     {
         "wikidata_id": "Q3160519",
         "name": "Jagodni Do",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wrcyt"
+        "freebase_id": "/m/012wrcyt",
+        "lat": 43.4539,
+        "lng": 19.1503
     },
     {
         "wikidata_id": "Q3157035",
         "name": "Jablanovo",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wq6lk"
+        "freebase_id": "/m/012wq6lk",
+        "lat": 43.09027778,
+        "lng": 19.85138889
     },
     {
         "wikidata_id": "Q3157053",
         "name": "Jabučno",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wv1l4"
+        "freebase_id": "/m/012wv1l4",
+        "lat": 43.01916667,
+        "lng": 19.67416667
     },
     {
         "wikidata_id": "Q3036319",
         "name": "Donja Brvenica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wn37q"
+        "freebase_id": "/m/012wn37q",
+        "lat": 43.3736,
+        "lng": 19.2283
     },
     {
         "wikidata_id": "Q3157045",
         "name": "Jabuka",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012whm_p"
+        "freebase_id": "/m/012whm_p",
+        "lat": 43.4353,
+        "lng": 19.1394
     },
     {
         "wikidata_id": "Q3036465",
         "name": "Donje Lipovo",
         "description": "village in Montenegro",
-        "freebase_id": "/m/0yn_3bz"
+        "freebase_id": "/m/0yn_3bz",
+        "lat": 42.8639,
+        "lng": 19.4419
     },
     {
         "wikidata_id": "Q3156241",
         "name": "Ivanje",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012wp222"
+        "freebase_id": "/m/012wp222",
+        "lat": 43.0,
+        "lng": 19.87
     },
     {
         "wikidata_id": "Q3047484",
         "name": "Višnjica",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wq1xw"
+        "freebase_id": "/m/012wq1xw",
+        "lat": 43.3131,
+        "lng": 19.185
     },
     {
         "wikidata_id": "Q2905174",
         "name": "Bjeloševina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wm2p9"
+        "freebase_id": "/m/012wm2p9",
+        "lat": 43.4381,
+        "lng": 19.1264
     },
     {
         "wikidata_id": "Q3391475",
         "name": "Planjsko",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wj8_8"
+        "freebase_id": "/m/012wj8_8",
+        "lat": 43.52083333,
+        "lng": 18.99083333
     },
     {
         "wikidata_id": "Q3047510",
         "name": "Šipovice",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z25j0"
+        "freebase_id": "/m/012z25j0",
+        "lat": 43.02138889,
+        "lng": 19.89638889
     },
     {
         "wikidata_id": "Q3397973",
         "name": "Popov Do",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wpnqy"
+        "freebase_id": "/m/012wpnqy",
+        "lat": 43.3706,
+        "lng": 19.1011
     },
     {
         "wikidata_id": "Q2041642",
         "name": "Vrh",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012z2t5_"
+        "freebase_id": "/m/012z2t5_",
+        "lat": 43.0625,
+        "lng": 19.899722222
     },
     {
         "wikidata_id": "Q3197723",
         "name": "Klakorina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wygtm"
+        "freebase_id": "/m/012wygtm",
+        "lat": 43.51388889,
+        "lng": 19.03805556
     },
     {
         "wikidata_id": "Q2946723",
         "name": "Cerovci",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wv2vn"
+        "freebase_id": "/m/012wv2vn",
+        "lat": 43.37527778,
+        "lng": 19.12222222
     },
     {
         "wikidata_id": "Q3478032",
         "name": "Sela",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012z29rb"
+        "freebase_id": "/m/012z29rb",
+        "lat": 43.0808,
+        "lng": 19.7108
     },
     {
         "wikidata_id": "Q3400103",
         "name": "Potpeće",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wrfd9"
+        "freebase_id": "/m/012wrfd9",
+        "lat": 43.3042,
+        "lng": 19.285
     },
     {
         "wikidata_id": "Q2927791",
         "name": "Bujaci",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wm_d7"
+        "freebase_id": "/m/012wm_d7",
+        "lat": 43.168056,
+        "lng": 19.393056
     },
     {
         "wikidata_id": "Q2402396",
         "name": "Zorlovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn1ps"
+        "freebase_id": "/m/012wn1ps",
+        "lat": 43.48527778,
+        "lng": 19.15555556
     },
     {
         "wikidata_id": "Q3392451",
         "name": "Pliješ",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012whpkq"
+        "freebase_id": "/m/012whpkq",
+        "lat": 43.47277778,
+        "lng": 19.20694444
     },
     {
         "wikidata_id": "Q3392922",
         "name": "Pobretići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z3lfn"
+        "freebase_id": "/m/012z3lfn",
+        "lat": 43.05777778,
+        "lng": 19.83472222
     },
     {
         "wikidata_id": "Q3198916",
         "name": "Kordovina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wncqw"
+        "freebase_id": "/m/012wncqw",
+        "lat": 43.20472222,
+        "lng": 19.38777778
     },
     {
         "wikidata_id": "Q3003082",
         "name": "Crni Vrh",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wg_dp"
+        "freebase_id": "/m/012wg_dp",
+        "lat": 43.3867,
+        "lng": 19.4039
     },
     {
         "wikidata_id": "Q3240698",
         "name": "Lijeska",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012x3mtw"
+        "freebase_id": "/m/012x3mtw",
+        "lat": 43.2261765,
+        "lng": 19.4143863
     },
     {
         "wikidata_id": "Q3453107",
         "name": "Rujevica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012x2c9x"
+        "freebase_id": "/m/012x2c9x",
+        "lat": 43.3364,
+        "lng": 19.2411
     },
     {
         "wikidata_id": "Q3392914",
         "name": "Poblaće",
         "description": "village in Pljevlja Municipality, in northern Montenegro",
-        "freebase_id": "/m/012w_f3q"
+        "freebase_id": "/m/012w_f3q",
+        "lat": 43.51055556,
+        "lng": 19.20277778
     },
     {
         "wikidata_id": "Q2929100",
         "name": "Bušnje",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wh33j"
+        "freebase_id": "/m/012wh33j",
+        "lat": 43.37805556,
+        "lng": 19.27972222
     },
     {
         "wikidata_id": "Q3240699",
         "name": "Lijeska",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wly6y"
+        "freebase_id": "/m/012wly6y",
+        "lat": 43.2194,
+        "lng": 19.4069
     },
     {
         "wikidata_id": "Q3199389",
         "name": "Kovači",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wnb7r"
+        "freebase_id": "/m/012wnb7r",
+        "lat": 42.9683,
+        "lng": 18.5034
     },
     {
         "wikidata_id": "Q3047491",
         "name": "Loznica",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wxp6y"
+        "freebase_id": "/m/012wxp6y",
+        "lat": 43.0356,
+        "lng": 19.7586
     },
     {
         "wikidata_id": "Q3200101",
         "name": "Krćevina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wslc9"
+        "freebase_id": "/m/012wslc9",
+        "lat": 43.41666667,
+        "lng": 19.25
     },
     {
         "wikidata_id": "Q3738564",
         "name": "Tivat Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crj6p7"
+        "freebase_id": "/m/0crj6p7",
+        "lat": 42.43,
+        "lng": 18.7
     },
     {
         "wikidata_id": "Q3739214",
         "name": "Budva Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crgkdj"
+        "freebase_id": "/m/0crgkdj",
+        "lat": 42.28333333,
+        "lng": 18.85
     },
     {
         "wikidata_id": "Q23564",
         "name": "Podgorica",
         "description": "capital city of Montenegro",
-        "freebase_id": "/m/0174pr"
+        "freebase_id": "/m/0174pr",
+        "lat": 42.441388888,
+        "lng": 19.262777777
     },
     {
         "wikidata_id": "Q3555304",
         "name": "Velestovo",
         "description": "village in Cetinje, Montenegro",
-        "freebase_id": "/m/012sdbmw"
+        "freebase_id": "/m/012sdbmw",
+        "lat": 42.52611111,
+        "lng": 18.96444444
     },
     {
         "wikidata_id": "Q4859821",
         "name": "Plav Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/0crcr1b"
+        "freebase_id": "/m/0crcr1b",
+        "lat": 42.58333333,
+        "lng": 19.93333333
     },
     {
         "wikidata_id": "Q3557834",
         "name": "Vidre",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012whr10"
+        "freebase_id": "/m/012whr10",
+        "lat": 43.34861111,
+        "lng": 19.29861111
     },
     {
         "wikidata_id": "Q3574889",
         "name": "Zaselje",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012x1nm9"
+        "freebase_id": "/m/012x1nm9",
+        "lat": 43.4414,
+        "lng": 19.1886
     },
     {
         "wikidata_id": "Q685112",
         "name": "Sutomore",
         "description": "town in Montenegro",
-        "freebase_id": "/m/05ncfd"
+        "freebase_id": "/m/05ncfd",
+        "lat": 42.142777777,
+        "lng": 19.046666666
     },
     {
         "wikidata_id": "Q3594266",
         "name": "Šipačno",
         "description": "village in Montenegro",
-        "freebase_id": "/m/01270srx"
+        "freebase_id": "/m/01270srx",
+        "lat": 42.8694,
+        "lng": 18.9406
     },
     {
         "wikidata_id": "Q3356484",
         "name": "Orlja",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wsb_0"
+        "freebase_id": "/m/012wsb_0",
+        "lat": 43.37,
+        "lng": 19.1839
     },
     {
         "wikidata_id": "Q3558426",
         "name": "Vilići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wkk8w"
+        "freebase_id": "/m/012wkk8w",
+        "lat": 43.25333333,
+        "lng": 19.37027778
     },
     {
         "wikidata_id": "Q3741507",
         "name": "Danilovgrad Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crd3n2"
+        "freebase_id": "/m/0crd3n2",
+        "lat": 42.6,
+        "lng": 19.05
     },
     {
         "wikidata_id": "Q207470",
         "name": "Bijelo Polje",
         "description": "city in Montenegro",
-        "freebase_id": "/m/06fc11"
+        "freebase_id": "/m/06fc11",
+        "lat": 43.029166666,
+        "lng": 19.745555555
     },
     {
         "wikidata_id": "Q3349413",
         "name": "Odžak",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wtfz5"
+        "freebase_id": "/m/012wtfz5",
+        "lat": 43.3669,
+        "lng": 19.2378
     },
     {
         "wikidata_id": "Q3347923",
         "name": "Obarde",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wjmwg"
+        "freebase_id": "/m/012wjmwg",
+        "lat": 43.29083333,
+        "lng": 19.5175
     },
     {
         "wikidata_id": "Q3317366",
         "name": "Herceg Novi Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crf6nl"
+        "freebase_id": "/m/0crf6nl",
+        "lat": 42.45,
+        "lng": 18.533333333
     },
     {
         "wikidata_id": "Q25051614",
         "name": "Vodno",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wh1rr"
+        "freebase_id": "/m/012wh1rr",
+        "lat": 43.182048,
+        "lng": 19.49996
     },
     {
         "wikidata_id": "Q3593839",
         "name": "Čestin",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x26xy"
+        "freebase_id": "/m/012x26xy",
+        "lat": 43.4181,
+        "lng": 19.03
     },
     {
         "wikidata_id": "Q3417168",
         "name": "Radulići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2n1r"
+        "freebase_id": "/m/012z2n1r",
+        "lat": 42.97638889,
+        "lng": 19.88555556
     },
     {
         "wikidata_id": "Q3418071",
         "name": "Rakonje",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2pf8"
+        "freebase_id": "/m/012z2pf8",
+        "lat": 43.01972222,
+        "lng": 19.73666667
     },
     {
         "wikidata_id": "Q3562549",
         "name": "Vojtina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wslyd"
+        "freebase_id": "/m/012wslyd",
+        "lat": 43.42055556,
+        "lng": 19.15777778
     },
     {
         "wikidata_id": "Q3348277",
         "name": "Obrov",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wq2mw"
+        "freebase_id": "/m/012wq2mw",
+        "lat": 43.02361111,
+        "lng": 19.74305556
     },
     {
         "wikidata_id": "Q3362776",
         "name": "Pape",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2pvc"
+        "freebase_id": "/m/012z2pvc",
+        "lat": 43.0481,
+        "lng": 19.6594
     },
     {
         "wikidata_id": "Q200733",
         "name": "Nikšić",
         "description": "city in western Montenegro",
-        "freebase_id": "/m/01psfx"
+        "freebase_id": "/m/01psfx",
+        "lat": 42.7731,
+        "lng": 18.94446
     },
     {
         "wikidata_id": "Q498895",
         "name": "Kolašin",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0b9ckj"
+        "freebase_id": "/m/0b9ckj",
+        "lat": 42.82229,
+        "lng": 19.51653
     },
     {
         "wikidata_id": "Q3541072",
         "name": "Trubine",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2w12"
+        "freebase_id": "/m/012z2w12",
+        "lat": 42.93472222,
+        "lng": 19.87388889
     },
     {
         "wikidata_id": "Q3594312",
         "name": "Šula",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wzqrk"
+        "freebase_id": "/m/012wzqrk",
+        "lat": 43.38611111,
+        "lng": 19.05916667
     },
     {
         "wikidata_id": "Q208200",
         "name": "Berane",
         "description": "town and municipality in northeastern Montenegro",
-        "freebase_id": "/m/078p_2"
+        "freebase_id": "/m/078p_2",
+        "lat": 42.847272222,
+        "lng": 19.869413888
     },
     {
         "wikidata_id": "Q506775",
         "name": "Rožaje",
         "description": "town in Montenegro",
-        "freebase_id": "/m/09ltrv"
+        "freebase_id": "/m/09ltrv",
+        "lat": 42.844227777,
+        "lng": 20.167877777
     },
     {
         "wikidata_id": "Q3418054",
         "name": "Rakita",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2h53"
+        "freebase_id": "/m/012z2h53",
+        "lat": 42.9742,
+        "lng": 19.6728
     },
     {
         "wikidata_id": "Q211343",
         "name": "Pljevlja",
         "description": "city in Montenegro",
-        "freebase_id": "/m/01psjx"
+        "freebase_id": "/m/01psjx",
+        "lat": 43.356616666,
+        "lng": 19.350208333
     },
     {
         "wikidata_id": "Q31182282",
         "name": "Bijela Monastery",
         "description": "monastery in Bijela, Serbia",
-        "freebase_id": "/m/0wfrg0p"
+        "freebase_id": "/m/0wfrg0p",
+        "lat": 42.940172222,
+        "lng": 19.100486111
     },
     {
         "wikidata_id": "Q3417093",
         "name": "Radojeva Glava",
         "description": "village in Bijelo Polje Municipality, Montenegro",
-        "freebase_id": "/m/012z2qmx"
+        "freebase_id": "/m/012z2qmx",
+        "lat": 43.0733,
+        "lng": 19.8397
     },
     {
         "wikidata_id": "Q3594285",
         "name": "Šljivansko",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wlbbl"
+        "freebase_id": "/m/012wlbbl",
+        "lat": 43.3217,
+        "lng": 19.2128
     },
     {
         "wikidata_id": "Q3499982",
         "name": "Strahov Do",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012x05lg"
+        "freebase_id": "/m/012x05lg",
+        "lat": 43.4553,
+        "lng": 19.125
     },
     {
         "wikidata_id": "Q173338",
         "name": "Cetinje",
         "description": "Old Royal Capital of Montenegro",
-        "freebase_id": "/m/01pjnw"
+        "freebase_id": "/m/01pjnw",
+        "lat": 42.389444444,
+        "lng": 18.924722222
     },
     {
         "wikidata_id": "Q174237",
         "name": "Budva",
         "description": "city in Montenegro",
-        "freebase_id": "/m/02pgw9"
+        "freebase_id": "/m/02pgw9",
+        "lat": 42.284722222,
+        "lng": 18.845277777
     },
     {
         "wikidata_id": "Q171080",
         "name": "Kotor",
         "description": "town in Montenegro",
-        "freebase_id": "/m/01pjn0"
+        "freebase_id": "/m/01pjn0",
+        "lat": 42.42539,
+        "lng": 18.771191
     },
     {
         "wikidata_id": "Q25829",
         "name": "Kodre",
         "description": "town in Montenegro",
-        "freebase_id": "/m/0cc92yr"
+        "freebase_id": "/m/0cc92yr",
+        "lat": 41.929722222,
+        "lng": 19.238888888
     },
     {
         "wikidata_id": "Q3408547",
         "name": "Prošće",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x066s"
+        "freebase_id": "/m/012x066s",
+        "lat": 43.43944444,
+        "lng": 19.08888889
     },
     {
         "wikidata_id": "Q3594468",
         "name": "Žurena",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2yw9"
+        "freebase_id": "/m/012z2yw9",
+        "lat": 42.97055556,
+        "lng": 19.82111111
     },
     {
         "wikidata_id": "Q3574473",
         "name": "Zabrđe",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wtj74"
+        "freebase_id": "/m/012wtj74",
+        "lat": 43.3172,
+        "lng": 19.3247
     },
     {
         "wikidata_id": "Q3357648",
         "name": "Otilovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wtxr6"
+        "freebase_id": "/m/012wtxr6",
+        "lat": 43.32083333,
+        "lng": 19.41361111
     },
     {
         "wikidata_id": "Q3299782",
         "name": "Mojkovac Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crh6v3"
+        "freebase_id": "/m/0crh6v3",
+        "lat": 42.958611111,
+        "lng": 19.581666666
     },
     {
         "wikidata_id": "Q3299950",
         "name": "Pljevlja Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crft99"
+        "freebase_id": "/m/0crft99",
+        "lat": 43.35,
+        "lng": 19.35
     },
     {
         "wikidata_id": "Q3563603",
         "name": "Vrbica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wxrjz"
+        "freebase_id": "/m/012wxrjz",
+        "lat": 43.2942,
+        "lng": 19.2858
     },
     {
         "wikidata_id": "Q3547863",
         "name": "Ujniče",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z3gpz"
+        "freebase_id": "/m/012z3gpz",
+        "lat": 43.09277778,
+        "lng": 19.70277778
     },
     {
         "wikidata_id": "Q13365880",
         "name": "Šavnik Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/0crhd10"
+        "freebase_id": "/m/0crhd10",
+        "lat": 42.95639,
+        "lng": 19.09389
     },
     {
         "wikidata_id": "Q3575117",
         "name": "Zekavice",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wmz65"
+        "freebase_id": "/m/012wmz65",
+        "lat": 43.26722222,
+        "lng": 19.37527778
     },
     {
         "wikidata_id": "Q3496908",
         "name": "Stančani",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wpllc"
+        "freebase_id": "/m/012wpllc",
+        "lat": 43.19277778,
+        "lng": 19.36805556
     },
     {
         "wikidata_id": "Q3355009",
         "name": "Orahovo",
         "description": "village in Bar Municipality, Montenegro",
-        "freebase_id": "/m/0127y6n3"
+        "freebase_id": "/m/0127y6n3",
+        "lat": 42.2456,
+        "lng": 19.065
     },
     {
         "wikidata_id": "Q3549902",
         "name": "Unevine",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z24zs"
+        "freebase_id": "/m/012z24zs",
+        "lat": 43.10555556,
+        "lng": 19.76944444
     },
     {
         "wikidata_id": "Q25051610",
         "name": "Vijenac",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wwfz7"
+        "freebase_id": "/m/012wwfz7",
+        "lat": 43.388457,
+        "lng": 19.095237
     },
     {
         "wikidata_id": "Q3337762",
         "name": "Negobratina",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wj5d6"
+        "freebase_id": "/m/012wj5d6",
+        "lat": 43.02833333,
+        "lng": 19.9225
     },
     {
         "wikidata_id": "Q3575664",
         "name": "Zminac",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012z27k4"
+        "freebase_id": "/m/012z27k4",
+        "lat": 43.02166667,
+        "lng": 19.85027778
     },
     {
         "wikidata_id": "Q3415940",
         "name": "Rabitlje",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn06l"
+        "freebase_id": "/m/012wn06l",
+        "lat": 43.30305556,
+        "lng": 19.37611111
     },
     {
         "wikidata_id": "Q3403945",
         "name": "Prisoji",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn_hf"
+        "freebase_id": "/m/012wn_hf",
+        "lat": 43.51972222,
+        "lng": 19.16888889
     },
     {
         "wikidata_id": "Q3303233",
         "name": "Kolašin Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crd_f7"
+        "freebase_id": "/m/0crd_f7",
+        "lat": 42.8239,
+        "lng": 19.5186
     },
     {
         "wikidata_id": "Q16085370",
         "name": "Gusinje Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/012hrgzf"
+        "freebase_id": "/m/012hrgzf",
+        "lat": 42.55,
+        "lng": 19.833333333
     },
     {
         "wikidata_id": "Q3539789",
         "name": "Trnovice",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x69dk"
+        "freebase_id": "/m/012x69dk",
+        "lat": 43.35416667,
+        "lng": 19.18805556
     },
     {
         "wikidata_id": "Q223469",
         "name": "Tivat",
         "description": "town in Montenegro",
-        "freebase_id": "/m/03xl5r"
+        "freebase_id": "/m/03xl5r",
+        "lat": 42.43,
+        "lng": 18.7
     },
     {
         "wikidata_id": "Q3304454",
         "name": "Žabljak Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crjdcn"
+        "freebase_id": "/m/0crjdcn",
+        "lat": 43.15,
+        "lng": 19.11666667
     },
     {
         "wikidata_id": "Q3593868",
         "name": "Đalovići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012z2226"
+        "freebase_id": "/m/012z2226",
+        "lat": 43.074166666,
+        "lng": 19.9475
     },
     {
         "wikidata_id": "Q3593890",
         "name": "Đurkovići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/02qv0v9"
+        "freebase_id": "/m/02qv0v9",
+        "lat": 42.51,
+        "lng": 19.29
     },
     {
         "wikidata_id": "Q990088",
         "name": "Petrovac na Moru",
         "description": "town in Budva municipality, Montenegro",
-        "freebase_id": "/m/08qcph"
+        "freebase_id": "/m/08qcph",
+        "lat": 42.205555555,
+        "lng": 18.9425
     },
     {
         "wikidata_id": "Q3305075",
         "name": "Old Royal Capital Cetinje",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crhspt"
+        "freebase_id": "/m/0crhspt",
+        "lat": 42.4,
+        "lng": 18.91972
     },
     {
         "wikidata_id": "Q3305169",
         "name": "Ulcinj Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crcdhh"
+        "freebase_id": "/m/0crcdhh",
+        "lat": 41.933333333,
+        "lng": 19.216666666
     },
     {
         "wikidata_id": "Q4853794",
         "name": "Berane Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crfdd0"
+        "freebase_id": "/m/0crfdd0",
+        "lat": 42.85,
+        "lng": 19.866666666
     },
     {
         "wikidata_id": "Q4856305",
         "name": "Kotor Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crgb46"
+        "freebase_id": "/m/0crgb46",
+        "lat": 42.43333333,
+        "lng": 18.76666667
     },
     {
         "wikidata_id": "Q3327275",
         "name": "Mrzovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wn9np"
+        "freebase_id": "/m/012wn9np",
+        "lat": 43.31611111,
+        "lng": 19.36333333
     },
     {
         "wikidata_id": "Q3327276",
         "name": "Mrčevo",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wr90b"
+        "freebase_id": "/m/012wr90b",
+        "lat": 43.4189,
+        "lng": 19.1211
     },
     {
         "wikidata_id": "Q3296677",
         "name": "Rožaje Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/0crh6vq"
+        "freebase_id": "/m/0crh6vq",
+        "lat": 42.83333333,
+        "lng": 20.16666667
     },
     {
         "wikidata_id": "Q3542510",
         "name": "Tvrdakovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wl2c7"
+        "freebase_id": "/m/012wl2c7",
+        "lat": 43.45555556,
+        "lng": 19.04305556
     },
     {
         "wikidata_id": "Q844192",
         "name": "Sveti Stefan",
         "description": "town and island in Montenegro",
-        "freebase_id": "/m/02v9qy"
+        "freebase_id": "/m/02v9qy",
+        "lat": 42.25611,
+        "lng": 18.89139
     },
     {
         "wikidata_id": "Q3421467",
         "name": "Rađevići",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wyh2z"
+        "freebase_id": "/m/012wyh2z",
+        "lat": 43.4439,
+        "lng": 19.1581
     },
     {
         "wikidata_id": "Q3575204",
         "name": "Zenica",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012wmxfp"
+        "freebase_id": "/m/012wmxfp",
+        "lat": 43.3047,
+        "lng": 19.3442
     },
     {
         "wikidata_id": "Q211195",
         "name": "Plav",
         "description": "city in Montenegro",
-        "freebase_id": "/m/094k7q"
+        "freebase_id": "/m/094k7q",
+        "lat": 42.595555555,
+        "lng": 19.945
     },
     {
         "wikidata_id": "Q3305250",
         "name": "Podgorica Capital City",
         "description": "Capital City of Montenegro",
-        "freebase_id": "/m/0crgycj"
+        "freebase_id": "/m/0crgycj",
+        "lat": 42.47,
+        "lng": 19.28
     },
     {
         "wikidata_id": "Q189969",
         "name": "Ulcinj",
         "description": "coastal town in Montenegro",
-        "freebase_id": "/m/03cw7m"
+        "freebase_id": "/m/03cw7m",
+        "lat": 41.923611111,
+        "lng": 19.205555555
     },
     {
         "wikidata_id": "Q25051612",
@@ -2247,79 +2987,105 @@
         "wikidata_id": "Q1255643",
         "name": "Rijeka Crnojevića",
         "description": "town in Montenegro",
-        "freebase_id": "/m/080d4ck"
+        "freebase_id": "/m/080d4ck",
+        "lat": 42.35,
+        "lng": 19.033333333
     },
     {
         "wikidata_id": "Q3361410",
         "name": "Pali",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2jvv"
+        "freebase_id": "/m/012z2jvv",
+        "lat": 43.0,
+        "lng": 19.6647
     },
     {
         "wikidata_id": "Q390605",
         "name": "Plužine",
         "description": "city in Montenegro",
-        "freebase_id": "/m/0bf5zv"
+        "freebase_id": "/m/0bf5zv",
+        "lat": 43.15278,
+        "lng": 18.83944
     },
     {
         "wikidata_id": "Q1555366",
         "name": "Gusinje",
         "description": "city in Montenegro",
-        "freebase_id": "/m/094kgj"
+        "freebase_id": "/m/094kgj",
+        "lat": 42.561944444,
+        "lng": 19.833888888
     },
     {
         "wikidata_id": "Q500080",
         "name": "Mojkovac",
         "description": "town in northern Montenegro",
-        "freebase_id": "/m/0b9cdy"
+        "freebase_id": "/m/0b9cdy",
+        "lat": 42.96,
+        "lng": 19.58
     },
     {
         "wikidata_id": "Q15630696",
         "name": "Petnjica Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/0_86_23"
+        "freebase_id": "/m/0_86_23",
+        "lat": 42.947,
+        "lng": 20.01397
     },
     {
         "wikidata_id": "Q3594441",
         "name": "Žiljak",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z247_"
+        "freebase_id": "/m/012z247_",
+        "lat": 43.07472222,
+        "lng": 19.82194444
     },
     {
         "wikidata_id": "Q275630",
         "name": "Danilovgrad",
         "description": "town in central Montenegro",
-        "freebase_id": "/m/09xrp9"
+        "freebase_id": "/m/09xrp9",
+        "lat": 42.55156,
+        "lng": 19.10583
     },
     {
         "wikidata_id": "Q2604068",
         "name": "Bar Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/0crf9zh"
+        "freebase_id": "/m/0crf9zh",
+        "lat": 42.1,
+        "lng": 19.1
     },
     {
         "wikidata_id": "Q18114006",
         "name": "Grevo",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012wp016"
+        "freebase_id": "/m/012wp016",
+        "lat": 43.32,
+        "lng": 19.346388888
     },
     {
         "wikidata_id": "Q4086488",
         "name": "Bijelo Polje Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0czc951"
+        "freebase_id": "/m/0czc951",
+        "lat": 43.02916668,
+        "lng": 19.74555557
     },
     {
         "wikidata_id": "Q3350052",
         "name": "Okladi",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012x5mkl"
+        "freebase_id": "/m/012x5mkl",
+        "lat": 43.04861111,
+        "lng": 19.69555556
     },
     {
         "wikidata_id": "Q3593815",
         "name": "Čavanj",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wjvxk"
+        "freebase_id": "/m/012wjvxk",
+        "lat": 43.15138889,
+        "lng": 19.35694444
     },
     {
         "wikidata_id": "Q3593830",
@@ -2331,126 +3097,168 @@
         "wikidata_id": "Q3593883",
         "name": "Đuli",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wm5qh"
+        "freebase_id": "/m/012wm5qh",
+        "lat": 43.50111111,
+        "lng": 19.10027778
     },
     {
         "wikidata_id": "Q3593893",
         "name": "Đurđevića Tara",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012ww17s"
+        "freebase_id": "/m/012ww17s",
+        "lat": 43.158611111,
+        "lng": 19.296666666
     },
     {
         "wikidata_id": "Q3594316",
         "name": "Šumani",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wz0c8"
+        "freebase_id": "/m/012wz0c8",
+        "lat": 43.28916667,
+        "lng": 19.32222222
     },
     {
         "wikidata_id": "Q3342339",
         "name": "Njegnjevo",
         "description": "village in Montenegro",
-        "freebase_id": "/m/012whn6c"
+        "freebase_id": "/m/012whn6c",
+        "lat": 43.08361111,
+        "lng": 19.78416667
     },
     {
         "wikidata_id": "Q3563589",
         "name": "Vrba",
         "description": "village in Pljevlja Municipality, Montenegro",
-        "freebase_id": "/m/012x1j5_"
+        "freebase_id": "/m/012x1j5_",
+        "lat": 43.3403,
+        "lng": 19.1264
     },
     {
         "wikidata_id": "Q3499936",
         "name": "Stožer",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z28m6"
+        "freebase_id": "/m/012z28m6",
+        "lat": 43.09888889,
+        "lng": 19.51111111
     },
     {
         "wikidata_id": "Q4864476",
         "name": "Plužine Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crh4c4"
+        "freebase_id": "/m/0crh4c4",
+        "lat": 43.15,
+        "lng": 18.833333333
     },
     {
         "wikidata_id": "Q2384773",
         "name": "Andrijevica Municipality",
         "description": "municipality in Montenegro",
-        "freebase_id": "/m/0crhy9q"
+        "freebase_id": "/m/0crhy9q",
+        "lat": 42.73,
+        "lng": 19.79
     },
     {
         "wikidata_id": "Q4865016",
         "name": "Nikšić Municipality",
         "description": "municipality of Montenegro",
-        "freebase_id": "/m/0crg6qz"
+        "freebase_id": "/m/0crg6qz",
+        "lat": 42.78,
+        "lng": 18.94
     },
     {
         "wikidata_id": "Q3516018",
         "name": "Tatarovina",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wq5qb"
+        "freebase_id": "/m/012wq5qb",
+        "lat": 43.43888889,
+        "lng": 19.00666667
     },
     {
         "wikidata_id": "Q115276",
         "name": "Bar",
         "description": "coastal town in Montenegro",
-        "freebase_id": "/m/01yjrm"
+        "freebase_id": "/m/01yjrm",
+        "lat": 42.1,
+        "lng": 19.1
     },
     {
         "wikidata_id": "Q16304529",
         "name": "Borovica",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x6bxh"
+        "freebase_id": "/m/012x6bxh",
+        "lat": 43.3036,
+        "lng": 19.3158
     },
     {
         "wikidata_id": "Q3500882",
         "name": "Stubo",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z274_"
+        "freebase_id": "/m/012z274_",
+        "lat": 43.0361,
+        "lng": 19.8733
     },
     {
         "wikidata_id": "Q3593813",
         "name": "Čardak",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wp3tt"
+        "freebase_id": "/m/012wp3tt",
+        "lat": 43.4417,
+        "lng": 19.1744
     },
     {
         "wikidata_id": "Q3403752",
         "name": "Pripčići",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012z2hvj"
+        "freebase_id": "/m/012z2hvj",
+        "lat": 43.00333333,
+        "lng": 19.73638889
     },
     {
         "wikidata_id": "Q3552271",
         "name": "Uremovići",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wtq6l"
+        "freebase_id": "/m/012wtq6l",
+        "lat": 43.25555556,
+        "lng": 19.32527778
     },
     {
         "wikidata_id": "Q242059",
         "name": "Andrijevica",
         "description": "town and the seat of Andrijevica Municipality in eastern Montenegro",
-        "freebase_id": "/m/02b37w"
+        "freebase_id": "/m/02b37w",
+        "lat": 42.733888888,
+        "lng": 19.791944444
     },
     {
         "wikidata_id": "Q3357426",
         "name": "Ostrelj",
         "description": "village in Bijelo Polje, Montenegro",
-        "freebase_id": "/m/012wszbl"
+        "freebase_id": "/m/012wszbl",
+        "lat": 42.9703,
+        "lng": 19.7383
     },
     {
         "wikidata_id": "Q3554805",
         "name": "Varine",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wr8tp"
+        "freebase_id": "/m/012wr8tp",
+        "lat": 43.17888889,
+        "lng": 19.37305556
     },
     {
         "wikidata_id": "Q3555149",
         "name": "Vaškovo",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012wpnrd"
+        "freebase_id": "/m/012wpnrd",
+        "lat": 43.08972222,
+        "lng": 19.40111111
     },
     {
         "wikidata_id": "Q3555329",
         "name": "Velike Krće",
         "description": "village in Pljevlja, Montenegro",
-        "freebase_id": "/m/012x0vpk"
+        "freebase_id": "/m/012x0vpk",
+        "lat": 43.4067,
+        "lng": 19.2456
     }
 ]

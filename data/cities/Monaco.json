@@ -3,78 +3,104 @@
         "wikidata_id": "Q55112",
         "name": "Saint Michel",
         "description": "quarter of Monaco",
-        "freebase_id": "/m/03cdlx7"
+        "freebase_id": "/m/03cdlx7",
+        "lat": 43.7405,
+        "lng": 7.4237
     },
     {
         "wikidata_id": "Q55108",
         "name": "Moneghetti",
         "description": "quarter of Monaco in its boundries since 2013",
-        "freebase_id": "/m/05ncqf"
+        "freebase_id": "/m/05ncqf",
+        "lat": 43.736057,
+        "lng": 7.417822
     },
     {
         "wikidata_id": "Q55088",
         "name": "Larvotto",
         "description": "quarter of Monaco",
-        "freebase_id": "/m/085f6j"
+        "freebase_id": "/m/085f6j",
+        "lat": 43.746777777,
+        "lng": 7.433333333
     },
     {
         "wikidata_id": "Q55125",
         "name": "Le Portier",
         "description": "neighbourhood in Monaco",
-        "freebase_id": "/m/0zgb01q"
+        "freebase_id": "/m/0zgb01q",
+        "lat": 43.74202,
+        "lng": 7.43213
     },
     {
         "wikidata_id": "Q45240",
         "name": "Monte Carlo",
         "description": "ward in the Principality of Monaco",
-        "freebase_id": "/m/010nlt"
+        "freebase_id": "/m/010nlt",
+        "lat": 43.738942,
+        "lng": 7.425237
     },
     {
         "wikidata_id": "Q921634",
         "name": "Fraxinetum",
         "description": "A site of a 10th-century fortress near Saint-Tropez, in Provence, in France, extending into Austria, & Italy, & Leichenstein, & Monaco, & Switzerland.",
-        "freebase_id": "/m/051677"
+        "freebase_id": "/m/051677",
+        "lat": 43.321388888,
+        "lng": 6.463888888
     },
     {
         "wikidata_id": "Q235",
         "name": "Monaco",
         "description": "microstate in Western Europe",
-        "freebase_id": "/m/04w58"
+        "freebase_id": "/m/04w58",
+        "lat": 43.731111111,
+        "lng": 7.42
     },
     {
         "wikidata_id": "Q55102",
         "name": "La Colle",
         "description": "former ward of Monaco",
-        "freebase_id": "/m/0dpfbj"
+        "freebase_id": "/m/0dpfbj",
+        "lat": 43.733111,
+        "lng": 7.413959
     },
     {
         "wikidata_id": "Q55105",
         "name": "Les Révoires",
         "description": "former ward of Monaco",
-        "freebase_id": "/m/0dpfmj"
+        "freebase_id": "/m/0dpfmj",
+        "lat": 43.7325,
+        "lng": 7.413888888
     },
     {
         "wikidata_id": "Q55115",
         "name": "Monaco City",
         "description": "ward and capital city of the Principality of Monaco",
-        "freebase_id": "/m/030f6y"
+        "freebase_id": "/m/030f6y",
+        "lat": 43.73097,
+        "lng": 7.424815
     },
     {
         "wikidata_id": "Q55089",
         "name": "La Rousse",
         "description": "quarter of Monaco",
-        "freebase_id": "/m/05ncrt"
+        "freebase_id": "/m/05ncrt",
+        "lat": 43.750833333,
+        "lng": 7.435833333
     },
     {
         "wikidata_id": "Q55095",
         "name": "La Condamine",
         "description": "quarter of Monaco",
-        "freebase_id": "/m/030f4p"
+        "freebase_id": "/m/030f4p",
+        "lat": 43.734608,
+        "lng": 7.421552
     },
     {
         "wikidata_id": "Q55098",
         "name": "Fontvieille",
         "description": "quarter of Monaco",
-        "freebase_id": "/m/0304gq"
+        "freebase_id": "/m/0304gq",
+        "lat": 43.727696,
+        "lng": 7.418157
     }
 ]

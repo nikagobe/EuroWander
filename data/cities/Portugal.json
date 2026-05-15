@@ -3,133 +3,177 @@
         "wikidata_id": "Q2095537",
         "name": "Rubiães",
         "description": "civil parish in Paredes de Coura",
-        "freebase_id": "/m/02q_7vz"
+        "freebase_id": "/m/02q_7vz",
+        "lat": 41.896388888,
+        "lng": -8.625277777
     },
     {
         "wikidata_id": "Q637926",
         "name": "Arcozelo",
         "description": "civil parish in Barcelos",
-        "freebase_id": "/m/0f5tbs"
+        "freebase_id": "/m/0f5tbs",
+        "lat": 41.548055555,
+        "lng": -8.602222222
     },
     {
         "wikidata_id": "Q985517",
         "name": "Alfama",
         "description": "City district of Lisbon, Portugal",
-        "freebase_id": "/m/01rvm4"
+        "freebase_id": "/m/01rvm4",
+        "lat": 38.710662,
+        "lng": -9.132385
     },
     {
         "wikidata_id": "Q16490914",
         "name": "Antas (Porto)",
         "description": "parish and neighborhood of Porto, Portugal",
-        "freebase_id": "/m/0g8m9jd"
+        "freebase_id": "/m/0g8m9jd",
+        "lat": 41.1606803,
+        "lng": -8.59239
     },
     {
         "wikidata_id": "Q1776168",
         "name": "Monastery of São Vicente de Fora",
         "description": "church and monastery in Lisbon",
-        "freebase_id": "/m/086kb8"
+        "freebase_id": "/m/086kb8",
+        "lat": 38.714722222,
+        "lng": -9.127777777
     },
     {
         "wikidata_id": "Q5520613",
         "name": "Gandarela de Basto",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0drxvwk"
+        "freebase_id": "/m/0drxvwk",
+        "lat": 41.458138888,
+        "lng": -8.02875
     },
     {
         "wikidata_id": "Q3491126",
         "name": "Miranda do Douro",
         "description": "city seat of Miranda do Douro municipality",
-        "freebase_id": "/m/080fk1b"
+        "freebase_id": "/m/080fk1b",
+        "lat": 41.4941,
+        "lng": -6.27405
     },
     {
         "wikidata_id": "Q6898329",
         "name": "Monastery of Rates",
         "description": "church building in Póvoa de Varzim, Porto District, Portugal",
-        "freebase_id": "/m/03hkldn"
+        "freebase_id": "/m/03hkldn",
+        "lat": 41.42334722,
+        "lng": -8.67241667
     },
     {
         "wikidata_id": "Q10347150",
         "name": "Pederneira",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/010pg_j6"
+        "freebase_id": "/m/010pg_j6",
+        "lat": 39.606,
+        "lng": -9.071
     },
     {
         "wikidata_id": "Q4666679",
         "name": "Abelheira",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0nd4rjp"
+        "freebase_id": "/m/0nd4rjp",
+        "lat": 39.2801,
+        "lng": -9.3069
     },
     {
         "wikidata_id": "Q5050810",
         "name": "Castro of Monte Valinhas",
         "description": "cultural heritage monument in Arouca, Portugal",
-        "freebase_id": "/m/05v_3n"
+        "freebase_id": "/m/05v_3n",
+        "lat": 40.93649722,
+        "lng": -8.26773889
     },
     {
         "wikidata_id": "Q1947515",
         "name": "Moreira de Cónegos",
         "description": "town and civil parish in Guimarães",
-        "freebase_id": "/m/05mxqs7"
+        "freebase_id": "/m/05mxqs7",
+        "lat": 41.383333333,
+        "lng": -8.333333333
     },
     {
         "wikidata_id": "Q10288244",
         "name": "Gandra, Póvoa de Varzim",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g7n2w"
+        "freebase_id": "/m/0g7n2w",
+        "lat": 41.395,
+        "lng": -8.6169
     },
     {
         "wikidata_id": "Q5401832",
         "name": "Estremadura Province",
         "description": "historical province of Portugal",
-        "freebase_id": "/m/0dsf240"
+        "freebase_id": "/m/0dsf240",
+        "lat": 39.25,
+        "lng": -9.16666667
     },
     {
         "wikidata_id": "Q10289312",
         "name": "Gestrins",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g7n3l"
+        "freebase_id": "/m/0g7n3l",
+        "lat": 41.418244,
+        "lng": -8.6385743
     },
     {
         "wikidata_id": "Q2746237",
         "name": "Torre",
         "description": "Highest point of continental Portugal",
-        "freebase_id": "/m/03c3z04"
+        "freebase_id": "/m/03c3z04",
+        "lat": 40.321888888,
+        "lng": -7.612944444
     },
     {
         "wikidata_id": "Q7264807",
         "name": "Póvoa de Varzim City Center",
         "description": "No description available",
-        "freebase_id": "/m/04jhlyb"
+        "freebase_id": "/m/04jhlyb",
+        "lat": 41.38,
+        "lng": -8.7664
     },
     {
         "wikidata_id": "Q135212649",
         "name": "Agualva-Cacém",
         "description": "city of Sintra Municipality",
-        "freebase_id": "/m/09_jln"
+        "freebase_id": "/m/09_jln",
+        "lat": 38.770262,
+        "lng": -9.30072
     },
     {
         "wikidata_id": "Q1997582",
         "name": "Cabeção",
         "description": "civil parish and former town in Mora",
-        "freebase_id": "/m/0cp0f9f"
+        "freebase_id": "/m/0cp0f9f",
+        "lat": 38.95,
+        "lng": -8.066666666
     },
     {
         "wikidata_id": "Q1997739",
         "name": "Cabouco",
         "description": "civil parish in Lagoa (Açores)",
-        "freebase_id": "/m/0531r3"
+        "freebase_id": "/m/0531r3",
+        "lat": 37.766666666,
+        "lng": -25.566666666
     },
     {
         "wikidata_id": "Q804032",
         "name": "Lisbon Baixa",
         "description": "neighborhood of Lisbon, Portugal",
-        "freebase_id": "/m/07qt_y"
+        "freebase_id": "/m/07qt_y",
+        "lat": 38.711393,
+        "lng": -9.137736
     },
     {
         "wikidata_id": "Q12899232",
         "name": "Castelo Branco",
         "description": "city seat of Castelo Branco municipality",
-        "freebase_id": "/m/029t_2"
+        "freebase_id": "/m/029t_2",
+        "lat": 39.82219,
+        "lng": -7.49087
     },
     {
         "wikidata_id": "Q3412150",
@@ -141,223 +185,297 @@
         "wikidata_id": "Q8076588",
         "name": "Águas de Moura",
         "description": "village in Portugal",
-        "freebase_id": "/m/03y8g1h"
+        "freebase_id": "/m/03y8g1h",
+        "lat": 38.5833,
+        "lng": -8.7
     },
     {
         "wikidata_id": "Q1035381",
         "name": "Caramulo",
         "description": "town",
-        "freebase_id": "/m/0drzggb"
+        "freebase_id": "/m/0drzggb",
+        "lat": 40.56666667,
+        "lng": -8.16666667
     },
     {
         "wikidata_id": "Q6872917",
         "name": "Miratejo",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02z37x1"
+        "freebase_id": "/m/02z37x1",
+        "lat": 38.65,
+        "lng": -9.15
     },
     {
         "wikidata_id": "Q1997825",
         "name": "Fazenda",
         "description": "civil parish in Lajes das Flores",
-        "freebase_id": "/m/04c6q0"
+        "freebase_id": "/m/04c6q0",
+        "lat": 39.388888888,
+        "lng": -31.166388888
     },
     {
         "wikidata_id": "Q2933728",
         "name": "Caldas de Monchique",
         "description": "spa town in the Serra de Monchique",
-        "freebase_id": "/m/07qqst"
+        "freebase_id": "/m/07qqst",
+        "lat": 37.279909,
+        "lng": -8.551614
     },
     {
         "wikidata_id": "Q1518830",
         "name": "Sao Domingos Mine",
         "description": "cultural heritage monument in Mértola, Portugal",
-        "freebase_id": "/m/02rj7ny"
+        "freebase_id": "/m/02rj7ny",
+        "lat": 37.67434,
+        "lng": -7.500184
     },
     {
         "wikidata_id": "Q6898344",
         "name": "Monastery of Santa Clara",
         "description": "building in Vila do Conde, Porto District, Portugal",
-        "freebase_id": "/m/0fslj2"
+        "freebase_id": "/m/0fslj2",
+        "lat": 41.352268,
+        "lng": -8.73908
     },
     {
         "wikidata_id": "Q272781",
         "name": "Jerónimos Monastery",
         "description": "building in Santa Maria de Belém, Lisbon District, Portugal",
-        "freebase_id": "/m/0509kv"
+        "freebase_id": "/m/0509kv",
+        "lat": 38.697846,
+        "lng": -9.205601
     },
     {
         "wikidata_id": "Q7826940",
         "name": "Torre",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03y9vyj"
+        "freebase_id": "/m/03y9vyj",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q7930002",
         "name": "Vila Nova de Caparica",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03qk6ct"
+        "freebase_id": "/m/03qk6ct",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q986021",
         "name": "Cadaval",
         "description": "municipal seat of Cadaval municipality in Lisbon District in Portugal",
-        "freebase_id": "/m/0byr27"
+        "freebase_id": "/m/0byr27",
+        "lat": 39.25,
+        "lng": -9.1
     },
     {
         "wikidata_id": "Q9640593",
         "name": "Avenidas Novas",
         "description": "civil parish in Lisboa",
-        "freebase_id": "/m/0yqjl47"
+        "freebase_id": "/m/0yqjl47",
+        "lat": 38.73916667,
+        "lng": -9.15083333
     },
     {
         "wikidata_id": "Q652613",
         "name": "Bairro Alto",
         "description": "neighborhood in Lisbon, Portugal",
-        "freebase_id": "/m/0554tz"
+        "freebase_id": "/m/0554tz",
+        "lat": 38.713746,
+        "lng": -9.145193
     },
     {
         "wikidata_id": "Q793814",
         "name": "Azinhaga",
         "description": "civil parish and former town in Golegã",
-        "freebase_id": "/m/08xdm6"
+        "freebase_id": "/m/08xdm6",
+        "lat": 39.349922222,
+        "lng": -8.532816666
     },
     {
         "wikidata_id": "Q1464499",
         "name": "São Bento Palace",
         "description": "building in Lisbon, Lisbon District, Portugal",
-        "freebase_id": "/m/07wfv1"
+        "freebase_id": "/m/07wfv1",
+        "lat": 38.7125,
+        "lng": -9.153611111
     },
     {
         "wikidata_id": "Q2499524",
         "name": "Monastery of Santa Cruz",
         "description": "building or structure in Coimbra, Portugal",
-        "freebase_id": "/m/0730tv"
+        "freebase_id": "/m/0730tv",
+        "lat": 40.210945,
+        "lng": -8.428761
     },
     {
         "wikidata_id": "Q1528245",
         "name": "São João",
         "description": "locality and former civil parish in Penha de França, Portugal",
-        "freebase_id": "/m/05b_l7p"
+        "freebase_id": "/m/05b_l7p",
+        "lat": 38.728888888,
+        "lng": -9.122777777
     },
     {
         "wikidata_id": "Q2945656",
         "name": "Centro Histórico de Angra do Heroísmo",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02r389k"
+        "freebase_id": "/m/02r389k",
+        "lat": 38.655,
+        "lng": -27.22
     },
     {
         "wikidata_id": "Q1997707",
         "name": "Capelo",
         "description": "civil parish in Horta",
-        "freebase_id": "/m/04cx39"
+        "freebase_id": "/m/04cx39",
+        "lat": 38.583333333,
+        "lng": -28.783333333
     },
     {
         "wikidata_id": "Q1648341",
         "name": "Azenhas do Mar",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02q_t34"
+        "freebase_id": "/m/02q_t34",
+        "lat": 38.840956,
+        "lng": -9.4619065
     },
     {
         "wikidata_id": "Q4736024",
         "name": "Alta de Lisboa",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0864bx"
+        "freebase_id": "/m/0864bx",
+        "lat": 38.7736229,
+        "lng": -9.1445096
     },
     {
         "wikidata_id": "Q3819477",
         "name": "Igreja de Santa Clara",
         "description": "church in Porto, Portugal",
-        "freebase_id": "/m/0h7qq6t"
+        "freebase_id": "/m/0h7qq6t",
+        "lat": 41.1425,
+        "lng": -8.60916667
     },
     {
         "wikidata_id": "Q1997694",
         "name": "Relva",
         "description": "civil parish in Ponta Delgada",
-        "freebase_id": "/m/04_z7q"
+        "freebase_id": "/m/04_z7q",
+        "lat": 37.753055555,
+        "lng": -25.719444444
     },
     {
         "wikidata_id": "Q7826978",
         "name": "Torre da Marinha",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02z8nmr"
+        "freebase_id": "/m/02z8nmr",
+        "lat": 38.627,
+        "lng": -9.103
     },
     {
         "wikidata_id": "Q5166335",
         "name": "Mosteiro de Santa Mónica",
         "description": "building in Lisbon, Lisbon District, Portugal",
-        "freebase_id": "/m/0d9mj7"
+        "freebase_id": "/m/0d9mj7",
+        "lat": 38.71519,
+        "lng": -9.13035
     },
     {
         "wikidata_id": "Q1997688",
         "name": "Terra Chã",
         "description": "civil parish in Angra do Heroísmo",
-        "freebase_id": "/m/04s31r"
+        "freebase_id": "/m/04s31r",
+        "lat": 38.666666666,
+        "lng": -27.25
     },
     {
         "wikidata_id": "Q15216043",
         "name": "Bordeira",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0zbw53g"
+        "freebase_id": "/m/0zbw53g",
+        "lat": 37.12150833,
+        "lng": -7.92372222
     },
     {
         "wikidata_id": "Q7909512",
         "name": "Vale de Milhaços",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02z8nkb"
+        "freebase_id": "/m/02z8nkb",
+        "lat": 38.65,
+        "lng": -9.15
     },
     {
         "wikidata_id": "Q5048005",
         "name": "Casalinhos de Alfaiata",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/026xg1v"
+        "freebase_id": "/m/026xg1v",
+        "lat": 39.1,
+        "lng": -9.35
     },
     {
         "wikidata_id": "Q920477",
         "name": "Brito",
         "description": "town and civil parish in Guimarães",
-        "freebase_id": "/m/09g6v2l"
+        "freebase_id": "/m/09g6v2l",
+        "lat": 41.45,
+        "lng": -8.366666666
     },
     {
         "wikidata_id": "Q4848651",
         "name": "Bairro Sul",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6s15"
+        "freebase_id": "/m/0g6s15",
+        "lat": 41.3767362,
+        "lng": -8.7607344
     },
     {
         "wikidata_id": "Q4848652",
         "name": "Bairro da Matriz",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6yj3"
+        "freebase_id": "/m/0g6yj3",
+        "lat": 41.3896421,
+        "lng": -8.766605
     },
     {
         "wikidata_id": "Q7908539",
         "name": "Vagos",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0ds8n2b"
+        "freebase_id": "/m/0ds8n2b",
+        "lat": 40.556111111,
+        "lng": -8.681666666
     },
     {
         "wikidata_id": "Q7179531",
         "name": "Pevidém",
         "description": "village in Portugal",
-        "freebase_id": "/m/026yw8w"
+        "freebase_id": "/m/026yw8w",
+        "lat": 41.42694444,
+        "lng": -8.35416667
     },
     {
         "wikidata_id": "Q5667112",
         "name": "Penalves",
         "description": "Neighborhood of Póvoa de Varzim, Portugal",
-        "freebase_id": "/m/0g6s7m"
+        "freebase_id": "/m/0g6s7m",
+        "lat": 41.3752754,
+        "lng": -8.7584868
     },
     {
         "wikidata_id": "Q7050633",
         "name": "Nordestinho",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/05c6fs"
+        "freebase_id": "/m/05c6fs",
+        "lat": 37.85,
+        "lng": -25.2
     },
     {
         "wikidata_id": "Q1752037",
         "name": "Praia da Rocha",
         "description": "Beach in Algarve, Portugal",
-        "freebase_id": "/m/0d2zwn"
+        "freebase_id": "/m/0d2zwn",
+        "lat": 37.11666667,
+        "lng": -8.53333333
     },
     {
         "wikidata_id": "Q524548",
@@ -369,151 +487,201 @@
         "wikidata_id": "Q6898370",
         "name": "Monastery of Santa Maria de Pombeiro",
         "description": "monastery in Pombeiro, Portugal",
-        "freebase_id": "/m/027yqxb"
+        "freebase_id": "/m/027yqxb",
+        "lat": 41.38254444,
+        "lng": -8.22546944
     },
     {
         "wikidata_id": "Q9055876",
         "name": "Parque da Cidade",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6cfw"
+        "freebase_id": "/m/0g6cfw",
+        "lat": 41.399,
+        "lng": -8.756
     },
     {
         "wikidata_id": "Q5994345",
         "name": "Igreja dos Grilos",
         "description": "cultural heritage monument in Porto, Portugal",
-        "freebase_id": "/m/0h7qyb5"
+        "freebase_id": "/m/0h7qyb5",
+        "lat": 41.14197222,
+        "lng": -8.61239722
     },
     {
         "wikidata_id": "Q1337821",
         "name": "Santa Maria de Távora",
         "description": "locality in Portugal",
-        "freebase_id": "/m/09bfhl"
+        "freebase_id": "/m/09bfhl",
+        "lat": 41.813055555,
+        "lng": -8.460277777
     },
     {
         "wikidata_id": "Q5508757",
         "name": "Funchalinho",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03qk6hl"
+        "freebase_id": "/m/03qk6hl",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q5994214",
         "name": "Igreja de São Bento da Vitória",
         "description": "church in Porto, Portugal",
-        "freebase_id": "/m/0h7qjd2"
+        "freebase_id": "/m/0h7qjd2",
+        "lat": 41.1440085,
+        "lng": -8.6163563
     },
     {
         "wikidata_id": "Q7942233",
         "name": "Vouga Municipality",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/080d08y"
+        "freebase_id": "/m/080d08y",
+        "lat": 40.633333,
+        "lng": -8.466667
     },
     {
         "wikidata_id": "Q11781",
         "name": "Roman villa of Ammaia",
         "description": "cultural heritage monument in Marvão, Portugal",
-        "freebase_id": "/m/0h3q454"
+        "freebase_id": "/m/0h3q454",
+        "lat": 39.36933056,
+        "lng": -7.38639722
     },
     {
         "wikidata_id": "Q203034",
         "name": "Midões",
         "description": "civil parish and frmer town in Tábua",
-        "freebase_id": "/m/0gkx59"
+        "freebase_id": "/m/0gkx59",
+        "lat": 40.385277777,
+        "lng": -7.950277777
     },
     {
         "wikidata_id": "Q990356",
         "name": "Vila Baleira",
         "description": "city seat of Porto Santo municipality, Madeira, Portugal",
-        "freebase_id": "/m/02p4lr0"
+        "freebase_id": "/m/02p4lr0",
+        "lat": 33.059188888,
+        "lng": -16.333711111
     },
     {
         "wikidata_id": "Q616959",
         "name": "Biscoitos",
         "description": "civil parish in Praia da Vitória",
-        "freebase_id": "/m/04twbz"
+        "freebase_id": "/m/04twbz",
+        "lat": 38.8,
+        "lng": -27.255555555
     },
     {
         "wikidata_id": "Q1024862",
         "name": "Vila Boa do Bispo",
         "description": "civil parish in Marco de Canaveses",
-        "freebase_id": "/m/0r4qc_k"
+        "freebase_id": "/m/0r4qc_k",
+        "lat": 41.126944444,
+        "lng": -8.213055555
     },
     {
         "wikidata_id": "Q5175063",
         "name": "Costas de Cão",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03whsj7"
+        "freebase_id": "/m/03whsj7",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q5994297",
         "name": "Igreja de São Pedro de Ferreira",
         "description": "church building in Paços de Ferreira, Porto District, Portugal",
-        "freebase_id": "/m/0h7q18p"
+        "freebase_id": "/m/0h7q18p",
+        "lat": 41.264823,
+        "lng": -8.34349
     },
     {
         "wikidata_id": "Q1997726",
         "name": "Candelária",
         "description": "civil parish in Ponta Delgada",
-        "freebase_id": "/m/04f2_7"
+        "freebase_id": "/m/04f2_7",
+        "lat": 37.827777777,
+        "lng": -25.821388888
     },
     {
         "wikidata_id": "Q963573",
         "name": "Campo Grande",
         "description": "locality and former civil parish in Portugal",
-        "freebase_id": "/m/05c39ps"
+        "freebase_id": "/m/05c39ps",
+        "lat": 38.756944444,
+        "lng": -9.153611111
     },
     {
         "wikidata_id": "Q7335372",
         "name": "Rio de Fornos",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0bjklp"
+        "freebase_id": "/m/0bjklp",
+        "lat": 41.85,
+        "lng": -7.01666667
     },
     {
         "wikidata_id": "Q1997788",
         "name": "Lajes das Flores",
         "description": "civil parish in Lajes das Flores",
-        "freebase_id": "/m/0bbv5z3"
+        "freebase_id": "/m/0bbv5z3",
+        "lat": 39.378055555,
+        "lng": -31.174166666
     },
     {
         "wikidata_id": "Q465226",
         "name": "Tamera",
         "description": "peace research village",
-        "freebase_id": "/m/03hhwdj"
+        "freebase_id": "/m/03hhwdj",
+        "lat": 37.71527778,
+        "lng": -8.51527778
     },
     {
         "wikidata_id": "Q793641",
         "name": "Azeitão (São Lourenço e São Simão)",
         "description": "civil parish in Setúbal, Portugal",
-        "freebase_id": "/m/02rv7_1"
+        "freebase_id": "/m/02rv7_1",
+        "lat": 38.5194,
+        "lng": -9.0138
     },
     {
         "wikidata_id": "Q66813181",
         "name": "Ruínas arqueológicas de São Martinho de Dume",
         "description": "cultural heritage monument in Braga, Portugal",
-        "freebase_id": "/m/02pvx54"
+        "freebase_id": "/m/02pvx54",
+        "lat": 41.567764,
+        "lng": -8.435623
     },
     {
         "wikidata_id": "Q960058",
         "name": "São João de Brito",
         "description": "locality and former civil parish in Portugal",
-        "freebase_id": "/m/05c45gq"
+        "freebase_id": "/m/05c45gq",
+        "lat": 38.755,
+        "lng": -9.137777777
     },
     {
         "wikidata_id": "Q1067627",
         "name": "Freguesia da Charneca",
         "description": "former civil parish in Portugal",
-        "freebase_id": "/m/05c5517"
+        "freebase_id": "/m/05c5517",
+        "lat": 38.785277777,
+        "lng": -9.145
     },
     {
         "wikidata_id": "Q7375635",
         "name": "Rua da Junqueira",
         "description": "shopping street in Póvoa de Varzim City Center, Portugal",
-        "freebase_id": "/m/0g6r54"
+        "freebase_id": "/m/0g6r54",
+        "lat": 41.3792711,
+        "lng": -8.7641525
     },
     {
         "wikidata_id": "Q66942037",
         "name": "Monastery of Santa Clara-a-Velha",
         "description": "building or structure in Coimbra, Portugal",
-        "freebase_id": "/m/03h15_k"
+        "freebase_id": "/m/03h15_k",
+        "lat": 40.20276,
+        "lng": -8.43349
     },
     {
         "wikidata_id": "Q6900306",
@@ -531,25 +699,33 @@
         "wikidata_id": "Q4857406",
         "name": "Banática",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03qkqm3"
+        "freebase_id": "/m/03qkqm3",
+        "lat": 38.676,
+        "lng": -9.204
     },
     {
         "wikidata_id": "Q3696292",
         "name": "Cova da Iria",
         "description": "place of the Marian apparitions occurred in Fátima, Portugal",
-        "freebase_id": "/m/06jfwr"
+        "freebase_id": "/m/06jfwr",
+        "lat": 39.631666666,
+        "lng": -8.673333333
     },
     {
         "wikidata_id": "Q241974",
         "name": "Arco da Calheta",
         "description": "civil parish in Calheta (Madeira)",
-        "freebase_id": "/m/05l6sq"
+        "freebase_id": "/m/05l6sq",
+        "lat": 32.713416666,
+        "lng": -17.147777777
     },
     {
         "wikidata_id": "Q5511697",
         "name": "Fómega",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03whsk8"
+        "freebase_id": "/m/03whsk8",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q6761748",
@@ -561,127 +737,169 @@
         "wikidata_id": "Q7862240",
         "name": "Têso",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g7n62"
+        "freebase_id": "/m/0g7n62",
+        "lat": 41.4533,
+        "lng": -8.7409
     },
     {
         "wikidata_id": "Q10323868",
         "name": "Manta Rota",
         "description": "town in Portugal",
-        "freebase_id": "/m/04n2pfb"
+        "freebase_id": "/m/04n2pfb",
+        "lat": 37.168,
+        "lng": -7.519
     },
     {
         "wikidata_id": "Q1997703",
         "name": "Bandeiras",
         "description": "civil parish in Madalena",
-        "freebase_id": "/m/04f2xn"
+        "freebase_id": "/m/04f2xn",
+        "lat": 38.54055556,
+        "lng": -28.465
     },
     {
         "wikidata_id": "Q2683168",
         "name": "Vilamoura",
         "description": "neighborhood of Portugal",
-        "freebase_id": "/m/0fk839"
+        "freebase_id": "/m/0fk839",
+        "lat": 37.07778,
+        "lng": -8.11528
     },
     {
         "wikidata_id": "Q8240183",
         "name": "Bairro Norte",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6c79"
+        "freebase_id": "/m/0g6c79",
+        "lat": 41.3805711,
+        "lng": -8.7569062
     },
     {
         "wikidata_id": "Q6904977",
         "name": "Monte de Caparica",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03wj84d"
+        "freebase_id": "/m/03wj84d",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q931004",
         "name": "Posto Santo",
         "description": "civil parish in Angra do Heroísmo",
-        "freebase_id": "/m/04nn_8"
+        "freebase_id": "/m/04nn_8",
+        "lat": 38.678888888,
+        "lng": -27.230833333
     },
     {
         "wikidata_id": "Q9641364",
         "name": "Azóia",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/011q2tzn"
+        "freebase_id": "/m/011q2tzn",
+        "lat": 38.432,
+        "lng": -9.184
     },
     {
         "wikidata_id": "Q16857680",
         "name": "Vale de Madeiros",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/011pzgfl"
+        "freebase_id": "/m/011pzgfl",
+        "lat": 40.4875,
+        "lng": -7.88472
     },
     {
         "wikidata_id": "Q3204128",
         "name": "Bretanha",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/012j2m_d"
+        "freebase_id": "/m/012j2m_d",
+        "lat": 37.898055555,
+        "lng": -25.756111111
     },
     {
         "wikidata_id": "Q945151",
         "name": "Piedade",
         "description": "civil parish in Lajes do Pico",
-        "freebase_id": "/m/04jxt7"
+        "freebase_id": "/m/04jxt7",
+        "lat": 38.42438,
+        "lng": -28.05501
     },
     {
         "wikidata_id": "Q7420471",
         "name": "Santo André, Póvoa de Varzim",
         "description": "fishing district of the city of Póvoa de Varzim, Portugal",
-        "freebase_id": "/m/0g6cmd"
+        "freebase_id": "/m/0g6cmd",
+        "lat": 41.413888888,
+        "lng": -8.786944444
     },
     {
         "wikidata_id": "Q5559836",
         "name": "Giesteira",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6w1w"
+        "freebase_id": "/m/0g6w1w",
+        "lat": 41.3893453,
+        "lng": -8.742544
     },
     {
         "wikidata_id": "Q4736836",
         "name": "Alto do Moinho",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02z37_4"
+        "freebase_id": "/m/02z37_4",
+        "lat": 38.65,
+        "lng": -9.15
     },
     {
         "wikidata_id": "Q1470414",
         "name": "Carmo Convent",
         "description": "former monastery of the Carmelite Order in Lisbon",
-        "freebase_id": "/m/0gq4n5"
+        "freebase_id": "/m/0gq4n5",
+        "lat": 38.71222222,
+        "lng": -9.14
     },
     {
         "wikidata_id": "Q5464144",
         "name": "Fogueteiro",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02z3wck"
+        "freebase_id": "/m/02z3wck",
+        "lat": 38.62,
+        "lng": -9.11
     },
     {
         "wikidata_id": "Q5465145",
         "name": "Fontanelas",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/04g22cq"
+        "freebase_id": "/m/04g22cq",
+        "lat": 38.8472147,
+        "lng": -9.4371918
     },
     {
         "wikidata_id": "Q5166195",
         "name": "convent of São Pedro de Alcântara",
         "description": "cultural heritage monument in São Roque do Pico, Azores, Portugal",
-        "freebase_id": "/m/0j9p5p5"
+        "freebase_id": "/m/0j9p5p5",
+        "lat": 38.52309444,
+        "lng": -28.318275
     },
     {
         "wikidata_id": "Q5037124",
         "name": "Capuchos",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03qkqnv"
+        "freebase_id": "/m/03qkqnv",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q4694213",
         "name": "Agro-Velho",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6c0c"
+        "freebase_id": "/m/0g6c0c",
+        "lat": 41.39333,
+        "lng": -8.77401
     },
     {
         "wikidata_id": "Q4694520",
         "name": "Aguda Beach",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0j3gfyn"
+        "freebase_id": "/m/0j3gfyn",
+        "lat": 41.049,
+        "lng": -8.653
     },
     {
         "wikidata_id": "Q120498",
@@ -693,19 +911,25 @@
         "wikidata_id": "Q946382",
         "name": "Paul do Mar",
         "description": "civil parish in Calheta (Madeira)",
-        "freebase_id": "/m/06_lwb"
+        "freebase_id": "/m/06_lwb",
+        "lat": 32.754166666,
+        "lng": -17.226666666
     },
     {
         "wikidata_id": "Q790492",
         "name": "Avenida da Liberdade",
         "description": "cultural heritage monument in Lisboa, Portugal",
-        "freebase_id": "/m/02w58w6"
+        "freebase_id": "/m/02w58w6",
+        "lat": 38.719565,
+        "lng": -9.145311
     },
     {
         "wikidata_id": "Q857987",
         "name": "Caniçal",
         "description": "civil parish in Machico",
-        "freebase_id": "/m/05g5bl"
+        "freebase_id": "/m/05g5bl",
+        "lat": 32.73834,
+        "lng": -16.73836
     },
     {
         "wikidata_id": "Q5190323",
@@ -717,19 +941,25 @@
         "wikidata_id": "Q7264747",
         "name": "Pêra",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03wj85s"
+        "freebase_id": "/m/03wj85s",
+        "lat": 38.664,
+        "lng": -9.2
     },
     {
         "wikidata_id": "Q5470404",
         "name": "Foros de Amora",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02y_p7z"
+        "freebase_id": "/m/02y_p7z",
+        "lat": 38.61,
+        "lng": -9.13
     },
     {
         "wikidata_id": "Q863744",
         "name": "Santarém",
         "description": "city seat of Santarém municipality",
-        "freebase_id": "/m/0807mym"
+        "freebase_id": "/m/0807mym",
+        "lat": 39.233333333,
+        "lng": -8.683333333
     },
     {
         "wikidata_id": "Q7294288",
@@ -741,49 +971,65 @@
         "wikidata_id": "Q107157276",
         "name": "Povoação de Aljustrel",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/027bvmf"
+        "freebase_id": "/m/027bvmf",
+        "lat": 39.615863,
+        "lng": -8.664865
     },
     {
         "wikidata_id": "Q4528423",
         "name": "Cancelos de Baixo",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02r8x5b"
+        "freebase_id": "/m/02r8x5b",
+        "lat": 40.990805555,
+        "lng": -7.281055555
     },
     {
         "wikidata_id": "Q7309571",
         "name": "Regufe",
         "description": "neighbourhood in Póvoa de Varzim, Portugal",
-        "freebase_id": "/m/0g6vb1"
+        "freebase_id": "/m/0g6vb1",
+        "lat": 41.3847,
+        "lng": -8.7703
     },
     {
         "wikidata_id": "Q5625827",
         "name": "Gândara",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0g6wvn"
+        "freebase_id": "/m/0g6wvn",
+        "lat": 41.3803335,
+        "lng": -8.738791
     },
     {
         "wikidata_id": "Q5444405",
         "name": "Fermil de Basto",
         "description": "town in Celorico de Basto Municipality, Portugal",
-        "freebase_id": "/m/0ds7glq"
+        "freebase_id": "/m/0ds7glq",
+        "lat": 41.41666667,
+        "lng": -7.98333333
     },
     {
         "wikidata_id": "Q9299135",
         "name": "Santa Marta do Pinhal",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/02z3wj0"
+        "freebase_id": "/m/02z3wj0",
+        "lat": 38.65,
+        "lng": -9.15
     },
     {
         "wikidata_id": "Q736692",
         "name": "Convent of Christ",
         "description": "cultural heritage monument in Tomar, Portugal",
-        "freebase_id": "/m/05cjy1"
+        "freebase_id": "/m/05cjy1",
+        "lat": 39.603636,
+        "lng": -8.419258
     },
     {
         "wikidata_id": "Q602368",
         "name": "Curral das Freiras",
         "description": "civil parish in Câmara de Lobos",
-        "freebase_id": "/m/05r1wp"
+        "freebase_id": "/m/05r1wp",
+        "lat": 32.720833333,
+        "lng": -16.965833333
     },
     {
         "wikidata_id": "Q4092250",
@@ -795,229 +1041,305 @@
         "wikidata_id": "Q4738856",
         "name": "Além",
         "description": "village in Portugal",
-        "freebase_id": "/m/0g7n1r"
+        "freebase_id": "/m/0g7n1r",
+        "lat": 41.4062,
+        "lng": -8.6113
     },
     {
         "wikidata_id": "Q11160605",
         "name": "Igreja de Santa Clara (Santarém)",
         "description": "building in Santarém, Santarém District, Portugal",
-        "freebase_id": "/m/0h7qsb9"
+        "freebase_id": "/m/0h7qsb9",
+        "lat": 39.239907,
+        "lng": -8.682007
     },
     {
         "wikidata_id": "Q7159378",
         "name": "Pedras Rubras",
         "description": "village in Portugal",
-        "freebase_id": "/m/05b1z51"
+        "freebase_id": "/m/05b1z51",
+        "lat": 41.23333333,
+        "lng": -8.66666667
     },
     {
         "wikidata_id": "Q36433",
         "name": "Porto",
         "description": "municipality in Portugal",
-        "freebase_id": "/m/0pmn7"
+        "freebase_id": "/m/0pmn7",
+        "lat": 41.15,
+        "lng": -8.610833333
     },
     {
         "wikidata_id": "Q1982979",
         "name": "Portus Cale",
         "description": "ancient town and port in current-day northern Portugal",
-        "freebase_id": "/m/03b_xsb"
+        "freebase_id": "/m/03b_xsb",
+        "lat": 41.13333333,
+        "lng": -8.61666667
     },
     {
         "wikidata_id": "Q6898380",
         "name": "Convento de São Pedro de Alcântara",
         "description": "building in Lisbon, Lisbon District, Portugal",
-        "freebase_id": "/m/0403m9x"
+        "freebase_id": "/m/0403m9x",
+        "lat": 38.715096,
+        "lng": -9.145392
     },
     {
         "wikidata_id": "Q3025477",
         "name": "Penhas da Saúde",
         "description": "village in Portugal",
-        "freebase_id": "/m/03bz1q8"
+        "freebase_id": "/m/03bz1q8",
+        "lat": 40.3,
+        "lng": -7.55
     },
     {
         "wikidata_id": "Q2671865",
         "name": "Praia da Luz",
         "description": "village in Portugal",
-        "freebase_id": "/m/0cnt6w"
+        "freebase_id": "/m/0cnt6w",
+        "lat": 37.086666666,
+        "lng": -8.731111111
     },
     {
         "wikidata_id": "Q5477395",
         "name": "Foz do Tua",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0465qz"
+        "freebase_id": "/m/0465qz",
+        "lat": 41.2078995,
+        "lng": -7.4210049
     },
     {
         "wikidata_id": "Q66815070",
         "name": "Miróbriga",
         "description": "Roman city in Lusitania; cultural heritage monument in Santiago do Cacém, Portugal",
-        "freebase_id": "/m/02v_jw5"
+        "freebase_id": "/m/02v_jw5",
+        "lat": 38.009505,
+        "lng": -8.683851
     },
     {
         "wikidata_id": "Q2895643",
         "name": "Benagil",
         "description": "beach in Lagoa, Algarve, Portugal",
-        "freebase_id": "/m/0407n9d"
+        "freebase_id": "/m/0407n9d",
+        "lat": 37.0875,
+        "lng": -8.42583
     },
     {
         "wikidata_id": "Q8771527",
         "name": "Eburobrittium",
         "description": "cultural heritage monument in Óbidos, Portugal",
-        "freebase_id": "/m/010hrmp3"
+        "freebase_id": "/m/010hrmp3",
+        "lat": 39.3636,
+        "lng": -9.14038
     },
     {
         "wikidata_id": "Q7665691",
         "name": "São Pedro de Moel",
         "description": "village in Portugal",
-        "freebase_id": "/m/0d9qpg"
+        "freebase_id": "/m/0d9qpg",
+        "lat": 39.75455,
+        "lng": -9.03313
     },
     {
         "wikidata_id": "Q7404257",
         "name": "Salema",
         "description": "village in Portugal",
-        "freebase_id": "/m/0b6kh6v"
+        "freebase_id": "/m/0b6kh6v",
+        "lat": 37.066,
+        "lng": -8.828
     },
     {
         "wikidata_id": "Q6816560",
         "name": "Mendeira",
         "description": "village in Portugal",
-        "freebase_id": "/m/07x1fv"
+        "freebase_id": "/m/07x1fv",
+        "lat": 39.791597222,
+        "lng": -8.261075
     },
     {
         "wikidata_id": "Q601430",
         "name": "Chiado",
         "description": "square in Lisbon, Portugal",
-        "freebase_id": "/m/02vy_rs"
+        "freebase_id": "/m/02vy_rs",
+        "lat": 38.710556,
+        "lng": -9.142222
     },
     {
         "wikidata_id": "Q7264805",
         "name": "Igreja e Convento do Pópulo",
         "description": "church in Braga, Portugal",
-        "freebase_id": "/m/03c02tk"
+        "freebase_id": "/m/03c02tk",
+        "lat": 41.552061,
+        "lng": -8.428502
     },
     {
         "wikidata_id": "Q1611380",
         "name": "Rogil",
         "description": "civil parish in Aljezur",
-        "freebase_id": "/m/06zkxqc"
+        "freebase_id": "/m/06zkxqc",
+        "lat": 37.369166666,
+        "lng": -8.801388888
     },
     {
         "wikidata_id": "Q7136555",
         "name": "Pardieiros",
         "description": "village in Portugal",
-        "freebase_id": "/m/080p8d4"
+        "freebase_id": "/m/080p8d4",
+        "lat": 40.5321,
+        "lng": -7.9495
     },
     {
         "wikidata_id": "Q7142891",
         "name": "Passô",
         "description": "village in Portugal",
-        "freebase_id": "/m/02rszgl"
+        "freebase_id": "/m/02rszgl",
+        "lat": 41.4188,
+        "lng": -8.7411
     },
     {
         "wikidata_id": "Q174779",
         "name": "Batalha Monastery",
         "description": "building in Batalha, Leiria District, Portugal",
-        "freebase_id": "/m/0643w7"
+        "freebase_id": "/m/0643w7",
+        "lat": 39.659166666,
+        "lng": -8.826111111
     },
     {
         "wikidata_id": "Q9626699",
         "name": "Aquae Flaviae",
         "description": "ancient Roman city in Portugal",
-        "freebase_id": "/m/0bdcnm"
+        "freebase_id": "/m/0bdcnm",
+        "lat": 41.739,
+        "lng": -7.469
     },
     {
         "wikidata_id": "Q5447973",
         "name": "Figueira",
         "description": "village in Portugal",
-        "freebase_id": "/m/03c1cd1"
+        "freebase_id": "/m/03c1cd1",
+        "lat": 37.073333333,
+        "lng": -8.8425
     },
     {
         "wikidata_id": "Q5607633",
         "name": "Gresufes",
         "description": "village in Portugal",
-        "freebase_id": "/m/0g7n4_"
+        "freebase_id": "/m/0g7n4_",
+        "lat": 41.4014067,
+        "lng": -8.6152191
     },
     {
         "wikidata_id": "Q2629210",
         "name": "Pax Julia",
         "description": "Roman city in Lusitania",
-        "freebase_id": "/m/0h98b3_"
+        "freebase_id": "/m/0h98b3_",
+        "lat": 38.01777778,
+        "lng": -7.86527778
     },
     {
         "wikidata_id": "Q7447108",
         "name": "Sejães, Póvoa de Varzim",
         "description": "village in Portugal",
-        "freebase_id": "/m/0g7n5c"
+        "freebase_id": "/m/0g7n5c",
+        "lat": 40.73333333,
+        "lng": -8.21666667
     },
     {
         "wikidata_id": "Q4795977",
         "name": "Arrifana",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0df15c"
+        "freebase_id": "/m/0df15c",
+        "lat": 37.296416666,
+        "lng": -8.868194444
     },
     {
         "wikidata_id": "Q66813931",
         "name": "Cacela Velha",
         "description": "cultural heritage monument in Vila Real de Santo António, Portugal",
-        "freebase_id": "/m/04n032k"
+        "freebase_id": "/m/04n032k",
+        "lat": 37.157196,
+        "lng": -7.545421
     },
     {
         "wikidata_id": "Q3267185",
         "name": "Monastery of São Martinho de Tibães",
         "description": "church building in Braga, Braga District, Portugal",
-        "freebase_id": "/m/08ct__"
+        "freebase_id": "/m/08ct__",
+        "lat": 41.555752,
+        "lng": -8.479375
     },
     {
         "wikidata_id": "Q4646983",
         "name": "A-dos-Ruivos",
         "description": "village in Portugal",
-        "freebase_id": "/m/0cs474"
+        "freebase_id": "/m/0cs474",
+        "lat": 39.29722222,
+        "lng": -9.11694444
     },
     {
         "wikidata_id": "Q5166193",
         "name": "Convent of São José, Lagoa",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/041714t"
+        "freebase_id": "/m/041714t",
+        "lat": 37.13713889,
+        "lng": -8.45366667
     },
     {
         "wikidata_id": "Q5046023",
         "name": "Carrapateira, Vila Real de Santo Antonio",
         "description": "village in Portugal",
-        "freebase_id": "/m/0n8_shf"
+        "freebase_id": "/m/0n8_shf",
+        "lat": 37.25,
+        "lng": -7.56666667
     },
     {
         "wikidata_id": "Q5046024",
         "name": "Carrapateira, Aljezur",
         "description": "village in Portugal",
-        "freebase_id": "/m/0n5x73r"
+        "freebase_id": "/m/0n5x73r",
+        "lat": 37.18388889,
+        "lng": -8.89527778
     },
     {
         "wikidata_id": "Q10300838",
         "name": "Igreja de Roriz",
         "description": "church building in Santo Tirso Municipality, Porto District, Portugal",
-        "freebase_id": "/m/0h7q5td"
+        "freebase_id": "/m/0h7q5td",
+        "lat": 41.344479,
+        "lng": -8.38057
     },
     {
         "wikidata_id": "Q10300898",
         "name": "Igreja matriz da Lourinhã",
         "description": "church building in Lourinhães Municipality, Lisbon District, Portugal",
-        "freebase_id": "/m/0h7qh8k"
+        "freebase_id": "/m/0h7qh8k",
+        "lat": 39.24252,
+        "lng": -9.312861
     },
     {
         "wikidata_id": "Q2388241",
         "name": "Taguspark",
         "description": "building in Porto Salvo, Oeiras",
-        "freebase_id": "/m/09fx4w"
+        "freebase_id": "/m/09fx4w",
+        "lat": 38.737477,
+        "lng": -9.303814
     },
     {
         "wikidata_id": "Q16494048",
         "name": "Arripiado",
         "description": "village in Portugal",
-        "freebase_id": "/m/0zbw0kw"
+        "freebase_id": "/m/0zbw0kw",
+        "lat": 39.45,
+        "lng": -8.4
     },
     {
         "wikidata_id": "Q599223",
         "name": "Palace of Mafra",
         "description": "church building in Mafra, Lisbon District, Portugal",
-        "freebase_id": "/m/0fczwl"
+        "freebase_id": "/m/0fczwl",
+        "lat": 38.936922,
+        "lng": -9.326395
     },
     {
         "wikidata_id": "Q7909510",
@@ -1029,253 +1351,337 @@
         "wikidata_id": "Q5047995",
         "name": "Casais Robustos",
         "description": "village in Portugal",
-        "freebase_id": "/m/02r839b"
+        "freebase_id": "/m/02r839b",
+        "lat": 39.5,
+        "lng": -8.66666667
     },
     {
         "wikidata_id": "Q5047997",
         "name": "Casal do Abade",
         "description": "village in Portugal",
-        "freebase_id": "/m/04lfszb"
+        "freebase_id": "/m/04lfszb",
+        "lat": 40.321,
+        "lng": -7.972
     },
     {
         "wikidata_id": "Q7450619",
         "name": "Senhora do Verde",
         "description": "village in Portugal",
-        "freebase_id": "/m/04yfxr3"
+        "freebase_id": "/m/04yfxr3",
+        "lat": 37.21666667,
+        "lng": -8.58333333
     },
     {
         "wikidata_id": "Q922085",
         "name": "Pocinho",
         "description": "village in Vila Nova de Foz Côa",
-        "freebase_id": "/m/0j458q8"
+        "freebase_id": "/m/0j458q8",
+        "lat": 41.1311,
+        "lng": -7.120431
     },
     {
         "wikidata_id": "Q2257743",
         "name": "Almoçageme",
         "description": "Portuguese village",
-        "freebase_id": "/m/027w4m0"
+        "freebase_id": "/m/027w4m0",
+        "lat": 38.7966125,
+        "lng": -9.4705698
     },
     {
         "wikidata_id": "Q11336481",
         "name": "Necessidades Palace",
         "description": "building in Lisbon, Lisbon District, Portugal",
-        "freebase_id": "/m/05zxmtb"
+        "freebase_id": "/m/05zxmtb",
+        "lat": 38.7068444,
+        "lng": -9.1696334
     },
     {
         "wikidata_id": "Q2218903",
         "name": "Freguesia de Ameixial",
         "description": "civil parish in Loulé",
-        "freebase_id": "/m/043n9b5"
+        "freebase_id": "/m/043n9b5",
+        "lat": 37.364166666,
+        "lng": -7.963611111
     },
     {
         "wikidata_id": "Q3781561",
         "name": "Olisipo",
         "description": "Roman city located in the province of Lusitania, in Hispania, in present-day Lisbon",
-        "freebase_id": "/m/0h64y79"
+        "freebase_id": "/m/0h64y79",
+        "lat": 38.7122204,
+        "lng": -9.1339731
     },
     {
         "wikidata_id": "Q145728",
         "name": "Castro of Zambujal",
         "description": "archaeological site in Torres Vedras, Lisbon District, Portugal",
-        "freebase_id": "/m/0j9nk0w"
+        "freebase_id": "/m/0j9nk0w",
+        "lat": 39.074428558,
+        "lng": -9.285777091
     },
     {
         "wikidata_id": "Q7232151",
         "name": "Porto Dinheiro",
         "description": "locality in Lourinhã, Portugal",
-        "freebase_id": "/m/04cv8t2"
+        "freebase_id": "/m/04cv8t2",
+        "lat": 39.2136,
+        "lng": -9.3447
     },
     {
         "wikidata_id": "Q5398962",
         "name": "Espiche",
         "description": "village in Portugal",
-        "freebase_id": "/m/047fy8f"
+        "freebase_id": "/m/047fy8f",
+        "lat": 37.10149444,
+        "lng": -8.73873333
     },
     {
         "wikidata_id": "Q7232147",
         "name": "Porto Brandão",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03y8sh3"
+        "freebase_id": "/m/03y8sh3",
+        "lat": 38.676,
+        "lng": -9.207
     },
     {
         "wikidata_id": "Q1085296",
         "name": "Igreja de São Francisco",
         "description": "church building in Évora, Évora District, Portugal",
-        "freebase_id": "/m/0275ryz"
+        "freebase_id": "/m/0275ryz",
+        "lat": 38.568965,
+        "lng": -7.908622
     },
     {
         "wikidata_id": "Q7455010",
         "name": "Sernada do Vouga",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/04jh64l"
+        "freebase_id": "/m/04jh64l",
+        "lat": 40.67241667,
+        "lng": -8.45305556
     },
     {
         "wikidata_id": "Q5050805",
         "name": "Castro of Cidadelhe",
         "description": "building in Mesãeso Frio, Vila Real District, Portugal",
-        "freebase_id": "/m/0h66gl_"
+        "freebase_id": "/m/0h66gl_",
+        "lat": 41.17861111,
+        "lng": -7.84444444
     },
     {
         "wikidata_id": "Q6898313",
         "name": "Monastery of Arouca",
         "description": "building in Arouca Municipality, Aveiro District, Portugal",
-        "freebase_id": "/m/0fzcg5"
+        "freebase_id": "/m/0fzcg5",
+        "lat": 40.92803,
+        "lng": -8.24656
     },
     {
         "wikidata_id": "Q533782",
         "name": "Estância de Ski da Serra da Estrela",
         "description": "ski resort in Portugal",
-        "freebase_id": "/m/03wcbmr"
+        "freebase_id": "/m/03wcbmr",
+        "lat": 40.3236,
+        "lng": -7.61306
     },
     {
         "wikidata_id": "Q5615412",
         "name": "Guide, Mirandela",
         "description": "village in Portugal",
-        "freebase_id": "/m/0cmbzd5"
+        "freebase_id": "/m/0cmbzd5",
+        "lat": 41.6397,
+        "lng": -7.15088
     },
     {
         "wikidata_id": "Q5994112",
         "name": "Igreja de Chelas",
         "description": "church building in Lisbon, Lisbon District, Portugal",
-        "freebase_id": "/m/0h7n4w_"
+        "freebase_id": "/m/0h7n4w_",
+        "lat": 38.740312,
+        "lng": -9.117798
     },
     {
         "wikidata_id": "Q5994128",
         "name": "Convento de Nossa Senhora da Luz",
         "description": "church in Lisbon, Portugal",
-        "freebase_id": "/m/0gkbpsx"
+        "freebase_id": "/m/0gkbpsx",
+        "lat": 38.760433888,
+        "lng": -9.184722222
     },
     {
         "wikidata_id": "Q5994351",
         "name": "Igreja e Convento de Nossa Senhora de Jesus do Sítio",
         "description": "church building in Santarém, Santarém District, Portugal",
-        "freebase_id": "/m/0h7ppxt"
+        "freebase_id": "/m/0h7ppxt",
+        "lat": 39.233192,
+        "lng": -8.687029
     },
     {
         "wikidata_id": "Q1094262",
         "name": "Citânia de Briteiros",
         "description": "building in Guimarãeses, Braga District, Portugal",
-        "freebase_id": "/m/05h2jxk"
+        "freebase_id": "/m/05h2jxk",
+        "lat": 41.5275,
+        "lng": -8.31583333
     },
     {
         "wikidata_id": "Q5400032",
         "name": "Igreja de Vilar de Frades",
         "description": "church building in Barcelos Municipality, Braga District, Portugal",
-        "freebase_id": "/m/0h7lxqx"
+        "freebase_id": "/m/0h7lxqx",
+        "lat": 41.54027778,
+        "lng": -8.55666667
     },
     {
         "wikidata_id": "Q1003060",
         "name": "Queluz",
         "description": "city in Sintra municipality, in the Greater Lisbon Area of Portugal",
-        "freebase_id": "/m/0crdd8x"
+        "freebase_id": "/m/0crdd8x",
+        "lat": 38.75657,
+        "lng": -9.25451
     },
     {
         "wikidata_id": "Q18748362",
         "name": "Igreja de Castro de Avelãs",
         "description": "church building in Bragança, Bragança District, Portugal",
-        "freebase_id": "/m/0n48_h6"
+        "freebase_id": "/m/0n48_h6",
+        "lat": 41.798958,
+        "lng": -6.804546
     },
     {
         "wikidata_id": "Q3752952",
         "name": "Castro da Cola",
         "description": "building in Ourique, Beja District, Portugal",
-        "freebase_id": "/m/0h66y80"
+        "freebase_id": "/m/0h66y80",
+        "lat": 37.57875278,
+        "lng": -8.30046944
     },
     {
         "wikidata_id": "Q3647274",
         "name": "Burgau",
         "description": "village in Portugal",
-        "freebase_id": "/m/0gfgc6"
+        "freebase_id": "/m/0gfgc6",
+        "lat": 37.073580555,
+        "lng": -8.774561111
     },
     {
         "wikidata_id": "Q640900",
         "name": "Arega",
         "description": "civil parish in Figueiró dos Vinhos",
-        "freebase_id": "/m/08sy4f"
+        "freebase_id": "/m/08sy4f",
+        "lat": 39.850277777,
+        "lng": -8.315833333
     },
     {
         "wikidata_id": "Q2881532",
         "name": "Balsa",
         "description": "Roman town",
-        "freebase_id": "/m/047td0y"
+        "freebase_id": "/m/047td0y",
+        "lat": 37.125796,
+        "lng": -7.649884
     },
     {
         "wikidata_id": "Q4863308",
         "name": "Barreiras",
         "description": "village in Portugal",
-        "freebase_id": "/m/04zz7l6"
+        "freebase_id": "/m/04zz7l6",
+        "lat": 39.2666,
+        "lng": -9.0545
     },
     {
         "wikidata_id": "Q5166189",
         "name": "Convent of São Francisco",
         "description": "convent in Angra do Heroísmo, Portugal",
-        "freebase_id": "/m/0n_h_h2"
+        "freebase_id": "/m/0n_h_h2",
+        "lat": 38.657211,
+        "lng": -27.21693
     },
     {
         "wikidata_id": "Q597",
         "name": "Lisbon",
         "description": "municipality and capital city of Portugal",
-        "freebase_id": "/m/04llb"
+        "freebase_id": "/m/04llb",
+        "lat": 38.708042,
+        "lng": -9.139016
     },
     {
         "wikidata_id": "Q2116580",
         "name": "Vilarinho da Furna",
         "description": "village in Portugal",
-        "freebase_id": "/m/0808ydz"
+        "freebase_id": "/m/0808ydz",
+        "lat": 41.780278,
+        "lng": -8.196944
     },
     {
         "wikidata_id": "Q1058803",
         "name": "Chafé",
         "description": "civil parish in Viana do Castelo",
-        "freebase_id": "/m/07jgz3"
+        "freebase_id": "/m/07jgz3",
+        "lat": 41.649166666,
+        "lng": -8.783055555
     },
     {
         "wikidata_id": "Q1046739",
         "name": "Casal de São Simåo",
         "description": "village in Portugal",
-        "freebase_id": "/m/05zscwj"
+        "freebase_id": "/m/05zscwj",
+        "lat": 39.90833333,
+        "lng": -8.33166667
     },
     {
         "wikidata_id": "Q198199",
         "name": "Gralhas",
         "description": "civil parish in Montalegre",
-        "freebase_id": "/m/02rcvw6"
+        "freebase_id": "/m/02rcvw6",
+        "lat": 41.851944444,
+        "lng": -7.705833333
     },
     {
         "wikidata_id": "Q1132995",
         "name": "Coriscada",
         "description": "civil parish in Mêda",
-        "freebase_id": "/m/04lgfmy"
+        "freebase_id": "/m/04lgfmy",
+        "lat": 40.864166666,
+        "lng": -7.209166666
     },
     {
         "wikidata_id": "Q2941526",
         "name": "Castro of Vieito",
         "description": "Portuguese archaeological site",
-        "freebase_id": "/m/07s3xms"
+        "freebase_id": "/m/07s3xms",
+        "lat": 41.73065,
+        "lng": -8.80716111
     },
     {
         "wikidata_id": "Q6898348",
         "name": "Monastery of Santa Clara-a-Nova",
         "description": "building or structure in Coimbra, Portugal",
-        "freebase_id": "/m/03h4nbg"
+        "freebase_id": "/m/03h4nbg",
+        "lat": 40.202851,
+        "lng": -8.437773
     },
     {
         "wikidata_id": "Q3306921",
         "name": "Cividade de Terroso",
         "description": "building in Póvoa de Varzim, Porto District, Portugal",
-        "freebase_id": "/m/0dgsrh"
+        "freebase_id": "/m/0dgsrh",
+        "lat": 41.412521362,
+        "lng": -8.721084594
     },
     {
         "wikidata_id": "Q66942507",
         "name": "Conímbriga",
         "description": "building or structure in Condeixa-a-Nova, Portugal",
-        "freebase_id": "/m/06z1sl"
+        "freebase_id": "/m/06z1sl",
+        "lat": 40.09891,
+        "lng": -8.493317
     },
     {
         "wikidata_id": "Q6689902",
         "name": "Louzal",
         "description": "village in Portugal",
-        "freebase_id": "/m/0dsdy_x"
+        "freebase_id": "/m/0dsdy_x",
+        "lat": 38.03,
+        "lng": -8.43
     },
     {
         "wikidata_id": "Q1026726",
@@ -1287,31 +1693,41 @@
         "wikidata_id": "Q593147",
         "name": "Alcobaça Monastery",
         "description": "building in Alcobaça, Leiria District, Portugal",
-        "freebase_id": "/m/0fdpsz"
+        "freebase_id": "/m/0fdpsz",
+        "lat": 39.548594,
+        "lng": -8.978628
     },
     {
         "wikidata_id": "Q1441048",
         "name": "Quintanilha",
         "description": "civil parish in Bragança",
-        "freebase_id": "/m/03_bq9"
+        "freebase_id": "/m/03_bq9",
+        "lat": 41.751111111,
+        "lng": -6.57
     },
     {
         "wikidata_id": "Q11156794",
         "name": "Madre de Deus Convent",
         "description": "monastery in Lisbon",
-        "freebase_id": "/m/0h7lsc5"
+        "freebase_id": "/m/0h7lsc5",
+        "lat": 38.72466944,
+        "lng": -9.11411111
     },
     {
         "wikidata_id": "Q581583",
         "name": "Parada de Cima",
         "description": "village in Portugal",
-        "freebase_id": "/m/05h4ygm"
+        "freebase_id": "/m/05h4ygm",
+        "lat": 40.46666667,
+        "lng": -8.68333333
     },
     {
         "wikidata_id": "Q1792866",
         "name": "Castro de Vila Nova de São Pedro",
         "description": "archaeological site in Azambuja Municipality, Lisbon District, Portugal",
-        "freebase_id": "/m/05q242"
+        "freebase_id": "/m/05q242",
+        "lat": 39.219773,
+        "lng": -8.84031
     },
     {
         "wikidata_id": "Q5161122",
@@ -1323,61 +1739,81 @@
         "wikidata_id": "Q4863302",
         "name": "Barregão",
         "description": "village in Portugal",
-        "freebase_id": "/m/0285k6w"
+        "freebase_id": "/m/0285k6w",
+        "lat": 40.7,
+        "lng": -7.1
     },
     {
         "wikidata_id": "Q1046744",
         "name": "Casal Vasco",
         "description": "civil parish in Fornos de Algodres",
-        "freebase_id": "/m/04n6081"
+        "freebase_id": "/m/04n6081",
+        "lat": 40.648888888,
+        "lng": -7.548055555
     },
     {
         "wikidata_id": "Q2138842",
         "name": "Valverde",
         "description": "village in Tondela, Portugal",
-        "freebase_id": "/m/03cdw3c"
+        "freebase_id": "/m/03cdw3c",
+        "lat": 40.535833333,
+        "lng": -8.060277777
     },
     {
         "wikidata_id": "Q6957969",
         "name": "Nadrupe",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/03hj3m2"
+        "freebase_id": "/m/03hj3m2",
+        "lat": 39.23333333,
+        "lng": -9.28333333
     },
     {
         "wikidata_id": "Q7900464",
         "name": "Urgeiriça",
         "description": "village in Canas do Senhorim",
-        "freebase_id": "/m/06_hk3"
+        "freebase_id": "/m/06_hk3",
+        "lat": 40.515259,
+        "lng": -7.896628
     },
     {
         "wikidata_id": "Q1129421",
         "name": "Convent of the Capuchos",
         "description": "building in Sintra, Lisbon District, Portugal",
-        "freebase_id": "/m/0h3scr4"
+        "freebase_id": "/m/0h3scr4",
+        "lat": 38.784396,
+        "lng": -9.438173
     },
     {
         "wikidata_id": "Q21532098",
         "name": "Igreja de Nossa Senhora da Conceição",
         "description": "museum in Beja, Portugal",
-        "freebase_id": "/m/0h7nxf0"
+        "freebase_id": "/m/0h7nxf0",
+        "lat": 38.013893,
+        "lng": -7.863022
     },
     {
         "wikidata_id": "Q10327785",
         "name": "Maxial da Estrada",
         "description": "village in Portugal",
-        "freebase_id": "/m/04kwty"
+        "freebase_id": "/m/04kwty",
+        "lat": 39.843611111,
+        "lng": -8.053611111
     },
     {
         "wikidata_id": "Q1549939",
         "name": "Church of São Francisco",
         "description": "church in Porto, Portugal",
-        "freebase_id": "/m/0g37k2"
+        "freebase_id": "/m/0g37k2",
+        "lat": 41.141,
+        "lng": -8.616
     },
     {
         "wikidata_id": "Q4802782",
         "name": "Arão",
         "description": "village in Portugal",
-        "freebase_id": "/m/0411qcv"
+        "freebase_id": "/m/0411qcv",
+        "lat": 37.175,
+        "lng": -8.646388888
     },
     {
         "wikidata_id": "Q6913230",
@@ -1389,91 +1825,121 @@
         "wikidata_id": "Q1129408",
         "name": "Convento de Santa Cruz do Buçaco",
         "description": "building in Mealhada, Aveiro District, Portugal",
-        "freebase_id": "/m/0wyngh_"
+        "freebase_id": "/m/0wyngh_",
+        "lat": 40.37611111,
+        "lng": -8.37138889
     },
     {
         "wikidata_id": "Q5049795",
         "name": "Castelo de Montel",
         "description": "building in Entradas, Beja District, Portugal",
-        "freebase_id": "/m/0h63nlp"
+        "freebase_id": "/m/0h63nlp",
+        "lat": 37.75194931,
+        "lng": -7.939899921
     },
     {
         "wikidata_id": "Q5049808",
         "name": "Castelo de Oleiros",
         "description": "building in Mogadouro, Bragança District, Portugal",
-        "freebase_id": "/m/0h64slx"
+        "freebase_id": "/m/0h64slx",
+        "lat": 41.301484,
+        "lng": -6.45813
     },
     {
         "wikidata_id": "Q3555410",
         "name": "Venda dos Moinhos",
         "description": "village in Cumeeira, Penela, Portugal",
-        "freebase_id": "/m/02vxqwv"
+        "freebase_id": "/m/02vxqwv",
+        "lat": 39.966666666,
+        "lng": -8.366666666
     },
     {
         "wikidata_id": "Q5050806",
         "name": "Castro de Sacóias",
         "description": "castro in Norte, Portugal",
-        "freebase_id": "/m/0n4byf6"
+        "freebase_id": "/m/0n4byf6",
+        "lat": 41.86312778,
+        "lng": -6.69023333
     },
     {
         "wikidata_id": "Q5166169",
         "name": "Convent of Caloura",
         "description": "convent in Lagoa, Portugal",
-        "freebase_id": "/m/0nhj51b"
+        "freebase_id": "/m/0nhj51b",
+        "lat": 37.712123,
+        "lng": -25.496754
     },
     {
         "wikidata_id": "Q5166183",
         "name": "convent of Nossa Senhora do Carmo",
         "description": "building in Lagoa e Carvoeiro, Faro District, Portugal",
-        "freebase_id": "/m/0glsgm_"
+        "freebase_id": "/m/0glsgm_",
+        "lat": 37.129386,
+        "lng": -8.438046
     },
     {
         "wikidata_id": "Q5166192",
         "name": "Convent of São Gonçalo",
         "description": "convent and church in the municipality of Angra do Heroísmo on the island of Terceira",
-        "freebase_id": "/m/0ddc65z"
+        "freebase_id": "/m/0ddc65z",
+        "lat": 38.6548,
+        "lng": -27.22325278
     },
     {
         "wikidata_id": "Q2913321",
         "name": "Figueira (Proença a Nova)",
         "description": "village in Portugal",
-        "freebase_id": "/m/02pzlwp"
+        "freebase_id": "/m/02pzlwp",
+        "lat": 39.75222222,
+        "lng": -7.85305556
     },
     {
         "wikidata_id": "Q5465156",
         "name": "Fontaínhas",
         "description": "village in Portugal",
-        "freebase_id": "/m/0g7n2h"
+        "freebase_id": "/m/0g7n2h",
+        "lat": 41.415,
+        "lng": -8.65
     },
     {
         "wikidata_id": "Q485225",
         "name": "Lixa",
         "description": "city in Felgueiras municipality",
-        "freebase_id": "/m/02pk2rn"
+        "freebase_id": "/m/02pk2rn",
+        "lat": 41.323,
+        "lng": -8.146305555
     },
     {
         "wikidata_id": "Q3137311",
         "name": "Church of the Monastery of Jesus of Setúbal",
         "description": "church building and national monument in Setúbal, Portugal",
-        "freebase_id": "/m/0fn5qp"
+        "freebase_id": "/m/0fn5qp",
+        "lat": 38.526147222,
+        "lng": -8.894908333
     },
     {
         "wikidata_id": "Q3137311",
         "name": "Church of the Monastery of Jesus of Setúbal",
         "description": "church building and national monument in Setúbal, Portugal",
-        "freebase_id": "/m/0h7nlmc"
+        "freebase_id": "/m/0h7nlmc",
+        "lat": 38.526147222,
+        "lng": -8.894908333
     },
     {
         "wikidata_id": "Q740195",
         "name": "Church of Santo André (Melgaço)",
         "description": "church in Melgaço, Portugal",
-        "freebase_id": "/m/04jks_y"
+        "freebase_id": "/m/04jks_y",
+        "lat": 42.104035,
+        "lng": -8.211137
     },
     {
         "wikidata_id": "Q1775565",
         "name": "Monastery of Santa Maria de Maceira Dão",
         "description": "building in Mangualde, Viseu District, Portugal",
-        "freebase_id": "/m/0h54f9l"
+        "freebase_id": "/m/0h54f9l",
+        "lat": 40.61583333,
+        "lng": -7.81666667
     },
     {
         "wikidata_id": "Q4179093",
@@ -1485,54 +1951,72 @@
         "wikidata_id": "Q5668237",
         "name": "Lacobriga",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0hgqgxr"
+        "freebase_id": "/m/0hgqgxr",
+        "lat": 37.11017,
+        "lng": -8.69249
     },
     {
         "wikidata_id": "Q5024291",
         "name": "Calves",
         "description": "human settlement in Portugal",
-        "freebase_id": "/m/0j9q6m8"
+        "freebase_id": "/m/0j9q6m8",
+        "lat": 41.38333333,
+        "lng": -8.73333333
     },
     {
         "wikidata_id": "Q3487677",
         "name": "Monastery of São Dinis de Odivelas",
         "description": "building in Odivelas, Lisbon District, Portugal",
-        "freebase_id": "/m/04dzwv1"
+        "freebase_id": "/m/04dzwv1",
+        "lat": 38.79129,
+        "lng": -9.182821
     },
     {
         "wikidata_id": "Q16896662",
         "name": "Gouveia",
         "description": "village in São João das Lampas, Sintra",
-        "freebase_id": "/m/04g0_vl"
+        "freebase_id": "/m/04g0_vl",
+        "lat": 38.842221,
+        "lng": -9.427707
     },
     {
         "wikidata_id": "Q7356427",
         "name": "Roda",
         "description": "village in Portugal",
-        "freebase_id": "/m/043k8d0"
+        "freebase_id": "/m/043k8d0",
+        "lat": 40.61666667,
+        "lng": -7.78333333
     },
     {
         "wikidata_id": "Q10276240",
         "name": "Archaeological site of Cabeço do Vouga",
         "description": "building in Águeda Municipality, Aveiro District, Portugal",
-        "freebase_id": "/m/0_qdl9p"
+        "freebase_id": "/m/0_qdl9p",
+        "lat": 40.62824987,
+        "lng": -8.46702007
     },
     {
         "wikidata_id": "Q1482884",
         "name": "Tróia Peninsula",
         "description": "peninsula in Portugal",
-        "freebase_id": "/m/02qs06l"
+        "freebase_id": "/m/02qs06l",
+        "lat": 38.433333333,
+        "lng": -8.833333333
     },
     {
         "wikidata_id": "Q10352828",
         "name": "Miramar",
         "description": "village in Portugal",
-        "freebase_id": "/m/026wn0z"
+        "freebase_id": "/m/026wn0z",
+        "lat": 41.06666667,
+        "lng": -8.65
     },
     {
         "wikidata_id": "Q6674219",
         "name": "Longos Vales's Monastery",
         "description": "church building in Monção, Viana do Castelo District, Portugal",
-        "freebase_id": "/m/07kgwbz"
+        "freebase_id": "/m/07kgwbz",
+        "lat": 42.05111944,
+        "lng": -8.444525
     }
 ]

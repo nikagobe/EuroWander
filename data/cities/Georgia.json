@@ -3,1705 +3,2273 @@
         "wikidata_id": "Q2511190",
         "name": "Martvili Municipality",
         "description": "municipality in Samegrelo, Georgia",
-        "freebase_id": "/m/05zjkz1"
+        "freebase_id": "/m/05zjkz1",
+        "lat": 42.414777777,
+        "lng": 42.378888888
     },
     {
         "wikidata_id": "Q175786",
         "name": "Khelvachauri Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zshzy"
+        "freebase_id": "/m/05zshzy",
+        "lat": 41.58555556,
+        "lng": 41.66888889
     },
     {
         "wikidata_id": "Q2176973",
         "name": "Zugdidi Municipality",
         "description": "municipality in Samegrelo, Georgia",
-        "freebase_id": "/m/05z_72m"
+        "freebase_id": "/m/05z_72m",
+        "lat": 42.508055555,
+        "lng": 41.8725
     },
     {
         "wikidata_id": "Q1851196",
         "name": "Akhalkalaki Municipality",
         "description": "municipality in Samtskhe-Javakheti, Georgia",
-        "freebase_id": "/m/05zt8cm"
+        "freebase_id": "/m/05zt8cm",
+        "lat": 41.40555556,
+        "lng": 43.48611111
     },
     {
         "wikidata_id": "Q893278",
         "name": "Java Municipality",
         "description": "district of Georgia",
-        "freebase_id": "/m/0cm0p0"
+        "freebase_id": "/m/0cm0p0",
+        "lat": 42.3904,
+        "lng": 43.9223
     },
     {
         "wikidata_id": "Q2018619",
         "name": "Baghdati Municipality",
         "description": "municipality in Imereti, Georgia",
-        "freebase_id": "/m/05zyttn"
+        "freebase_id": "/m/05zyttn",
+        "lat": 42.067777777,
+        "lng": 42.824722222
     },
     {
         "wikidata_id": "Q2238147",
         "name": "Tsalka Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zk_y7"
+        "freebase_id": "/m/05zk_y7",
+        "lat": 41.599722222,
+        "lng": 44.090555555
     },
     {
         "wikidata_id": "Q660888",
         "name": "Shuakhevi Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zxgl7"
+        "freebase_id": "/m/05zxgl7",
+        "lat": 41.626944444,
+        "lng": 42.186944444
     },
     {
         "wikidata_id": "Q2266679",
         "name": "Mtskheta Municipality",
         "description": "municipality in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/05zvkn_"
+        "freebase_id": "/m/05zvkn_",
+        "lat": 41.843055555,
+        "lng": 44.719444444
     },
     {
         "wikidata_id": "Q1417170",
         "name": "Gori Municipality",
         "description": "district of Georgia",
-        "freebase_id": "/m/0c8nrq"
+        "freebase_id": "/m/0c8nrq",
+        "lat": 41.981686111,
+        "lng": 44.112416666
     },
     {
         "wikidata_id": "Q510761",
         "name": "Ozurgeti Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zltjy"
+        "freebase_id": "/m/05zltjy",
+        "lat": 41.923055555,
+        "lng": 42.005
     },
     {
         "wikidata_id": "Q2374974",
         "name": "Terjola Municipality",
         "description": "municipality in Georgia",
-        "freebase_id": "/m/05zr71b"
+        "freebase_id": "/m/05zr71b",
+        "lat": 42.183333333,
+        "lng": 42.977222222
     },
     {
         "wikidata_id": "Q893220",
         "name": "Vani Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zkn8w"
+        "freebase_id": "/m/05zkn8w",
+        "lat": 42.083888888,
+        "lng": 42.511944444
     },
     {
         "wikidata_id": "Q2305733",
         "name": "Aspindza Municipality",
         "description": "municipality in Samtskhe-Javakheti, Georgia",
-        "freebase_id": "/m/05zmbv9"
+        "freebase_id": "/m/05zmbv9",
+        "lat": 41.573888888,
+        "lng": 43.250555555
     },
     {
         "wikidata_id": "Q1954407",
         "name": "Tetri Tsqaro Municipality",
         "description": "place in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/05zl_bl"
+        "freebase_id": "/m/05zl_bl",
+        "lat": 41.55,
+        "lng": 44.466666666
     },
     {
         "wikidata_id": "Q893287",
         "name": "Oni Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zxrgt"
+        "freebase_id": "/m/05zxrgt",
+        "lat": 42.583888888,
+        "lng": 43.441666666
     },
     {
         "wikidata_id": "Q893325",
         "name": "Sachkhere Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zkb76"
+        "freebase_id": "/m/05zkb76",
+        "lat": 42.339722222,
+        "lng": 43.404722222
     },
     {
         "wikidata_id": "Q2043659",
         "name": "Ochamchire Municipality",
         "description": "municipality in Georgia",
-        "freebase_id": "/m/04_0j1n"
+        "freebase_id": "/m/04_0j1n",
+        "lat": 42.833888888,
+        "lng": 41.537222222
     },
     {
         "wikidata_id": "Q681371",
         "name": "Dmanisi Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zjrrv"
+        "freebase_id": "/m/05zjrrv",
+        "lat": 41.332222222,
+        "lng": 44.204444444
     },
     {
         "wikidata_id": "Q2327517",
         "name": "Chkhorotsqu Municipality",
         "description": "municipality in Samegrelo, GEO",
-        "freebase_id": "/m/05zq7n2"
+        "freebase_id": "/m/05zq7n2",
+        "lat": 42.522222222,
+        "lng": 42.129166666
     },
     {
         "wikidata_id": "Q2490876",
         "name": "Senaki Municipality",
         "description": "municipality in Samegrelo, GEO",
-        "freebase_id": "/m/05zltwc"
+        "freebase_id": "/m/05zltwc",
+        "lat": 42.268888888,
+        "lng": 42.067777777
     },
     {
         "wikidata_id": "Q2490962",
         "name": "Mestia Municipality",
         "description": "municipality in Samegrelo, GEO",
-        "freebase_id": "/m/05zyhbw"
+        "freebase_id": "/m/05zyhbw",
+        "lat": 43.043555555,
+        "lng": 42.723972222
     },
     {
         "wikidata_id": "Q1025123",
         "name": "Ninotsminda Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05znbsj"
+        "freebase_id": "/m/05znbsj",
+        "lat": 41.266944444,
+        "lng": 43.589583333
     },
     {
         "wikidata_id": "Q2464174",
         "name": "Lentekhi Municipality",
         "description": "municipality in Racha-Lechkhumi and Kvemo Svaneti, Georgia",
-        "freebase_id": "/m/05zxvvx"
+        "freebase_id": "/m/05zxvvx",
+        "lat": 42.788888888,
+        "lng": 42.723611111
     },
     {
         "wikidata_id": "Q1560942",
         "name": "Gurjaani Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zv_jd"
+        "freebase_id": "/m/05zv_jd",
+        "lat": 41.744444444,
+        "lng": 45.794166666
     },
     {
         "wikidata_id": "Q2464187",
         "name": "Zestaponi Municipality",
         "description": "municipality in Imereti, Georgia",
-        "freebase_id": "/m/05zzlgc"
+        "freebase_id": "/m/05zzlgc",
+        "lat": 42.108333333,
+        "lng": 43.041666666
     },
     {
         "wikidata_id": "Q748753",
         "name": "Akhmeta municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zvwhd"
+        "freebase_id": "/m/05zvwhd",
+        "lat": 42.034444444,
+        "lng": 45.211111111
     },
     {
         "wikidata_id": "Q1789499",
         "name": "Qvareli Municipality",
         "description": "municipality in Georgia",
-        "freebase_id": "/m/05zns2n"
+        "freebase_id": "/m/05zns2n",
+        "lat": 41.951388888,
+        "lng": 45.818333333
     },
     {
         "wikidata_id": "Q1790675",
         "name": "Khashuri Municipality",
         "description": "municipality in Shida Kartli, Georgia",
-        "freebase_id": "/m/0cm125"
+        "freebase_id": "/m/0cm125",
+        "lat": 41.9975,
+        "lng": 43.598611111
     },
     {
         "wikidata_id": "Q2513642",
         "name": "Kharagauli Municipality",
         "description": "municipality in Georgia",
-        "freebase_id": "/m/05zl5jp"
+        "freebase_id": "/m/05zl5jp",
+        "lat": 42.014166666,
+        "lng": 43.203333333
     },
     {
         "wikidata_id": "Q18586221",
         "name": "Akhalgori Municipality",
         "description": "municipality in Georgia",
-        "freebase_id": "/m/04grg4f"
+        "freebase_id": "/m/04grg4f",
+        "lat": 42.121667,
+        "lng": 44.485278
     },
     {
         "wikidata_id": "Q2464159",
         "name": "Ambrolauri Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zntqy"
+        "freebase_id": "/m/05zntqy",
+        "lat": 42.521667,
+        "lng": 43.148333
     },
     {
         "wikidata_id": "Q2475615",
         "name": "Khobi Municipality",
         "description": "municipality in Samegrelo, Georgia",
-        "freebase_id": "/m/05zy49b"
+        "freebase_id": "/m/05zy49b",
+        "lat": 42.31666667,
+        "lng": 41.9
     },
     {
         "wikidata_id": "Q1647344",
         "name": "Sagarejo Municipality",
         "description": "municipality in Kakheti, Georgia",
-        "freebase_id": "/m/05zzz7v"
+        "freebase_id": "/m/05zzz7v",
+        "lat": 41.736944444,
+        "lng": 45.325833333
     },
     {
         "wikidata_id": "Q991409",
         "name": "Kobuleti Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zvnps"
+        "freebase_id": "/m/05zvnps",
+        "lat": 41.811111111,
+        "lng": 41.775277777
     },
     {
         "wikidata_id": "Q2466860",
         "name": "Chokhatauri Municipality",
         "description": "municipality in Guria, Georgia",
-        "freebase_id": "/m/05zwchd"
+        "freebase_id": "/m/05zwchd",
+        "lat": 42.018888888,
+        "lng": 42.239444444
     },
     {
         "wikidata_id": "Q2410306",
         "name": "Marneuli Municipality",
         "description": "municipality in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/05zk07v"
+        "freebase_id": "/m/05zk07v",
+        "lat": 41.487222222,
+        "lng": 44.798055555
     },
     {
         "wikidata_id": "Q2586447",
         "name": "Tianeti Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zrq3z"
+        "freebase_id": "/m/05zrq3z",
+        "lat": 42.109722222,
+        "lng": 44.968055555
     },
     {
         "wikidata_id": "Q2489909",
         "name": "Tsageri Municipality",
         "description": "municipality in Racha-Lechkhumi and Kvemo Svaneti, Georgia",
-        "freebase_id": "/m/05zl_16"
+        "freebase_id": "/m/05zl_16",
+        "lat": 42.647222222,
+        "lng": 42.77
     },
     {
         "wikidata_id": "Q2513568",
         "name": "Akhaltsikhe Municipality",
         "description": "district of Georgia",
-        "freebase_id": "/m/05znqmb"
+        "freebase_id": "/m/05znqmb",
+        "lat": 41.638889,
+        "lng": 42.986111
     },
     {
         "wikidata_id": "Q2474310",
         "name": "Dusheti Municipality",
         "description": "municipality in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/05zxgkg"
+        "freebase_id": "/m/05zxgkg",
+        "lat": 42.084722222,
+        "lng": 44.695833333
     },
     {
         "wikidata_id": "Q2512996",
         "name": "Gardabani Municipality",
         "description": "municipality in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/05zx_2p"
+        "freebase_id": "/m/05zx_2p",
+        "lat": 41.460833333,
+        "lng": 45.089444444
     },
     {
         "wikidata_id": "Q2212773",
         "name": "Tkibuli Municipality",
         "description": "municipality in Imereti, Georgia",
-        "freebase_id": "/m/05zvs30"
+        "freebase_id": "/m/05zvs30",
+        "lat": 42.350277777,
+        "lng": 42.998333333
     },
     {
         "wikidata_id": "Q2475628",
         "name": "Kazbegi Municipality",
         "description": "municipality in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/05zsffk"
+        "freebase_id": "/m/05zsffk",
+        "lat": 42.658333333,
+        "lng": 44.641666666
     },
     {
         "wikidata_id": "Q1953363",
         "name": "Signagi Municipality",
         "description": "municipality in Kakheti, Georgia",
-        "freebase_id": "/m/05zjmw8"
+        "freebase_id": "/m/05zjmw8",
+        "lat": 41.618611111,
+        "lng": 45.921666666
     },
     {
         "wikidata_id": "Q1953364",
         "name": "Telavi Municipality",
         "description": "municipality in Kakheti, Georgia",
-        "freebase_id": "/m/05zwgw1"
+        "freebase_id": "/m/05zwgw1",
+        "lat": 41.916944444,
+        "lng": 45.476388888
     },
     {
         "wikidata_id": "Q1756629",
         "name": "Kareli Municipality",
         "description": "municipality in Shida Kartli, Georgia",
-        "freebase_id": "/m/0cm047"
+        "freebase_id": "/m/0cm047",
+        "lat": 42.021388888,
+        "lng": 43.893055555
     },
     {
         "wikidata_id": "Q2513080",
         "name": "Khoni Municipality",
         "description": "municipality in Imereti, Georgia",
-        "freebase_id": "/m/05zyhmk"
+        "freebase_id": "/m/05zyhmk",
+        "lat": 42.326388888,
+        "lng": 42.422777777
     },
     {
         "wikidata_id": "Q2513666",
         "name": "Abasha Municipality",
         "description": "municipality in Samegrelo-Zemo Svaneti, Georgia",
-        "freebase_id": "/m/05zw2sn"
+        "freebase_id": "/m/05zw2sn",
+        "lat": 42.204166666,
+        "lng": 42.202777777
     },
     {
         "wikidata_id": "Q2475606",
         "name": "Tsalenjikha Municipality",
         "description": "municipality in Samegrelo, GEO",
-        "freebase_id": "/m/05zlmyy"
+        "freebase_id": "/m/05zlmyy",
+        "lat": 42.611722222,
+        "lng": 42.070611111
     },
     {
         "wikidata_id": "Q1490703",
         "name": "Dedoplis Tsqaro Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zmtrr"
+        "freebase_id": "/m/05zmtrr",
+        "lat": 41.46388889,
+        "lng": 46.11111111
     },
     {
         "wikidata_id": "Q2513580",
         "name": "Bolnisi Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zzt_p"
+        "freebase_id": "/m/05zzt_p",
+        "lat": 41.449444444,
+        "lng": 44.541944444
     },
     {
         "wikidata_id": "Q2380601",
         "name": "Lanchkhuti Municipality",
         "description": "municipality in Guria, GEO",
-        "freebase_id": "/m/05zk7wy"
+        "freebase_id": "/m/05zk7wy",
+        "lat": 42.0875,
+        "lng": 42.036111111
     },
     {
         "wikidata_id": "Q1892810",
         "name": "Tsqaltubo Municipality",
         "description": "municipality in Imereti, Georgia",
-        "freebase_id": "/m/05zk0yn"
+        "freebase_id": "/m/05zk0yn",
+        "lat": 42.326388888,
+        "lng": 42.600555555
     },
     {
         "wikidata_id": "Q1911993",
         "name": "Keda Municipality",
         "description": "municipality in Adjara, Georgia",
-        "freebase_id": "/m/05zszt3"
+        "freebase_id": "/m/05zszt3",
+        "lat": 41.597777777,
+        "lng": 41.9425
     },
     {
         "wikidata_id": "Q2043690",
         "name": "Gali Municipality",
         "description": "municipality of Autonomous Republic of Abkhazia (Georgia)",
-        "freebase_id": "/m/04zwpm7"
+        "freebase_id": "/m/04zwpm7",
+        "lat": 42.633333333,
+        "lng": 41.733333333
     },
     {
         "wikidata_id": "Q2142574",
         "name": "Samtredia Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zwmrn"
+        "freebase_id": "/m/05zwmrn",
+        "lat": 42.1625,
+        "lng": 42.341666666
     },
     {
         "wikidata_id": "Q2475809",
         "name": "Borjomi Municipality",
         "description": "municipality in Samtskhe-Javakheti, Georgia",
-        "freebase_id": "/m/05zv1w4"
+        "freebase_id": "/m/05zv1w4",
+        "lat": 41.841666666,
+        "lng": 43.382777777
     },
     {
         "wikidata_id": "Q2382197",
         "name": "Adigeni Municipality",
         "description": "municipality in Samtskhe-Javakheti, Georgia",
-        "freebase_id": "/m/0gxgkq"
+        "freebase_id": "/m/0gxgkq",
+        "lat": 41.675277777,
+        "lng": 42.705833333
     },
     {
         "wikidata_id": "Q1518087",
         "name": "Kaspi Municipality",
         "description": "in Georgia",
-        "freebase_id": "/m/0cm014"
+        "freebase_id": "/m/0cm014",
+        "lat": 41.924444444,
+        "lng": 44.418888888
     },
     {
         "wikidata_id": "Q941140",
         "name": "Lagodekhi Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zmv_q"
+        "freebase_id": "/m/05zmv_q",
+        "lat": 41.823611111,
+        "lng": 46.272222222
     },
     {
         "wikidata_id": "Q1252978",
         "name": "Khulo Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zl8cm"
+        "freebase_id": "/m/05zl8cm",
+        "lat": 41.644444444,
+        "lng": 42.313888888
     },
     {
         "wikidata_id": "Q79863",
         "name": "Tskhinval",
         "description": "city in South Ossetia, Georgia",
-        "freebase_id": "/m/02kb89"
+        "freebase_id": "/m/02kb89",
+        "lat": 42.225661,
+        "lng": 43.970072
     },
     {
         "wikidata_id": "Q269506",
         "name": "Chiatura Municipality",
         "description": "municipality of Georgia",
-        "freebase_id": "/m/05zp844"
+        "freebase_id": "/m/05zp844",
+        "lat": 42.289444444,
+        "lng": 43.283611111
     },
     {
         "wikidata_id": "Q2474275",
         "name": "Surami",
         "description": "town in Georgia",
-        "freebase_id": "/m/03c1d3t"
+        "freebase_id": "/m/03c1d3t",
+        "lat": 42.019444444,
+        "lng": 43.5625
     },
     {
         "wikidata_id": "Q1620674",
         "name": "Timotesubani",
         "description": "temple, monastery and church building in Borjomi Municipality, Georgia",
-        "freebase_id": "/m/05zrnqm"
+        "freebase_id": "/m/05zrnqm",
+        "lat": 41.81063889,
+        "lng": 43.51822222
     },
     {
         "wikidata_id": "Q2471241",
         "name": "Bedia Cathedral",
         "description": "medieval Georgian Orthodox cathedral",
-        "freebase_id": "/m/02x2nyk"
+        "freebase_id": "/m/02x2nyk",
+        "lat": 42.7672,
+        "lng": 41.6689
     },
     {
         "wikidata_id": "Q2304053",
         "name": "Vanis Kvabebi",
         "description": "cave monastery",
-        "freebase_id": "/m/0gstxr"
+        "freebase_id": "/m/0gstxr",
+        "lat": 41.468888888,
+        "lng": 43.284722222
     },
     {
         "wikidata_id": "Q691813",
         "name": "Vardzia",
         "description": "cave dwellings",
-        "freebase_id": "/m/084p0y"
+        "freebase_id": "/m/084p0y",
+        "lat": 41.380841666,
+        "lng": 43.283761111
     },
     {
         "wikidata_id": "Q764643",
         "name": "Mikelripshi",
         "description": "village in Abkhazia (independence disputed with Georgia)",
-        "freebase_id": "/m/0jwz315"
+        "freebase_id": "/m/0jwz315",
+        "lat": 43.505833333,
+        "lng": 40.073055555
     },
     {
         "wikidata_id": "Q500888",
         "name": "Akhalkalaki",
         "description": "city in Georgia",
-        "freebase_id": "/m/03ykpv"
+        "freebase_id": "/m/03ykpv",
+        "lat": 41.405555555,
+        "lng": 43.486111111
     },
     {
         "wikidata_id": "Q2200805",
         "name": "Bediani",
         "description": "place in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/0266rqp"
+        "freebase_id": "/m/0266rqp",
+        "lat": 41.54,
+        "lng": 44.249722222
     },
     {
         "wikidata_id": "Q328975",
         "name": "Kobuleti",
         "description": "town in Adjara, Georgia",
-        "freebase_id": "/m/03yksq"
+        "freebase_id": "/m/03yksq",
+        "lat": 41.811111111,
+        "lng": 41.775277777
     },
     {
         "wikidata_id": "Q1189980",
         "name": "Supsa",
         "description": "village in Georgia",
-        "freebase_id": "/m/0b6mgd"
+        "freebase_id": "/m/0b6mgd",
+        "lat": 42.041388888,
+        "lng": 41.811666666
     },
     {
         "wikidata_id": "Q10600995",
         "name": "Ninotsminda",
         "description": "town in Georgia",
-        "freebase_id": "/m/026kvz4"
+        "freebase_id": "/m/026kvz4",
+        "lat": 41.266944444,
+        "lng": 43.589583333
     },
     {
         "wikidata_id": "Q7039102",
         "name": "Ninotsminda Cathedral",
         "description": "No description available",
-        "freebase_id": "/m/04gv7ck"
+        "freebase_id": "/m/04gv7ck",
+        "lat": 41.736751,
+        "lng": 45.297811
     },
     {
         "wikidata_id": "Q2181842",
         "name": "Mukhrovani",
         "description": "place in Georgia",
-        "freebase_id": "/m/05zl3_9"
+        "freebase_id": "/m/05zl3_9",
+        "lat": 41.781111111,
+        "lng": 45.147222222
     },
     {
         "wikidata_id": "Q2075978",
         "name": "Likani",
         "description": "town in Samtskhe-Javakheti, Georgia",
-        "freebase_id": "/m/03c9ykx"
+        "freebase_id": "/m/03c9ykx",
+        "lat": 41.833333333,
+        "lng": 43.366666666
     },
     {
         "wikidata_id": "Q1539243",
         "name": "Pasanauri",
         "description": "human settlement",
-        "freebase_id": "/m/0bv5kf"
+        "freebase_id": "/m/0bv5kf",
+        "lat": 42.35,
+        "lng": 44.691666666
     },
     {
         "wikidata_id": "Q2508003",
         "name": "Gantiadi",
         "description": "urban-type settlement in Gagra, Georgia",
-        "freebase_id": "/m/02rz10b"
+        "freebase_id": "/m/02rz10b",
+        "lat": 43.379722222,
+        "lng": 40.077777777
     },
     {
         "wikidata_id": "Q5395985",
         "name": "Erusheti",
         "description": "medieval Georgian fiefdom",
-        "freebase_id": "/m/0ll3h3k"
+        "freebase_id": "/m/0ll3h3k",
+        "lat": 41.3,
+        "lng": 42.7
     },
     {
         "wikidata_id": "Q956922",
         "name": "Lanchkhuti",
         "description": "city in Georgia",
-        "freebase_id": "/m/044rmz"
+        "freebase_id": "/m/044rmz",
+        "lat": 42.0875,
+        "lng": 42.036111111
     },
     {
         "wikidata_id": "Q2625895",
         "name": "Myussera",
         "description": "place in Abkhazia, Georgia",
-        "freebase_id": "/m/02rz0zz"
+        "freebase_id": "/m/02rz0zz",
+        "lat": 43.152777777,
+        "lng": 40.459722222
     },
     {
         "wikidata_id": "Q180810",
         "name": "Mtskheta",
         "description": "city in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/0284wf"
+        "freebase_id": "/m/0284wf",
+        "lat": 41.843055555,
+        "lng": 44.719444444
     },
     {
         "wikidata_id": "Q2344454",
         "name": "Aspindza",
         "description": "borough in Samtskhe-Javakheti, Georgia",
-        "freebase_id": "/m/0b6m8f"
+        "freebase_id": "/m/0b6m8f",
+        "lat": 41.573888888,
+        "lng": 43.250555555
     },
     {
         "wikidata_id": "Q2092215",
         "name": "Gudzhabauri",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n4thz"
+        "freebase_id": "/m/04n4thz",
+        "lat": 42.21,
+        "lng": 43.97388889
     },
     {
         "wikidata_id": "Q642530",
         "name": "Matani",
         "description": "village in Akhmeta Municipality, Kakheti, Georgia",
-        "freebase_id": "/m/097ggm"
+        "freebase_id": "/m/097ggm",
+        "lat": 42.078611111,
+        "lng": 45.188055555
     },
     {
         "wikidata_id": "Q513727",
         "name": "Samtredia",
         "description": "city in Georgia",
-        "freebase_id": "/m/03y6fx"
+        "freebase_id": "/m/03y6fx",
+        "lat": 42.1625,
+        "lng": 42.341666666
     },
     {
         "wikidata_id": "Q585242",
         "name": "Bzyb",
         "description": "human settlement",
-        "freebase_id": "/m/02rz0y7"
+        "freebase_id": "/m/02rz0y7",
+        "lat": 43.227222222,
+        "lng": 40.358333333
     },
     {
         "wikidata_id": "Q1586089",
         "name": "Zarzma monastery",
         "description": "monastery in Georgia",
-        "freebase_id": "/m/04f0tym"
+        "freebase_id": "/m/04f0tym",
+        "lat": 41.67975,
+        "lng": 42.65383
     },
     {
         "wikidata_id": "Q995736",
         "name": "Nekresi",
         "description": "human settlement",
-        "freebase_id": "/m/07s8ydd"
+        "freebase_id": "/m/07s8ydd",
+        "lat": 41.972162,
+        "lng": 45.767702
     },
     {
         "wikidata_id": "Q2302798",
         "name": "Sarpi",
         "description": "place in Adjara, Georgia",
-        "freebase_id": "/m/07twwh"
+        "freebase_id": "/m/07twwh",
+        "lat": 41.521388888,
+        "lng": 41.551944444
     },
     {
         "wikidata_id": "Q642366",
         "name": "Bodbe Monastery",
         "description": "monastery",
-        "freebase_id": "/m/03c9mgv"
+        "freebase_id": "/m/03c9mgv",
+        "lat": 41.6068,
+        "lng": 45.9331
     },
     {
         "wikidata_id": "Q1672313",
         "name": "Ikalto monastery",
         "description": "Georgian monastery",
-        "freebase_id": "/m/02s6rb"
+        "freebase_id": "/m/02s6rb",
+        "lat": 41.937338,
+        "lng": 45.380788
     },
     {
         "wikidata_id": "Q1476984",
         "name": "Skhalta Cathedral",
         "description": "cathedral",
-        "freebase_id": "/m/0j3dzfv"
+        "freebase_id": "/m/0j3dzfv",
+        "lat": 41.584967,
+        "lng": 42.329708
     },
     {
         "wikidata_id": "Q2626068",
         "name": "Chorvila",
         "description": "place in Imereti, Georgia",
-        "freebase_id": "/m/0bmfth8"
+        "freebase_id": "/m/0bmfth8",
+        "lat": 42.289166666,
+        "lng": 43.414444444
     },
     {
         "wikidata_id": "Q1989822",
         "name": "Khobi",
         "description": "town in Georgia, Samegrelo-Zemo Svaneti region",
-        "freebase_id": "/m/011bwvc2"
+        "freebase_id": "/m/011bwvc2",
+        "lat": 42.316666666,
+        "lng": 41.9
     },
     {
         "wikidata_id": "Q2917496",
         "name": "Shenako",
         "description": "place in Kakheti, Georgia",
-        "freebase_id": "/m/04gtdjc"
+        "freebase_id": "/m/04gtdjc",
+        "lat": 42.371944444,
+        "lng": 45.6625
     },
     {
         "wikidata_id": "Q1973746",
         "name": "Shatili",
         "description": "village in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/0ggl2h"
+        "freebase_id": "/m/0ggl2h",
+        "lat": 42.658333333,
+        "lng": 45.156944444
     },
     {
         "wikidata_id": "Q1993183",
         "name": "Kizilajlo",
         "description": "place in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/05f8hsv"
+        "freebase_id": "/m/05f8hsv",
+        "lat": 41.478611111,
+        "lng": 44.7725
     },
     {
         "wikidata_id": "Q1593741",
         "name": "Kemperi",
         "description": "human settlement",
-        "freebase_id": "/m/07s4jml"
+        "freebase_id": "/m/07s4jml",
+        "lat": 42.041666666,
+        "lng": 43.604444444
     },
     {
         "wikidata_id": "Q1010939",
         "name": "Akhalgori",
         "description": "human settlement",
-        "freebase_id": "/m/0fmm3g"
+        "freebase_id": "/m/0fmm3g",
+        "lat": 42.124444444,
+        "lng": 44.483055555
     },
     {
         "wikidata_id": "Q14867515",
         "name": "Jakismani Monastery",
         "description": "medieval monastic Georgian church",
-        "freebase_id": "/m/0x0wwr6"
+        "freebase_id": "/m/0x0wwr6",
+        "lat": 41.520833333,
+        "lng": 42.824166666
     },
     {
         "wikidata_id": "Q1749204",
         "name": "Alaverdi Monastery",
         "description": "Georgian Eastern Orthodox monastery in the region of Kakheti, Georgia",
-        "freebase_id": "/m/05ll96"
+        "freebase_id": "/m/05ll96",
+        "lat": 42.03249,
+        "lng": 45.37714
     },
     {
         "wikidata_id": "Q2330517",
         "name": "Urbnisi",
         "description": "place in Shida Kartli, Georgia",
-        "freebase_id": "/m/0976q3"
+        "freebase_id": "/m/0976q3",
+        "lat": 42.0125,
+        "lng": 43.980833333
     },
     {
         "wikidata_id": "Q774100",
         "name": "Mutso",
         "description": "human settlement",
-        "freebase_id": "/m/08dvm9"
+        "freebase_id": "/m/08dvm9",
+        "lat": 42.606111111,
+        "lng": 45.206111111
     },
     {
         "wikidata_id": "Q1898132",
         "name": "Naruja",
         "description": "town in Guria, Georgia",
-        "freebase_id": "/m/0gk_p43"
+        "freebase_id": "/m/0gk_p43",
+        "lat": 41.908055555,
+        "lng": 41.958888888
     },
     {
         "wikidata_id": "Q946143",
         "name": "Sighnaghi",
         "description": "human settlement in Georgia",
-        "freebase_id": "/m/02qbsln"
+        "freebase_id": "/m/02qbsln",
+        "lat": 41.618611111,
+        "lng": 45.921666666
     },
     {
         "wikidata_id": "Q4156388",
         "name": "Lower Bethlehemi Church",
         "description": "church in Old Tbilisi, Georgia",
-        "freebase_id": "/m/06zl2fk"
+        "freebase_id": "/m/06zl2fk",
+        "lat": 41.68923,
+        "lng": 44.801091
     },
     {
         "wikidata_id": "Q19583",
         "name": "Gori",
         "description": "city in Georgia",
-        "freebase_id": "/m/0276pj"
+        "freebase_id": "/m/0276pj",
+        "lat": 41.981686111,
+        "lng": 44.112416666
     },
     {
         "wikidata_id": "Q1025120",
         "name": "Khelvachauri",
         "description": "No description available",
-        "freebase_id": "/m/02qlfj1"
+        "freebase_id": "/m/02qlfj1",
+        "lat": 41.585555555,
+        "lng": 41.668888888
     },
     {
         "wikidata_id": "Q1025102",
         "name": "Keda",
         "description": "town in Georgia",
-        "freebase_id": "/m/063911"
+        "freebase_id": "/m/063911",
+        "lat": 41.597777777,
+        "lng": 41.9425
     },
     {
         "wikidata_id": "Q1011047",
         "name": "Gurjaani",
         "description": "town in Georgia",
-        "freebase_id": "/m/03c4k8q"
+        "freebase_id": "/m/03c4k8q",
+        "lat": 41.744444444,
+        "lng": 45.794166666
     },
     {
         "wikidata_id": "Q2600596",
         "name": "Ananuri",
         "description": "fortified ensemble in Georgia",
-        "freebase_id": "/m/0dg47w"
+        "freebase_id": "/m/0dg47w",
+        "lat": 42.163611111,
+        "lng": 44.703888888
     },
     {
         "wikidata_id": "Q6378040",
         "name": "Katskhi Monastery",
         "description": "cultural heritage monument in Georgia",
-        "freebase_id": "/m/0jt5tnj"
+        "freebase_id": "/m/0jt5tnj",
+        "lat": 42.2694,
+        "lng": 43.2131
     },
     {
         "wikidata_id": "Q1840513",
         "name": "Psakhara",
         "description": "human settlement",
-        "freebase_id": "/m/0jwz_kz"
+        "freebase_id": "/m/0jwz_kz",
+        "lat": 43.25277778,
+        "lng": 40.29583333
     },
     {
         "wikidata_id": "Q2196800",
         "name": "Alakhadzykh",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0jwsf60"
+        "freebase_id": "/m/0jwsf60",
+        "lat": 43.21916667,
+        "lng": 40.29388889
     },
     {
         "wikidata_id": "Q242593",
         "name": "Gudauta",
         "description": "town in Georgia",
-        "freebase_id": "/m/04ll74"
+        "freebase_id": "/m/04ll74",
+        "lat": 43.100833333,
+        "lng": 40.633055555
     },
     {
         "wikidata_id": "Q2029774",
         "name": "Manglisi",
         "description": "borough in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/0lqh1ry"
+        "freebase_id": "/m/0lqh1ry",
+        "lat": 41.696944444,
+        "lng": 44.384444444
     },
     {
         "wikidata_id": "Q1025823",
         "name": "Stepantsminda",
         "description": "town in Georgia",
-        "freebase_id": "/m/02vmvg8"
+        "freebase_id": "/m/02vmvg8",
+        "lat": 42.658333333,
+        "lng": 44.641666666
     },
     {
         "wikidata_id": "Q1262226",
         "name": "Jvari",
         "description": "monastery in Georgia (country)",
-        "freebase_id": "/m/03yk5s"
+        "freebase_id": "/m/03yk5s",
+        "lat": 41.838388888,
+        "lng": 44.733322222
     },
     {
         "wikidata_id": "Q2015129",
         "name": "Adzyubzha",
         "description": "place in Abkhazia, Georgia",
-        "freebase_id": "/m/0b6jq5s"
+        "freebase_id": "/m/0b6jq5s",
+        "lat": 42.8422,
+        "lng": 41.1794
     },
     {
         "wikidata_id": "Q1553013",
         "name": "Gudauri",
         "description": "human settlement in Georgia",
-        "freebase_id": "/m/08rj2p"
+        "freebase_id": "/m/08rj2p",
+        "lat": 42.475833333,
+        "lng": 44.478611111
     },
     {
         "wikidata_id": "Q1976231",
         "name": "Terjola",
         "description": "place in Imereti, Georgia",
-        "freebase_id": "/m/04gvhsx"
+        "freebase_id": "/m/04gvhsx",
+        "lat": 42.183333333,
+        "lng": 42.977222222
     },
     {
         "wikidata_id": "Q830965",
         "name": "Betania Monastery",
         "description": "Georgian Orthodox monastery in eastern Georgia",
-        "freebase_id": "/m/03mhypv"
+        "freebase_id": "/m/03mhypv",
+        "lat": 41.69,
+        "lng": 44.611388888
     },
     {
         "wikidata_id": "Q1026961",
         "name": "Lentekhi",
         "description": "human settlement",
-        "freebase_id": "/m/063lsw"
+        "freebase_id": "/m/063lsw",
+        "lat": 42.788888888,
+        "lng": 42.723611111
     },
     {
         "wikidata_id": "Q600474",
         "name": "Tabakhmela",
         "description": "human settlement",
-        "freebase_id": "/m/0463s6z"
+        "freebase_id": "/m/0463s6z",
+        "lat": 41.651111111,
+        "lng": 44.756111111
     },
     {
         "wikidata_id": "Q1178627",
         "name": "David Gareja monastery complex",
         "description": "Monastery in Georgia",
-        "freebase_id": "/m/02t218"
+        "freebase_id": "/m/02t218",
+        "lat": 41.447544,
+        "lng": 45.376357
     },
     {
         "wikidata_id": "Q3646262",
         "name": "Chakvi",
         "description": "urban-type settlement in Adjara, Georgia",
-        "freebase_id": "/m/0b6lb1m"
+        "freebase_id": "/m/0b6lb1m",
+        "lat": 41.718888888,
+        "lng": 41.733333333
     },
     {
         "wikidata_id": "Q3646490",
         "name": "Ochkhamuri",
         "description": "borough in Adjara, Georgia",
-        "freebase_id": "/m/0gk_3m9"
+        "freebase_id": "/m/0gk_3m9",
+        "lat": 41.855277777,
+        "lng": 41.836111111
     },
     {
         "wikidata_id": "Q2483897",
         "name": "Kazreti",
         "description": "Daba in Georgia (country)",
-        "freebase_id": "/m/098zfc"
+        "freebase_id": "/m/098zfc",
+        "lat": 41.386944444,
+        "lng": 44.417222222
     },
     {
         "wikidata_id": "Q14645211",
         "name": "Kharagauli",
         "description": "place in Imereti, Georgia",
-        "freebase_id": "/m/0g_cg_"
+        "freebase_id": "/m/0g_cg_",
+        "lat": 42.014166666,
+        "lng": 43.203333333
     },
     {
         "wikidata_id": "Q2363624",
         "name": "Zedazeni Monastery",
         "description": "Georgian Orthodox monastery near Mtskheta, Georgia",
-        "freebase_id": "/m/02rx6pj"
+        "freebase_id": "/m/02rx6pj",
+        "lat": 41.871351,
+        "lng": 44.765663
     },
     {
         "wikidata_id": "Q2245433",
         "name": "Kulashi",
         "description": "place in Imereti, Georgia",
-        "freebase_id": "/m/047q54q"
+        "freebase_id": "/m/047q54q",
+        "lat": 42.206666666,
+        "lng": 42.345
     },
     {
         "wikidata_id": "Q2236298",
         "name": "Shio-Mgvime monastery",
         "description": "Georgian Christian monastery",
-        "freebase_id": "/m/027b25y"
+        "freebase_id": "/m/027b25y",
+        "lat": 41.86236111,
+        "lng": 44.64025
     },
     {
         "wikidata_id": "Q1511534",
         "name": "Kvatakhevi",
         "description": "monastery in Georgia",
-        "freebase_id": "/m/04218fm"
+        "freebase_id": "/m/04218fm",
+        "lat": 41.79333333,
+        "lng": 44.45805556
     },
     {
         "wikidata_id": "Q1010960",
         "name": "Gardabani",
         "description": "town in Kvemo Kartli, Georgia (country)",
-        "freebase_id": "/m/02rxpzq"
+        "freebase_id": "/m/02rxpzq",
+        "lat": 41.460833333,
+        "lng": 45.089444444
     },
     {
         "wikidata_id": "Q1011028",
         "name": "Ushguli",
         "description": "community of villages in Upper Svaneti, Georgia",
-        "freebase_id": "/m/096nd1"
+        "freebase_id": "/m/096nd1",
+        "lat": 42.917797,
+        "lng": 43.015672
     },
     {
         "wikidata_id": "Q1011051",
         "name": "Mestia",
         "description": "Highland townlet (daba) in northwest Georgia",
-        "freebase_id": "/m/049l9d"
+        "freebase_id": "/m/049l9d",
+        "lat": 43.043555555,
+        "lng": 42.723972222
     },
     {
         "wikidata_id": "Q2220564",
         "name": "Avnevi",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04gvlrz"
+        "freebase_id": "/m/04gvlrz",
+        "lat": 42.192222222,
+        "lng": 43.876388888
     },
     {
         "wikidata_id": "Q2043616",
         "name": "Tbeti",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n17jv"
+        "freebase_id": "/m/04n17jv",
+        "lat": 42.226766666,
+        "lng": 43.924577777
     },
     {
         "wikidata_id": "Q320519",
         "name": "Senaki",
         "description": "city in Georgia",
-        "freebase_id": "/m/0b6mcx"
+        "freebase_id": "/m/0b6mcx",
+        "lat": 42.268888888,
+        "lng": 42.067777777
     },
     {
         "wikidata_id": "Q749539",
         "name": "Manavi",
         "description": "village in Georgia",
-        "freebase_id": "/m/0dtlvv"
+        "freebase_id": "/m/0dtlvv",
+        "lat": 41.717222222,
+        "lng": 45.4625
     },
     {
         "wikidata_id": "Q25475",
         "name": "Batumi",
         "description": "second largest city of Georgia",
-        "freebase_id": "/m/0c26g"
+        "freebase_id": "/m/0c26g",
+        "lat": 41.645833333,
+        "lng": 41.641666666
     },
     {
         "wikidata_id": "Q1303259",
         "name": "Kornisi",
         "description": "human settlement",
-        "freebase_id": "/m/04jltpm"
+        "freebase_id": "/m/04jltpm",
+        "lat": 42.194166666,
+        "lng": 43.771666666
     },
     {
         "wikidata_id": "Q3651285",
         "name": "Ureki",
         "description": "town in Guria, Georgia",
-        "freebase_id": "/m/0gh668f"
+        "freebase_id": "/m/0gh668f",
+        "lat": 41.994444444,
+        "lng": 41.760555555
     },
     {
         "wikidata_id": "Q5116114",
         "name": "Chulevi Monastery",
         "description": "monastery in Georgia",
-        "freebase_id": "/m/04g1kyb"
+        "freebase_id": "/m/04g1kyb",
+        "lat": 41.703888888,
+        "lng": 42.702222222
     },
     {
         "wikidata_id": "Q789104",
         "name": "Bakuriani",
         "description": "human settlement in Georgia",
-        "freebase_id": "/m/05c4b7"
+        "freebase_id": "/m/05c4b7",
+        "lat": 41.750833333,
+        "lng": 43.528333333
     },
     {
         "wikidata_id": "Q475259",
         "name": "Leselidze",
         "description": "human settlement",
-        "freebase_id": "/m/02795jb"
+        "freebase_id": "/m/02795jb",
+        "lat": 43.3925,
+        "lng": 40.017222222
     },
     {
         "wikidata_id": "Q1089456",
         "name": "Khulo",
         "description": "human settlement",
-        "freebase_id": "/m/02qlfl3"
+        "freebase_id": "/m/02qlfl3",
+        "lat": 41.644444444,
+        "lng": 42.313888888
     },
     {
         "wikidata_id": "Q5154204",
         "name": "Martvili Monastery",
         "description": "Georgian Orthodox monastery in Martvili, Georgia",
-        "freebase_id": "/m/0j_518j"
+        "freebase_id": "/m/0j_518j",
+        "lat": 42.4053,
+        "lng": 42.3778
     },
     {
         "wikidata_id": "Q4793165",
         "name": "Armenian Cathedral of Tbilisi",
         "description": "No description available",
-        "freebase_id": "/m/06zkphs"
+        "freebase_id": "/m/06zkphs",
+        "lat": 41.696328,
+        "lng": 44.806723
     },
     {
         "wikidata_id": "Q2961733",
         "name": "Shavnabada Monastery",
         "description": "Georgian Orthodox monastery in Georgia",
-        "freebase_id": "/m/0jwygdc"
+        "freebase_id": "/m/0jwygdc",
+        "lat": 41.6519,
+        "lng": 44.84
     },
     {
         "wikidata_id": "Q179290",
         "name": "Martvili",
         "description": "city in Georgia",
-        "freebase_id": "/m/044_vn"
+        "freebase_id": "/m/044_vn",
+        "lat": 42.414777777,
+        "lng": 42.378888888
     },
     {
         "wikidata_id": "Q6439169",
         "name": "Krtsanis Tsiranavor Surb Astvatsatsin",
         "description": "Armenian church in Old Tbilisi, Georgia",
-        "freebase_id": "/m/0b6k03_"
+        "freebase_id": "/m/0b6k03_",
+        "lat": 42.0,
+        "lng": 45.0
     },
     {
         "wikidata_id": "Q161941",
         "name": "Shuakhevi",
         "description": "human settlement",
-        "freebase_id": "/m/05zk0c"
+        "freebase_id": "/m/05zk0c",
+        "lat": 41.626944444,
+        "lng": 42.186944444
     },
     {
         "wikidata_id": "Q2024865",
         "name": "Tserakvi",
         "description": "Georgian orthodox monastery in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/04cwq72"
+        "freebase_id": "/m/04cwq72",
+        "lat": 41.2901623,
+        "lng": 44.6715647
     },
     {
         "wikidata_id": "Q317145",
         "name": "Ozurgeti",
         "description": "city in Guria, Georgia",
-        "freebase_id": "/m/04gjff"
+        "freebase_id": "/m/04gjff",
+        "lat": 41.923027777,
+        "lng": 42.005027777
     },
     {
         "wikidata_id": "Q2281976",
         "name": "Gudarekhi",
         "description": "village in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/04143py"
+        "freebase_id": "/m/04143py",
+        "lat": 41.590833333,
+        "lng": 44.458611111
     },
     {
         "wikidata_id": "Q1025834",
         "name": "Java",
         "description": "settlement in South Ossetia/Georgia",
-        "freebase_id": "/m/02br7j"
+        "freebase_id": "/m/02br7j",
+        "lat": 42.390833333,
+        "lng": 43.922777777
     },
     {
         "wikidata_id": "Q2115687",
         "name": "Pskhu",
         "description": "place in Abkhazia, Georgia",
-        "freebase_id": "/m/02rz3rq"
+        "freebase_id": "/m/02rz3rq",
+        "lat": 43.390833333,
+        "lng": 40.815277777
     },
     {
         "wikidata_id": "Q1642352",
         "name": "Chkhalta",
         "description": "human settlement",
-        "freebase_id": "/m/025v9my"
+        "freebase_id": "/m/025v9my",
+        "lat": 43.094166666,
+        "lng": 41.677777777
     },
     {
         "wikidata_id": "Q2558781",
         "name": "Avlabari",
         "description": "district in Old Tbilisi",
-        "freebase_id": "/m/06zk9v0"
+        "freebase_id": "/m/06zk9v0",
+        "lat": 41.693147222,
+        "lng": 44.815822222
     },
     {
         "wikidata_id": "Q621914",
         "name": "Ilori",
         "description": "human settlement",
-        "freebase_id": "/m/0415gcv"
+        "freebase_id": "/m/0415gcv",
+        "lat": 42.695555555,
+        "lng": 41.499444444
     },
     {
         "wikidata_id": "Q2038190",
         "name": "Samtavro Monastery",
         "description": "Georgian Orthodox Christian monastery complex",
-        "freebase_id": "/m/05mqkfp"
+        "freebase_id": "/m/05mqkfp",
+        "lat": 41.8463,
+        "lng": 44.7183
     },
     {
         "wikidata_id": "Q4504775",
         "name": "Church of the Red Gospel",
         "description": "church building in Tbilisi, Georgia",
-        "freebase_id": "/m/06w7q83"
+        "freebase_id": "/m/06w7q83",
+        "lat": 41.691014,
+        "lng": 44.814692
     },
     {
         "wikidata_id": "Q2311664",
         "name": "Khashupse",
         "description": "village in Abkhazia",
-        "freebase_id": "/m/0jwxtnm"
+        "freebase_id": "/m/0jwxtnm",
+        "lat": 43.409166666,
+        "lng": 40.113055555
     },
     {
         "wikidata_id": "Q679979",
         "name": "Gelati Monastery",
         "description": "monastery in Georgia, Caucasus",
-        "freebase_id": "/m/02rncl"
+        "freebase_id": "/m/02rncl",
+        "lat": 42.294722222,
+        "lng": 42.768055555
     },
     {
         "wikidata_id": "Q1144650",
         "name": "Ilori Church",
         "description": "church building in Ilori, Georgia",
-        "freebase_id": "/m/0415gpt"
+        "freebase_id": "/m/0415gpt",
+        "lat": 42.69612,
+        "lng": 41.49963
     },
     {
         "wikidata_id": "Q783749",
         "name": "Vale",
         "description": "city in Georgia",
-        "freebase_id": "/m/03c1t0f"
+        "freebase_id": "/m/03c1t0f",
+        "lat": 41.618611111,
+        "lng": 42.876944444
     },
     {
         "wikidata_id": "Q3651965",
         "name": "Avchala",
         "description": "suburb in Tbilisi, Georgia",
-        "freebase_id": "/m/07k992z"
+        "freebase_id": "/m/07k992z",
+        "lat": 41.824,
+        "lng": 44.787
     },
     {
         "wikidata_id": "Q1977288",
         "name": "Sadakhlo",
         "description": "place in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/04y7scf"
+        "freebase_id": "/m/04y7scf",
+        "lat": 41.238888888,
+        "lng": 44.787777777
     },
     {
         "wikidata_id": "Q182521",
         "name": "Rustavi",
         "description": "city in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/03rfdw"
+        "freebase_id": "/m/03rfdw",
+        "lat": 41.543611111,
+        "lng": 45.011666666
     },
     {
         "wikidata_id": "Q1342835",
         "name": "Kintsvisi Monastery",
         "description": "medieval Georgian monastery",
-        "freebase_id": "/m/09bzrt"
+        "freebase_id": "/m/09bzrt",
+        "lat": 41.96055556,
+        "lng": 43.83722222
     },
     {
         "wikidata_id": "Q1134031",
         "name": "Dzalisi",
         "description": "geographical object",
-        "freebase_id": "/m/03c3jh7"
+        "freebase_id": "/m/03c3jh7",
+        "lat": 41.963087,
+        "lng": 44.602132
     },
     {
         "wikidata_id": "Q2073374",
         "name": "Zhinvali",
         "description": "townlet in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/07kgbt5"
+        "freebase_id": "/m/07kgbt5",
+        "lat": 42.106944444,
+        "lng": 44.77
     },
     {
         "wikidata_id": "Q2914976",
         "name": "Tsitsamuri",
         "description": "place in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/02681ls"
+        "freebase_id": "/m/02681ls",
+        "lat": 41.860833333,
+        "lng": 44.7325
     },
     {
         "wikidata_id": "Q621892",
         "name": "Labra",
         "description": "human settlement",
-        "freebase_id": "/m/03d0dth"
+        "freebase_id": "/m/03d0dth",
+        "lat": 42.813611111,
+        "lng": 41.402777777
     },
     {
         "wikidata_id": "Q2304503",
         "name": "Chokhatauri",
         "description": "town in Georgia (country)",
-        "freebase_id": "/m/02pmt6z"
+        "freebase_id": "/m/02pmt6z",
+        "lat": 42.018888888,
+        "lng": 42.239444444
     },
     {
         "wikidata_id": "Q3646259",
         "name": "Makhinjauri",
         "description": "borough in Adjara, Georgia",
-        "freebase_id": "/m/0gjd9wb"
+        "freebase_id": "/m/0gjd9wb",
+        "lat": 41.675277777,
+        "lng": 41.694722222
     },
     {
         "wikidata_id": "Q1855105",
         "name": "Khidistavi",
         "description": "place in Guria, Georgia",
-        "freebase_id": "/m/04lhxjf"
+        "freebase_id": "/m/04lhxjf",
+        "lat": 41.971944444,
+        "lng": 42.210555555
     },
     {
         "wikidata_id": "Q1944249",
         "name": "Shorapani",
         "description": "town in Imereti, Georgia",
-        "freebase_id": "/m/05zt6q"
+        "freebase_id": "/m/05zt6q",
+        "lat": 42.095555555,
+        "lng": 43.081944444
     },
     {
         "wikidata_id": "Q770336",
         "name": "Marneuli",
         "description": "city in Georgia",
-        "freebase_id": "/m/0b6lvg"
+        "freebase_id": "/m/0b6lvg",
+        "lat": 41.487222222,
+        "lng": 44.798055555
     },
     {
         "wikidata_id": "Q1794889",
         "name": "Kvaisa",
         "description": "city in South Ossetia",
-        "freebase_id": "/m/04gp9sz"
+        "freebase_id": "/m/04gp9sz",
+        "lat": 42.523055555,
+        "lng": 43.648611111
     },
     {
         "wikidata_id": "Q1936415",
         "name": "Kvishkheti",
         "description": "place in Shida Kartli, Georgia",
-        "freebase_id": "/m/0g80tk"
+        "freebase_id": "/m/0g80tk",
+        "lat": 41.969444444,
+        "lng": 43.501388888
     },
     {
         "wikidata_id": "Q305677",
         "name": "Abastumani",
         "description": "human settlement",
-        "freebase_id": "/m/06w4pp9"
+        "freebase_id": "/m/06w4pp9",
+        "lat": 41.752194444,
+        "lng": 42.833083333
     },
     {
         "wikidata_id": "Q36985",
         "name": "Abanotubani",
         "description": "neighborhood",
-        "freebase_id": "/m/027yv67"
+        "freebase_id": "/m/027yv67",
+        "lat": 41.687777777,
+        "lng": 44.811111111
     },
     {
         "wikidata_id": "Q7420914",
         "name": "Sapara Monastery",
         "description": "Georgian Orthodox monastery near Akhaltsikhe, Georgia",
-        "freebase_id": "/m/07sccc5"
+        "freebase_id": "/m/07sccc5",
+        "lat": 41.602076,
+        "lng": 43.031047
     },
     {
         "wikidata_id": "Q484402",
         "name": "Anaklia",
         "description": "town in Georgia",
-        "freebase_id": "/m/03bzh8_"
+        "freebase_id": "/m/03bzh8_",
+        "lat": 42.395,
+        "lng": 41.564722222
     },
     {
         "wikidata_id": "Q1629430",
         "name": "Pitareti Monastery",
         "description": "monastery",
-        "freebase_id": "/m/04f0pg5"
+        "freebase_id": "/m/04f0pg5",
+        "lat": 41.47888889,
+        "lng": 44.31972222
     },
     {
         "wikidata_id": "Q941980",
         "name": "Tkibuli",
         "description": "human settlement",
-        "freebase_id": "/m/0b6lx_"
+        "freebase_id": "/m/0b6lx_",
+        "lat": 42.350277777,
+        "lng": 42.998333333
     },
     {
         "wikidata_id": "Q1867491",
         "name": "Ganarjiis Mukhuri",
         "description": "village in Samegrelo-Zemo Svaneti, Georgia",
-        "freebase_id": "/m/04lgypw"
+        "freebase_id": "/m/04lgypw",
+        "lat": 42.425277777,
+        "lng": 41.628333333
     },
     {
         "wikidata_id": "Q212546",
         "name": "Akhaltsikhe",
         "description": "town in Georgia",
-        "freebase_id": "/m/03yklx"
+        "freebase_id": "/m/03yklx",
+        "lat": 41.638889,
+        "lng": 42.986111
     },
     {
         "wikidata_id": "Q25052373",
         "name": "Pikris Gora",
         "description": "neighborhood in Vera district, Tbilisi, Georgia",
-        "freebase_id": "/m/0139zx_x"
+        "freebase_id": "/m/0139zx_x",
+        "lat": 41.7098525,
+        "lng": 44.7827728
     },
     {
         "wikidata_id": "Q1149487",
         "name": "Khetagurovo",
         "description": "human settlement in South Ossetia, Georgia",
-        "freebase_id": "/m/04gpw95"
+        "freebase_id": "/m/04gpw95",
+        "lat": 42.20861111,
+        "lng": 43.89305556
     },
     {
         "wikidata_id": "Q734315",
         "name": "Zestaponi",
         "description": "city in Georgia",
-        "freebase_id": "/m/044shk"
+        "freebase_id": "/m/044shk",
+        "lat": 42.108333333,
+        "lng": 43.041666666
     },
     {
         "wikidata_id": "Q946159",
         "name": "Gulripshi",
         "description": "Urban-type settlement in Georgia",
-        "freebase_id": "/m/02r5dv7"
+        "freebase_id": "/m/02r5dv7",
+        "lat": 42.930277777,
+        "lng": 41.101111111
     },
     {
         "wikidata_id": "Q2364582",
         "name": "Kistauri",
         "description": "village in Akhmeta Municipality, Kakheti, Georgia",
-        "freebase_id": "/m/0k0t6nj"
+        "freebase_id": "/m/0k0t6nj",
+        "lat": 41.9925,
+        "lng": 45.2875
     },
     {
         "wikidata_id": "Q7876563",
         "name": "Ubisi monastery",
         "description": "monastery in Imereti, Georgia",
-        "freebase_id": "/m/094rmc"
+        "freebase_id": "/m/094rmc",
+        "lat": 42.0997,
+        "lng": 43.2282
     },
     {
         "wikidata_id": "Q2090524",
         "name": "Tianeti",
         "description": "townlet in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/0b6m0t"
+        "freebase_id": "/m/0b6m0t",
+        "lat": 42.109722222,
+        "lng": 44.968055555
     },
     {
         "wikidata_id": "Q5066860",
         "name": "Chagata",
         "description": "settlement in South Ossetia, Georgia",
-        "freebase_id": "/m/04n4mkz"
+        "freebase_id": "/m/04n4mkz",
+        "lat": 42.4715583,
+        "lng": 43.9268456
     },
     {
         "wikidata_id": "Q6777313",
         "name": "Martkopi",
         "description": "village in Gardabani Municipality, Kvemo Kartli, Georgia",
-        "freebase_id": "/m/0hznf4x"
+        "freebase_id": "/m/0hznf4x",
+        "lat": 41.786388888,
+        "lng": 45.022222222
     },
     {
         "wikidata_id": "Q5611876",
         "name": "Ghrubela",
         "description": "settlement in South Ossetia, Georgia",
-        "freebase_id": "/m/04m_69y"
+        "freebase_id": "/m/04m_69y",
+        "lat": 42.249722222,
+        "lng": 43.905
     },
     {
         "wikidata_id": "Q2343015",
         "name": "Chkhorotsqu",
         "description": "place in Samegrelo-Zemo Svaneti, Georgia",
-        "freebase_id": "/m/04gvdl0"
+        "freebase_id": "/m/04gvdl0",
+        "lat": 42.522222222,
+        "lng": 42.129166666
     },
     {
         "wikidata_id": "Q12864684",
         "name": "Zemo-Koshka",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n1fsd"
+        "freebase_id": "/m/04n1fsd",
+        "lat": 42.459166666,
+        "lng": 44.045555555
     },
     {
         "wikidata_id": "Q12864690",
         "name": "Zemo Nikozi",
         "description": "place in Shida Kartli, Georgia",
-        "freebase_id": "/m/02w5snj"
+        "freebase_id": "/m/02w5snj",
+        "lat": 42.197222222,
+        "lng": 43.956666666
     },
     {
         "wikidata_id": "Q931349",
         "name": "Lykhny",
         "description": "village in Georgia",
-        "freebase_id": "/m/0d3b64"
+        "freebase_id": "/m/0d3b64",
+        "lat": 43.140277777,
+        "lng": 40.615555555
     },
     {
         "wikidata_id": "Q12865089",
         "name": "Tibilaani",
         "description": "settlement in South Ossetia",
-        "freebase_id": "/m/04my0lx"
+        "freebase_id": "/m/04my0lx",
+        "lat": 42.236944444,
+        "lng": 43.879166666
     },
     {
         "wikidata_id": "Q8068904",
         "name": "Zemo-Achabeti",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n540w"
+        "freebase_id": "/m/04n540w",
+        "lat": 42.278055555,
+        "lng": 43.956666666
     },
     {
         "wikidata_id": "Q8068905",
         "name": "Zemo-Monasteri",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n053j"
+        "freebase_id": "/m/04n053j",
+        "lat": 42.285555555,
+        "lng": 43.914722222
     },
     {
         "wikidata_id": "Q211600",
         "name": "Ochamchire",
         "description": "human settlement",
-        "freebase_id": "/m/0d39v2"
+        "freebase_id": "/m/0d39v2",
+        "lat": 42.708333333,
+        "lng": 41.466111111
     },
     {
         "wikidata_id": "Q1351318",
         "name": "Uplistsikhe",
         "description": "ancient city in Georgia",
-        "freebase_id": "/m/02w146k"
+        "freebase_id": "/m/02w146k",
+        "lat": 41.966664,
+        "lng": 44.207505
     },
     {
         "wikidata_id": "Q2474252",
         "name": "Shovi",
         "description": "Health resort in Georgia (country)",
-        "freebase_id": "/m/02qlflt"
+        "freebase_id": "/m/02qlflt",
+        "lat": 42.702063888,
+        "lng": 43.672752777
     },
     {
         "wikidata_id": "Q3649609",
         "name": "Kola",
         "description": "village in South Ossetia / Georgia",
-        "freebase_id": "/m/04n6b9v"
+        "freebase_id": "/m/04n6b9v",
+        "lat": 42.4725,
+        "lng": 43.907777777
     },
     {
         "wikidata_id": "Q2608236",
         "name": "Kurta",
         "description": "capital of Kurta Municipality in Georgia (Caucasus)",
-        "freebase_id": "/m/02vvjnw"
+        "freebase_id": "/m/02vvjnw",
+        "lat": 42.289722222,
+        "lng": 43.950277777
     },
     {
         "wikidata_id": "Q3734485",
         "name": "Imerkhevi",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134pnqz"
+        "freebase_id": "/m/0134pnqz",
+        "lat": 43.3956152,
+        "lng": 40.1498151
     },
     {
         "wikidata_id": "Q16365579",
         "name": "Bagata",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n2n42"
+        "freebase_id": "/m/04n2n42",
+        "lat": 42.208611111,
+        "lng": 43.893055555
     },
     {
         "wikidata_id": "Q3734552",
         "name": "Vashlovani",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134pt20"
+        "freebase_id": "/m/0134pt20",
+        "lat": 43.4642954,
+        "lng": 40.0636201
     },
     {
         "wikidata_id": "Q4523464",
         "name": "Sheuban",
         "description": "place in South Ossetia/Georgia",
-        "freebase_id": "/m/04n3zxk"
+        "freebase_id": "/m/04n3zxk",
+        "lat": 42.5183539,
+        "lng": 43.6437768
     },
     {
         "wikidata_id": "Q3735654",
         "name": "Zegani",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134pqdb"
+        "freebase_id": "/m/0134pqdb",
+        "lat": 43.45027778,
+        "lng": 40.14944444
     },
     {
         "wikidata_id": "Q5519386",
         "name": "Galuanta",
         "description": "settlement in South Ossetia, Georgia",
-        "freebase_id": "/m/04n5s6k"
+        "freebase_id": "/m/04n5s6k",
+        "lat": 42.234444444,
+        "lng": 43.893611111
     },
     {
         "wikidata_id": "Q3686480",
         "name": "Saritata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n3ncs"
+        "freebase_id": "/m/04n3ncs",
+        "lat": 42.4688294,
+        "lng": 43.8081506
     },
     {
         "wikidata_id": "Q620893",
         "name": "Bedia",
         "description": "village in Gali Municipality, in the Autonomous Republic of Abkhazia, Georgia",
-        "freebase_id": "/m/064qrk6"
+        "freebase_id": "/m/064qrk6",
+        "lat": 42.726111111,
+        "lng": 41.643055555
     },
     {
         "wikidata_id": "Q2594995",
         "name": "Mekhadiri",
         "description": "village in Gagra",
-        "freebase_id": "/m/0jwvhbk"
+        "freebase_id": "/m/0jwvhbk",
+        "lat": 43.439722222,
+        "lng": 40.086666666
     },
     {
         "wikidata_id": "Q12867706",
         "name": "Norio",
         "description": "village in Gardabani District Georgia.",
-        "freebase_id": "/m/0t_cff8"
+        "freebase_id": "/m/0t_cff8",
+        "lat": 41.788491666,
+        "lng": 44.978754166
     },
     {
         "wikidata_id": "Q7810742",
         "name": "Tlia",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n6n5p"
+        "freebase_id": "/m/04n6n5p",
+        "lat": 42.4818614,
+        "lng": 44.1219956
     },
     {
         "wikidata_id": "Q3686443",
         "name": "Patardzeuli",
         "description": "village in Georgia",
-        "freebase_id": "/m/09gjydr"
+        "freebase_id": "/m/09gjydr",
+        "lat": 41.744676944,
+        "lng": 45.243106388
     },
     {
         "wikidata_id": "Q25542486",
         "name": "Pichvnari",
         "description": "ancient Colchian settlement",
-        "freebase_id": "/m/0bbv2jx"
+        "freebase_id": "/m/0bbv2jx",
+        "lat": 41.893333333,
+        "lng": 41.775
     },
     {
         "wikidata_id": "Q15221552",
         "name": "Shukhuti",
         "description": "village in Georgia",
-        "freebase_id": "/m/0zbw75x"
+        "freebase_id": "/m/0zbw75x",
+        "lat": 42.0833,
+        "lng": 42.0833
     },
     {
         "wikidata_id": "Q2047918",
         "name": "Kekhvi",
         "description": "abandoned town in Georgia",
-        "freebase_id": "/m/04n2tpg"
+        "freebase_id": "/m/04n2tpg",
+        "lat": 42.30426111,
+        "lng": 43.93943611
     },
     {
         "wikidata_id": "Q3735634",
         "name": "Kholodnaya Rechka",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0jwwjjl"
+        "freebase_id": "/m/0jwwjjl",
+        "lat": 43.361666666,
+        "lng": 40.124722222
     },
     {
         "wikidata_id": "Q6754537",
         "name": "Marabda",
         "description": "community in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/05mqk7v"
+        "freebase_id": "/m/05mqk7v",
+        "lat": 41.535277777,
+        "lng": 44.759166666
     },
     {
         "wikidata_id": "Q7513746",
         "name": "Sikhta",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04m_q79"
+        "freebase_id": "/m/04m_q79",
+        "lat": 42.4525,
+        "lng": 43.888888888
     },
     {
         "wikidata_id": "Q2884348",
         "name": "Abanoeti",
         "description": "place in Racha-Lechkhumi and Kvemo Svaneti, Georgia",
-        "freebase_id": "/m/03qgm36"
+        "freebase_id": "/m/03qgm36",
+        "lat": 42.54,
+        "lng": 43.021388888
     },
     {
         "wikidata_id": "Q638496",
         "name": "Mtispiri",
         "description": "village in Georgia",
-        "freebase_id": "/m/05p3zkk"
+        "freebase_id": "/m/05p3zkk",
+        "lat": 41.938655555,
+        "lng": 42.156266666
     },
     {
         "wikidata_id": "Q3649234",
         "name": "Khodz",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04my85y"
+        "freebase_id": "/m/04my85y",
+        "lat": 42.5361997,
+        "lng": 44.2440513
     },
     {
         "wikidata_id": "Q2047915",
         "name": "Edisa",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n7rls"
+        "freebase_id": "/m/04n7rls",
+        "lat": 42.537766666,
+        "lng": 44.216927777
     },
     {
         "wikidata_id": "Q3649100",
         "name": "Badzhigata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mxf8d"
+        "freebase_id": "/m/04mxf8d",
+        "lat": 42.4733161,
+        "lng": 44.1052199
     },
     {
         "wikidata_id": "Q13217591",
         "name": "Guma, Abkhazia",
         "description": "village in Sokhumi, Georgia",
-        "freebase_id": "/m/06w4k8q"
+        "freebase_id": "/m/06w4k8q",
+        "lat": 43.126388888,
+        "lng": 41.031388888
     },
     {
         "wikidata_id": "Q3649203",
         "name": "Kvemo Bakarta",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mxqx9"
+        "freebase_id": "/m/04mxqx9",
+        "lat": 42.496388888,
+        "lng": 44.034166666
     },
     {
         "wikidata_id": "Q3649226",
         "name": "Kvemo Ermani",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n6qt6"
+        "freebase_id": "/m/04n6qt6",
+        "lat": 42.513055555,
+        "lng": 44.236666666
     },
     {
         "wikidata_id": "Q3649236",
         "name": "Kotanto",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mxgt1"
+        "freebase_id": "/m/04mxgt1",
+        "lat": 42.434166666,
+        "lng": 43.839722222
     },
     {
         "wikidata_id": "Q3650151",
         "name": "Kroza",
         "description": "settlement in South Ossetia",
-        "freebase_id": "/m/04mwzvr"
+        "freebase_id": "/m/04mwzvr",
+        "lat": 42.226944444,
+        "lng": 43.875
     },
     {
         "wikidata_id": "Q3649594",
         "name": "Chrdilo Chiprani",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mydvr"
+        "freebase_id": "/m/04mydvr",
+        "lat": 42.4536168,
+        "lng": 44.0777938
     },
     {
         "wikidata_id": "Q3649642",
         "name": "Tsamadi",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n1s32"
+        "freebase_id": "/m/04n1s32",
+        "lat": 42.456666666,
+        "lng": 43.9025
     },
     {
         "wikidata_id": "Q3649671",
         "name": "Shua Ermani",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mxxmp"
+        "freebase_id": "/m/04mxxmp",
+        "lat": 42.5125,
+        "lng": 44.246388888
     },
     {
         "wikidata_id": "Q3649737",
         "name": "Nazigina",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n0wzz"
+        "freebase_id": "/m/04n0wzz",
+        "lat": 42.423055555,
+        "lng": 43.8225
     },
     {
         "wikidata_id": "Q3649806",
         "name": "Litsi",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n3qqq"
+        "freebase_id": "/m/04n3qqq",
+        "lat": 42.4975,
+        "lng": 44.08
     },
     {
         "wikidata_id": "Q3650086",
         "name": "Uchvarsi",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n0j2s"
+        "freebase_id": "/m/04n0j2s",
+        "lat": 42.397222222,
+        "lng": 43.934444444
     },
     {
         "wikidata_id": "Q3649188",
         "name": "Cheselt",
         "description": "village in South Ossetia / Georgia",
-        "freebase_id": "/m/04n0vkl"
+        "freebase_id": "/m/04n0vkl",
+        "lat": 42.475,
+        "lng": 43.922777777
     },
     {
         "wikidata_id": "Q3649194",
         "name": "Kemulta",
         "description": "village in South Ossetia / Georgia",
-        "freebase_id": "/m/04n4462"
+        "freebase_id": "/m/04n4462",
+        "lat": 42.437222222,
+        "lng": 43.827777777
     },
     {
         "wikidata_id": "Q1965931",
         "name": "Tamarasheni",
         "description": "village in Georgia, Gori Municipality",
-        "freebase_id": "/m/028b2px"
+        "freebase_id": "/m/028b2px",
+        "lat": 42.250833333,
+        "lng": 43.9625
     },
     {
         "wikidata_id": "Q994",
         "name": "Tbilisi",
         "description": "capital and the largest city of Georgia (country)",
-        "freebase_id": "/m/0bm4j"
+        "freebase_id": "/m/0bm4j",
+        "lat": 41.7225,
+        "lng": 44.7925
     },
     {
         "wikidata_id": "Q4663411",
         "name": "Abano",
         "description": "place in Shida Kartli, Georgia",
-        "freebase_id": "/m/0k2f5kq"
+        "freebase_id": "/m/0k2f5kq",
+        "lat": 42.12555556,
+        "lng": 43.72777778
     },
     {
         "wikidata_id": "Q3649791",
         "name": "Samkhreti Chiprani",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n359w"
+        "freebase_id": "/m/04n359w",
+        "lat": 42.4639735,
+        "lng": 44.0840821
     },
     {
         "wikidata_id": "Q118953",
         "name": "Tsinandali",
         "description": "village in Kakheti, Telavi Municipality, Georgia",
-        "freebase_id": "/m/03gw0d1"
+        "freebase_id": "/m/03gw0d1",
+        "lat": 41.894722222,
+        "lng": 45.575555555
     },
     {
         "wikidata_id": "Q7496072",
         "name": "Shiboita",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n2lf2"
+        "freebase_id": "/m/04n2lf2",
+        "lat": 42.4699286,
+        "lng": 43.8548527
     },
     {
         "wikidata_id": "Q6449685",
         "name": "Kvemo Monasteri",
         "description": "No description available",
-        "freebase_id": "/m/04n495w"
+        "freebase_id": "/m/04n495w",
+        "lat": 42.280833333,
+        "lng": 43.931666666
     },
     {
         "wikidata_id": "Q3734503",
         "name": "Lidzava",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0jwrx2s"
+        "freebase_id": "/m/0jwrx2s",
+        "lat": 43.173888888,
+        "lng": 40.372222222
     },
     {
         "wikidata_id": "Q3734510",
         "name": "Tsalkoti",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0jwthb3"
+        "freebase_id": "/m/0jwthb3",
+        "lat": 43.4096082,
+        "lng": 40.053764
     },
     {
         "wikidata_id": "Q3734573",
         "name": "Mukhnari",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134pks2"
+        "freebase_id": "/m/0134pks2",
+        "lat": 43.44361111,
+        "lng": 40.11972222
     },
     {
         "wikidata_id": "Q3734603",
         "name": "Kldiani",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134plcm"
+        "freebase_id": "/m/0134plcm",
+        "lat": 43.43111111,
+        "lng": 40.10694444
     },
     {
         "wikidata_id": "Q4027519",
         "name": "Heshtia",
         "description": "village in Georgia",
-        "freebase_id": "/m/02vmscw"
+        "freebase_id": "/m/02vmscw",
+        "lat": 41.341388888,
+        "lng": 43.612222222
     },
     {
         "wikidata_id": "Q445572",
         "name": "Old Tbilisi",
         "description": "historical core of Tbilisi",
-        "freebase_id": "/m/02rbrhj"
+        "freebase_id": "/m/02rbrhj",
+        "lat": 41.69277778,
+        "lng": 44.80638889
     },
     {
         "wikidata_id": "Q3735662",
         "name": "Baghnari",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134lhcf"
+        "freebase_id": "/m/0134lhcf",
+        "lat": 43.428888888,
+        "lng": 40.153055555
     },
     {
         "wikidata_id": "Q2206944",
         "name": "Bodorna",
         "description": "place in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/043sgyx"
+        "freebase_id": "/m/043sgyx",
+        "lat": 42.056111111,
+        "lng": 44.744444444
     },
     {
         "wikidata_id": "Q3734463",
         "name": "Vake",
         "description": "village in Gagra, Georgia",
-        "freebase_id": "/m/0134p_dq"
+        "freebase_id": "/m/0134p_dq",
+        "lat": 43.378306,
+        "lng": 40.1288295
     },
     {
         "wikidata_id": "Q6692481",
         "name": "Sidani",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mxzv_"
+        "freebase_id": "/m/04mxzv_",
+        "lat": 42.463611111,
+        "lng": 44.061111111
     },
     {
         "wikidata_id": "Q3649748",
         "name": "Khodi",
         "description": "settlement in South Ossetia/Georgia",
-        "freebase_id": "/m/04n34_x"
+        "freebase_id": "/m/04n34_x",
+        "lat": 42.227777777,
+        "lng": 43.881944444
     },
     {
         "wikidata_id": "Q1952917",
         "name": "Odzrkhe",
         "description": "historic fortified town in southern Georgia",
-        "freebase_id": "/m/0d98mg"
+        "freebase_id": "/m/0d98mg",
+        "lat": 41.7525,
+        "lng": 42.831944444
     },
     {
         "wikidata_id": "Q5102210",
         "name": "Chitata",
         "description": "settlement in South Ossetia, Georgia",
-        "freebase_id": "/m/04mxcm_"
+        "freebase_id": "/m/04mxcm_",
+        "lat": 42.490277777,
+        "lng": 43.934444444
     },
     {
         "wikidata_id": "Q2043262",
         "name": "Britata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n0w99"
+        "freebase_id": "/m/04n0w99",
+        "lat": 42.52050556,
+        "lng": 44.19438056
     },
     {
         "wikidata_id": "Q2600333",
         "name": "Mughanlo",
         "description": "village in Georgia",
-        "freebase_id": "/m/02xb92p"
+        "freebase_id": "/m/02xb92p",
+        "lat": 41.590277777,
+        "lng": 45.538611111
     },
     {
         "wikidata_id": "Q2060966",
         "name": "Duodonasto",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04mztfk"
+        "freebase_id": "/m/04mztfk",
+        "lat": 42.4934136,
+        "lng": 43.932796
     },
     {
         "wikidata_id": "Q2276857",
         "name": "Chuburkhindji",
         "description": "village in Gali Municipality, in the Autonomous Republic of Abkhazia, Georgia",
-        "freebase_id": "/m/05sw3y"
+        "freebase_id": "/m/05sw3y",
+        "lat": 42.579777777,
+        "lng": 41.809725
     },
     {
         "wikidata_id": "Q5089878",
         "name": "Cheliata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n3cy8"
+        "freebase_id": "/m/04n3cy8",
+        "lat": 42.559166666,
+        "lng": 44.204444444
     },
     {
         "wikidata_id": "Q4692358",
         "name": "Aghaiani",
         "description": "village in Shida Kartli, Georgia",
-        "freebase_id": "/m/0hhtg89"
+        "freebase_id": "/m/0hhtg89",
+        "lat": 41.9125,
+        "lng": 44.545833333
     },
     {
         "wikidata_id": "Q2092206",
         "name": "Buzala",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n0mh1"
+        "freebase_id": "/m/04n0mh1",
+        "lat": 42.375,
+        "lng": 43.91948
     },
     {
         "wikidata_id": "Q3650063",
         "name": "Gebi",
         "description": "village in Oni Municipality, Georgia",
-        "freebase_id": "/m/05n_40t"
+        "freebase_id": "/m/05n_40t",
+        "lat": 42.763888888,
+        "lng": 43.506944444
     },
     {
         "wikidata_id": "Q2555414",
         "name": "Mamati",
         "description": "village in Georgia",
-        "freebase_id": "/m/0fz6yv"
+        "freebase_id": "/m/0fz6yv",
+        "lat": 42.020555555,
+        "lng": 42.033333333
     },
     {
         "wikidata_id": "Q5375169",
         "name": "Enageti",
         "description": "village in Tetritskaro Municipality, Georgia",
-        "freebase_id": "/m/0b6mh3r"
+        "freebase_id": "/m/0b6mh3r",
+        "lat": 41.6,
+        "lng": 44.63333333
     },
     {
         "wikidata_id": "Q12870251",
         "name": "Kvemo Koshka",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n564r"
+        "freebase_id": "/m/04n564r",
+        "lat": 42.465833333,
+        "lng": 44.056944444
     },
     {
         "wikidata_id": "Q12871466",
         "name": "Khikhata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04m_7ls"
+        "freebase_id": "/m/04m_7ls",
+        "lat": 42.411479,
+        "lng": 43.8449254
     },
     {
         "wikidata_id": "Q8068371",
         "name": "Zeda Sakara",
         "description": "place in Imereti, Georgia",
-        "freebase_id": "/m/0b6n_g8"
+        "freebase_id": "/m/0b6n_g8",
+        "lat": 42.1425,
+        "lng": 43.066388888
     },
     {
         "wikidata_id": "Q5103240",
@@ -1713,522 +2281,696 @@
         "wikidata_id": "Q1080519",
         "name": "Omalo",
         "description": "a village in the region of Tusheti, Georgia",
-        "freebase_id": "/m/0bmc4l"
+        "freebase_id": "/m/0bmc4l",
+        "lat": 42.370555555,
+        "lng": 45.6325
     },
     {
         "wikidata_id": "Q5213690",
         "name": "Velistsikhe",
         "description": "place in Kakheti, Georgia",
-        "freebase_id": "/m/010lr2pk"
+        "freebase_id": "/m/010lr2pk",
+        "lat": 41.809166666,
+        "lng": 45.754166666
     },
     {
         "wikidata_id": "Q12861800",
         "name": "Aragvispiri",
         "description": "place in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/0bmhxvq"
+        "freebase_id": "/m/0bmhxvq",
+        "lat": 42.075833333,
+        "lng": 44.751388888
     },
     {
         "wikidata_id": "Q754510",
         "name": "Ateni",
         "description": "No description available",
-        "freebase_id": "/m/0h1h85w"
+        "freebase_id": "/m/0h1h85w",
+        "lat": 41.9,
+        "lng": 44.1
     },
     {
         "wikidata_id": "Q12870210",
         "name": "Kveda Sakara",
         "description": "place in Imereti, Georgia",
-        "freebase_id": "/m/0b6n5f4"
+        "freebase_id": "/m/0b6n5f4",
+        "lat": 42.125555555,
+        "lng": 43.031111111
     },
     {
         "wikidata_id": "Q7899802",
         "name": "Uravi",
         "description": "place in Racha-Lechkhumi and Kvemo Svaneti, Georgia",
-        "freebase_id": "/m/0gvr_2_"
+        "freebase_id": "/m/0gvr_2_",
+        "lat": 42.646666666,
+        "lng": 43.289722222
     },
     {
         "wikidata_id": "Q4849607",
         "name": "Bakurtsikhe",
         "description": "place in Gurjaani district, Georgia",
-        "freebase_id": "/m/0hgqrz3"
+        "freebase_id": "/m/0hgqrz3",
+        "lat": 41.691111111,
+        "lng": 45.859166666
     },
     {
         "wikidata_id": "Q6449656",
         "name": "Kvasatali",
         "description": "settlement in South Ossetia, Georgia",
-        "freebase_id": "/m/04mykdq"
+        "freebase_id": "/m/04mykdq",
+        "lat": 42.248333333,
+        "lng": 43.886111111
     },
     {
         "wikidata_id": "Q2385411",
         "name": "Chanchati",
         "description": "village in Guria, Georgia",
-        "freebase_id": "/m/0cys7s"
+        "freebase_id": "/m/0cys7s",
+        "lat": 42.02925,
+        "lng": 42.121777777
     },
     {
         "wikidata_id": "Q4663412",
         "name": "Abanoskhevi",
         "description": "place in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/0k2hkc6"
+        "freebase_id": "/m/0k2hkc6",
+        "lat": 42.02638889,
+        "lng": 44.76472222
     },
     {
         "wikidata_id": "Q621890",
         "name": "Beslakhuba",
         "description": "village in Georgia",
-        "freebase_id": "/m/0knx4qm"
+        "freebase_id": "/m/0knx4qm",
+        "lat": 42.75861111,
+        "lng": 41.52666667
     },
     {
         "wikidata_id": "Q3653114",
         "name": "Shaumiani",
         "description": "place in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/0_s0b57"
+        "freebase_id": "/m/0_s0b57",
+        "lat": 41.348888888,
+        "lng": 44.758888888
     },
     {
         "wikidata_id": "Q6402223",
         "name": "Khonischala",
         "description": "village in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/0g9z0ym"
+        "freebase_id": "/m/0g9z0ym",
+        "lat": 42.584722222,
+        "lng": 45.214166666
     },
     {
         "wikidata_id": "Q2905557",
         "name": "Adishi",
         "description": "highland village in Samegelo-Zemo Svaneti, Georgia",
-        "freebase_id": "/m/0bpvnc"
+        "freebase_id": "/m/0bpvnc",
+        "lat": 42.9967611,
+        "lng": 42.9135003
     },
     {
         "wikidata_id": "Q3596018",
         "name": "Chlou",
         "description": "place in Abkhazia, Georgia",
-        "freebase_id": "/m/0kbhg63"
+        "freebase_id": "/m/0kbhg63",
+        "lat": 42.877416666,
+        "lng": 41.494027777
     },
     {
         "wikidata_id": "Q944813",
         "name": "Gonio",
         "description": "fortress",
-        "freebase_id": "/m/02vz6d_"
+        "freebase_id": "/m/02vz6d_",
+        "lat": 41.57433333,
+        "lng": 41.57231667
     },
     {
         "wikidata_id": "Q3596038",
         "name": "Otapi",
         "description": "village and municipality in Georgia",
-        "freebase_id": "/m/02q9p9_"
+        "freebase_id": "/m/02q9p9_",
+        "lat": 42.92166667,
+        "lng": 41.54527778
     },
     {
         "wikidata_id": "Q7359964",
         "name": "Rokata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n04r4"
+        "freebase_id": "/m/04n04r4",
+        "lat": 42.430833333,
+        "lng": 44.031111111
     },
     {
         "wikidata_id": "Q25500057",
         "name": "Abari",
         "description": "place in Racha-Lechkhumi and Kvemo Svaneti, Georgia",
-        "freebase_id": "/m/0k28pxp"
+        "freebase_id": "/m/0k28pxp",
+        "lat": 42.615277777,
+        "lng": 43.263888888
     },
     {
         "wikidata_id": "Q3649072",
         "name": "Eshera",
         "description": "village in the Sokhumi district of Georgia.",
-        "freebase_id": "/m/0wbn6b_"
+        "freebase_id": "/m/0wbn6b_",
+        "lat": 43.03388889,
+        "lng": 40.93055556
     },
     {
         "wikidata_id": "Q6449687",
         "name": "Kvemo Barghebi",
         "description": "Georgian village",
-        "freebase_id": "/m/04lhvml"
+        "freebase_id": "/m/04lhvml",
+        "lat": 42.5541,
+        "lng": 41.6207
     },
     {
         "wikidata_id": "Q6449681",
         "name": "Kvemo Achabeti",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n5zy2"
+        "freebase_id": "/m/04n5zy2",
+        "lat": 42.26451,
+        "lng": 43.96145
     },
     {
         "wikidata_id": "Q378091",
         "name": "Phasis",
         "description": "ancient city in Colchis",
-        "freebase_id": "/m/0415v3_"
+        "freebase_id": "/m/0415v3_",
+        "lat": 42.15,
+        "lng": 41.666667
     },
     {
         "wikidata_id": "Q3596043",
         "name": "Avadhara",
         "description": "place in Abkhazia, Georgia",
-        "freebase_id": "/m/0fh0ck"
+        "freebase_id": "/m/0fh0ck",
+        "lat": 43.528611111,
+        "lng": 40.631944444
     },
     {
         "wikidata_id": "Q13637001",
         "name": "Kojori",
         "description": "town in Tbilisi, Georgia",
-        "freebase_id": "/m/02r8bsn"
+        "freebase_id": "/m/02r8bsn",
+        "lat": 41.663333333,
+        "lng": 44.706944444
     },
     {
         "wikidata_id": "Q6933851",
         "name": "Muldarta",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n3969"
+        "freebase_id": "/m/04n3969",
+        "lat": 42.4604631,
+        "lng": 43.8673358
     },
     {
         "wikidata_id": "Q3649769",
         "name": "Sokhta",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04myqpq"
+        "freebase_id": "/m/04myqpq",
+        "lat": 42.431111111,
+        "lng": 43.821388888
     },
     {
         "wikidata_id": "Q3734568",
         "name": "Veli",
         "description": "village in the Gagra District, Georgia",
-        "freebase_id": "/m/0134mmbp"
+        "freebase_id": "/m/0134mmbp",
+        "lat": 43.4228479,
+        "lng": 40.1476049
     },
     {
         "wikidata_id": "Q2586542",
         "name": "Nokalakevi",
         "description": "village in Senaki, Georgia",
-        "freebase_id": "/m/07l3ft"
+        "freebase_id": "/m/07l3ft",
+        "lat": 42.35722222,
+        "lng": 42.19388889
     },
     {
         "wikidata_id": "Q2528591",
         "name": "Beshtasheni",
         "description": "village in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/0415x69"
+        "freebase_id": "/m/0415x69",
+        "lat": 41.638611111,
+        "lng": 44.114166666
     },
     {
         "wikidata_id": "Q5602837",
         "name": "Green Lisi Town",
         "description": "town in Georgia",
-        "freebase_id": "/m/0nbts36"
+        "freebase_id": "/m/0nbts36",
+        "lat": 41.742777777,
+        "lng": 44.735555555
     },
     {
         "wikidata_id": "Q3646691",
         "name": "Jikhashkari",
         "description": "village in Samegrelo-Zemo Svaneti, Georgia",
-        "freebase_id": "/m/05q6hzx"
+        "freebase_id": "/m/05q6hzx",
+        "lat": 42.5017,
+        "lng": 42.0189
     },
     {
         "wikidata_id": "Q3649213",
         "name": "Raro, Keshelta",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04m_rv5"
+        "freebase_id": "/m/04m_rv5",
+        "lat": 42.4475,
+        "lng": 43.872222222
     },
     {
         "wikidata_id": "Q3651476",
         "name": "Narazeni",
         "description": "village in Georgia (country), Samegrelo-Zemo Svaneti region, Zugdidi municipality",
-        "freebase_id": "/m/05q52w4"
+        "freebase_id": "/m/05q52w4",
+        "lat": 42.4125,
+        "lng": 41.946111111
     },
     {
         "wikidata_id": "Q3649727",
         "name": "Kabuzta",
         "description": "village in South Ossetia, Georgia",
-        "freebase_id": "/m/04n6lnj"
+        "freebase_id": "/m/04n6lnj",
+        "lat": 42.543888888,
+        "lng": 44.232222222
     },
     {
         "wikidata_id": "Q3734516",
         "name": "Kldekari",
         "description": "village in Georgia",
-        "freebase_id": "/m/0134pw8r"
+        "freebase_id": "/m/0134pw8r",
+        "lat": 43.4125,
+        "lng": 40.22944444
     },
     {
         "wikidata_id": "Q3650139",
         "name": "Kusireti",
         "description": "settlement in South Ossetia",
-        "freebase_id": "/m/04mxn5p"
+        "freebase_id": "/m/04mxn5p",
+        "lat": 42.239722222,
+        "lng": 43.938333333
     },
     {
         "wikidata_id": "Q4453802",
         "name": "Tekali",
         "description": "village in Georgia",
-        "freebase_id": "/m/0kfxq0x"
+        "freebase_id": "/m/0kfxq0x",
+        "lat": 41.35361111,
+        "lng": 44.96527778
     },
     {
         "wikidata_id": "Q3646144",
         "name": "Abano",
         "description": "place in Mtskheta-Mtianeti, Georgia",
-        "freebase_id": "/m/03qgl_s"
+        "freebase_id": "/m/03qgl_s",
+        "lat": 42.604444444,
+        "lng": 44.388333333
     },
     {
         "wikidata_id": "Q517375",
         "name": "Salme",
         "description": "village in Georgia",
-        "freebase_id": "/m/06w7mhd"
+        "freebase_id": "/m/06w7mhd",
+        "lat": 43.431944444,
+        "lng": 40.026666666
     },
     {
         "wikidata_id": "Q16675063",
         "name": "Machara",
         "description": "village in Gulripshi District",
-        "freebase_id": "/m/0j_30s9"
+        "freebase_id": "/m/0j_30s9",
+        "lat": 42.94611111,
+        "lng": 41.08861111
     },
     {
         "wikidata_id": "Q6754817",
         "name": "Marani",
         "description": "village in Georgia",
-        "freebase_id": "/m/09gk3dz"
+        "freebase_id": "/m/09gk3dz",
+        "lat": 42.158333333,
+        "lng": 42.286111111
     },
     {
         "wikidata_id": "Q7497292",
         "name": "Shindara",
         "description": "settlement in Georgia",
-        "freebase_id": "/m/0g9vzt6"
+        "freebase_id": "/m/0g9vzt6",
+        "lat": 42.19888889,
+        "lng": 43.76111111
     },
     {
         "wikidata_id": "Q7849424",
         "name": "Tsarita",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04n264c"
+        "freebase_id": "/m/04n264c",
+        "lat": 42.478333333,
+        "lng": 44.07
     },
     {
         "wikidata_id": "Q3651901",
         "name": "Kardanakhi",
         "description": "place in Kakheti, Georgia",
-        "freebase_id": "/m/047qnxl"
+        "freebase_id": "/m/047qnxl",
+        "lat": 41.671388888,
+        "lng": 45.884722222
     },
     {
         "wikidata_id": "Q3649779",
         "name": "Vaneli",
         "description": "village in Dzau District, South Ossetia/Georgia",
-        "freebase_id": "/m/04n4636"
+        "freebase_id": "/m/04n4636",
+        "lat": 42.465342,
+        "lng": 44.070974
     },
     {
         "wikidata_id": "Q7915356",
         "name": "Vaqiri",
         "description": "place in Kakheti, Georgia",
-        "freebase_id": "/m/0dk8cy"
+        "freebase_id": "/m/0dk8cy",
+        "lat": 41.641388888,
+        "lng": 45.923055555
     },
     {
         "wikidata_id": "Q7915777",
         "name": "Variani",
         "description": "place in Shida Kartli, Georgia",
-        "freebase_id": "/m/0dlmqfj"
+        "freebase_id": "/m/0dlmqfj",
+        "lat": 42.073055555,
+        "lng": 44.034444444
     },
     {
         "wikidata_id": "Q4841932",
         "name": "Bagiata",
         "description": "village in South Ossetia/Georgia",
-        "freebase_id": "/m/04my__g"
+        "freebase_id": "/m/04my__g",
+        "lat": 42.505,
+        "lng": 44.071388888
     },
     {
         "wikidata_id": "Q2466266",
         "name": "Talaveri",
         "description": "village in Kvemo Kartli, Georgia",
-        "freebase_id": "/m/064k0d7"
+        "freebase_id": "/m/064k0d7",
+        "lat": 41.382805555,
+        "lng": 44.645027777
     },
     {
         "wikidata_id": "Q1011003",
         "name": "Vani",
         "description": "town in Imereti, Georgia",
-        "freebase_id": "/m/02rt49"
+        "freebase_id": "/m/02rt49",
+        "lat": 42.083888888,
+        "lng": 42.511944444
     },
     {
         "wikidata_id": "Q1011011",
         "name": "Khoni",
         "description": "town in the region (mkhare) of Imereti, Georgia",
-        "freebase_id": "/m/03ykzv"
+        "freebase_id": "/m/03ykzv",
+        "lat": 42.326388888,
+        "lng": 42.422777777
     },
     {
         "wikidata_id": "Q1011016",
         "name": "Kvareli",
         "description": "city in Georgia",
-        "freebase_id": "/m/0b6mk7"
+        "freebase_id": "/m/0b6mk7",
+        "lat": 41.951388888,
+        "lng": 45.818333333
     },
     {
         "wikidata_id": "Q44811",
         "name": "Gagra",
         "description": "town in Georgia",
-        "freebase_id": "/m/03whxx"
+        "freebase_id": "/m/03whxx",
+        "lat": 43.280833333,
+        "lng": 40.266944444
     },
     {
         "wikidata_id": "Q209009",
         "name": "Telavi",
         "description": "City in Kakheti region, Georgia",
-        "freebase_id": "/m/03y6c2"
+        "freebase_id": "/m/03y6c2",
+        "lat": 41.91978,
+        "lng": 45.47315
     },
     {
         "wikidata_id": "Q172415",
         "name": "Kutaisi",
         "description": "city in Georgia",
-        "freebase_id": "/m/0276zg"
+        "freebase_id": "/m/0276zg",
+        "lat": 42.271666666,
+        "lng": 42.705555555
     },
     {
         "wikidata_id": "Q270535",
         "name": "Tkvarcheli",
         "description": "city in Georgia",
-        "freebase_id": "/m/02r0p64"
+        "freebase_id": "/m/02r0p64",
+        "lat": 42.85,
+        "lng": 41.683333333
     },
     {
         "wikidata_id": "Q140314",
         "name": "Tsageri",
         "description": "city",
-        "freebase_id": "/m/04gsqwr"
+        "freebase_id": "/m/04gsqwr",
+        "lat": 42.647222222,
+        "lng": 42.77
     },
     {
         "wikidata_id": "Q1010979",
         "name": "Dedoplis Tskaro",
         "description": "town in Kakheti, Georgia",
-        "freebase_id": "/m/03c37hn"
+        "freebase_id": "/m/03c37hn",
+        "lat": 41.463888888,
+        "lng": 46.111111111
     },
     {
         "wikidata_id": "Q185345",
         "name": "Poti",
         "description": "town in Georgia",
-        "freebase_id": "/m/01g4gz"
+        "freebase_id": "/m/01g4gz",
+        "lat": 42.15,
+        "lng": 41.666666666
     },
     {
         "wikidata_id": "Q208352",
         "name": "Borjomi",
         "description": "town in Georgia (country)",
-        "freebase_id": "/m/0448pn"
+        "freebase_id": "/m/0448pn",
+        "lat": 41.841666666,
+        "lng": 43.382777777
     },
     {
         "wikidata_id": "Q956932",
         "name": "Sagarejo",
         "description": "city in Georgia",
-        "freebase_id": "/m/03m6yy8"
+        "freebase_id": "/m/03m6yy8",
+        "lat": 41.736944444,
+        "lng": 45.325833333
     },
     {
         "wikidata_id": "Q227156",
         "name": "Tsqaltubo",
         "description": "city in Georgia",
-        "freebase_id": "/m/0cy65x"
+        "freebase_id": "/m/0cy65x",
+        "lat": 42.326388888,
+        "lng": 42.600555555
     },
     {
         "wikidata_id": "Q1987828",
         "name": "Kareli",
         "description": "city in Georgia",
-        "freebase_id": "/m/04gmk4l"
+        "freebase_id": "/m/04gmk4l",
+        "lat": 42.021388888,
+        "lng": 43.893055555
     },
     {
         "wikidata_id": "Q145127",
         "name": "Tsalka",
         "description": "town in southern Georgia",
-        "freebase_id": "/m/05zjwg"
+        "freebase_id": "/m/05zjwg",
+        "lat": 41.599722222,
+        "lng": 44.090555555
     },
     {
         "wikidata_id": "Q236673",
         "name": "Gali",
         "description": "city in Georgia",
-        "freebase_id": "/m/04lj96"
+        "freebase_id": "/m/04lj96",
+        "lat": 42.6275,
+        "lng": 41.736944444
     },
     {
         "wikidata_id": "Q185336",
         "name": "Zugdidi",
         "description": "city in Georgia",
-        "freebase_id": "/m/03yk6t"
+        "freebase_id": "/m/03yk6t",
+        "lat": 42.508055555,
+        "lng": 41.8725
     },
     {
         "wikidata_id": "Q653420",
         "name": "Bolnisi",
         "description": "city in Georgia",
-        "freebase_id": "/m/05wptd"
+        "freebase_id": "/m/05wptd",
+        "lat": 41.449444444,
+        "lng": 44.541944444
     },
     {
         "wikidata_id": "Q1017210",
         "name": "Tsalenjikha",
         "description": "city",
-        "freebase_id": "/m/03c7vyf"
+        "freebase_id": "/m/03c7vyf",
+        "lat": 42.609388888,
+        "lng": 42.068194444
     },
     {
         "wikidata_id": "Q217443",
         "name": "Chiatura",
         "description": "human settlement",
-        "freebase_id": "/m/0276z1"
+        "freebase_id": "/m/0276z1",
+        "lat": 42.289444444,
+        "lng": 43.283611111
     },
     {
         "wikidata_id": "Q956954",
         "name": "Kaspi",
         "description": "city in Georgia",
-        "freebase_id": "/m/0b6tlr"
+        "freebase_id": "/m/0b6tlr",
+        "lat": 41.924444444,
+        "lng": 44.418888888
     },
     {
         "wikidata_id": "Q211318",
         "name": "Pitsunda",
         "description": "town in Georgia",
-        "freebase_id": "/m/071kd_"
+        "freebase_id": "/m/071kd_",
+        "lat": 43.159166666,
+        "lng": 40.339722222
     },
     {
         "wikidata_id": "Q932901",
         "name": "Khashuri",
         "description": "city in Georgia",
-        "freebase_id": "/m/0b6m4z"
+        "freebase_id": "/m/0b6m4z",
+        "lat": 41.9975,
+        "lng": 43.598611111
     },
     {
         "wikidata_id": "Q941948",
         "name": "Oni",
         "description": "city in Georgia",
-        "freebase_id": "/m/044rr1"
+        "freebase_id": "/m/044rr1",
+        "lat": 42.583888888,
+        "lng": 43.441666666
     },
     {
         "wikidata_id": "Q799920",
         "name": "Baghdati",
         "description": "town in Georgia",
-        "freebase_id": "/m/044sg2"
+        "freebase_id": "/m/044sg2",
+        "lat": 42.067777777,
+        "lng": 42.824722222
     },
     {
         "wikidata_id": "Q40811",
         "name": "Sukhumi",
         "description": "capital of Abkhazia, considered part of Georgia by most countries",
-        "freebase_id": "/m/0bw4vt"
+        "freebase_id": "/m/0bw4vt",
+        "lat": 43.003611111,
+        "lng": 41.019166666
     },
     {
         "wikidata_id": "Q271564",
         "name": "Dusheti",
         "description": "town in Georgia, the administrative center of Dusheti Municipality",
-        "freebase_id": "/m/03y8dy"
+        "freebase_id": "/m/03y8dy",
+        "lat": 42.084722222,
+        "lng": 44.695833333
     },
     {
         "wikidata_id": "Q261243",
         "name": "Dmanisi",
         "description": "town in Dmanisi Municipality in Georgia",
-        "freebase_id": "/m/04lljl"
+        "freebase_id": "/m/04lljl",
+        "lat": 41.332222222,
+        "lng": 44.204444444
     },
     {
         "wikidata_id": "Q1971402",
         "name": "Abasha",
         "description": "town in Georgia",
-        "freebase_id": "/m/0282bn_"
+        "freebase_id": "/m/0282bn_",
+        "lat": 42.204166666,
+        "lng": 42.202777777
     },
     {
         "wikidata_id": "Q456842",
         "name": "Ambrolauri",
         "description": "city in Georgia",
-        "freebase_id": "/m/099wdp"
+        "freebase_id": "/m/099wdp",
+        "lat": 42.519444444,
+        "lng": 43.15
     },
     {
         "wikidata_id": "Q956966",
         "name": "Lagodekhi",
         "description": "city in Georgia",
-        "freebase_id": "/m/05y83c"
+        "freebase_id": "/m/05y83c",
+        "lat": 41.823611111,
+        "lng": 46.272222222
     },
     {
         "wikidata_id": "Q340566",
         "name": "Akhmeta",
         "description": "Georgian town",
-        "freebase_id": "/m/07yw2x"
+        "freebase_id": "/m/07yw2x",
+        "lat": 42.034444444,
+        "lng": 45.211111111
     },
     {
         "wikidata_id": "Q853261",
         "name": "Jvari",
         "description": "town in the northwestern Georgia, province of Samegrelo-Zemo Svaneti",
-        "freebase_id": "/m/09btz6"
+        "freebase_id": "/m/09btz6",
+        "lat": 42.7175,
+        "lng": 42.050833333
     },
     {
         "wikidata_id": "Q217990",
         "name": "Tsnori",
         "description": "city in Georgia",
-        "freebase_id": "/m/03c1qwp"
+        "freebase_id": "/m/03c1qwp",
+        "lat": 41.6125,
+        "lng": 45.973611111
     },
     {
         "wikidata_id": "Q1010985",
         "name": "Tetritsqaro",
         "description": "city",
-        "freebase_id": "/m/0448kj"
+        "freebase_id": "/m/0448kj",
+        "lat": 41.543333333,
+        "lng": 44.461111111
     },
     {
         "wikidata_id": "Q42194",
         "name": "Novyy Afon",
         "description": "town in Georgia",
-        "freebase_id": "/m/0gt7rp"
+        "freebase_id": "/m/0gt7rp",
+        "lat": 43.087833333,
+        "lng": 40.812611111
     },
     {
         "wikidata_id": "Q474669",
         "name": "Sachkhere",
         "description": "City in Georgia",
-        "freebase_id": "/m/045k6z"
+        "freebase_id": "/m/045k6z",
+        "lat": 42.339722222,
+        "lng": 43.404722222
     }
 ]

@@ -3,3421 +3,4561 @@
         "wikidata_id": "Q3353547",
         "name": "Kolossi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02814j2"
+        "freebase_id": "/m/02814j2",
+        "lat": 34.67081,
+        "lng": 32.93387
     },
     {
         "wikidata_id": "Q4319691",
         "name": "Nikitari",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/03hlm0c"
+        "freebase_id": "/m/03hlm0c",
+        "lat": 35.09304674,
+        "lng": 33.00816187
     },
     {
         "wikidata_id": "Q1455222",
         "name": "Frenaros",
         "description": "community in Famagusta District, Republic of Cyprus",
-        "freebase_id": "/m/03cj9jt"
+        "freebase_id": "/m/03cj9jt",
+        "lat": 35.03972777,
+        "lng": 33.91964956
     },
     {
         "wikidata_id": "Q927576",
         "name": "Kalo Chorio",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064k6mn"
+        "freebase_id": "/m/064k6mn",
+        "lat": 34.92851644,
+        "lng": 33.53620399
     },
     {
         "wikidata_id": "Q733075",
         "name": "Koroveia",
         "description": "village",
-        "freebase_id": "/m/0660v62"
+        "freebase_id": "/m/0660v62",
+        "lat": 35.51105945,
+        "lng": 34.27432467
     },
     {
         "wikidata_id": "Q4692498",
         "name": "Agia Eirini Lefkosias",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n87f"
+        "freebase_id": "/m/064n87f",
+        "lat": 34.98112211,
+        "lng": 32.96925478
     },
     {
         "wikidata_id": "Q4692506",
         "name": "Agia Marina Xyliatou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n1yj"
+        "freebase_id": "/m/064n1yj",
+        "lat": 35.04859339,
+        "lng": 33.05718192
     },
     {
         "wikidata_id": "Q2070422",
         "name": "Tochni",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064q433"
+        "freebase_id": "/m/064q433",
+        "lat": 34.78096537,
+        "lng": 33.32357497
     },
     {
         "wikidata_id": "Q1307574",
         "name": "Tera",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06619w9"
+        "freebase_id": "/m/06619w9",
+        "lat": 34.96570796,
+        "lng": 32.42468966
     },
     {
         "wikidata_id": "Q3563343",
         "name": "Nisou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065z1xw"
+        "freebase_id": "/m/065z1xw",
+        "lat": 35.02196646,
+        "lng": 33.38975375
     },
     {
         "wikidata_id": "Q785372",
         "name": "Mora",
         "description": "human settlement",
-        "freebase_id": "/m/06615lv"
+        "freebase_id": "/m/06615lv",
+        "lat": 35.17490527,
+        "lng": 33.55035556
     },
     {
         "wikidata_id": "Q3561752",
         "name": "Simou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zrzz"
+        "freebase_id": "/m/065zrzz",
+        "lat": 34.94120687,
+        "lng": 32.50417075
     },
     {
         "wikidata_id": "Q935668",
         "name": "Saranti",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064prwk"
+        "freebase_id": "/m/064prwk",
+        "lat": 34.969113,
+        "lng": 32.9996236
     },
     {
         "wikidata_id": "Q2009604",
         "name": "Aradhippou",
         "description": "municipality of Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/03qjwrr"
+        "freebase_id": "/m/03qjwrr",
+        "lat": 34.94779146,
+        "lng": 33.58812756
     },
     {
         "wikidata_id": "Q1828011",
         "name": "Ergates",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064ltcf"
+        "freebase_id": "/m/064ltcf",
+        "lat": 35.05440377,
+        "lng": 33.24275133
     },
     {
         "wikidata_id": "Q370519",
         "name": "Zoopigi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yywx"
+        "freebase_id": "/m/065yywx",
+        "lat": 34.863055555,
+        "lng": 33.015
     },
     {
         "wikidata_id": "Q659542",
         "name": "Arminou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z95w"
+        "freebase_id": "/m/065z95w",
+        "lat": 34.86228665,
+        "lng": 32.71986934
     },
     {
         "wikidata_id": "Q1985470",
         "name": "Pissouri",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/069zkd"
+        "freebase_id": "/m/069zkd",
+        "lat": 34.666666666,
+        "lng": 32.7
     },
     {
         "wikidata_id": "Q1942703",
         "name": "Agia Varvara, Nicosia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064k0gn"
+        "freebase_id": "/m/064k0gn",
+        "lat": 34.99820207,
+        "lng": 33.3689328
     },
     {
         "wikidata_id": "Q3566171",
         "name": "Mammari",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064j_29"
+        "freebase_id": "/m/064j_29",
+        "lat": 35.17373968,
+        "lng": 33.20182861
     },
     {
         "wikidata_id": "Q389897",
         "name": "Choli",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z18m"
+        "freebase_id": "/m/065z18m",
+        "lat": 34.97978128,
+        "lng": 32.44329333
     },
     {
         "wikidata_id": "Q936411",
         "name": "Asgata",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zvb9"
+        "freebase_id": "/m/065zvb9",
+        "lat": 34.778611111,
+        "lng": 33.254722222
     },
     {
         "wikidata_id": "Q3557664",
         "name": "Galini",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047nnpw"
+        "freebase_id": "/m/047nnpw",
+        "lat": 35.1371783,
+        "lng": 32.76662247
     },
     {
         "wikidata_id": "Q691096",
         "name": "Moutoullas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/02p_c75"
+        "freebase_id": "/m/02p_c75",
+        "lat": 34.98328745,
+        "lng": 32.82465329
     },
     {
         "wikidata_id": "Q1308220",
         "name": "Kakopetria",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/027szzy"
+        "freebase_id": "/m/027szzy",
+        "lat": 34.98877968,
+        "lng": 32.90387438
     },
     {
         "wikidata_id": "Q930838",
         "name": "Kouklia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0b92_6"
+        "freebase_id": "/m/0b92_6",
+        "lat": 34.70986527,
+        "lng": 32.5733095
     },
     {
         "wikidata_id": "Q3557686",
         "name": "Lofou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_8_r"
+        "freebase_id": "/m/065_8_r",
+        "lat": 34.815833333,
+        "lng": 32.875277777
     },
     {
         "wikidata_id": "Q4176313",
         "name": "Bogazi",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065y92p"
+        "freebase_id": "/m/065y92p",
+        "lat": 35.31640674,
+        "lng": 33.95440507
     },
     {
         "wikidata_id": "Q3557602",
         "name": "Vouno",
         "description": "village in Cyprus",
-        "freebase_id": "/m/066112s"
+        "freebase_id": "/m/066112s",
+        "lat": 35.27071678,
+        "lng": 33.39366584
     },
     {
         "wikidata_id": "Q353925",
         "name": "Foini",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0cdfxk"
+        "freebase_id": "/m/0cdfxk",
+        "lat": 34.892647222,
+        "lng": 32.837183333
     },
     {
         "wikidata_id": "Q891613",
         "name": "Lythragkomi",
         "description": "human settlement",
-        "freebase_id": "/m/065_qcz"
+        "freebase_id": "/m/065_qcz",
+        "lat": 35.47562544,
+        "lng": 34.16849339
     },
     {
         "wikidata_id": "Q546060",
         "name": "Liopetri",
         "description": "community in Famagusta District, Republic of Cyprus",
-        "freebase_id": "/m/027xyx1"
+        "freebase_id": "/m/027xyx1",
+        "lat": 35.00837744,
+        "lng": 33.89299704
     },
     {
         "wikidata_id": "Q1632691",
         "name": "Potamia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0271ty2"
+        "freebase_id": "/m/0271ty2",
+        "lat": 35.04282361,
+        "lng": 33.44573953
     },
     {
         "wikidata_id": "Q582175",
         "name": "Peristerona",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/064qt7k"
+        "freebase_id": "/m/064qt7k",
+        "lat": 34.99047731,
+        "lng": 32.49007422
     },
     {
         "wikidata_id": "Q611494",
         "name": "Ayios Amvrosios",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064kk55"
+        "freebase_id": "/m/064kk55",
+        "lat": 34.781111111,
+        "lng": 32.826111111
     },
     {
         "wikidata_id": "Q3559631",
         "name": "Tsada",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/03nplc7"
+        "freebase_id": "/m/03nplc7",
+        "lat": 34.83862235,
+        "lng": 32.47499106
     },
     {
         "wikidata_id": "Q1382672",
         "name": "Evrychou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/03hknhp"
+        "freebase_id": "/m/03hknhp",
+        "lat": 35.04029937,
+        "lng": 32.90068412
     },
     {
         "wikidata_id": "Q521403",
         "name": "Alassa",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065y5ds"
+        "freebase_id": "/m/065y5ds",
+        "lat": 34.764166666,
+        "lng": 32.9275
     },
     {
         "wikidata_id": "Q843172",
         "name": "Prodromos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/04zws9"
+        "freebase_id": "/m/04zws9",
+        "lat": 34.948335,
+        "lng": 32.829653
     },
     {
         "wikidata_id": "Q3409988",
         "name": "Psimolofou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064lc3y"
+        "freebase_id": "/m/064lc3y",
+        "lat": 35.061482319,
+        "lng": 33.25987455
     },
     {
         "wikidata_id": "Q779408",
         "name": "Treis Elies",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/04cs8fx"
+        "freebase_id": "/m/04cs8fx",
+        "lat": 34.931944444,
+        "lng": 32.793333333
     },
     {
         "wikidata_id": "Q744626",
         "name": "Argaka",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06600r1"
+        "freebase_id": "/m/06600r1",
+        "lat": 35.06586319,
+        "lng": 32.49225585
     },
     {
         "wikidata_id": "Q3241528",
         "name": "Angolemi",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064nrqd"
+        "freebase_id": "/m/064nrqd",
+        "lat": 35.11792298,
+        "lng": 32.94803941
     },
     {
         "wikidata_id": "Q2333477",
         "name": "Stroumbi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/03qnsb5"
+        "freebase_id": "/m/03qnsb5",
+        "lat": 34.88783594,
+        "lng": 32.48134482
     },
     {
         "wikidata_id": "Q280124",
         "name": "Platanisteia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zlc2"
+        "freebase_id": "/m/065zlc2",
+        "lat": 34.711666666,
+        "lng": 32.710555555
     },
     {
         "wikidata_id": "Q3499503",
         "name": "Kyperounta",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/05z_ndq"
+        "freebase_id": "/m/05z_ndq",
+        "lat": 34.941388888,
+        "lng": 32.969166666
     },
     {
         "wikidata_id": "Q590477",
         "name": "Avdimou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02p_cb8"
+        "freebase_id": "/m/02p_cb8",
+        "lat": 34.694374,
+        "lng": 32.762781
     },
     {
         "wikidata_id": "Q815808",
         "name": "Belapais",
         "description": "village in Cyprus",
-        "freebase_id": "/m/0129sj"
+        "freebase_id": "/m/0129sj",
+        "lat": 35.30553052,
+        "lng": 33.35400864
     },
     {
         "wikidata_id": "Q784742",
         "name": "Kampi",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064mzsf"
+        "freebase_id": "/m/064mzsf",
+        "lat": 34.9082355,
+        "lng": 33.12898501
     },
     {
         "wikidata_id": "Q3556294",
         "name": "Agios Amvrosios Keryneias",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064lxhc"
+        "freebase_id": "/m/064lxhc",
+        "lat": 35.33949793,
+        "lng": 33.58271663
     },
     {
         "wikidata_id": "Q3556301",
         "name": "Acheritou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065xz9f"
+        "freebase_id": "/m/065xz9f",
+        "lat": 35.10058443,
+        "lng": 33.86131788
     },
     {
         "wikidata_id": "Q1805740",
         "name": "Lapathos",
         "description": "human settlement",
-        "freebase_id": "/m/0660m2j"
+        "freebase_id": "/m/0660m2j",
+        "lat": 35.26948805,
+        "lng": 33.82602603
     },
     {
         "wikidata_id": "Q3556469",
         "name": "Pyrogi",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047sdr_"
+        "freebase_id": "/m/047sdr_",
+        "lat": 35.07072625,
+        "lng": 33.48559959
     },
     {
         "wikidata_id": "Q3557592",
         "name": "Motides",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064kw54"
+        "freebase_id": "/m/064kw54",
+        "lat": 35.33446827,
+        "lng": 33.20763262
     },
     {
         "wikidata_id": "Q3561641",
         "name": "Pelendri",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065y5rs"
+        "freebase_id": "/m/065y5rs",
+        "lat": 34.895927,
+        "lng": 32.965094
     },
     {
         "wikidata_id": "Q957516",
         "name": "Agia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065zz5b"
+        "freebase_id": "/m/065zz5b",
+        "lat": 35.10919778,
+        "lng": 33.56419484
     },
     {
         "wikidata_id": "Q737847",
         "name": "Arnadi",
         "description": "village in Cyprus",
-        "freebase_id": "/m/0660033"
+        "freebase_id": "/m/0660033",
+        "lat": 35.23789473,
+        "lng": 33.85962152
     },
     {
         "wikidata_id": "Q73787",
         "name": "Zygi",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0fh55c"
+        "freebase_id": "/m/0fh55c",
+        "lat": 34.72886744,
+        "lng": 33.33778624
     },
     {
         "wikidata_id": "Q81490",
         "name": "Xylotymvou",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/08gm3t"
+        "freebase_id": "/m/08gm3t",
+        "lat": 35.01626695,
+        "lng": 33.74350398
     },
     {
         "wikidata_id": "Q687725",
         "name": "Kannavia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n7l3"
+        "freebase_id": "/m/064n7l3",
+        "lat": 34.98306942,
+        "lng": 32.97716783
     },
     {
         "wikidata_id": "Q591348",
         "name": "Apliki",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065y2sv"
+        "freebase_id": "/m/065y2sv",
+        "lat": 34.93074396,
+        "lng": 33.11754424
     },
     {
         "wikidata_id": "Q3561616",
         "name": "Mandres Lefkosias",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064qclx"
+        "freebase_id": "/m/064qclx",
+        "lat": 35.21904781,
+        "lng": 33.37773657
     },
     {
         "wikidata_id": "Q3563332",
         "name": "Gypsou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064kl95"
+        "freebase_id": "/m/064kl95",
+        "lat": 35.26093158,
+        "lng": 33.78617418
     },
     {
         "wikidata_id": "Q516882",
         "name": "Agios Mamas",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02qv6pw"
+        "freebase_id": "/m/02qv6pw",
+        "lat": 34.850277777,
+        "lng": 32.948055555
     },
     {
         "wikidata_id": "Q1805992",
         "name": "Larnakas Lapithou",
         "description": "human settlement in the Republic of Cyprus",
-        "freebase_id": "/m/064n9bv"
+        "freebase_id": "/m/064n9bv",
+        "lat": 35.30953046,
+        "lng": 33.13870922
     },
     {
         "wikidata_id": "Q735338",
         "name": "Kalo Chorio Soleas",
         "description": "human settlement in Cyprus",
-        "freebase_id": "/m/064lw5j"
+        "freebase_id": "/m/064lw5j",
+        "lat": 35.1155103,
+        "lng": 32.8768246
     },
     {
         "wikidata_id": "Q653279",
         "name": "Klavdia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065z_cl"
+        "freebase_id": "/m/065z_cl",
+        "lat": 34.89306917,
+        "lng": 33.51491393
     },
     {
         "wikidata_id": "Q4343821",
         "name": "Pano Panagia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/02z410t"
+        "freebase_id": "/m/02z410t",
+        "lat": 34.9195409,
+        "lng": 32.63154558
     },
     {
         "wikidata_id": "Q4420860",
         "name": "Syrianochori",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064knbh"
+        "freebase_id": "/m/064knbh",
+        "lat": 35.22482159,
+        "lng": 32.94053397
     },
     {
         "wikidata_id": "Q3557407",
         "name": "Pachna",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0c0s_0"
+        "freebase_id": "/m/0c0s_0",
+        "lat": 34.778434,
+        "lng": 32.793169
     },
     {
         "wikidata_id": "Q747896",
         "name": "Delikipos",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065_57x"
+        "freebase_id": "/m/065_57x",
+        "lat": 34.91772695,
+        "lng": 33.36179144
     },
     {
         "wikidata_id": "Q4692490",
         "name": "Agia Anna",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0660t_k"
+        "freebase_id": "/m/0660t_k",
+        "lat": 34.94292307,
+        "lng": 33.48075454
     },
     {
         "wikidata_id": "Q3560533",
         "name": "Avgorou",
         "description": "Municipal Quarter of Ayia Napa Municipality in Famagusta District, Republic of Cyprus",
-        "freebase_id": "/m/064lc7q"
+        "freebase_id": "/m/064lc7q",
+        "lat": 35.03655395,
+        "lng": 33.83998837
     },
     {
         "wikidata_id": "Q3843917",
         "name": "Malia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065ym0q"
+        "freebase_id": "/m/065ym0q",
+        "lat": 34.816388888,
+        "lng": 32.782777777
     },
     {
         "wikidata_id": "Q4692496",
         "name": "Agia Eirini Keryneias",
         "description": "village within the Kyrenia distrinct in Cyprus",
-        "freebase_id": "/m/064m6td"
+        "freebase_id": "/m/064m6td",
+        "lat": 35.29868462,
+        "lng": 32.96303694
     },
     {
         "wikidata_id": "Q738681",
         "name": "Dhrymou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_8x9"
+        "freebase_id": "/m/065_8x9",
+        "lat": 34.92545396,
+        "lng": 32.51344364
     },
     {
         "wikidata_id": "Q2853173",
         "name": "Tymvou",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/08l7hh"
+        "freebase_id": "/m/08l7hh",
+        "lat": 35.15,
+        "lng": 33.5
     },
     {
         "wikidata_id": "Q676170",
         "name": "Livadia Ammochostou",
         "description": "village in Northern Cyprus",
-        "freebase_id": "/m/065z7b3"
+        "freebase_id": "/m/065z7b3",
+        "lat": 35.39906931,
+        "lng": 34.02573843
     },
     {
         "wikidata_id": "Q81570",
         "name": "Ormideia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/08gm78"
+        "freebase_id": "/m/08gm78",
+        "lat": 34.99175733,
+        "lng": 33.77720595
     },
     {
         "wikidata_id": "Q3557909",
         "name": "Tremetousia",
         "description": "village in Larnaca District, Cyprus",
-        "freebase_id": "/m/065zbjh"
+        "freebase_id": "/m/065zbjh",
+        "lat": 35.08512478,
+        "lng": 33.60866225
     },
     {
         "wikidata_id": "Q733386",
         "name": "Sotira",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064q6wg"
+        "freebase_id": "/m/064q6wg",
+        "lat": 34.712222222,
+        "lng": 32.863055555
     },
     {
         "wikidata_id": "Q3907469",
         "name": "Politiko",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064pzhf"
+        "freebase_id": "/m/064pzhf",
+        "lat": 35.02861195,
+        "lng": 33.24196358
     },
     {
         "wikidata_id": "Q3563309",
         "name": "Pera Chorio",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064lq36"
+        "freebase_id": "/m/064lq36",
+        "lat": 35.01288097,
+        "lng": 33.3895846
     },
     {
         "wikidata_id": "Q3559988",
         "name": "Trachonas",
         "description": "suburb of Nicosia",
-        "freebase_id": "/m/064mhtm"
+        "freebase_id": "/m/064mhtm",
+        "lat": 35.20914281,
+        "lng": 33.34964848
     },
     {
         "wikidata_id": "Q984814",
         "name": "Pedoulas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/066125v"
+        "freebase_id": "/m/066125v",
+        "lat": 34.96702173,
+        "lng": 32.82923746
     },
     {
         "wikidata_id": "Q353854",
         "name": "Agros",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/03d3plx"
+        "freebase_id": "/m/03d3plx",
+        "lat": 34.916666666,
+        "lng": 33.016666666
     },
     {
         "wikidata_id": "Q3559692",
         "name": "Giolou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yw7d"
+        "freebase_id": "/m/065yw7d",
+        "lat": 34.92415941,
+        "lng": 32.47469459
     },
     {
         "wikidata_id": "Q3557616",
         "name": "Kato Platres",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0r3s561"
+        "freebase_id": "/m/0r3s561",
+        "lat": 34.879444444,
+        "lng": 32.841388888
     },
     {
         "wikidata_id": "Q672215",
         "name": "Klirou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064k0c6"
+        "freebase_id": "/m/064k0c6",
+        "lat": 35.02132438,
+        "lng": 33.17787089
     },
     {
         "wikidata_id": "Q827206",
         "name": "Alampra",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064m_b9"
+        "freebase_id": "/m/064m_b9",
+        "lat": 34.9933756,
+        "lng": 33.4017207
     },
     {
         "wikidata_id": "Q1968566",
         "name": "Pyla",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/08glvs"
+        "freebase_id": "/m/08glvs",
+        "lat": 35.00468965,
+        "lng": 33.68907006
     },
     {
         "wikidata_id": "Q2333522",
         "name": "Asomatos Keryneias",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064k568"
+        "freebase_id": "/m/064k568",
+        "lat": 35.27758343,
+        "lng": 33.10582196
     },
     {
         "wikidata_id": "Q2699026",
         "name": "Omodos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0cdfwj"
+        "freebase_id": "/m/0cdfwj",
+        "lat": 34.848231,
+        "lng": 32.808419
     },
     {
         "wikidata_id": "Q4301544",
         "name": "Chrysoroyiatissa Monastery",
         "description": "No description available",
-        "freebase_id": "/m/027ytgw"
+        "freebase_id": "/m/027ytgw",
+        "lat": 34.920833333,
+        "lng": 32.5
     },
     {
         "wikidata_id": "Q603018",
         "name": "Lageia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/06609br"
+        "freebase_id": "/m/06609br",
+        "lat": 34.84292594,
+        "lng": 33.24674241
     },
     {
         "wikidata_id": "Q3646772",
         "name": "Akaki",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/03npqjq"
+        "freebase_id": "/m/03npqjq",
+        "lat": 35.1358463,
+        "lng": 33.13025834
     },
     {
         "wikidata_id": "Q3559623",
         "name": "Maroni",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064r66y"
+        "freebase_id": "/m/064r66y",
+        "lat": 34.75758343,
+        "lng": 33.35664237
     },
     {
         "wikidata_id": "Q1722060",
         "name": "Kalavasos",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0661n_w"
+        "freebase_id": "/m/0661n_w",
+        "lat": 34.75840102,
+        "lng": 33.30798153
     },
     {
         "wikidata_id": "Q3557700",
         "name": "Palaiometocho",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0942x0"
+        "freebase_id": "/m/0942x0",
+        "lat": 35.12492176,
+        "lng": 33.1909389
     },
     {
         "wikidata_id": "Q650962",
         "name": "Goudi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_vbj"
+        "freebase_id": "/m/065_vbj",
+        "lat": 34.99217059,
+        "lng": 32.44196969
     },
     {
         "wikidata_id": "Q4817755",
         "name": "Ayia Marina Chrysochous",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/064q1y9"
+        "freebase_id": "/m/064q1y9",
+        "lat": 35.12037822,
+        "lng": 32.51370918
     },
     {
         "wikidata_id": "Q4818326",
         "name": "Ayia Marinoudha",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y0k7"
+        "freebase_id": "/m/065y0k7",
+        "lat": 34.75979959,
+        "lng": 32.4759155
     },
     {
         "wikidata_id": "Q4818374",
         "name": "Ayia Marina Kelokedharon",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/064jz5r"
+        "freebase_id": "/m/064jz5r",
+        "lat": 34.8287066,
+        "lng": 32.61436583
     },
     {
         "wikidata_id": "Q4818441",
         "name": "Kelokedhara",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660xsl"
+        "freebase_id": "/m/0660xsl",
+        "lat": 34.81242035,
+        "lng": 32.65156109
     },
     {
         "wikidata_id": "Q4818301",
         "name": "Kato Koutrafas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660_tw"
+        "freebase_id": "/m/0660_tw",
+        "lat": 35.10287825,
+        "lng": 32.977491
     },
     {
         "wikidata_id": "Q4783805",
         "name": "Arakapas",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_ksv"
+        "freebase_id": "/m/065_ksv",
+        "lat": 34.844166666,
+        "lng": 33.112777777
     },
     {
         "wikidata_id": "Q4831311",
         "name": "Ayios Yeoryios",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064ql67"
+        "freebase_id": "/m/064ql67",
+        "lat": 34.815,
+        "lng": 32.898611111
     },
     {
         "wikidata_id": "Q4827920",
         "name": "Avdellero",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0660j50"
+        "freebase_id": "/m/0660j50",
+        "lat": 35.00993447,
+        "lng": 33.5698433
     },
     {
         "wikidata_id": "Q5383507",
         "name": "Episkopi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/05b0d1y"
+        "freebase_id": "/m/05b0d1y",
+        "lat": 34.79584622,
+        "lng": 32.52638144
     },
     {
         "wikidata_id": "Q4831284",
         "name": "Agios Dimitrianos",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zrff"
+        "freebase_id": "/m/065zrff",
+        "lat": 34.90680329,
+        "lng": 32.55051299
     },
     {
         "wikidata_id": "Q4817655",
         "name": "Pentageia",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064ns4v"
+        "freebase_id": "/m/064ns4v",
+        "lat": 35.15331593,
+        "lng": 32.88408056
     },
     {
         "wikidata_id": "Q4817733",
         "name": "Kazivera",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064qp6h"
+        "freebase_id": "/m/064qp6h",
+        "lat": 35.17225157,
+        "lng": 32.91534016
     },
     {
         "wikidata_id": "Q4817977",
         "name": "Prastio Lefkosias",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064qvt9"
+        "freebase_id": "/m/064qvt9",
+        "lat": 35.17582249,
+        "lng": 32.93945792
     },
     {
         "wikidata_id": "Q4830720",
         "name": "Axylou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y1wr"
+        "freebase_id": "/m/065y1wr",
+        "lat": 34.80633594,
+        "lng": 32.56436188
     },
     {
         "wikidata_id": "Q4831298",
         "name": "Agios Nikolaos",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z5p5"
+        "freebase_id": "/m/065z5p5",
+        "lat": 34.86200755,
+        "lng": 32.75354812
     },
     {
         "wikidata_id": "Q4816753",
         "name": "Pileri",
         "description": "village of TRNC",
-        "freebase_id": "/m/064nq17"
+        "freebase_id": "/m/064nq17",
+        "lat": 35.29135155,
+        "lng": 33.21703134
     },
     {
         "wikidata_id": "Q4773823",
         "name": "Anthoupolis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/06zp85"
+        "freebase_id": "/m/06zp85",
+        "lat": 35.10429245,
+        "lng": 33.2897874
     },
     {
         "wikidata_id": "Q4831305",
         "name": "Ayios Theodhoros",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064k308"
+        "freebase_id": "/m/064k308",
+        "lat": 34.893889,
+        "lng": 33.0325
     },
     {
         "wikidata_id": "Q4769871",
         "name": "Anogyra",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_702"
+        "freebase_id": "/m/065_702",
+        "lat": 34.737777777,
+        "lng": 32.733888888
     },
     {
         "wikidata_id": "Q4831288",
         "name": "Ayios Ioannis",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zyrl"
+        "freebase_id": "/m/065zyrl",
+        "lat": 34.895555555,
+        "lng": 33.020555555
     },
     {
         "wikidata_id": "Q4796610",
         "name": "Arsos, Larnaca",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047pzvf"
+        "freebase_id": "/m/047pzvf",
+        "lat": 35.09007134,
+        "lng": 33.62812866
     },
     {
         "wikidata_id": "Q4779398",
         "name": "Apesia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660k6c"
+        "freebase_id": "/m/0660k6c",
+        "lat": 34.789722222,
+        "lng": 32.978055555
     },
     {
         "wikidata_id": "Q4789186",
         "name": "Argaki",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047pcjx"
+        "freebase_id": "/m/047pcjx",
+        "lat": 35.20479446,
+        "lng": 33.0342227
     },
     {
         "wikidata_id": "Q4831312",
         "name": "Ayios Yeoryios",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/064l9sy"
+        "freebase_id": "/m/064l9sy",
+        "lat": 34.7786559,
+        "lng": 32.65218247
     },
     {
         "wikidata_id": "Q4818096",
         "name": "Agia Varvara",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/064lm2r"
+        "freebase_id": "/m/064lm2r",
+        "lat": 34.75073409,
+        "lng": 32.51159349
     },
     {
         "wikidata_id": "Q4831282",
         "name": "Ayios Dhimitrios",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zj0h"
+        "freebase_id": "/m/065zj0h",
+        "lat": 34.925555555,
+        "lng": 32.809166666
     },
     {
         "wikidata_id": "Q4831306",
         "name": "Ayios Therapon",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/06611cc"
+        "freebase_id": "/m/06611cc",
+        "lat": 34.798333333,
+        "lng": 32.839722222
     },
     {
         "wikidata_id": "Q4831310",
         "name": "Ayios Tykhonas",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065__6l"
+        "freebase_id": "/m/065__6l",
+        "lat": 34.726213,
+        "lng": 33.14082
     },
     {
         "wikidata_id": "Q4831309",
         "name": "Ayios Thomas",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zf9j"
+        "freebase_id": "/m/065zf9j",
+        "lat": 34.716111111,
+        "lng": 32.724722222
     },
     {
         "wikidata_id": "Q5389081",
         "name": "Erimi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02q5vg_"
+        "freebase_id": "/m/02q5vg_",
+        "lat": 34.683333333,
+        "lng": 32.916666666
     },
     {
         "wikidata_id": "Q6723383",
         "name": "Machairas Monastery",
         "description": "12th-century monastery in Cyprus",
-        "freebase_id": "/m/026_6fl"
+        "freebase_id": "/m/026_6fl",
+        "lat": 34.9406,
+        "lng": 33.1909
     },
     {
         "wikidata_id": "Q4817747",
         "name": "Elia Lefkosias",
         "description": "settlement in Cyprus",
-        "freebase_id": "/m/064q8gb"
+        "freebase_id": "/m/064q8gb",
+        "lat": 35.13518149,
+        "lng": 32.91446938
     },
     {
         "wikidata_id": "Q5319240",
         "name": "Dyo Potamoi",
         "description": "hamlet in Northern Cyprus",
-        "freebase_id": "/m/05pc0pc"
+        "freebase_id": "/m/05pc0pc",
+        "lat": 35.24488385,
+        "lng": 33.08660623
     },
     {
         "wikidata_id": "Q4782190",
         "name": "Apsiou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_y4y"
+        "freebase_id": "/m/065_y4y",
+        "lat": 34.7975,
+        "lng": 33.016944444
     },
     {
         "wikidata_id": "Q4831290",
         "name": "Agios Ioannis",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06615z5"
+        "freebase_id": "/m/06615z5",
+        "lat": 34.86953371,
+        "lng": 32.69120343
     },
     {
         "wikidata_id": "Q4825760",
         "name": "Monarga",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/06617_h"
+        "freebase_id": "/m/06617_h",
+        "lat": 35.31598549,
+        "lng": 33.94418314
     },
     {
         "wikidata_id": "Q4825770",
         "name": "Louroukina",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/06h1r5"
+        "freebase_id": "/m/06h1r5",
+        "lat": 35.01182,
+        "lng": 33.46437
     },
     {
         "wikidata_id": "Q5384035",
         "name": "Eptagoneia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_mbp"
+        "freebase_id": "/m/065_mbp",
+        "lat": 34.846944444,
+        "lng": 33.1575
     },
     {
         "wikidata_id": "Q4817691",
         "name": "Kyra",
         "description": "town in Cyprus",
-        "freebase_id": "/m/064p0c_"
+        "freebase_id": "/m/064p0c_",
+        "lat": 35.20334297,
+        "lng": 33.06087672
     },
     {
         "wikidata_id": "Q4808272",
         "name": "Myrtou",
         "description": "place in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064qh29"
+        "freebase_id": "/m/064qh29",
+        "lat": 35.30771777,
+        "lng": 33.0736708
     },
     {
         "wikidata_id": "Q4779947",
         "name": "Aplanta",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0660y5n"
+        "freebase_id": "/m/0660y5n",
+        "lat": 34.82962465,
+        "lng": 33.47550347
     },
     {
         "wikidata_id": "Q4807166",
         "name": "Askeia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065yhfv"
+        "freebase_id": "/m/065yhfv",
+        "lat": 35.15891999,
+        "lng": 33.60837236
     },
     {
         "wikidata_id": "Q5102908",
         "name": "Chloraka",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660880"
+        "freebase_id": "/m/0660880",
+        "lat": 34.7983603,
+        "lng": 32.40652909
     },
     {
         "wikidata_id": "Q4818415",
         "name": "Pomos",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zkpf"
+        "freebase_id": "/m/065zkpf",
+        "lat": 35.16037111,
+        "lng": 32.54574405
     },
     {
         "wikidata_id": "Q4816800",
         "name": "Flamoudi",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_2nd"
+        "freebase_id": "/m/065_2nd",
+        "lat": 35.39703328,
+        "lng": 33.85766334
     },
     {
         "wikidata_id": "Q4809508",
         "name": "Nikitas",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064k88z"
+        "freebase_id": "/m/064k88z",
+        "lat": 35.17540925,
+        "lng": 32.95722227
     },
     {
         "wikidata_id": "Q5274991",
         "name": "Dierona",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_p4s"
+        "freebase_id": "/m/065_p4s",
+        "lat": 34.830277777,
+        "lng": 33.111111111
     },
     {
         "wikidata_id": "Q4797450",
         "name": "Artemi",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_2v7"
+        "freebase_id": "/m/065_2v7",
+        "lat": 35.31989249,
+        "lng": 33.71044375
     },
     {
         "wikidata_id": "Q5383502",
         "name": "Episkopeio",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064jtrf"
+        "freebase_id": "/m/064jtrf",
+        "lat": 35.04169325,
+        "lng": 33.24441252
     },
     {
         "wikidata_id": "Q5382571",
         "name": "Epicho",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/047rgr9"
+        "freebase_id": "/m/047rgr9",
+        "lat": 35.22635973,
+        "lng": 33.51337811
     },
     {
         "wikidata_id": "Q4761995",
         "name": "Angastina",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065zvrc"
+        "freebase_id": "/m/065zvrc",
+        "lat": 35.20368445,
+        "lng": 33.58778373
     },
     {
         "wikidata_id": "Q4788730",
         "name": "Arediou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064nb3t"
+        "freebase_id": "/m/064nb3t",
+        "lat": 35.04832591,
+        "lng": 33.19605944
     },
     {
         "wikidata_id": "Q5369408",
         "name": "Emba",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/025rpmw"
+        "freebase_id": "/m/025rpmw",
+        "lat": 34.80700226,
+        "lng": 32.42405971
     },
     {
         "wikidata_id": "Q4817645",
         "name": "Zacharia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_0zx"
+        "freebase_id": "/m/065_0zx",
+        "lat": 34.98176596,
+        "lng": 32.54329851
     },
     {
         "wikidata_id": "Q4796609",
         "name": "Arsos, Limassol",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064qkv6"
+        "freebase_id": "/m/064qkv6",
+        "lat": 34.840555555,
+        "lng": 32.769166666
     },
     {
         "wikidata_id": "Q4831291",
         "name": "Agios Isidoros",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0661bvg"
+        "freebase_id": "/m/0661bvg",
+        "lat": 35.00521259,
+        "lng": 32.47139785
     },
     {
         "wikidata_id": "Q4791988",
         "name": "Pano Archimandrita",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_13c"
+        "freebase_id": "/m/065_13c",
+        "lat": 34.75094356,
+        "lng": 32.67811629
     },
     {
         "wikidata_id": "Q4763572",
         "name": "Anglisides",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065yjdh"
+        "freebase_id": "/m/065yjdh",
+        "lat": 34.85495174,
+        "lng": 33.45635447
     },
     {
         "wikidata_id": "Q4818086",
         "name": "Masari",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/065_myy"
+        "freebase_id": "/m/065_myy",
+        "lat": 35.18661418,
+        "lng": 33.07792093
     },
     {
         "wikidata_id": "Q4816906",
         "name": "Avgolida",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065y5wk"
+        "freebase_id": "/m/065y5wk",
+        "lat": 35.35526469,
+        "lng": 33.96259971
     },
     {
         "wikidata_id": "Q4818007",
         "name": "Agios Andronikos Trikomou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064pr3v"
+        "freebase_id": "/m/064pr3v",
+        "lat": 35.33905078,
+        "lng": 33.87262986
     },
     {
         "wikidata_id": "Q4818103",
         "name": "Fyllia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064qv_6"
+        "freebase_id": "/m/064qv_6",
+        "lat": 35.18864843,
+        "lng": 33.09268381
     },
     {
         "wikidata_id": "Q4818913",
         "name": "Diorios",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064mvwq"
+        "freebase_id": "/m/064mvwq",
+        "lat": 35.30715072,
+        "lng": 33.02580435
     },
     {
         "wikidata_id": "Q4818032",
         "name": "Loutros",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064mfpx"
+        "freebase_id": "/m/064mfpx",
+        "lat": 35.15908591,
+        "lng": 32.76331096
     },
     {
         "wikidata_id": "Q4831300",
         "name": "Ayios Pavlos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065ztw5"
+        "freebase_id": "/m/065ztw5",
+        "lat": 34.863869,
+        "lng": 33.046423
     },
     {
         "wikidata_id": "Q5071493",
         "name": "Chandria",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02vr2q6"
+        "freebase_id": "/m/02vr2q6",
+        "lat": 34.942777777,
+        "lng": 32.994444444
     },
     {
         "wikidata_id": "Q5074568",
         "name": "Charkeia",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/06601xw"
+        "freebase_id": "/m/06601xw",
+        "lat": 35.31896023,
+        "lng": 33.55391498
     },
     {
         "wikidata_id": "Q5256884",
         "name": "Deneia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065zv4t"
+        "freebase_id": "/m/065zv4t",
+        "lat": 35.16677724,
+        "lng": 33.14639705
     },
     {
         "wikidata_id": "Q4818481",
         "name": "Galateia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064kq3k"
+        "freebase_id": "/m/064kq3k",
+        "lat": 35.42306037,
+        "lng": 34.07086947
     },
     {
         "wikidata_id": "Q4751714",
         "name": "Anarita",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065ylxy"
+        "freebase_id": "/m/065ylxy",
+        "lat": 34.74056648,
+        "lng": 32.53375161
     },
     {
         "wikidata_id": "Q4807589",
         "name": "Asomatos, Limassol",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064p9wc"
+        "freebase_id": "/m/064p9wc",
+        "lat": 34.637222222,
+        "lng": 32.96
     },
     {
         "wikidata_id": "Q5318845",
         "name": "Dymes",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yblg"
+        "freebase_id": "/m/065yblg",
+        "lat": 34.916666666,
+        "lng": 32.983333333
     },
     {
         "wikidata_id": "Q4831295",
         "name": "Ayios Konstantinos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660mxn"
+        "freebase_id": "/m/0660mxn",
+        "lat": 34.867222222,
+        "lng": 33.066111111
     },
     {
         "wikidata_id": "Q5104086",
         "name": "Choirokoitia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0660brf"
+        "freebase_id": "/m/0660brf",
+        "lat": 34.79746597,
+        "lng": 33.33519526
     },
     {
         "wikidata_id": "Q4816718",
         "name": "Kalyvakia",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/064mn9b"
+        "freebase_id": "/m/064mn9b",
+        "lat": 35.25776916,
+        "lng": 33.54892162
     },
     {
         "wikidata_id": "Q4818026",
         "name": "Kapouti",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/064pn7m"
+        "freebase_id": "/m/064pn7m",
+        "lat": 35.24442374,
+        "lng": 33.03998369
     },
     {
         "wikidata_id": "Q4779487",
         "name": "Afanteia-Ornithi",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065z75n"
+        "freebase_id": "/m/065z75n",
+        "lat": 35.15822317,
+        "lng": 33.5824049
     },
     {
         "wikidata_id": "Q5358599",
         "name": "Eledhio",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yfdw"
+        "freebase_id": "/m/065yfdw",
+        "lat": 34.80947853,
+        "lng": 32.56755344
     },
     {
         "wikidata_id": "Q4831250",
         "name": "Agia Marina Skyllouras",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064q68x"
+        "freebase_id": "/m/064q68x",
+        "lat": 35.23031785,
+        "lng": 33.12556059
     },
     {
         "wikidata_id": "Q4831292",
         "name": "Agios Chariton",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065zpyz"
+        "freebase_id": "/m/065zpyz",
+        "lat": 35.30511286,
+        "lng": 33.60426
     },
     {
         "wikidata_id": "Q4831297",
         "name": "Agios Nikolaos Ammochostou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065yj03"
+        "freebase_id": "/m/065yj03",
+        "lat": 35.32942453,
+        "lng": 33.67663042
     },
     {
         "wikidata_id": "Q4759475",
         "name": "Androlykou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065__2t"
+        "freebase_id": "/m/065__2t",
+        "lat": 34.99861869,
+        "lng": 32.3817362
     },
     {
         "wikidata_id": "Q4808229",
         "name": "Asproyia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zd9x"
+        "freebase_id": "/m/065zd9x",
+        "lat": 34.92227691,
+        "lng": 32.6146777
     },
     {
         "wikidata_id": "Q4831304",
         "name": "Agios Sergios",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047pyj4"
+        "freebase_id": "/m/047pyj4",
+        "lat": 35.19570572,
+        "lng": 33.87585511
     },
     {
         "wikidata_id": "Q4793771",
         "name": "Armou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_l6l"
+        "freebase_id": "/m/065_l6l",
+        "lat": 34.79939307,
+        "lng": 32.47850842
     },
     {
         "wikidata_id": "Q4807149",
         "name": "Askas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/08j9lc"
+        "freebase_id": "/m/08j9lc",
+        "lat": 34.92974302,
+        "lng": 33.0782997
     },
     {
         "wikidata_id": "Q4816809",
         "name": "Süleyman Demirel",
         "description": "place in Istanbul district in france",
-        "freebase_id": "/m/065zvyx"
+        "freebase_id": "/m/065zvyx",
+        "lat": 35.25532855,
+        "lng": 33.60155247
     },
     {
         "wikidata_id": "Q5360360",
         "name": "Elia Keryneias",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064k2sq"
+        "freebase_id": "/m/064k2sq",
+        "lat": 35.33826482,
+        "lng": 33.21726881
     },
     {
         "wikidata_id": "Q4810069",
         "name": "Peristerona Lefkosias",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/02pw_9h"
+        "freebase_id": "/m/02pw_9h",
+        "lat": 35.13049586,
+        "lng": 33.0793349
     },
     {
         "wikidata_id": "Q4811597",
         "name": "Astromeritis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/02q5vzt"
+        "freebase_id": "/m/02q5vzt",
+        "lat": 35.13979174,
+        "lng": 33.03720131
     },
     {
         "wikidata_id": "Q4818039",
         "name": "Avlona",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047v49n"
+        "freebase_id": "/m/047v49n",
+        "lat": 35.16195326,
+        "lng": 33.10576438
     },
     {
         "wikidata_id": "Q5297375",
         "name": "Dora",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065__wx"
+        "freebase_id": "/m/065__wx",
+        "lat": 34.780555555,
+        "lng": 32.738055555
     },
     {
         "wikidata_id": "Q5269806",
         "name": "Dhrousha",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_hmr"
+        "freebase_id": "/m/065_hmr",
+        "lat": 34.96111249,
+        "lng": 32.39764783
     },
     {
         "wikidata_id": "Q5383505",
         "name": "Episkopi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/05b3vgx"
+        "freebase_id": "/m/05b3vgx",
+        "lat": 34.670833333,
+        "lng": 32.901944444
     },
     {
         "wikidata_id": "Q4818121",
         "name": "Petra",
         "description": "settlement in Cyprus",
-        "freebase_id": "/m/064j__5"
+        "freebase_id": "/m/064j__5",
+        "lat": 35.10926682,
+        "lng": 32.9074562
     },
     {
         "wikidata_id": "Q4809519",
         "name": "Peristeronari",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064qhzq"
+        "freebase_id": "/m/064qhzq",
+        "lat": 35.13328824,
+        "lng": 32.86407874
     },
     {
         "wikidata_id": "Q5267024",
         "name": "Goufes",
         "description": "village in the Farmagusta District of Cyprus",
-        "freebase_id": "/m/06613fr"
+        "freebase_id": "/m/06613fr",
+        "lat": 35.28294944,
+        "lng": 33.6879503
     },
     {
         "wikidata_id": "Q6689879",
         "name": "Louvaras",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0cdfpp"
+        "freebase_id": "/m/0cdfpp",
+        "lat": 34.836884,
+        "lng": 33.040971
     },
     {
         "wikidata_id": "Q6422949",
         "name": "Knodara",
         "description": "village",
-        "freebase_id": "/m/065z451"
+        "freebase_id": "/m/065z451",
+        "lat": 35.26491918,
+        "lng": 33.66055771
     },
     {
         "wikidata_id": "Q6732397",
         "name": "Magounda",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yhjl"
+        "freebase_id": "/m/065yhjl",
+        "lat": 35.0505324,
+        "lng": 32.48560089
     },
     {
         "wikidata_id": "Q6488239",
         "name": "Lapithiou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z9vv"
+        "freebase_id": "/m/065z9vv",
+        "lat": 34.90483851,
+        "lng": 32.59647443
     },
     {
         "wikidata_id": "Q6549752",
         "name": "Limnia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065_lt4"
+        "freebase_id": "/m/065_lt4",
+        "lat": 35.20032686,
+        "lng": 33.85896143
     },
     {
         "wikidata_id": "Q6432453",
         "name": "Kornos",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064pd10"
+        "freebase_id": "/m/064pd10",
+        "lat": 34.92221349,
+        "lng": 33.39586623
     },
     {
         "wikidata_id": "Q6417285",
         "name": "Kissonerga",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06prs5"
+        "freebase_id": "/m/06prs5",
+        "lat": 34.8227889,
+        "lng": 32.40130829
     },
     {
         "wikidata_id": "Q6375067",
         "name": "Kataliontas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_g03"
+        "freebase_id": "/m/065_g03",
+        "lat": 34.99339868,
+        "lng": 33.30777082
     },
     {
         "wikidata_id": "Q6745952",
         "name": "Mamountali",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zmgv"
+        "freebase_id": "/m/065zmgv",
+        "lat": 34.91403287,
+        "lng": 32.60226545
     },
     {
         "wikidata_id": "Q6689616",
         "name": "Loukrounou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660nl9"
+        "freebase_id": "/m/0660nl9",
+        "lat": 34.95144416,
+        "lng": 32.46360565
     },
     {
         "wikidata_id": "Q6432203",
         "name": "Korfi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yj47"
+        "freebase_id": "/m/065yj47",
+        "lat": 34.795277777,
+        "lng": 32.964722222
     },
     {
         "wikidata_id": "Q6358153",
         "name": "Kaminaria",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/06609nq"
+        "freebase_id": "/m/06609nq",
+        "lat": 34.928611111,
+        "lng": 32.783888888
     },
     {
         "wikidata_id": "Q6431377",
         "name": "Korakou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_rvc"
+        "freebase_id": "/m/065_rvc",
+        "lat": 35.04106028,
+        "lng": 32.88446741
     },
     {
         "wikidata_id": "Q5516999",
         "name": "Gaidouras",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_zn0"
+        "freebase_id": "/m/065_zn0",
+        "lat": 35.1671566,
+        "lng": 33.78876254
     },
     {
         "wikidata_id": "Q6430335",
         "name": "Kontemenos",
         "description": "village in Cyrpus",
-        "freebase_id": "/m/064mwxp"
+        "freebase_id": "/m/064mwxp",
+        "lat": 35.26930376,
+        "lng": 33.12622847
     },
     {
         "wikidata_id": "Q6359346",
         "name": "Kampos",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064myh_"
+        "freebase_id": "/m/064myh_",
+        "lat": 35.03983988,
+        "lng": 32.73335524
     },
     {
         "wikidata_id": "Q6377739",
         "name": "Kato Drys",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/02q32zc"
+        "freebase_id": "/m/02q32zc",
+        "lat": 34.85113976,
+        "lng": 33.30432351
     },
     {
         "wikidata_id": "Q6359553",
         "name": "Kampyli",
         "description": "place in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064k9_w"
+        "freebase_id": "/m/064k9_w",
+        "lat": 35.30169888,
+        "lng": 33.10782165
     },
     {
         "wikidata_id": "Q6385783",
         "name": "Kellia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065yrmv"
+        "freebase_id": "/m/065yrmv",
+        "lat": 34.97611372,
+        "lng": 33.6232469
     },
     {
         "wikidata_id": "Q6434250",
         "name": "Kotsiatis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064qf09"
+        "freebase_id": "/m/064qf09",
+        "lat": 35.01286512,
+        "lng": 33.35010458
     },
     {
         "wikidata_id": "Q6402111",
         "name": "Kholetria",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065xyld"
+        "freebase_id": "/m/065xyld",
+        "lat": 34.76322661,
+        "lng": 32.59880006
     },
     {
         "wikidata_id": "Q6402638",
         "name": "Khoulou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y_q3"
+        "freebase_id": "/m/065y_q3",
+        "lat": 34.87159784,
+        "lng": 32.55782929
     },
     {
         "wikidata_id": "Q6745914",
         "name": "Mamonia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yj1v"
+        "freebase_id": "/m/065yj1v",
+        "lat": 34.76969084,
+        "lng": 32.63718322
     },
     {
         "wikidata_id": "Q6434729",
         "name": "Kourtaka",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_c9v"
+        "freebase_id": "/m/065_c9v",
+        "lat": 34.85849994,
+        "lng": 32.54052602
     },
     {
         "wikidata_id": "Q6377735",
         "name": "Amiantos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065z4d8"
+        "freebase_id": "/m/065z4d8",
+        "lat": 34.916944444,
+        "lng": 32.935833333
     },
     {
         "wikidata_id": "Q6377749",
         "name": "Kato Mylos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660dzy"
+        "freebase_id": "/m/0660dzy",
+        "lat": 34.895,
+        "lng": 33.005555555
     },
     {
         "wikidata_id": "Q6430330",
         "name": "Kontea",
         "description": "village",
-        "freebase_id": "/m/065yl_p"
+        "freebase_id": "/m/065yl_p",
+        "lat": 35.10290943,
+        "lng": 33.71583507
     },
     {
         "wikidata_id": "Q5436840",
         "name": "Fasoula, Limassol",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660q00"
+        "freebase_id": "/m/0660q00",
+        "lat": 34.761666666,
+        "lng": 33.026944444
     },
     {
         "wikidata_id": "Q6385632",
         "name": "Kellaki",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/06611_n"
+        "freebase_id": "/m/06611_n",
+        "lat": 34.816111111,
+        "lng": 33.158333333
     },
     {
         "wikidata_id": "Q6554762",
         "name": "Linou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065zpcb"
+        "freebase_id": "/m/065zpcb",
+        "lat": 35.07445985,
+        "lng": 32.89336757
     },
     {
         "wikidata_id": "Q6364013",
         "name": "Kannaviou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660jdl"
+        "freebase_id": "/m/0660jdl",
+        "lat": 34.916246,
+        "lng": 32.5754238
     },
     {
         "wikidata_id": "Q6708289",
         "name": "Lympia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/02pwzsn"
+        "freebase_id": "/m/02pwzsn",
+        "lat": 34.983333333,
+        "lng": 33.45
     },
     {
         "wikidata_id": "Q6406987",
         "name": "Kilinia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zryy"
+        "freebase_id": "/m/065zryy",
+        "lat": 34.88352119,
+        "lng": 32.63170032
     },
     {
         "wikidata_id": "Q6377736",
         "name": "Kato Akourdhalia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yp5g"
+        "freebase_id": "/m/065yp5g",
+        "lat": 34.95267941,
+        "lng": 32.45120852
     },
     {
         "wikidata_id": "Q6438582",
         "name": "Kritou Terra",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z8x7"
+        "freebase_id": "/m/065z8x7",
+        "lat": 34.9554945,
+        "lng": 32.42196344
     },
     {
         "wikidata_id": "Q6434528",
         "name": "Kouka",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065y5jk"
+        "freebase_id": "/m/065y5jk",
+        "lat": 34.850555555,
+        "lng": 32.886944444
     },
     {
         "wikidata_id": "Q6377748",
         "name": "Kato Moni",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065ylbq"
+        "freebase_id": "/m/065ylbq",
+        "lat": 35.06157677,
+        "lng": 33.09223427
     },
     {
         "wikidata_id": "Q6740070",
         "name": "Makrasyka",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_gbv"
+        "freebase_id": "/m/065_gbv",
+        "lat": 35.07445537,
+        "lng": 33.76151756
     },
     {
         "wikidata_id": "Q6378557",
         "name": "Katydata",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660s_7"
+        "freebase_id": "/m/0660s_7",
+        "lat": 35.08390151,
+        "lng": 32.8877251
     },
     {
         "wikidata_id": "Q5530872",
         "name": "Genagra",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065_1m5"
+        "freebase_id": "/m/065_1m5",
+        "lat": 35.21744867,
+        "lng": 33.69851004
     },
     {
         "wikidata_id": "Q6521167",
         "name": "Lemithou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yts7"
+        "freebase_id": "/m/065yts7",
+        "lat": 34.949166666,
+        "lng": 32.811388888
     },
     {
         "wikidata_id": "Q6434716",
         "name": "Kourou Monastiri",
         "description": "village",
-        "freebase_id": "/m/0660mmq"
+        "freebase_id": "/m/0660mmq",
+        "lat": 35.22438994,
+        "lng": 33.55479775
     },
     {
         "wikidata_id": "Q6748199",
         "name": "Mandria, Limassol",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065xz37"
+        "freebase_id": "/m/065xz37",
+        "lat": 34.869166666,
+        "lng": 32.831944444
     },
     {
         "wikidata_id": "Q6380768",
         "name": "Kazafani",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/065y6n9"
+        "freebase_id": "/m/065y6n9",
+        "lat": 35.32481107,
+        "lng": 33.35444956
     },
     {
         "wikidata_id": "Q5555258",
         "name": "Galataria",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zqj5"
+        "freebase_id": "/m/065zqj5",
+        "lat": 34.8773662,
+        "lng": 32.63171023
     },
     {
         "wikidata_id": "Q6744561",
         "name": "Malounta",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_hfx"
+        "freebase_id": "/m/065_hfx",
+        "lat": 35.03570566,
+        "lng": 33.18311248
     },
     {
         "wikidata_id": "Q6710344",
         "name": "Lythrodontas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064kdx0"
+        "freebase_id": "/m/064kdx0",
+        "lat": 34.95101766,
+        "lng": 33.29803358
     },
     {
         "wikidata_id": "Q6710277",
         "name": "Lysos",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/04mwwbz"
+        "freebase_id": "/m/04mwwbz",
+        "lat": 34.99460912,
+        "lng": 32.51252908
     },
     {
         "wikidata_id": "Q6418213",
         "name": "Kiti",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0661n3f"
+        "freebase_id": "/m/0661n3f",
+        "lat": 34.848982,
+        "lng": 33.57522647
     },
     {
         "wikidata_id": "Q6406886",
         "name": "Kili",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065xxsy"
+        "freebase_id": "/m/065xxsy",
+        "lat": 34.85956639,
+        "lng": 32.45514395
     },
     {
         "wikidata_id": "Q6354269",
         "name": "Kalopanagiotis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/06608fj"
+        "freebase_id": "/m/06608fj",
+        "lat": 34.9929211,
+        "lng": 32.82832255
     },
     {
         "wikidata_id": "Q6658226",
         "name": "Livera",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064kgzc"
+        "freebase_id": "/m/064kgzc",
+        "lat": 35.38308882,
+        "lng": 32.95365376
     },
     {
         "wikidata_id": "Q6382604",
         "name": "Kedhares",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yn2r"
+        "freebase_id": "/m/065yn2r",
+        "lat": 34.83628968,
+        "lng": 32.73647354
     },
     {
         "wikidata_id": "Q6414210",
         "name": "Kinousa",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_nr0"
+        "freebase_id": "/m/065_nr0",
+        "lat": 35.03225884,
+        "lng": 32.5075973
     },
     {
         "wikidata_id": "Q6414503",
         "name": "Kiomourtzou",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064nr05"
+        "freebase_id": "/m/064nr05",
+        "lat": 35.28891567,
+        "lng": 33.25693412
     },
     {
         "wikidata_id": "Q6421243",
         "name": "Klonari",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660hy3"
+        "freebase_id": "/m/0660hy3",
+        "lat": 34.826111111,
+        "lng": 33.181388888
     },
     {
         "wikidata_id": "Q6417288",
         "name": "Kissousa",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065z1c0"
+        "freebase_id": "/m/065z1c0",
+        "lat": 34.810847,
+        "lng": 32.794921
     },
     {
         "wikidata_id": "Q5552475",
         "name": "Gerovasa",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065z8t4"
+        "freebase_id": "/m/065z8t4",
+        "lat": 34.813055555,
+        "lng": 32.740277777
     },
     {
         "wikidata_id": "Q6426287",
         "name": "Koilani",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yffk"
+        "freebase_id": "/m/065yffk",
+        "lat": 34.844722222,
+        "lng": 32.860277777
     },
     {
         "wikidata_id": "Q5418792",
         "name": "Evretou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zb87"
+        "freebase_id": "/m/065zb87",
+        "lat": 34.95705991,
+        "lng": 32.48814248
     },
     {
         "wikidata_id": "Q6352500",
         "name": "Kaliana",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0661mct"
+        "freebase_id": "/m/0661mct",
+        "lat": 35.01190772,
+        "lng": 32.88268924
     },
     {
         "wikidata_id": "Q6353749",
         "name": "Kallepia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_lj6"
+        "freebase_id": "/m/065_lj6",
+        "lat": 34.8455549,
+        "lng": 32.500093
     },
     {
         "wikidata_id": "Q6485486",
         "name": "Laneia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/03cqm9r"
+        "freebase_id": "/m/03cqm9r",
+        "lat": 34.824444444,
+        "lng": 32.920833333
     },
     {
         "wikidata_id": "Q6654220",
         "name": "Livadia Lefkosias",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064pn_b"
+        "freebase_id": "/m/064pn_b",
+        "lat": 34.94580361,
+        "lng": 33.02255433
     },
     {
         "wikidata_id": "Q6373291",
         "name": "Karpaseia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064mvry"
+        "freebase_id": "/m/064mvry",
+        "lat": 35.29788103,
+        "lng": 33.07059568
     },
     {
         "wikidata_id": "Q6521369",
         "name": "Lemona",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660tj2"
+        "freebase_id": "/m/0660tj2",
+        "lat": 34.86231747,
+        "lng": 32.55772473
     },
     {
         "wikidata_id": "Q6380424",
         "name": "Orga",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064lp0h"
+        "freebase_id": "/m/064lp0h",
+        "lat": 35.36184286,
+        "lng": 33.03375953
     },
     {
         "wikidata_id": "Q6354156",
         "name": "Kalo Chorio Oreinis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064mptg"
+        "freebase_id": "/m/064mptg",
+        "lat": 35.00695931,
+        "lng": 33.16351398
     },
     {
         "wikidata_id": "Q6418797",
         "name": "Pano Kivides",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065xxr6"
+        "freebase_id": "/m/065xxr6",
+        "lat": 34.756388888,
+        "lng": 32.857777777
     },
     {
         "wikidata_id": "Q5588469",
         "name": "Gourri",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660dm7"
+        "freebase_id": "/m/0660dm7",
+        "lat": 34.9575681,
+        "lng": 33.15832917
     },
     {
         "wikidata_id": "Q5505146",
         "name": "Frodisia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/066021p"
+        "freebase_id": "/m/066021p",
+        "lat": 35.06700077,
+        "lng": 32.65496333
     },
     {
         "wikidata_id": "Q6533895",
         "name": "Letymvou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660cqc"
+        "freebase_id": "/m/0660cqc",
+        "lat": 34.8573501,
+        "lng": 32.51361186
     },
     {
         "wikidata_id": "Q5448228",
         "name": "Fikardou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_qnx"
+        "freebase_id": "/m/065_qnx",
+        "lat": 34.95919199,
+        "lng": 33.17134805
     },
     {
         "wikidata_id": "Q5506814",
         "name": "Fterikoudi",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065xz9s"
+        "freebase_id": "/m/065xz9s",
+        "lat": 34.94320889,
+        "lng": 33.06914157
     },
     {
         "wikidata_id": "Q5506813",
         "name": "Ftericha",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064qv9g"
+        "freebase_id": "/m/064qv9g",
+        "lat": 35.32273903,
+        "lng": 33.22192943
     },
     {
         "wikidata_id": "Q5549853",
         "name": "Gerani",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/0660gxt"
+        "freebase_id": "/m/0660gxt",
+        "lat": 35.35951697,
+        "lng": 33.9225012
     },
     {
         "wikidata_id": "Q6368348",
         "name": "Karamoullides",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zs_z"
+        "freebase_id": "/m/065zs_z",
+        "lat": 34.99945385,
+        "lng": 32.44302242
     },
     {
         "wikidata_id": "Q6425729",
         "name": "Kofinou",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064m42v"
+        "freebase_id": "/m/064m42v",
+        "lat": 34.82427121,
+        "lng": 33.39132492
     },
     {
         "wikidata_id": "Q6432451",
         "name": "Kornokipos",
         "description": "village in Cyprus",
-        "freebase_id": "/m/06p9m4"
+        "freebase_id": "/m/06p9m4",
+        "lat": 35.28206636,
+        "lng": 33.57388354
     },
     {
         "wikidata_id": "Q6521475",
         "name": "Lempa",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0dxm9t"
+        "freebase_id": "/m/0dxm9t",
+        "lat": 34.8086269,
+        "lng": 32.40790397
     },
     {
         "wikidata_id": "Q6427511",
         "name": "Koloni, Cyprus",
         "description": "quarter of Geroskipou Municipality",
-        "freebase_id": "/m/0660vh0"
+        "freebase_id": "/m/0660vh0",
+        "lat": 34.74858443,
+        "lng": 32.46564838
     },
     {
         "wikidata_id": "Q6472646",
         "name": "Lagoudera",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064mdy4"
+        "freebase_id": "/m/064mdy4",
+        "lat": 34.96216763,
+        "lng": 33.01043087
     },
     {
         "wikidata_id": "Q6434534",
         "name": "Kouklia, Famagusta",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065yvmd"
+        "freebase_id": "/m/065yvmd",
+        "lat": 35.10838645,
+        "lng": 33.75084813
     },
     {
         "wikidata_id": "Q6748198",
         "name": "Mandria",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_l0r"
+        "freebase_id": "/m/065_l0r",
+        "lat": 34.71570802,
+        "lng": 32.53172929
     },
     {
         "wikidata_id": "Q6366663",
         "name": "Kapilio",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/05szkvp"
+        "freebase_id": "/m/05szkvp",
+        "lat": 34.8325,
+        "lng": 32.958333333
     },
     {
         "wikidata_id": "Q6376621",
         "name": "Kathikas",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0464sc0"
+        "freebase_id": "/m/0464sc0",
+        "lat": 34.91253547,
+        "lng": 32.42571423
     },
     {
         "wikidata_id": "Q5552387",
         "name": "Gerolakkos",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/0f6_2x"
+        "freebase_id": "/m/0f6_2x",
+        "lat": 35.18077843,
+        "lng": 33.25315536
     },
     {
         "wikidata_id": "Q6363803",
         "name": "Kanli",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064rcy4"
+        "freebase_id": "/m/064rcy4",
+        "lat": 35.22213724,
+        "lng": 33.25883467
     },
     {
         "wikidata_id": "Q6088924",
         "name": "Istinjon",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yxx4"
+        "freebase_id": "/m/065yxx4",
+        "lat": 34.97505515,
+        "lng": 32.52726955
     },
     {
         "wikidata_id": "Q5457679",
         "name": "Flasou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065zfdm"
+        "freebase_id": "/m/065zfdm",
+        "lat": 35.06484862,
+        "lng": 32.8884944
     },
     {
         "wikidata_id": "Q6549737",
         "name": "Limnatis, Limassol",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065xz7q"
+        "freebase_id": "/m/065xz7q",
+        "lat": 34.813055555,
+        "lng": 32.949444444
     },
     {
         "wikidata_id": "Q6366531",
         "name": "Kapedes",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064q81z"
+        "freebase_id": "/m/064q81z",
+        "lat": 34.97634295,
+        "lng": 33.25344519
     },
     {
         "wikidata_id": "Q6505770",
         "name": "Lazanias",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660ksy"
+        "freebase_id": "/m/0660ksy",
+        "lat": 34.9486842,
+        "lng": 33.17436061
     },
     {
         "wikidata_id": "Q5518003",
         "name": "Galata",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0fd8nr"
+        "freebase_id": "/m/0fd8nr",
+        "lat": 34.99719828,
+        "lng": 32.89905574
     },
     {
         "wikidata_id": "Q6354281",
         "name": "Kalopsida",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/066122d"
+        "freebase_id": "/m/066122d",
+        "lat": 35.09675727,
+        "lng": 33.79356388
     },
     {
         "wikidata_id": "Q6437071",
         "name": "Krini",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064ly3_"
+        "freebase_id": "/m/064ly3_",
+        "lat": 35.28733023,
+        "lng": 33.23728677
     },
     {
         "wikidata_id": "Q5548853",
         "name": "Gerakies",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065zbrq"
+        "freebase_id": "/m/065zbrq",
+        "lat": 35.00059108,
+        "lng": 32.80505361
     },
     {
         "wikidata_id": "Q5464169",
         "name": "Foinikaria",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660l8r"
+        "freebase_id": "/m/0660l8r",
+        "lat": 34.751944444,
+        "lng": 33.097777777
     },
     {
         "wikidata_id": "Q6426673",
         "name": "Kokkinotrimithia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064p02h"
+        "freebase_id": "/m/064p02h",
+        "lat": 35.15388623,
+        "lng": 33.20004714
     },
     {
         "wikidata_id": "Q6429311",
         "name": "Konia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06600w5"
+        "freebase_id": "/m/06600w5",
+        "lat": 34.78516007,
+        "lng": 32.45899726
     },
     {
         "wikidata_id": "Q7565030",
         "name": "Souni-Zanakia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zwyj"
+        "freebase_id": "/m/065zwyj",
+        "lat": 34.738366,
+        "lng": 32.882008
     },
     {
         "wikidata_id": "Q6926115",
         "name": "Mousere",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06608sw"
+        "freebase_id": "/m/06608sw",
+        "lat": 34.7708357,
+        "lng": 32.71546093
     },
     {
         "wikidata_id": "Q7202162",
         "name": "Platanistasa",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065zf_j"
+        "freebase_id": "/m/065zf_j",
+        "lat": 34.94610323,
+        "lng": 33.04731189
     },
     {
         "wikidata_id": "Q6787255",
         "name": "Mathikoloni",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660h9w"
+        "freebase_id": "/m/0660h9w",
+        "lat": 34.775277777,
+        "lng": 33.048611111
     },
     {
         "wikidata_id": "Q7178911",
         "name": "Petrofani",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0gygcx"
+        "freebase_id": "/m/0gygcx",
+        "lat": 35.03124639,
+        "lng": 33.50903045
     },
     {
         "wikidata_id": "Q7126560",
         "name": "Palaikythro",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/065ywkc"
+        "freebase_id": "/m/065ywkc",
+        "lat": 35.20638861,
+        "lng": 33.49319928
     },
     {
         "wikidata_id": "Q7104208",
         "name": "Ortakioï",
         "description": "Cyprus",
-        "freebase_id": "/m/063_k3y"
+        "freebase_id": "/m/063_k3y",
+        "lat": 35.20153354,
+        "lng": 33.33668804
     },
     {
         "wikidata_id": "Q7081268",
         "name": "Oikos",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064l8xr"
+        "freebase_id": "/m/064l8xr",
+        "lat": 34.99934809,
+        "lng": 32.83138671
     },
     {
         "wikidata_id": "Q6813570",
         "name": "Melouseia",
         "description": "village in Larnaca District, Cyprus",
-        "freebase_id": "/m/06617cx"
+        "freebase_id": "/m/06617cx",
+        "lat": 35.07706424,
+        "lng": 33.58443611
     },
     {
         "wikidata_id": "Q7165004",
         "name": "Pentakomo",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660p3v"
+        "freebase_id": "/m/0660p3v",
+        "lat": 34.738333333,
+        "lng": 33.241666666
     },
     {
         "wikidata_id": "Q7202160",
         "name": "Platanissos",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065y5xy"
+        "freebase_id": "/m/065y5xy",
+        "lat": 35.47847629,
+        "lng": 34.10587066
     },
     {
         "wikidata_id": "Q7263520",
         "name": "Pyrgos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064nd9z"
+        "freebase_id": "/m/064nd9z",
+        "lat": 34.742777777,
+        "lng": 33.183333333
     },
     {
         "wikidata_id": "Q7135418",
         "name": "Paramytha",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02p_mxc"
+        "freebase_id": "/m/02p_mxc",
+        "lat": 34.760392,
+        "lng": 32.994851
     },
     {
         "wikidata_id": "Q7234620",
         "name": "Potamiou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_mdd"
+        "freebase_id": "/m/065_mdd",
+        "lat": 34.823888888,
+        "lng": 32.806666666
     },
     {
         "wikidata_id": "Q7418284",
         "name": "Sanida",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zhng"
+        "freebase_id": "/m/065zhng",
+        "lat": 34.807777777,
+        "lng": 33.189722222
     },
     {
         "wikidata_id": "Q6851821",
         "name": "Milia Ammochostou",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/04jd9hc"
+        "freebase_id": "/m/04jd9hc",
+        "lat": 35.20652502,
+        "lng": 33.80875232
     },
     {
         "wikidata_id": "Q7263474",
         "name": "Pyrga",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065zftp"
+        "freebase_id": "/m/065zftp",
+        "lat": 34.92585533,
+        "lng": 33.43380339
     },
     {
         "wikidata_id": "Q7202159",
         "name": "Platani",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/06613hg"
+        "freebase_id": "/m/06613hg",
+        "lat": 35.33330722,
+        "lng": 33.75103386
     },
     {
         "wikidata_id": "Q6899872",
         "name": "Moniatis",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660bpc"
+        "freebase_id": "/m/0660bpc",
+        "lat": 34.868611111,
+        "lng": 32.896944444
     },
     {
         "wikidata_id": "Q7255745",
         "name": "Psevdas",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065zqsf"
+        "freebase_id": "/m/065zqsf",
+        "lat": 34.94478077,
+        "lng": 33.46071797
     },
     {
         "wikidata_id": "Q7126579",
         "name": "Palaiomylos",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/066117y"
+        "freebase_id": "/m/066117y",
+        "lat": 34.935555555,
+        "lng": 32.821666666
     },
     {
         "wikidata_id": "Q6751864",
         "name": "Mansoura",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n6vd"
+        "freebase_id": "/m/064n6vd",
+        "lat": 35.18726516,
+        "lng": 32.63632581
     },
     {
         "wikidata_id": "Q7128555",
         "name": "Palodia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0661739"
+        "freebase_id": "/m/0661739",
+        "lat": 34.742222222,
+        "lng": 33.007222222
     },
     {
         "wikidata_id": "Q7136707",
         "name": "Parekklisia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yz7_"
+        "freebase_id": "/m/065yz7_",
+        "lat": 34.740555555,
+        "lng": 33.160833333
     },
     {
         "wikidata_id": "Q6821492",
         "name": "Mesogi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065ztg3"
+        "freebase_id": "/m/065ztg3",
+        "lat": 34.81529046,
+        "lng": 32.45626556
     },
     {
         "wikidata_id": "Q7209281",
         "name": "Polemi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660mlb"
+        "freebase_id": "/m/0660mlb",
+        "lat": 34.88612616,
+        "lng": 32.50879567
     },
     {
         "wikidata_id": "Q7506498",
         "name": "Sia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064mxjm"
+        "freebase_id": "/m/064mxjm",
+        "lat": 34.95516532,
+        "lng": 33.39020203
     },
     {
         "wikidata_id": "Q6991857",
         "name": "Neo Chorio Lefkosias",
         "description": "village in Nicosia District",
-        "freebase_id": "/m/065_sl4"
+        "freebase_id": "/m/065_sl4",
+        "lat": 35.23465,
+        "lng": 33.47661
     },
     {
         "wikidata_id": "Q6983929",
         "name": "Nea Dimmata",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_gpv"
+        "freebase_id": "/m/065_gpv",
+        "lat": 35.13731967,
+        "lng": 32.52694896
     },
     {
         "wikidata_id": "Q7122083",
         "name": "Pachyammos",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065yth_"
+        "freebase_id": "/m/065yth_",
+        "lat": 35.17110001,
+        "lng": 32.58386904
     },
     {
         "wikidata_id": "Q6897914",
         "name": "Monagri",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/06614v2"
+        "freebase_id": "/m/06614v2",
+        "lat": 34.809166666,
+        "lng": 32.910555555
     },
     {
         "wikidata_id": "Q7554068",
         "name": "Softades",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/06613xw"
+        "freebase_id": "/m/06613xw",
+        "lat": 34.836388888,
+        "lng": 33.550833333
     },
     {
         "wikidata_id": "Q7078332",
         "name": "Odou",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065_b4w"
+        "freebase_id": "/m/065_b4w",
+        "lat": 34.88535052,
+        "lng": 33.15070093
     },
     {
         "wikidata_id": "Q7256573",
         "name": "Psyllatos",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/0660yt7"
+        "freebase_id": "/m/0660yt7",
+        "lat": 35.25412724,
+        "lng": 33.68696661
     },
     {
         "wikidata_id": "Q7147962",
         "name": "Patriki",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065xxq5"
+        "freebase_id": "/m/065xxq5",
+        "lat": 35.36296369,
+        "lng": 33.99690697
     },
     {
         "wikidata_id": "Q6813574",
         "name": "Melounta",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065z_84"
+        "freebase_id": "/m/065z_84",
+        "lat": 35.33279631,
+        "lng": 33.68844356
     },
     {
         "wikidata_id": "Q7238570",
         "name": "Prastio Kellakiou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064ky7q"
+        "freebase_id": "/m/064ky7q",
+        "lat": 34.811111111,
+        "lng": 33.143055555
     },
     {
         "wikidata_id": "Q7536477",
         "name": "Skoulli",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y1dz"
+        "freebase_id": "/m/065y1dz",
+        "lat": 34.98056795,
+        "lng": 32.45122446
     },
     {
         "wikidata_id": "Q6817059",
         "name": "Meniko",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n4_w"
+        "freebase_id": "/m/064n4_w",
+        "lat": 35.11020292,
+        "lng": 33.14530906
     },
     {
         "wikidata_id": "Q7178681",
         "name": "Petra tou Digeni",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/065zcyj"
+        "freebase_id": "/m/065zcyj",
+        "lat": 35.23784874,
+        "lng": 33.54598772
     },
     {
         "wikidata_id": "Q6755041",
         "name": "Marathounta",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_fnf"
+        "freebase_id": "/m/065_fnf",
+        "lat": 34.79101109,
+        "lng": 32.4881302
     },
     {
         "wikidata_id": "Q6998559",
         "name": "Neta",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065ylqr"
+        "freebase_id": "/m/065ylqr",
+        "lat": 35.469579,
+        "lng": 34.21447784
     },
     {
         "wikidata_id": "Q7423027",
         "name": "Sarama",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065x_np"
+        "freebase_id": "/m/065x_np",
+        "lat": 34.95629941,
+        "lng": 32.52885625
     },
     {
         "wikidata_id": "Q6897919",
         "name": "Monagroulli",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_fj9"
+        "freebase_id": "/m/065_fj9",
+        "lat": 34.747222222,
+        "lng": 33.2125
     },
     {
         "wikidata_id": "Q7263473",
         "name": "Pyrga Ammochostou",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_20l"
+        "freebase_id": "/m/065_20l",
+        "lat": 35.1834884,
+        "lng": 33.72617939
     },
     {
         "wikidata_id": "Q7254037",
         "name": "Psathi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yk7_"
+        "freebase_id": "/m/065yk7_",
+        "lat": 34.89781597,
+        "lng": 32.53307729
     },
     {
         "wikidata_id": "Q7168938",
         "name": "Perivolia Trikomou",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/0660cn9"
+        "freebase_id": "/m/0660cn9",
+        "lat": 35.28443151,
+        "lng": 33.9145742
     },
     {
         "wikidata_id": "Q6916042",
         "name": "Mosfileri",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_p_l"
+        "freebase_id": "/m/065_p_l",
+        "lat": 35.18025123,
+        "lng": 32.63198827
     },
     {
         "wikidata_id": "Q7161212",
         "name": "Pelathousa",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065yryt"
+        "freebase_id": "/m/065yryt",
+        "lat": 35.02757434,
+        "lng": 32.4760056
     },
     {
         "wikidata_id": "Q7521792",
         "name": "Sinaoros",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065yk7n"
+        "freebase_id": "/m/065yk7n",
+        "lat": 35.00996502,
+        "lng": 32.89956413
     },
     {
         "wikidata_id": "Q7565245",
         "name": "Souskiou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z023"
+        "freebase_id": "/m/065z023",
+        "lat": 34.73311532,
+        "lng": 32.60240655
     },
     {
         "wikidata_id": "Q7227003",
         "name": "Polystypos",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660h18"
+        "freebase_id": "/m/0660h18",
+        "lat": 34.93987575,
+        "lng": 33.01856277
     },
     {
         "wikidata_id": "Q6821132",
         "name": "Mesana",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/066107m"
+        "freebase_id": "/m/066107m",
+        "lat": 34.8491076,
+        "lng": 32.70678962
     },
     {
         "wikidata_id": "Q7403589",
         "name": "Salamiou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zqqq"
+        "freebase_id": "/m/065zqqq",
+        "lat": 34.84034142,
+        "lng": 32.68995938
     },
     {
         "wikidata_id": "Q7180294",
         "name": "Phalia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660121"
+        "freebase_id": "/m/0660121",
+        "lat": 34.85984136,
+        "lng": 32.58930281
     },
     {
         "wikidata_id": "Q6810943",
         "name": "Meladeia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z5xd"
+        "freebase_id": "/m/065z5xd",
+        "lat": 34.98815841,
+        "lng": 32.50616318
     },
     {
         "wikidata_id": "Q7168940",
         "name": "Perivolia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064k396"
+        "freebase_id": "/m/064k396",
+        "lat": 34.82894004,
+        "lng": 33.58272018
     },
     {
         "wikidata_id": "Q7131430",
         "name": "Pano Akourdaleia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660c33"
+        "freebase_id": "/m/0660c33",
+        "lat": 34.94186502,
+        "lng": 32.44445607
     },
     {
         "wikidata_id": "Q7238569",
         "name": "Prastio (Avdimou)",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064k_h0"
+        "freebase_id": "/m/064k_h0",
+        "lat": 34.729166666,
+        "lng": 32.778888888
     },
     {
         "wikidata_id": "Q6760875",
         "name": "Mari",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0660h6s"
+        "freebase_id": "/m/0660h6s",
+        "lat": 34.74056123,
+        "lng": 33.29928489
     },
     {
         "wikidata_id": "Q6967909",
         "name": "Nata",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0ftmj7"
+        "freebase_id": "/m/0ftmj7",
+        "lat": 34.77823197,
+        "lng": 32.57120802
     },
     {
         "wikidata_id": "Q7131438",
         "name": "Pano Koutrafas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660649"
+        "freebase_id": "/m/0660649",
+        "lat": 35.09307307,
+        "lng": 32.99275526
     },
     {
         "wikidata_id": "Q6760355",
         "name": "Margi",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064nfc5"
+        "freebase_id": "/m/064nfc5",
+        "lat": 35.02377873,
+        "lng": 33.32567199
     },
     {
         "wikidata_id": "Q6882951",
         "name": "Mitsero",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064nz23"
+        "freebase_id": "/m/064nz23",
+        "lat": 35.04165552,
+        "lng": 33.12685646
     },
     {
         "wikidata_id": "Q6827146",
         "name": "Mia Milia",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064nkjx"
+        "freebase_id": "/m/064nkjx",
+        "lat": 35.21997839,
+        "lng": 33.41883454
     },
     {
         "wikidata_id": "Q6798641",
         "name": "Mazotos",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/04yg659"
+        "freebase_id": "/m/04yg659",
+        "lat": 34.80363596,
+        "lng": 33.48947019
     },
     {
         "wikidata_id": "Q7166856",
         "name": "Pera Pedi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660814"
+        "freebase_id": "/m/0660814",
+        "lat": 34.859444444,
+        "lng": 32.876111111
     },
     {
         "wikidata_id": "Q6817236",
         "name": "Menogeia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065y8nl"
+        "freebase_id": "/m/065y8nl",
+        "lat": 34.84372663,
+        "lng": 33.44118537
     },
     {
         "wikidata_id": "Q7181028",
         "name": "Phasli",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660ysx"
+        "freebase_id": "/m/0660ysx",
+        "lat": 34.98170858,
+        "lng": 32.37097034
     },
     {
         "wikidata_id": "Q7181048",
         "name": "Phasoula",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06609l9"
+        "freebase_id": "/m/06609l9",
+        "lat": 34.7509019,
+        "lng": 32.63197118
     },
     {
         "wikidata_id": "Q7254097",
         "name": "Psematismenos",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/06614t1"
+        "freebase_id": "/m/06614t1",
+        "lat": 34.74951561,
+        "lng": 33.35040335
     },
     {
         "wikidata_id": "Q7238568",
         "name": "Prastio",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/064q4t3"
+        "freebase_id": "/m/064q4t3",
+        "lat": 34.79145271,
+        "lng": 32.6937723
     },
     {
         "wikidata_id": "Q7534010",
         "name": "Skarinou",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065yh57"
+        "freebase_id": "/m/065yh57",
+        "lat": 34.81915087,
+        "lng": 33.35877001
     },
     {
         "wikidata_id": "Q6755048",
         "name": "Marathovounos",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065zcpm"
+        "freebase_id": "/m/065zcpm",
+        "lat": 35.22369888,
+        "lng": 33.61698588
     },
     {
         "wikidata_id": "Q7099186",
         "name": "Ora",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065x_y8"
+        "freebase_id": "/m/065x_y8",
+        "lat": 34.86235655,
+        "lng": 33.19559789
     },
     {
         "wikidata_id": "Q7165011",
         "name": "Pentalia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y0_w"
+        "freebase_id": "/m/065y0_w",
+        "lat": 34.85598812,
+        "lng": 32.62068309
     },
     {
         "wikidata_id": "Q6947729",
         "name": "Mylikouri",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065y9wf"
+        "freebase_id": "/m/065y9wf",
+        "lat": 34.96216475,
+        "lng": 32.75086633
     },
     {
         "wikidata_id": "Q6821057",
         "name": "Mesa Chorio",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06606v_"
+        "freebase_id": "/m/06606v_",
+        "lat": 34.80887773,
+        "lng": 32.46195453
     },
     {
         "wikidata_id": "Q6787178",
         "name": "Mathiatis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n1wt"
+        "freebase_id": "/m/064n1wt",
+        "lat": 34.96325094,
+        "lng": 33.33602486
     },
     {
         "wikidata_id": "Q7126581",
         "name": "Palaiosofos",
         "description": "place in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064mspp"
+        "freebase_id": "/m/064mspp",
+        "lat": 35.32663072,
+        "lng": 33.20713951
     },
     {
         "wikidata_id": "Q7186299",
         "name": "Philousa Kelokedharon",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_dsy"
+        "freebase_id": "/m/065_dsy",
+        "lat": 34.8526486,
+        "lng": 32.7424042
     },
     {
         "wikidata_id": "Q7186301",
         "name": "Philousa Khrysokhous",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/066022c"
+        "freebase_id": "/m/066022c",
+        "lat": 34.97415829,
+        "lng": 32.5043157
     },
     {
         "wikidata_id": "Q7186388",
         "name": "Phinikas",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660s9y"
+        "freebase_id": "/m/0660s9y",
+        "lat": 34.75276692,
+        "lng": 32.56869938
     },
     {
         "wikidata_id": "Q7238116",
         "name": "Praitori",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06605pj"
+        "freebase_id": "/m/06605pj",
+        "lat": 34.84902181,
+        "lng": 32.74578591
     },
     {
         "wikidata_id": "Q7537937",
         "name": "Skylloura",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/064pkc3"
+        "freebase_id": "/m/064pkc3",
+        "lat": 35.23165006,
+        "lng": 33.16511063
     },
     {
         "wikidata_id": "Q6812534",
         "name": "Melini",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065_xhm"
+        "freebase_id": "/m/065_xhm",
+        "lat": 34.86746356,
+        "lng": 33.15699846
     },
     {
         "wikidata_id": "Q7234621",
         "name": "Potamitissa",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zk_d"
+        "freebase_id": "/m/065zk_d",
+        "lat": 34.9075,
+        "lng": 32.989444444
     },
     {
         "wikidata_id": "Q7103891",
         "name": "Orounta",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064mgcx"
+        "freebase_id": "/m/064mgcx",
+        "lat": 35.1008011,
+        "lng": 33.09292436
     },
     {
         "wikidata_id": "Q7103757",
         "name": "Oroklini",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064pwfx"
+        "freebase_id": "/m/064pwfx",
+        "lat": 34.981379688,
+        "lng": 33.65647638
     },
     {
         "wikidata_id": "Q7035475",
         "name": "Nikokleia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zzqz"
+        "freebase_id": "/m/065zzqz",
+        "lat": 34.7289445,
+        "lng": 32.57743833
     },
     {
         "wikidata_id": "Q6772313",
         "name": "Maronas",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_g82"
+        "freebase_id": "/m/065_g82",
+        "lat": 34.76834241,
+        "lng": 32.66720251
     },
     {
         "wikidata_id": "Q7234615",
         "name": "Potami",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/02pwc53"
+        "freebase_id": "/m/02pwc53",
+        "lat": 35.1050849,
+        "lng": 33.02900671
     },
     {
         "wikidata_id": "Q7525086",
         "name": "Sinta",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/06606xq"
+        "freebase_id": "/m/06606xq",
+        "lat": 35.15704025,
+        "lng": 33.70160791
     },
     {
         "wikidata_id": "Q7536487",
         "name": "Skouriotissa",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065z7z1"
+        "freebase_id": "/m/065z7z1",
+        "lat": 35.09172317,
+        "lng": 32.88404688
     },
     {
         "wikidata_id": "Q7186469",
         "name": "Phiti",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0408y2v"
+        "freebase_id": "/m/0408y2v",
+        "lat": 34.92871534,
+        "lng": 32.54480144
     },
     {
         "wikidata_id": "Q6754968",
         "name": "Maratha",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065ytwb"
+        "freebase_id": "/m/065ytwb",
+        "lat": 35.21078533,
+        "lng": 33.77735975
     },
     {
         "wikidata_id": "Q6811214",
         "name": "Melandra",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0661b4l"
+        "freebase_id": "/m/0661b4l",
+        "lat": 34.98918715,
+        "lng": 32.52500135
     },
     {
         "wikidata_id": "Q7166855",
         "name": "Pera",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0dd8kw"
+        "freebase_id": "/m/0dd8kw",
+        "lat": 35.0335,
+        "lng": 33.25413
     },
     {
         "wikidata_id": "Q7238567",
         "name": "Prastio Ammochostou",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/047qddj"
+        "freebase_id": "/m/047qddj",
+        "lat": 35.17535953,
+        "lng": 33.7574569
     },
     {
         "wikidata_id": "Q7515072",
         "name": "Silikou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660kdk"
+        "freebase_id": "/m/0660kdk",
+        "lat": 34.832222222,
+        "lng": 32.888888888
     },
     {
         "wikidata_id": "Q12880005",
         "name": "Lasa",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/066025t"
+        "freebase_id": "/m/066025t",
+        "lat": 34.92468343,
+        "lng": 32.52770214
     },
     {
         "wikidata_id": "Q7659621",
         "name": "Sichari",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/065ypq9"
+        "freebase_id": "/m/065ypq9",
+        "lat": 35.27691572,
+        "lng": 33.37564393
     },
     {
         "wikidata_id": "Q11811164",
         "name": "Paramali",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660kjb"
+        "freebase_id": "/m/0660kjb",
+        "lat": 34.676401,
+        "lng": 32.792378
     },
     {
         "wikidata_id": "Q7929534",
         "name": "Vikla",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065yfqv"
+        "freebase_id": "/m/065yfqv",
+        "lat": 34.826944444,
+        "lng": 33.195555555
     },
     {
         "wikidata_id": "Q9258062",
         "name": "Farmakas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/06602gr"
+        "freebase_id": "/m/06602gr",
+        "lat": 34.91285068,
+        "lng": 33.13658566
     },
     {
         "wikidata_id": "Q7916293",
         "name": "Vasa Koilaniou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065z23r"
+        "freebase_id": "/m/065z23r",
+        "lat": 34.833055555,
+        "lng": 32.791111111
     },
     {
         "wikidata_id": "Q7699096",
         "name": "Temvria",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/06617s8"
+        "freebase_id": "/m/06617s8",
+        "lat": 35.02705908,
+        "lng": 32.89062419
     },
     {
         "wikidata_id": "Q7604841",
         "name": "Stavrokonnou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065zpvw"
+        "freebase_id": "/m/065zpvw",
+        "lat": 34.78552279,
+        "lng": 32.61822259
     },
     {
         "wikidata_id": "Q7842235",
         "name": "Trimithousa",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065ylh5"
+        "freebase_id": "/m/065ylh5",
+        "lat": 34.97417944,
+        "lng": 32.48750157
     },
     {
         "wikidata_id": "Q7842237",
         "name": "Trimithi",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/0660rqp"
+        "freebase_id": "/m/0660rqp",
+        "lat": 35.33756423,
+        "lng": 33.25633761
     },
     {
         "wikidata_id": "Q7660496",
         "name": "Sygkrasi",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/0660_1g"
+        "freebase_id": "/m/0660_1g",
+        "lat": 35.27225536,
+        "lng": 33.8524866
     },
     {
         "wikidata_id": "Q11738941",
         "name": "Kidhasi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y8lj"
+        "freebase_id": "/m/065y8lj",
+        "lat": 34.80727087,
+        "lng": 32.71331256
     },
     {
         "wikidata_id": "Q11712531",
         "name": "Inia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z5wc"
+        "freebase_id": "/m/065z5wc",
+        "lat": 34.9561155,
+        "lng": 32.39339384
     },
     {
         "wikidata_id": "Q7831404",
         "name": "Trachypedoula",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_d49"
+        "freebase_id": "/m/065_d49",
+        "lat": 34.8005608,
+        "lng": 32.67898159
     },
     {
         "wikidata_id": "Q11740030",
         "name": "Klepini",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/065yxn7"
+        "freebase_id": "/m/065yxn7",
+        "lat": 35.30646891,
+        "lng": 33.43484924
     },
     {
         "wikidata_id": "Q12883498",
         "name": "Platres",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/03cmwyg"
+        "freebase_id": "/m/03cmwyg",
+        "lat": 34.888888888,
+        "lng": 32.865
     },
     {
         "wikidata_id": "Q8045452",
         "name": "Xylofagou",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/02x5x48"
+        "freebase_id": "/m/02x5x48",
+        "lat": 34.97671679,
+        "lng": 33.84959071
     },
     {
         "wikidata_id": "Q16269888",
         "name": "Pano Polemidia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0107yrhc"
+        "freebase_id": "/m/0107yrhc",
+        "lat": 34.705353,
+        "lng": 32.992238
     },
     {
         "wikidata_id": "Q11739568",
         "name": "Kivisili",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0660ncf"
+        "freebase_id": "/m/0660ncf",
+        "lat": 34.83955551,
+        "lng": 33.50480836
     },
     {
         "wikidata_id": "Q7917510",
         "name": "Vavla",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0fcj8q"
+        "freebase_id": "/m/0fcj8q",
+        "lat": 34.84162633,
+        "lng": 33.26879916
     },
     {
         "wikidata_id": "Q7798255",
         "name": "Drinia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660klr"
+        "freebase_id": "/m/0660klr",
+        "lat": 34.91569096,
+        "lng": 32.52947814
     },
     {
         "wikidata_id": "Q7806650",
         "name": "Timi",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_hwn"
+        "freebase_id": "/m/065_hwn",
+        "lat": 34.73176963,
+        "lng": 32.51612865
     },
     {
         "wikidata_id": "Q7578281",
         "name": "Spitali",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zdd_"
+        "freebase_id": "/m/065zdd_",
+        "lat": 34.763014,
+        "lng": 33.001597
     },
     {
         "wikidata_id": "Q11818707",
         "name": "Pitargou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065ztss"
+        "freebase_id": "/m/065ztss",
+        "lat": 34.8373687,
+        "lng": 32.53369532
     },
     {
         "wikidata_id": "Q7849568",
         "name": "Tserkezoi",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065z1_z"
+        "freebase_id": "/m/065z1_z",
+        "lat": 34.6525,
+        "lng": 32.988888888
     },
     {
         "wikidata_id": "Q9142938",
         "name": "Agioi Trimithias",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064m68k"
+        "freebase_id": "/m/064m68k",
+        "lat": 35.11442468,
+        "lng": 33.21245454
     },
     {
         "wikidata_id": "Q18639579",
         "name": "Neo Chorio",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/01296v9r"
+        "freebase_id": "/m/01296v9r",
+        "lat": 35.02597996,
+        "lng": 32.36488103
     },
     {
         "wikidata_id": "Q7917142",
         "name": "Vatili",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/064p7jk"
+        "freebase_id": "/m/064p7jk",
+        "lat": 35.13361583,
+        "lng": 33.65590562
     },
     {
         "wikidata_id": "Q7660529",
         "name": "Sykopetra",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/066046f"
+        "freebase_id": "/m/066046f",
+        "lat": 34.878333333,
+        "lng": 33.112222222
     },
     {
         "wikidata_id": "Q7838121",
         "name": "Tremithousa",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660ks7"
+        "freebase_id": "/m/0660ks7",
+        "lat": 34.8174164,
+        "lng": 32.44370055
     },
     {
         "wikidata_id": "Q7848790",
         "name": "Trypimeni",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/0660btv"
+        "freebase_id": "/m/0660btv",
+        "lat": 35.30962968,
+        "lng": 33.63377902
     },
     {
         "wikidata_id": "Q9378878",
         "name": "Vouni",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/04y9ffl"
+        "freebase_id": "/m/04y9ffl",
+        "lat": 34.823333333,
+        "lng": 32.833611111
     },
     {
         "wikidata_id": "Q11816998",
         "name": "Pigenia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_lvw"
+        "freebase_id": "/m/065_lvw",
+        "lat": 35.1681953,
+        "lng": 32.65601717
     },
     {
         "wikidata_id": "Q11724234",
         "name": "Gerasa",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_sp7"
+        "freebase_id": "/m/065_sp7",
+        "lat": 34.8025,
+        "lng": 32.998055555
     },
     {
         "wikidata_id": "Q7835563",
         "name": "Trapeza",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/065z80t"
+        "freebase_id": "/m/065z80t",
+        "lat": 35.30275002,
+        "lng": 33.47434523
     },
     {
         "wikidata_id": "Q7916291",
         "name": "Vasa Kellakiou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zp0p"
+        "freebase_id": "/m/065zp0p",
+        "lat": 34.803055555,
+        "lng": 33.214722222
     },
     {
         "wikidata_id": "Q7831343",
         "name": "Trachoni Lefkosias",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/065yrtp"
+        "freebase_id": "/m/065yrtp",
+        "lat": 35.22302539,
+        "lng": 33.48002427
     },
     {
         "wikidata_id": "Q11735005",
         "name": "Kantou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zsv3"
+        "freebase_id": "/m/065zsv3",
+        "lat": 34.690277777,
+        "lng": 32.906666666
     },
     {
         "wikidata_id": "Q18639390",
         "name": "Kosi",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/01296r6q"
+        "freebase_id": "/m/01296r6q",
+        "lat": 34.966667,
+        "lng": 33.55
     },
     {
         "wikidata_id": "Q7698852",
         "name": "Templos",
         "description": "place in Kyrenia District, Cyprus",
-        "freebase_id": "/m/04_6m6"
+        "freebase_id": "/m/04_6m6",
+        "lat": 35.33218769,
+        "lng": 33.29087235
     },
     {
         "wikidata_id": "Q7705213",
         "name": "Tersefanou",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065__yz"
+        "freebase_id": "/m/065__yz",
+        "lat": 34.85407878,
+        "lng": 33.54739018
     },
     {
         "wikidata_id": "Q7917491",
         "name": "Vavatsinia",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065ynl6"
+        "freebase_id": "/m/065ynl6",
+        "lat": 34.8934737,
+        "lng": 33.22850723
     },
     {
         "wikidata_id": "Q7574012",
         "name": "Spathariko",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065yzxb"
+        "freebase_id": "/m/065yzxb",
+        "lat": 35.23508507,
+        "lng": 33.87375798
     },
     {
         "wikidata_id": "Q11748169",
         "name": "Krideia",
         "description": "village",
-        "freebase_id": "/m/0661b91"
+        "freebase_id": "/m/0661b91",
+        "lat": 35.39487576,
+        "lng": 33.97272119
     },
     {
         "wikidata_id": "Q11785710",
         "name": "Mosfiloti",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064qtk5"
+        "freebase_id": "/m/064qtk5",
+        "lat": 34.95322303,
+        "lng": 33.42518407
     },
     {
         "wikidata_id": "Q9335117",
         "name": "Selladi tou Appi",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065yvvz"
+        "freebase_id": "/m/065yvvz",
+        "lat": 35.15682519,
+        "lng": 32.62156737
     },
     {
         "wikidata_id": "Q7624745",
         "name": "Strongylos",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065yt7r"
+        "freebase_id": "/m/065yt7r",
+        "lat": 35.16689899,
+        "lng": 33.63985273
     },
     {
         "wikidata_id": "Q7849330",
         "name": "Tsakistra",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_8zc"
+        "freebase_id": "/m/065_8zc",
+        "lat": 34.98426496,
+        "lng": 32.74153066
     },
     {
         "wikidata_id": "Q9337264",
         "name": "Sysklipos",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064n612"
+        "freebase_id": "/m/064n612",
+        "lat": 35.29940816,
+        "lng": 33.17361347
     },
     {
         "wikidata_id": "Q8564950",
         "name": "Fotta",
         "description": "place in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064jwyn"
+        "freebase_id": "/m/064jwyn",
+        "lat": 35.26317951,
+        "lng": 33.22212229
     },
     {
         "wikidata_id": "Q7678734",
         "name": "Tala",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0409brh"
+        "freebase_id": "/m/0409brh",
+        "lat": 34.83631599,
+        "lng": 32.4309701
     },
     {
         "wikidata_id": "Q11741419",
         "name": "Koma tou Gialou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065x_bl"
+        "freebase_id": "/m/065x_bl",
+        "lat": 35.42778573,
+        "lng": 34.13172787
     },
     {
         "wikidata_id": "Q7937259",
         "name": "Vitsada",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/0660slw"
+        "freebase_id": "/m/0660slw",
+        "lat": 35.24456711,
+        "lng": 33.64723097
     },
     {
         "wikidata_id": "Q11781254",
         "name": "Miliou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0bwt25"
+        "freebase_id": "/m/0bwt25",
+        "lat": 34.93929475,
+        "lng": 32.46079975
     },
     {
         "wikidata_id": "Q11781220",
         "name": "Milia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065_dpv"
+        "freebase_id": "/m/065_dpv",
+        "lat": 34.91998331,
+        "lng": 32.54027512
     },
     {
         "wikidata_id": "Q7941590",
         "name": "Voni",
         "description": "village in Nicosia District, Cyprus",
-        "freebase_id": "/m/065ypzk"
+        "freebase_id": "/m/065ypzk",
+        "lat": 35.23051237,
+        "lng": 33.4960376
     },
     {
         "wikidata_id": "Q7604465",
         "name": "Statos-Agios Fotios",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z59v"
+        "freebase_id": "/m/065z59v",
+        "lat": 34.88845943,
+        "lng": 32.61592562
     },
     {
         "wikidata_id": "Q7783093",
         "name": "Thermeia",
         "description": "suburb in Northern Cyprus, Kyrenia District, Cyprus",
-        "freebase_id": "/m/065_801"
+        "freebase_id": "/m/065_801",
+        "lat": 35.32686488,
+        "lng": 33.33317465
     },
     {
         "wikidata_id": "Q7916657",
         "name": "Vasileia",
         "description": "place in Kyrenia District, Cyprus",
-        "freebase_id": "/m/064lz9v"
+        "freebase_id": "/m/064lz9v",
+        "lat": 35.354017,
+        "lng": 33.11490407
     },
     {
         "wikidata_id": "Q9159968",
         "name": "Armenokhori",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/064nk0r"
+        "freebase_id": "/m/064nk0r",
+        "lat": 34.744444444,
+        "lng": 33.129166666
     },
     {
         "wikidata_id": "Q7577250",
         "name": "Spilia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064mb_m"
+        "freebase_id": "/m/064mb_m",
+        "lat": 34.97215759,
+        "lng": 32.95461377
     },
     {
         "wikidata_id": "Q9190933",
         "name": "Khrysokhou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065ydh_"
+        "freebase_id": "/m/065ydh_",
+        "lat": 35.00383724,
+        "lng": 32.4397667
     },
     {
         "wikidata_id": "Q7629663",
         "name": "Stylloi",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_7wl"
+        "freebase_id": "/m/065_7wl",
+        "lat": 35.17275165,
+        "lng": 33.83256107
     },
     {
         "wikidata_id": "Q16467618",
         "name": "Pano Zodeia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/047mjn0"
+        "freebase_id": "/m/047mjn0",
+        "lat": 35.1636582,
+        "lng": 33.01600249
     },
     {
         "wikidata_id": "Q7831340",
         "name": "Trachoni",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/02q5vn4"
+        "freebase_id": "/m/02q5vn4",
+        "lat": 34.658333333,
+        "lng": 32.961388888
     },
     {
         "wikidata_id": "Q47318147",
         "name": "Palaichori Oreinis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064lglv"
+        "freebase_id": "/m/064lglv",
+        "lat": 34.92201925,
+        "lng": 33.09415877
     },
     {
         "wikidata_id": "Q7842231",
         "name": "Trimiklini",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065ymrd"
+        "freebase_id": "/m/065ymrd",
+        "lat": 34.846944444,
+        "lng": 32.911666666
     },
     {
         "wikidata_id": "Q8053480",
         "name": "Yialia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06605gn"
+        "freebase_id": "/m/06605gn",
+        "lat": 35.10323771,
+        "lng": 32.50283232
     },
     {
         "wikidata_id": "Q7944064",
         "name": "Vyzakia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065ytqw"
+        "freebase_id": "/m/065ytqw",
+        "lat": 35.07587799,
+        "lng": 33.01391177
     },
     {
         "wikidata_id": "Q9371020",
         "name": "Variseia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064n7ql"
+        "freebase_id": "/m/064n7ql",
+        "lat": 35.12865566,
+        "lng": 32.74898469
     },
     {
         "wikidata_id": "Q18209601",
         "name": "Panagra",
         "description": "village in Cyprus",
-        "freebase_id": "/m/0121l9jd"
+        "freebase_id": "/m/0121l9jd",
+        "lat": 35.338539,
+        "lng": 33.066781
     },
     {
         "wikidata_id": "Q11733885",
         "name": "Kalo Chorio, Limassol",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/027cmcq"
+        "freebase_id": "/m/027cmcq",
+        "lat": 34.850228,
+        "lng": 33.032088
     },
     {
         "wikidata_id": "Q11786854",
         "name": "Mouttagiaka",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065y6y7"
+        "freebase_id": "/m/065y6y7",
+        "lat": 34.721666666,
+        "lng": 33.1025
     },
     {
         "wikidata_id": "Q11786819",
         "name": "Mousoulita",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065znrd"
+        "freebase_id": "/m/065znrd",
+        "lat": 35.19305898,
+        "lng": 33.64116915
     },
     {
         "wikidata_id": "Q7607571",
         "name": "Steni",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/06603x3"
+        "freebase_id": "/m/06603x3",
+        "lat": 34.997598,
+        "lng": 32.47231968
     },
     {
         "wikidata_id": "Q16269991",
         "name": "Kato Lefkara",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0ch13vc"
+        "freebase_id": "/m/0ch13vc",
+        "lat": 34.862469261,
+        "lng": 33.316770369
     },
     {
         "wikidata_id": "Q7942718",
         "name": "Vretsia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065y1gp"
+        "freebase_id": "/m/065y1gp",
+        "lat": 34.88988845,
+        "lng": 32.65882142
     },
     {
         "wikidata_id": "Q10588215",
         "name": "Moni",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065xytm"
+        "freebase_id": "/m/065xytm",
+        "lat": 34.738333333,
+        "lng": 33.201111111
     },
     {
         "wikidata_id": "Q9371541",
         "name": "Vathylakas",
         "description": "village in Famagusta District, Cyprus",
-        "freebase_id": "/m/065_twr"
+        "freebase_id": "/m/065_twr",
+        "lat": 35.484444444,
+        "lng": 34.185277777
     },
     {
         "wikidata_id": "Q18712727",
         "name": "Agioi Iliofotoi",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/012lmz0s"
+        "freebase_id": "/m/012lmz0s",
+        "lat": 35.0682826,
+        "lng": 33.11305375
     },
     {
         "wikidata_id": "Q7689162",
         "name": "Tavrou",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/065ztkx"
+        "freebase_id": "/m/065ztkx",
+        "lat": 35.39698979,
+        "lng": 34.07716796
     },
     {
         "wikidata_id": "Q7846552",
         "name": "Troulloi",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/0dplh4"
+        "freebase_id": "/m/0dplh4",
+        "lat": 35.03263131,
+        "lng": 33.61550982
     },
     {
         "wikidata_id": "Q11733887",
         "name": "Kalograia",
         "description": "village in Kyrenia District, Cyprus",
-        "freebase_id": "/m/065y5vj"
+        "freebase_id": "/m/065y5vj",
+        "lat": 35.3549843,
+        "lng": 33.63712783
     },
     {
         "wikidata_id": "Q11733931",
         "name": "Kampia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064pb9t"
+        "freebase_id": "/m/064pb9t",
+        "lat": 35.00502236,
+        "lng": 33.25090716
     },
     {
         "wikidata_id": "Q14623619",
         "name": "Akrotiri",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/0660z14"
+        "freebase_id": "/m/0660z14",
+        "lat": 34.600833333,
+        "lng": 32.955
     },
     {
         "wikidata_id": "Q7781026",
         "name": "Theletra",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660wnh"
+        "freebase_id": "/m/0660wnh",
+        "lat": 34.91178659,
+        "lng": 32.44747913
     },
     {
         "wikidata_id": "Q7939935",
         "name": "Vokolida",
         "description": "village in İskele District, Cyprus",
-        "freebase_id": "/m/0660jd7"
+        "freebase_id": "/m/0660jd7",
+        "lat": 35.37905714,
+        "lng": 34.07099824
     },
     {
         "wikidata_id": "Q8045407",
         "name": "Xyliatos",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660w2m"
+        "freebase_id": "/m/0660w2m",
+        "lat": 35.02959281,
+        "lng": 33.04319269
     },
     {
         "wikidata_id": "Q11748240",
         "name": "Kritou Marottou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065z034"
+        "freebase_id": "/m/065z034",
+        "lat": 34.92684842,
+        "lng": 32.56263403
     },
     {
         "wikidata_id": "Q20949418",
         "name": "Göçmenköy",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/012nmhbq"
+        "freebase_id": "/m/012nmhbq",
+        "lat": 35.20916667,
+        "lng": 33.33444444
     },
     {
         "wikidata_id": "Q16147739",
         "name": "Arab Ahmet, Nicosia",
         "description": "neighborhood in North Nicosia, TRNC",
-        "freebase_id": "/m/0zrr46h"
+        "freebase_id": "/m/0zrr46h",
+        "lat": 35.166666666,
+        "lng": 33.416666666
     },
     {
         "wikidata_id": "Q20949582",
         "name": "Haydar Pasha, Nicosia",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/0y6mms0"
+        "freebase_id": "/m/0y6mms0",
+        "lat": 35.17751396,
+        "lng": 33.36667527
     },
     {
         "wikidata_id": "Q4779730",
         "name": "Aphrodite Hills",
         "description": "coastal resort in Cyprus",
-        "freebase_id": "/m/0bbw6jj"
+        "freebase_id": "/m/0bbw6jj",
+        "lat": 34.68232031,
+        "lng": 32.60889141
     },
     {
         "wikidata_id": "Q56421406",
         "name": "Rizokarpaso",
         "description": "community in Famagusta District, Republic of Cyprus",
-        "freebase_id": "/m/03n4gm"
+        "freebase_id": "/m/03n4gm",
+        "lat": 35.60113592,
+        "lng": 34.38318923
     },
     {
         "wikidata_id": "Q4694105",
         "name": "Agridaki",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064pb4n"
+        "freebase_id": "/m/064pb4n",
+        "lat": 35.30834754,
+        "lng": 33.15266407
     },
     {
         "wikidata_id": "Q4734356",
         "name": "Alona",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065_h3y"
+        "freebase_id": "/m/065_h3y",
+        "lat": 34.93466982,
+        "lng": 33.03994059
     },
     {
         "wikidata_id": "Q6375070",
         "name": "Katalynata ton Plakoton",
         "description": "Archeological site in Cyprus",
-        "freebase_id": "/m/0bmjbpp"
+        "freebase_id": "/m/0bmjbpp",
+        "lat": 34.58333333,
+        "lng": 32.94583333
     },
     {
         "wikidata_id": "Q4692623",
         "name": "Agios Epifanios Oreinis",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064m9dj"
+        "freebase_id": "/m/064m9dj",
+        "lat": 34.99609829,
+        "lng": 33.12035873
     },
     {
         "wikidata_id": "Q4692621",
         "name": "Agios Epifanios Soleas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065ztwj"
+        "freebase_id": "/m/065ztwj",
+        "lat": 35.06485631,
+        "lng": 32.86823382
     },
     {
         "wikidata_id": "Q4692630",
         "name": "Agios Georgios Kafkallou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064p446"
+        "freebase_id": "/m/064p446",
+        "lat": 35.03713676,
+        "lng": 33.01263778
     },
     {
         "wikidata_id": "Q4692632",
         "name": "Agios Georgios Soleas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0gg61dx"
+        "freebase_id": "/m/0gg61dx",
+        "lat": 35.10674496,
+        "lng": 32.88751916
     },
     {
         "wikidata_id": "Q4692639",
         "name": "Agios Ioannis Malountas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660vcl"
+        "freebase_id": "/m/0660vcl",
+        "lat": 35.06586009,
+        "lng": 33.18346807
     },
     {
         "wikidata_id": "Q4692641",
         "name": "Agios Ioannis Selemani",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660q1r"
+        "freebase_id": "/m/0660q1r",
+        "lat": 35.14946363,
+        "lng": 32.70615212
     },
     {
         "wikidata_id": "Q4692656",
         "name": "Agios Nikolaos Soleas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0gg52px"
+        "freebase_id": "/m/0gg52px",
+        "lat": 35.10241527,
+        "lng": 32.8727691
     },
     {
         "wikidata_id": "Q4692665",
         "name": "Agios Sozomenos",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064p_r9"
+        "freebase_id": "/m/064p_r9",
+        "lat": 35.0653697,
+        "lng": 33.43865021
     },
     {
         "wikidata_id": "Q4692672",
         "name": "Agios Theodoros Soleas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/064qj0s"
+        "freebase_id": "/m/064qj0s",
+        "lat": 35.04199442,
+        "lng": 32.92745164
     },
     {
         "wikidata_id": "Q4831299",
         "name": "Ayios Nikolaos, SBA",
         "description": "military garrison in Akrotiri and Dhekelia",
-        "freebase_id": "/m/03wbfq8"
+        "freebase_id": "/m/03wbfq8",
+        "lat": 35.088055555,
+        "lng": 33.889722222
     },
     {
         "wikidata_id": "Q4694248",
         "name": "Agrokipia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/06602zx"
+        "freebase_id": "/m/06602zx",
+        "lat": 35.04457537,
+        "lng": 33.15548201
     },
     {
         "wikidata_id": "Q4750816",
         "name": "Anafotida",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064py4x"
+        "freebase_id": "/m/064py4x",
+        "lat": 34.82435351,
+        "lng": 33.46357091
     },
     {
         "wikidata_id": "Q81522",
         "name": "Ayios Nikolaos Station",
         "description": "British Army station and part of in the British Sovereign Base Area of Dhekelia in Cyprus",
-        "freebase_id": "/m/04zgwj"
+        "freebase_id": "/m/04zgwj",
+        "lat": 35.0931,
+        "lng": 33.8867
     },
     {
         "wikidata_id": "Q11739828",
         "name": "Agios Neophytos Monastery",
         "description": "monastery in Cyprus founded in the 12th century",
-        "freebase_id": "/m/011x3nys"
+        "freebase_id": "/m/011x3nys",
+        "lat": 34.8464,
+        "lng": 32.4462
     },
     {
         "wikidata_id": "Q16328297",
         "name": "Omorfita",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0ztj4rs"
+        "freebase_id": "/m/0ztj4rs",
+        "lat": 35.183333333,
+        "lng": 33.416666666
     },
     {
         "wikidata_id": "Q4692596",
         "name": "Agioi Vavatsinias",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/06609d3"
+        "freebase_id": "/m/06609d3",
+        "lat": 34.87961233,
+        "lng": 33.19125319
     },
     {
         "wikidata_id": "Q16962449",
         "name": "Tabakhane, Nicosia",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0z2nj8n"
+        "freebase_id": "/m/0z2nj8n",
+        "lat": 35.17179688,
+        "lng": 33.3598852
     },
     {
         "wikidata_id": "Q4700714",
         "name": "Akhelia",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065xxp4"
+        "freebase_id": "/m/065xxp4",
+        "lat": 34.73921545,
+        "lng": 32.4858871
     },
     {
         "wikidata_id": "Q2578745",
         "name": "Apostolos Andreas Monastery",
         "description": "holy building in Cyprus",
-        "freebase_id": "/m/06hf6l"
+        "freebase_id": "/m/06hf6l",
+        "lat": 35.659444444,
+        "lng": 34.571388888
     },
     {
         "wikidata_id": "Q2066053",
         "name": "Palaichori",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064lglv"
+        "freebase_id": "/m/064lglv",
+        "lat": 34.92277778,
+        "lng": 33.095
     },
     {
         "wikidata_id": "Q4727371",
         "name": "Alithinou",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/065yry3"
+        "freebase_id": "/m/065yry3",
+        "lat": 34.94723506,
+        "lng": 33.02955396
     },
     {
         "wikidata_id": "Q4750758",
         "name": "Anadhiou",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660fz6"
+        "freebase_id": "/m/0660fz6",
+        "lat": 34.944363,
+        "lng": 32.5661999
     },
     {
         "wikidata_id": "Q2426066",
         "name": "Stavrovouni Monastery",
         "description": "monastery on a hill in Cyprus",
-        "freebase_id": "/m/06xgrs"
+        "freebase_id": "/m/06xgrs",
+        "lat": 34.885875,
+        "lng": 33.435497222
     },
     {
         "wikidata_id": "Q4692625",
         "name": "Agios Ermolaos",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064mq34"
+        "freebase_id": "/m/064mq34",
+        "lat": 35.2786971,
+        "lng": 33.17261887
     },
     {
         "wikidata_id": "Q1330216",
         "name": "Trooditissa Monastery",
         "description": "monastery",
-        "freebase_id": "/m/027xcg8"
+        "freebase_id": "/m/027xcg8",
+        "lat": 34.9129,
+        "lng": 32.8383
     },
     {
         "wikidata_id": "Q4133388",
         "name": "Ganchvor monastery",
         "description": "Armenian monastery in Cyprus",
-        "freebase_id": "/m/0ch1z6s"
+        "freebase_id": "/m/0ch1z6s",
+        "lat": 35.127305555,
+        "lng": 33.936388888
     },
     {
         "wikidata_id": "Q18208878",
         "name": "Kantara monastery",
         "description": "religious building in Cyprus",
-        "freebase_id": "/m/011sq0cq"
+        "freebase_id": "/m/011sq0cq",
+        "lat": 35.384864,
+        "lng": 33.899123
     },
     {
         "wikidata_id": "Q7565217",
         "name": "Sourp Magar",
         "description": "Armenian monastery in Cyprus",
-        "freebase_id": "/m/0cc9mbt"
+        "freebase_id": "/m/0cc9mbt",
+        "lat": 35.2875,
+        "lng": 33.522222222
     },
     {
         "wikidata_id": "Q4751031",
         "name": "Analiontas",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660d1c"
+        "freebase_id": "/m/0660d1c",
+        "lat": 35.00679958,
+        "lng": 33.29053762
     },
     {
         "wikidata_id": "Q16901037",
         "name": "Taht-el-kale, Nicosia",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0zn1clq"
+        "freebase_id": "/m/0zn1clq",
+        "lat": 35.17567017,
+        "lng": 33.37225963
     },
     {
         "wikidata_id": "Q4750828",
         "name": "Anagyia",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660tw2"
+        "freebase_id": "/m/0660tw2",
+        "lat": 35.07469051,
+        "lng": 33.24741984
     },
     {
         "wikidata_id": "Q4701560",
         "name": "Akoursos",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0660qjj"
+        "freebase_id": "/m/0660qjj",
+        "lat": 34.88679819,
+        "lng": 32.42149747
     },
     {
         "wikidata_id": "Q4692671",
         "name": "Agios Theodoros",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064mrqc"
+        "freebase_id": "/m/064mrqc",
+        "lat": 34.79994573,
+        "lng": 33.38474918
     },
     {
         "wikidata_id": "Q4734114",
         "name": "Aloda",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065z3d_"
+        "freebase_id": "/m/065z3d_",
+        "lat": 35.20970517,
+        "lng": 33.82705518
     },
     {
         "wikidata_id": "Q349503",
         "name": "Lakatamia",
         "description": "municipality of Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0dpm0f"
+        "freebase_id": "/m/0dpm0f",
+        "lat": 35.11171774,
+        "lng": 33.31263982
     },
     {
         "wikidata_id": "Q75666",
         "name": "Varosha",
         "description": "human settlement in Cyprus",
-        "freebase_id": "/m/0dn141"
+        "freebase_id": "/m/0dn141",
+        "lat": 35.110833333,
+        "lng": 33.953611111
     },
     {
         "wikidata_id": "Q16849708",
         "name": "Iplik-Pazar-Korkout Efenti",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0_ydwk1"
+        "freebase_id": "/m/0_ydwk1",
+        "lat": 35.166666666,
+        "lng": 33.416666666
     },
     {
         "wikidata_id": "Q4692627",
         "name": "Agios Epiktitos",
         "description": "village in Cyprus",
-        "freebase_id": "/m/0660pds"
+        "freebase_id": "/m/0660pds",
+        "lat": 35.32641842,
+        "lng": 33.39314946
     },
     {
         "wikidata_id": "Q4692629",
         "name": "Agios Georgios Keryneias",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064ky4z"
+        "freebase_id": "/m/064ky4z",
+        "lat": 35.34525337,
+        "lng": 33.26791572
     },
     {
         "wikidata_id": "Q4692682",
         "name": "Agirda",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064kvvh"
+        "freebase_id": "/m/064kvvh",
+        "lat": 35.29493752,
+        "lng": 33.27698173
     },
     {
         "wikidata_id": "Q3561608",
         "name": "Kaimakli",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/065_cbw"
+        "freebase_id": "/m/065_cbw",
+        "lat": 35.18528582,
+        "lng": 33.39017257
     },
     {
         "wikidata_id": "Q4255030",
         "name": "Latchi",
         "description": "place in Paphos District, Cyprus",
-        "freebase_id": "/m/064qcdc"
+        "freebase_id": "/m/064qcdc",
+        "lat": 35.038055555,
+        "lng": 32.393611111
     },
     {
         "wikidata_id": "Q16824520",
         "name": "Ak Kavuk, Nicosia",
         "description": "neighborhood in Nicosia, Cyprus",
-        "freebase_id": "/m/0zrnpqp"
+        "freebase_id": "/m/0zrnpqp",
+        "lat": 35.18138564,
+        "lng": 33.36397337
     },
     {
         "wikidata_id": "Q4740228",
         "name": "Amargheti",
         "description": "community in Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/065ygvy"
+        "freebase_id": "/m/065ygvy",
+        "lat": 34.82428359,
+        "lng": 32.58384804
     },
     {
         "wikidata_id": "Q16826480",
         "name": "Ayios Kassianos, Nicosia",
         "description": "neighborhood in Nicosia, Cyprus",
-        "freebase_id": "/m/0zdmhjx"
+        "freebase_id": "/m/0zdmhjx",
+        "lat": 35.166666666,
+        "lng": 33.416666666
     },
     {
         "wikidata_id": "Q16826484",
         "name": "Ayios Loukas",
         "description": "neighborhood in Nicosia, Cyprus",
-        "freebase_id": "/m/0zrn1lz"
+        "freebase_id": "/m/0zrn1lz",
+        "lat": 35.18083976,
+        "lng": 33.36575167
     },
     {
         "wikidata_id": "Q4748091",
         "name": "Ampelikou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064nbjw"
+        "freebase_id": "/m/064nbjw",
+        "lat": 35.11995012,
+        "lng": 32.80445871
     },
     {
         "wikidata_id": "Q2048872",
         "name": "Panagidia Galaktotrofousa monastery",
         "description": "No description available",
-        "freebase_id": "/m/0j644tk"
+        "freebase_id": "/m/0j644tk",
+        "lat": 34.856389,
+        "lng": 33.381389
     },
     {
         "wikidata_id": "Q6816909",
         "name": "Meneou",
         "description": "quarter of Dromolaxia-Meneou Municipality",
-        "freebase_id": "/m/065ysdy"
+        "freebase_id": "/m/065ysdy",
+        "lat": 34.86074758,
+        "lng": 33.59314296
     },
     {
         "wikidata_id": "Q2066634",
         "name": "Gialia Monastery",
         "description": "No description available",
-        "freebase_id": "/m/02w30vs"
+        "freebase_id": "/m/02w30vs",
+        "lat": 35.0895,
+        "lng": 32.555
     },
     {
         "wikidata_id": "Q4694107",
         "name": "Agridia",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065zvy6"
+        "freebase_id": "/m/065zvy6",
+        "lat": 34.928611111,
+        "lng": 32.994444444
     },
     {
         "wikidata_id": "Q588760",
         "name": "Geroskipou",
         "description": "municipality of Paphos District, Republic of Cyprus",
-        "freebase_id": "/m/0ftxr6"
+        "freebase_id": "/m/0ftxr6",
+        "lat": 34.76090779,
+        "lng": 32.44843841
     },
     {
         "wikidata_id": "Q225373",
         "name": "Kykkos Monastery",
         "description": "monastery in Cyprus",
-        "freebase_id": "/m/0cn2d1"
+        "freebase_id": "/m/0cn2d1",
+        "lat": 34.983866666,
+        "lng": 32.741075
     },
     {
         "wikidata_id": "Q349340",
         "name": "Germasogeia",
         "description": "municipality of Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/04n4rqc"
+        "freebase_id": "/m/04n4rqc",
+        "lat": 34.718055555,
+        "lng": 33.085555555
     },
     {
         "wikidata_id": "Q4701722",
         "name": "Akrounta",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/06602yj"
+        "freebase_id": "/m/06602yj",
+        "lat": 34.765643,
+        "lng": 33.081255
     },
     {
         "wikidata_id": "Q5114608",
         "name": "Chrysiliou",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/047m9_y"
+        "freebase_id": "/m/047m9_y",
+        "lat": 35.21464274,
+        "lng": 33.01953716
     },
     {
         "wikidata_id": "Q4700284",
         "name": "Akapnou",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065y8n7"
+        "freebase_id": "/m/065y8n7",
+        "lat": 34.837777777,
+        "lng": 33.186944444
     },
     {
         "wikidata_id": "Q4716046",
         "name": "Alektora",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065_znc"
+        "freebase_id": "/m/065_znc",
+        "lat": 34.709166666,
+        "lng": 32.681944444
     },
     {
         "wikidata_id": "Q4716519",
         "name": "Alethriko",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/065_lcr"
+        "freebase_id": "/m/065_lcr",
+        "lat": 34.86098853,
+        "lng": 33.49430039
     },
     {
         "wikidata_id": "Q47317686",
         "name": "Skala",
         "description": "quarter of Larnaca Municipality",
-        "freebase_id": "/m/0r3vrxd"
+        "freebase_id": "/m/0r3vrxd",
+        "lat": 34.90784524,
+        "lng": 33.63478822
     },
     {
         "wikidata_id": "Q4692676",
         "name": "Agios Vasileios",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065z76p"
+        "freebase_id": "/m/065z76p",
+        "lat": 35.21963048,
+        "lng": 33.18563621
     },
     {
         "wikidata_id": "Q4705928",
         "name": "Alaminos",
         "description": "community in Larnaca District, Republic of Cyprus",
-        "freebase_id": "/m/064l61n"
+        "freebase_id": "/m/064l61n",
+        "lat": 34.80730476,
+        "lng": 33.43475074
     },
     {
         "wikidata_id": "Q16868998",
         "name": "Ayioi Omoloyites, Nicosia",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0ywwwtp"
+        "freebase_id": "/m/0ywwwtp",
+        "lat": 35.15919451,
+        "lng": 33.35800666
     },
     {
         "wikidata_id": "Q16869014",
         "name": "Ayios Andreas",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0_1fcr4"
+        "freebase_id": "/m/0_1fcr4",
+        "lat": 35.17354089,
+        "lng": 33.34675352
     },
     {
         "wikidata_id": "Q5308294",
         "name": "Dromolaxia",
         "description": "quarter of Dromolaxia-Meneou Municipality",
-        "freebase_id": "/m/02qqjvf"
+        "freebase_id": "/m/02qqjvf",
+        "lat": 34.87444465,
+        "lng": 33.58722064
     },
     {
         "wikidata_id": "Q16904085",
         "name": "Yeni Jami",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/0zdq3hw"
+        "freebase_id": "/m/0zdq3hw",
+        "lat": 35.166666666,
+        "lng": 33.416666666
     },
     {
         "wikidata_id": "Q15195492",
         "name": "Ayios Antonios, Nicosia",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0xnt462"
+        "freebase_id": "/m/0xnt462",
+        "lat": 35.16506033,
+        "lng": 33.37052721
     },
     {
         "wikidata_id": "Q1404714",
         "name": "Tenta, Cyprus",
         "description": "Neolithic settlement",
-        "freebase_id": "/m/04jbj_t"
+        "freebase_id": "/m/04jbj_t",
+        "lat": 34.7525,
+        "lng": 33.30305556
     },
     {
         "wikidata_id": "Q1734309",
         "name": "Karpasia",
         "description": "Ancient town in Cyprus",
-        "freebase_id": "/m/02qs9xx"
+        "freebase_id": "/m/02qs9xx",
+        "lat": 35.61994444,
+        "lng": 34.35175
     },
     {
         "wikidata_id": "Q7129821",
         "name": "Panagia tou Sinti Monastery",
         "description": "Orthodox monastery in Cyprus",
-        "freebase_id": "/m/0glp62y"
+        "freebase_id": "/m/0glp62y",
+        "lat": 34.8365,
+        "lng": 32.639
     },
     {
         "wikidata_id": "Q4810559",
         "name": "Potamos tou Kampou",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/064l8l2"
+        "freebase_id": "/m/064l8l2",
+        "lat": 35.144166666,
+        "lng": 32.807777777
     },
     {
         "wikidata_id": "Q3361547",
         "name": "Pallouriotissa",
         "description": "quarter of Nicosia Municipality",
-        "freebase_id": "/m/0z6s1bg"
+        "freebase_id": "/m/0z6s1bg",
+        "lat": 35.17309185,
+        "lng": 33.38205505
     },
     {
         "wikidata_id": "Q4716568",
         "name": "Alevga",
         "description": "community in Nicosia District, Republic of Cyprus",
-        "freebase_id": "/m/0660x05"
+        "freebase_id": "/m/0660x05",
+        "lat": 35.15509051,
+        "lng": 32.6082477
     },
     {
         "wikidata_id": "Q20949602",
         "name": "Köşklüçiftlik",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/012nl3jz"
+        "freebase_id": "/m/012nl3jz",
+        "lat": 35.18305556,
+        "lng": 33.35555556
     },
     {
         "wikidata_id": "Q934563",
         "name": "Lefkoniko",
         "description": "human settlement",
-        "freebase_id": "/m/027k0cl"
+        "freebase_id": "/m/027k0cl",
+        "lat": 35.25983065,
+        "lng": 33.73208641
     },
     {
         "wikidata_id": "Q1466831",
         "name": "Marion",
         "description": "one of the Ten city-kingdoms of Cyprus",
-        "freebase_id": "/m/02pvll9"
+        "freebase_id": "/m/02pvll9",
+        "lat": 35.037245,
+        "lng": 32.436032
     },
     {
         "wikidata_id": "Q1500333",
@@ -3429,13 +4569,17 @@
         "wikidata_id": "Q1795203",
         "name": "Kythrea",
         "description": "place in Nicosia District, Cyprus",
-        "freebase_id": "/m/0gh0qk"
+        "freebase_id": "/m/0gh0qk",
+        "lat": 35.24506678,
+        "lng": 33.48246623
     },
     {
         "wikidata_id": "Q599485",
         "name": "Katokopia",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064k4j8"
+        "freebase_id": "/m/064k4j8",
+        "lat": 35.17532509,
+        "lng": 33.05202157
     },
     {
         "wikidata_id": "Q2391337",
@@ -3453,109 +4597,145 @@
         "wikidata_id": "Q767089",
         "name": "Salamis",
         "description": "historical state on Cyprus and archaeological site",
-        "freebase_id": "/m/0khg6"
+        "freebase_id": "/m/0khg6",
+        "lat": 35.183333333,
+        "lng": 33.9
     },
     {
         "wikidata_id": "Q206760",
         "name": "Kyrenia",
         "description": "place in Kyrenia District, Northern Cyprus",
-        "freebase_id": "/m/013rkq"
+        "freebase_id": "/m/013rkq",
+        "lat": 35.340277777,
+        "lng": 33.319166666
     },
     {
         "wikidata_id": "Q7624924",
         "name": "Strovilia",
         "description": "place in Gazimağusa District, Northern Cyprus",
-        "freebase_id": "/m/03wbfrb"
+        "freebase_id": "/m/03wbfrb",
+        "lat": 35.095,
+        "lng": 33.9
     },
     {
         "wikidata_id": "Q1743884",
         "name": "Kition",
         "description": "ancient Phoenician city and kingdom in Cyprus",
-        "freebase_id": "/m/0cc5cpq"
+        "freebase_id": "/m/0cc5cpq",
+        "lat": 34.923296,
+        "lng": 33.630545
     },
     {
         "wikidata_id": "Q4817679",
         "name": "Davlos",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065ytfl"
+        "freebase_id": "/m/065ytfl",
+        "lat": 35.42124122,
+        "lng": 33.90510102
     },
     {
         "wikidata_id": "Q2508095",
         "name": "Ledra",
         "description": "ancient city-state on Cyprus at or near the site of present-day Nicosia",
-        "freebase_id": "/m/0gh4n6"
+        "freebase_id": "/m/0gh4n6",
+        "lat": 35.1625,
+        "lng": 33.3625
     },
     {
         "wikidata_id": "Q2343313",
         "name": "Amathus",
         "description": "ancient city and one of the ancient royal cities of Cyprus until about 300 BC.",
-        "freebase_id": "/m/0s6b"
+        "freebase_id": "/m/0s6b",
+        "lat": 34.7125,
+        "lng": 33.1419
     },
     {
         "wikidata_id": "Q1757296",
         "name": "Soli",
         "description": "city of Cyprus",
-        "freebase_id": "/m/013ss6"
+        "freebase_id": "/m/013ss6",
+        "lat": 35.1404,
+        "lng": 32.8126
     },
     {
         "wikidata_id": "Q1720688",
         "name": "Tamassos",
         "description": "Iron age city-state on Cyprus",
-        "freebase_id": "/m/0dfqpr"
+        "freebase_id": "/m/0dfqpr",
+        "lat": 35.025,
+        "lng": 33.24166667
     },
     {
         "wikidata_id": "Q3567119",
         "name": "Peristeronopigi",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064mzw5"
+        "freebase_id": "/m/064mzw5",
+        "lat": 35.220277777,
+        "lng": 33.76
     },
     {
         "wikidata_id": "Q2967764",
         "name": "Chytri",
         "description": "city-kingdom of Cyprus in antiquity",
-        "freebase_id": "/m/025_1rq"
+        "freebase_id": "/m/025_1rq",
+        "lat": 35.251979,
+        "lng": 33.494769
     },
     {
         "wikidata_id": "Q6426286",
         "name": "Koilanemos",
         "description": "village in Cyprus",
-        "freebase_id": "/m/065_d_t"
+        "freebase_id": "/m/065_d_t",
+        "lat": 35.49158735,
+        "lng": 34.14223125
     },
     {
         "wikidata_id": "Q1656624",
         "name": "Idalion",
         "description": "ancient city in Cyprus",
-        "freebase_id": "/m/07kj_3"
+        "freebase_id": "/m/07kj_3",
+        "lat": 35.015833333,
+        "lng": 33.423055555
     },
     {
         "wikidata_id": "Q3856",
         "name": "Nicosia",
         "description": "Capital of Cyprus",
-        "freebase_id": "/m/0fqg8"
+        "freebase_id": "/m/0fqg8",
+        "lat": 35.1725,
+        "lng": 33.365
     },
     {
         "wikidata_id": "Q685323",
         "name": "Leonarisso",
         "description": "human settlement in Cyprus",
-        "freebase_id": "/m/047p_63"
+        "freebase_id": "/m/047p_63",
+        "lat": 35.46820138,
+        "lng": 34.13747814
     },
     {
         "wikidata_id": "Q2714727",
         "name": "Akanthou",
         "description": "village in Cyprus",
-        "freebase_id": "/m/064pz24"
+        "freebase_id": "/m/064pz24",
+        "lat": 35.39290202,
+        "lng": 33.74701528
     },
     {
         "wikidata_id": "Q1785592",
         "name": "Kourion",
         "description": "ancient city, excavation area",
-        "freebase_id": "/m/098qt9"
+        "freebase_id": "/m/098qt9",
+        "lat": 34.6642,
+        "lng": 32.8877
     },
     {
         "wikidata_id": "Q12065255",
         "name": "Paphos Archaeological Park",
         "description": "archaeological park in Cyprus",
-        "freebase_id": "/m/0j1ftcr"
+        "freebase_id": "/m/0j1ftcr",
+        "lat": 34.759931,
+        "lng": 32.407565
     },
     {
         "wikidata_id": "Q1138654",
@@ -3567,55 +4747,73 @@
         "wikidata_id": "Q180918",
         "name": "Paphos",
         "description": "town in Cyprus",
-        "freebase_id": "/m/02tyg0"
+        "freebase_id": "/m/02tyg0",
+        "lat": 34.77612852,
+        "lng": 32.42651039
     },
     {
         "wikidata_id": "Q7611175",
         "name": "Sterakovou",
         "description": "settlement in Limassol District, Cyprus",
-        "freebase_id": "/m/065_63f"
+        "freebase_id": "/m/065_63f",
+        "lat": 34.710277777,
+        "lng": 32.831944444
     },
     {
         "wikidata_id": "Q2626640",
         "name": "Lysi",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/064pzkh"
+        "freebase_id": "/m/064pzkh",
+        "lat": 35.10414682,
+        "lng": 33.68152608
     },
     {
         "wikidata_id": "Q5298207",
         "name": "Doros",
         "description": "community in Limassol District, Republic of Cyprus",
-        "freebase_id": "/m/065ywxg"
+        "freebase_id": "/m/065ywxg",
+        "lat": 34.815833333,
+        "lng": 32.911666666
     },
     {
         "wikidata_id": "Q171882",
         "name": "Larnaca",
         "description": "city on the southern coast of Cyprus",
-        "freebase_id": "/m/01q7yl"
+        "freebase_id": "/m/01q7yl",
+        "lat": 34.916666666,
+        "lng": 33.633333333
     },
     {
         "wikidata_id": "Q185632",
         "name": "Limassol",
         "description": "city in the Limassol District, Cyprus",
-        "freebase_id": "/m/0ft08"
+        "freebase_id": "/m/0ft08",
+        "lat": 34.674997,
+        "lng": 33.044286
     },
     {
         "wikidata_id": "Q3561051",
         "name": "Arsinoe",
         "description": "ancient city in Cyprus",
-        "freebase_id": "/m/0d7_jb"
+        "freebase_id": "/m/0d7_jb",
+        "lat": 34.739756,
+        "lng": 32.449913
     },
     {
         "wikidata_id": "Q6549755",
         "name": "Limnitis",
         "description": "coastal village of Cyprus",
-        "freebase_id": "/m/06mz6l"
+        "freebase_id": "/m/06mz6l",
+        "lat": 35.16753177,
+        "lng": 32.73513599
     },
     {
         "wikidata_id": "Q427902",
         "name": "Arsinoe",
         "description": "ancient town of northwest Cyprus",
-        "freebase_id": "/m/0d7_53"
+        "freebase_id": "/m/0d7_53",
+        "lat": 35.034889,
+        "lng": 32.421841
     },
     {
         "wikidata_id": "Q6422076",
@@ -3627,7 +4825,9 @@
         "wikidata_id": "Q2762100",
         "name": "North Nicosia",
         "description": "capital of Northern Cyprus",
-        "freebase_id": "/m/0c00z1t"
+        "freebase_id": "/m/0c00z1t",
+        "lat": 35.19,
+        "lng": 33.363611111
     },
     {
         "wikidata_id": "Q18208198",
@@ -3639,31 +4839,41 @@
         "wikidata_id": "Q830638",
         "name": "Morphou",
         "description": "town in Cyprus",
-        "freebase_id": "/m/0yh40"
+        "freebase_id": "/m/0yh40",
+        "lat": 35.19777737,
+        "lng": 32.99274853
     },
     {
         "wikidata_id": "Q611054",
         "name": "Karavostasi",
         "description": "town in Cyprus",
-        "freebase_id": "/m/064nbll"
+        "freebase_id": "/m/064nbll",
+        "lat": 35.14290445,
+        "lng": 32.8089519
     },
     {
         "wikidata_id": "Q344055",
         "name": "Trikomo",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/02x5tks"
+        "freebase_id": "/m/02x5tks",
+        "lat": 35.28573451,
+        "lng": 33.89125963
     },
     {
         "wikidata_id": "Q2113430",
         "name": "Protaras",
         "description": "place in Famagusta District, Cyprus",
-        "freebase_id": "/m/0jl12m5"
+        "freebase_id": "/m/0jl12m5",
+        "lat": 35.016666666,
+        "lng": 34.05
     },
     {
         "wikidata_id": "Q193190",
         "name": "Famagusta",
         "description": "city in northern Cyprus",
-        "freebase_id": "/m/012g2q"
+        "freebase_id": "/m/012g2q",
+        "lat": 35.116666666,
+        "lng": 33.95
     },
     {
         "wikidata_id": "Q16147306",

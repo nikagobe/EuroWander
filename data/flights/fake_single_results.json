@@ -1,0 +1,146 @@
+{
+  "search_metadata": {
+    "id": "single_fake_001",
+    "status": "Success",
+    "total_time_taken": 1.0
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "type": "2",
+    "departure_id": "/m/05qtj",
+    "arrival_id": "/m/01f62",
+    "outbound_date": "2026-06-15",
+    "currency": "EUR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Beauvais Airport", "id": "BVA", "time": "2026-06-15 10:45" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 12:30" },
+          "duration": 105,
+          "airplane": "Boeing 737",
+          "airline": "Ryanair",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+          "travel_class": "Economy",
+          "flight_number": "FR 3122",
+          "legroom": "30 in",
+          "extensions": ["Average legroom (30 in)", "Carbon emissions estimate: 87 kg"]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": { "this_flight": 88000, "typical_for_this_route": 85000, "difference_percent": 4 },
+      "price": 37,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+      "extensions": ["Checked baggage for a fee", "Fare non-refundable, taxes may be refundable", "Ticket changes for a fee"],
+      "booking_token": "token_bva_bcn_fr3122"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Charles de Gaulle Airport", "id": "CDG", "time": "2026-06-15 10:15" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 12:10" },
+          "duration": 115,
+          "airplane": "Airbus A321",
+          "airline": "Vueling",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+          "travel_class": "Economy",
+          "flight_number": "VY 8243",
+          "legroom": "29 in",
+          "extensions": ["Below average legroom (29 in)", "Wi-Fi for a fee", "Carbon emissions estimate: 90 kg"]
+        }
+      ],
+      "total_duration": 115,
+      "carbon_emissions": { "this_flight": 91000, "typical_for_this_route": 85000, "difference_percent": 7 },
+      "price": 50,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+      "extensions": ["Checked baggage for a fee", "Fare non-refundable, taxes may be refundable", "Ticket changes for a fee"],
+      "booking_token": "token_cdg_bcn_vy8243"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Orly Airport", "id": "ORY", "time": "2026-06-15 13:40" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 15:20" },
+          "duration": 100,
+          "airplane": "Airbus A320neo",
+          "airline": "Transavia",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TO.png",
+          "travel_class": "Economy",
+          "flight_number": "TO 4754",
+          "extensions": ["Carbon emissions estimate: 70 kg"]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": { "this_flight": 71000, "typical_for_this_route": 85000, "difference_percent": -16 },
+      "price": 61,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TO.png",
+      "extensions": ["Checked baggage for a fee", "Fare non-refundable, taxes may be refundable", "Ticket changes for a fee"],
+      "booking_token": "token_ory_bcn_to4754"
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Charles de Gaulle Airport", "id": "CDG", "time": "2026-06-15 07:15" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 09:00" },
+          "duration": 105,
+          "airplane": "Airbus A321",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 1148",
+          "legroom": "29 in",
+          "extensions": ["Below average legroom (29 in)", "Wi-Fi for a fee", "Carbon emissions estimate: 95 kg"]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": { "this_flight": 95000, "typical_for_this_route": 85000, "difference_percent": 12 },
+      "price": 86,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": ["Checked baggage for a fee", "Fare non-refundable, taxes may be refundable", "Ticket changes for a fee"],
+      "booking_token": "token_cdg_bcn_af1148"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Paris Orly Airport", "id": "ORY", "time": "2026-06-15 08:55" },
+          "arrival_airport": { "name": "Josep Tarradellas Barcelona-El Prat Airport", "id": "BCN", "time": "2026-06-15 10:35" },
+          "duration": 100,
+          "airplane": "Airbus A320",
+          "airline": "Vueling",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+          "travel_class": "Economy",
+          "flight_number": "VY 8001",
+          "legroom": "29 in",
+          "extensions": ["Below average legroom (29 in)", "Wi-Fi for a fee", "Carbon emissions estimate: 85 kg"]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": { "this_flight": 86000, "typical_for_this_route": 85000, "difference_percent": 1 },
+      "price": 82,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VY.png",
+      "extensions": ["Checked baggage for a fee", "Fare non-refundable, taxes may be refundable", "Ticket changes for a fee"],
+      "booking_token": "token_ory_bcn_vy8001"
+    }
+  ],
+  "airports": [
+    {
+      "departure": [
+        { "airport": { "id": "/m/05qtj", "name": "Paris" }, "city": "Paris", "country": "France", "country_code": "FR" }
+      ],
+      "arrival": [
+        { "airport": { "id": "/m/01f62", "name": "Barcelona" }, "city": "Barcelona", "country": "Spain", "country_code": "ES" }
+      ]
+    }
+  ]
+}
+

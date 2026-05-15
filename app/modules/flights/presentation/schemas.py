@@ -33,6 +33,35 @@ class FlightSearchRequest(BaseModel):
         return v.strip()
 
 
+# ── Regional / Multi-Origin Request ──────────────────────────────────────────
+
+class RegionalFlightSearchRequest(BaseModel):
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "origin_country": "France",
+                "destination_id": "/m/01f62",
+                "outbound_date": "2026-06-15",
+                "return_date": None,
+                "adults": 1,
+                "limit": 20,
+            }
+        }
+    )
+
+    origin_country: str          # Country name as stored in MongoDB, e.g. "France"
+    destination_id: str          # freebase_id of the destination city
+    outbound_date: str           # YYYY-MM-DD
+    return_date: str | None = None
+    adults: int = 1
+    limit: int = 20
+
+    @field_validator("destination_id")
+    @classmethod
+    def strip_destination(cls, v: str) -> str:
+        return v.strip()
+
+
 # ── Response ─────────────────────────────────────────────────────────────────
 
 class FlightLegResponse(BaseModel):

@@ -3,54 +3,72 @@
         "wikidata_id": "Q3778112",
         "name": "Gualdicciolo",
         "description": "village in Acquaviva, San Marino",
-        "freebase_id": "/m/0fq1ypy"
+        "freebase_id": "/m/0fq1ypy",
+        "lat": 43.9508,
+        "lng": 12.40656667
     },
     {
         "wikidata_id": "Q3686669",
         "name": "Confine",
         "description": "village in San Marino",
-        "freebase_id": "/m/0b77kb0"
+        "freebase_id": "/m/0b77kb0",
+        "lat": 43.90106667,
+        "lng": 12.41276667
     },
     {
         "wikidata_id": "Q1642645",
         "name": "Dogana",
         "description": "settlement in Serravalle, San Marino",
-        "freebase_id": "/m/0h5yjc"
+        "freebase_id": "/m/0h5yjc",
+        "lat": 43.95,
+        "lng": 12.5
     },
     {
         "wikidata_id": "Q3995104",
         "name": "Torraccia",
         "description": "village in Domagnano, San Marino",
-        "freebase_id": "/m/0fp_q9_"
+        "freebase_id": "/m/0fp_q9_",
+        "lat": 43.95322222,
+        "lng": 12.50733333
     },
     {
         "wikidata_id": "Q1848",
         "name": "San Marino",
         "description": "capital city of San Marino",
-        "freebase_id": "/m/024k9d"
+        "freebase_id": "/m/024k9d",
+        "lat": 43.932011111,
+        "lng": 12.44845
     },
     {
         "wikidata_id": "Q4009751",
         "name": "Ventoso",
         "description": "village in Borgo Maggiore, San Marino",
-        "freebase_id": "/m/0fq0lz9"
+        "freebase_id": "/m/0fq0lz9",
+        "lat": 43.9547,
+        "lng": 12.4403
     },
     {
         "wikidata_id": "Q2271111",
         "name": "Falciano",
         "description": "municipality of San Marino",
-        "freebase_id": "/m/0h78nw"
+        "freebase_id": "/m/0h78nw",
+        "lat": 43.985038888,
+        "lng": 12.504819444
     },
     {
         "wikidata_id": "Q3941941",
         "name": "Rovereta",
         "description": "village in San Marino",
-        "freebase_id": "/m/0fq2v_h"
+        "freebase_id": "/m/0fq2v_h",
+        "lat": 43.98936111,
+        "lng": 12.51286944
     },
     {
         "wikidata_id": "Q3907023",
         "name": "Poggio Casalino",
         "description": "village in San Marino",
-        "freebase_id": "/m/0fp_y3s"
+        "freebase_id": "/m/0fp_y3s",
+        "lat": 43.921066666,
+        "lng": 12.410666666
     }
 ]
