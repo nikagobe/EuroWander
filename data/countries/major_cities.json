@@ -1,0 +1,62 @@
+{
+  "Albania": ["Tirana"],
+  "Andorra": ["Andorra la Vella"],
+  "Austria": ["Vienna", "Graz", "Linz", "Salzburg", "Innsbruck"],
+  "Belarus": ["Minsk", "Gomel", "Vitebsk", "Hrodna", "Brest"],
+  "Belgium": ["Brussels", "Antwerp", "Liège", "Bruges", "Ghent", "Leuven"],
+  "Bosnia_and_Herzegovina": ["Sarajevo", "Banja Luka", "Tuzla", "Mostar"],
+  "Bulgaria": ["Sofia", "Plovdiv", "Varna", "Burgas", "Stara Zagora"],
+  "Croatia": ["Zagreb", "Split", "Rijeka", "Osijek", "Dubrovnik"],
+  "Cyprus": ["Nicosia", "Limassol", "Larnaca", "Paphos"],
+  "Czech_Republic": ["Prague", "Brno", "Ostrava", "Plzeň", "Pardubice"],
+  "Denmark": ["Copenhagen", "Aarhus", "Aalborg", "Odense"],
+  "Estonia": ["Tallinn", "Tartu"],
+  "Finland": ["Helsinki", "Tampere", "Turku", "Oulu"],
+  "France": ["Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes", "Strasbourg", "Bordeaux", "Lille"],
+  "Georgia": ["Tbilisi", "Batumi", "Kutaisi"],
+  "Germany": ["Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart", "Düsseldorf", "Leipzig", "Dresden", "Nuremberg", "Hanover", "Bremen"],
+  "Greece": ["Athens", "Thessaloniki", "Heraklion", "Patras", "Rhodes"],
+  "Hungary": ["Budapest", "Debrecen", "Miskolc", "Pécs"],
+  "Iceland": ["Akureyri"],
+  "Ireland": ["Dublin", "Cork", "Shannon"],
+  "Italy": ["Rome", "Milan", "Naples", "Turin", "Palermo", "Genoa", "Bologna", "Florence", "Venice", "Catania", "Bari"],
+  "Kazakhstan": ["Almaty", "Astana"],
+  "Kosovo": ["Pristina", "Prizren"],
+  "Latvia": ["Riga", "Daugavpils"],
+  "Liechtenstein": ["Vaduz"],
+  "Lithuania": ["Vilnius", "Kaunas", "Klaipėda"],
+  "Luxembourg": ["Luxembourg"],
+  "Malta": ["Valletta", "Birkirkara"],
+  "Moldova": [],
+  "Monaco": ["Monaco"],
+  "Montenegro": ["Podgorica", "Tivat", "Nikšić"],
+  "Netherlands": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven"],
+  "North_Macedonia": ["Skopje", "Bitola", "Ohrid"],
+  "Northern_Cyprus": ["Famagusta"],
+  "Norway": ["Oslo", "Bergen", "Trondheim"],
+  "Poland": ["Warsaw", "Kraków", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin", "Katowice"],
+  "Portugal": ["Lisbon", "Porto"],
+  "Romania": ["Bucharest", "Cluj-Napoca", "Timișoara", "Iași", "Constanța", "Brașov"],
+  "Russia": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan", "Nizhny Novgorod", "Chelyabinsk", "Samara", "Ufa", "Rostov-on-Don", "Kaliningrad", "Krasnodar"],
+  "San_Marino": ["San Marino"],
+  "Serbia": ["Belgrade", "Novi Sad", "Niš", "Subotica"],
+  "Slovakia": ["Bratislava", "Košice"],
+  "Slovenia": ["Ljubljana", "Maribor"],
+  "Spain": ["Madrid", "Barcelona", "Sevilla", "Alicante", "Palma"],
+  "Sweden": ["Stockholm", "Gothenburg", "Malmö", "Uppsala"],
+  "Switzerland": ["Zurich", "Geneva", "Basel", "Bern"],
+  "Ukraine": ["Kyiv", "Kharkiv", "Odesa", "Dnipro", "Zaporizhzhia", "Lviv", "Donetsk"],
+  "United_Kingdom": ["London", "Birmingham", "Manchester", "Glasgow", "Leeds", "Edinburgh", "Liverpool", "Bristol", "Newcastle upon Tyne"],
+  "Vatican_City": ["Vatican City"]
+}
+
+
+
+
+
+
+
+
+
+
+
