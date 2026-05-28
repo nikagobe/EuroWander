@@ -1,12 +1,19 @@
 """
-fetch_airports.py — Fetches all international airports from Wikidata
-and saves them to data/airports/airports.json.
+fetch_airports.py — Downloads airport data from OurAirports (free, open dataset)
+and saves it to data/airports/airports.json.
+
+Source: https://ourairports.com/data/
+CSV URL: https://davidmegginson.github.io/ourairports-data/airports.csv
 
 Usage:
     python scripts/fetch_airports.py
+
+Filters: only airports with a valid IATA code and type large_airport or medium_airport.
 """
 
 import asyncio
+import csv
+import io
 import json
 import sys
 import time
@@ -19,30 +26,15 @@ sys.path.insert(0, str(Path(__file__).parent))
 from wikidata_helpers import USER_AGENT
 
 OUTPUT_PATH = Path(__file__).parent.parent / "data" / "airports" / "airports.json"
-SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
 
-SPARQL_QUERY = """
-SELECT DISTINCT ?airport ?name ?iata ?lat ?lng ?countryCode WHERE {
-  ?airport wdt:P31 wd:Q1248784 .
-  ?airport wdt:P238 ?iata .
-  ?airport wdt:P625 ?coord .
-  ?airport wdt:P17  ?country .
-  ?country wdt:P297 ?countryCode .
-  ?airport rdfs:label ?name .
-  FILTER(LANG(?name) = "en")
-  BIND(geof:latitude(?coord)  AS ?lat)
-  BIND(geof:longitude(?coord) AS ?lng)
-}
-ORDER BY ?countryCode ?iata
-"""
+OURAIRPORTS_CSV_URL = "https://davidmegginson.github.io/ourairports-data/airports.csv"
+
+# Include large and medium airports that have an IATA code
+ALLOWED_TYPES = {"large_airport", "medium_airport"}
 
 
 async def fetch_airports() -> list[dict[str, Any]]:
-    params = {"query": SPARQL_QUERY, "format": "json"}
-    headers = {
-        "Accept": "application/sparql-results+json",
-        "User-Agent": USER_AGENT,
-    }
+    headers = {"User-Agent": USER_AGENT}
 
     try:
         import ssl as _ssl
@@ -52,45 +44,49 @@ async def fetch_airports() -> list[dict[str, Any]]:
     except ImportError:
         verify = True
 
-    print("📡 Querying Wikidata for international airports (this may take 30-60s)...")
+    print("📡 Downloading airports CSV from OurAirports...")
 
-    async with httpx.AsyncClient(verify=verify, timeout=120) as client:
+    async with httpx.AsyncClient(verify=verify, timeout=60) as client:
         for attempt in range(3):
             try:
-                response = await client.get(SPARQL_ENDPOINT, params=params, headers=headers)
+                response = await client.get(OURAIRPORTS_CSV_URL, headers=headers)
                 response.raise_for_status()
-                data = response.json()
+                csv_text = response.text
                 break
             except (httpx.HTTPStatusError, httpx.RequestError) as exc:
                 print(f"  ⚠ Attempt {attempt + 1}/3 failed: {exc}")
                 if attempt < 2:
-                    await asyncio.sleep(10)
+                    await asyncio.sleep(5)
                 else:
                     raise
 
-    bindings = data.get("results", {}).get("bindings", [])
-    print(f"  ✓ Received {len(bindings)} results from Wikidata.")
-
+    reader = csv.DictReader(io.StringIO(csv_text))
     airports: list[dict[str, Any]] = []
     seen_iata: set[str] = set()
 
-    for b in bindings:
+    for row in reader:
         try:
-            wikidata_id = b["airport"]["value"].split("/")[-1]
-            iata = b["iata"]["value"].strip().upper()
-            name = b["name"]["value"].strip()
-            lat = float(b["lat"]["value"])
-            lng = float(b["lng"]["value"])
-            country_code = b["countryCode"]["value"].strip().upper()
-        except (KeyError, ValueError):
+            airport_type = row.get("type", "").strip()
+            iata = row.get("iata_code", "").strip().upper()
+            name = row.get("name", "").strip()
+            lat = float(row.get("latitude_deg", "") or "nan")
+            lng = float(row.get("longitude_deg", "") or "nan")
+            country_code = row.get("iso_country", "").strip().upper()
+        except (ValueError, KeyError):
             continue
 
+        # Skip if no IATA code, wrong type, or invalid coordinates
+        if not iata or airport_type not in ALLOWED_TYPES:
+            continue
+        if lat != lat or lng != lng:  # NaN check
+            continue
         if iata in seen_iata:
             continue
         seen_iata.add(iata)
 
+        # OurAirports uses its own numeric id, not wikidata — use iata as fallback id
         airports.append({
-            "wikidata_id": wikidata_id,
+            "wikidata_id": "",  # not available from OurAirports
             "name": name,
             "iata_code": iata,
             "lat": lat,
@@ -99,6 +95,7 @@ async def fetch_airports() -> list[dict[str, Any]]:
         })
 
     airports.sort(key=lambda a: (a["country_code"], a["iata_code"]))
+    print(f"  ✓ Parsed {len(airports)} airports with IATA codes.")
     return airports
 
 

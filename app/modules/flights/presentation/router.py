@@ -3,7 +3,9 @@ from motor.motor_asyncio import AsyncIOMotorDatabase
 
 from app.config import settings
 from app.database.client import get_db
+from app.modules.airports.infrastructure.repositories import MongoAirportRepository
 from app.modules.countries.infrastructure.repositories import MongoCountryRepository
+from app.modules.flights.application.enrichment import enrich_offers_with_coords
 from app.modules.flights.application.regional_service import MultiOriginFlightService, RegionalSearchParams
 from app.modules.flights.application.services import FlightService
 from app.modules.flights.domain.interfaces import FlightSearchProvider
@@ -46,6 +48,7 @@ def get_regional_flight_service(
 async def search_flights(
     req: FlightSearchRequest,
     service: FlightService = Depends(get_flight_service),
+    db: AsyncIOMotorDatabase = Depends(get_db),
 ) -> list[FlightOfferResponse]:
     """
     Search for flights between two cities (by freebase_id).
@@ -60,6 +63,8 @@ async def search_flights(
         adults=req.adults,
         limit=req.limit,
     )
+    airport_repo = MongoAirportRepository(db["airports"])
+    offers = await enrich_offers_with_coords(offers, airport_repo)
     return [FlightOfferResponse.from_entity(offer) for offer in offers]
 
 
@@ -67,6 +72,7 @@ async def search_flights(
 async def regional_search_flights(
     req: RegionalFlightSearchRequest,
     service: MultiOriginFlightService = Depends(get_regional_flight_service),
+    db: AsyncIOMotorDatabase = Depends(get_db),
 ) -> list[FlightOfferResponse]:
     """
     Search return flights from a whole region (origin country + its neighbours)
@@ -86,6 +92,7 @@ async def regional_search_flights(
         limit=req.limit,
     )
     offers = await service.search_from_region(params)
+    airport_repo = MongoAirportRepository(db["airports"])
+    offers = await enrich_offers_with_coords(offers, airport_repo)
     return [FlightOfferResponse.from_entity(offer) for offer in offers]
-
 

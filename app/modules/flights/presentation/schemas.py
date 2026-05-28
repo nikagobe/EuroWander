@@ -71,8 +71,12 @@ class FlightLegResponse(BaseModel):
     airplane: str
     departure_airport: str          # IATA code
     departure_airport_name: str
+    departure_lat: float | None = None
+    departure_lng: float | None = None
     arrival_airport: str            # IATA code
     arrival_airport_name: str
+    arrival_lat: float | None = None
+    arrival_lng: float | None = None
     departure_time: str
     arrival_time: str
     duration_minutes: int
@@ -89,8 +93,12 @@ class FlightLegResponse(BaseModel):
             airplane=leg.airplane,
             departure_airport=leg.departure_airport,
             departure_airport_name=leg.departure_airport_name,
+            departure_lat=leg.departure_lat,
+            departure_lng=leg.departure_lng,
             arrival_airport=leg.arrival_airport,
             arrival_airport_name=leg.arrival_airport_name,
+            arrival_lat=leg.arrival_lat,
+            arrival_lng=leg.arrival_lng,
             departure_time=leg.departure_time,
             arrival_time=leg.arrival_time,
             duration_minutes=leg.duration_minutes,

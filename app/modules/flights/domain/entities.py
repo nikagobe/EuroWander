@@ -20,6 +20,11 @@ class FlightLeg:
     travel_class: str = "Economy"
     legroom: str = ""
     is_overnight: bool = False
+    # Coordinates enriched from airports collection after search
+    departure_lat: float | None = None
+    departure_lng: float | None = None
+    arrival_lat: float | None = None
+    arrival_lng: float | None = None
 
 
 @dataclass

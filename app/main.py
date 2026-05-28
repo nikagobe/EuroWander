@@ -9,6 +9,7 @@ from app.database.client import get_client
 from app.modules.airports.presentation.router import router as airports_router
 from app.modules.cities.presentation.router import router as cities_router
 from app.modules.countries.presentation.router import router as countries_router
+from app.modules.buses.presentation.router import router as buses_router
 from app.modules.flights.presentation.router import router as flights_router
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.trips.presentation.router import router as trips_router
@@ -49,6 +50,7 @@ app.include_router(airports_router, prefix="/api/v1")
 app.include_router(cities_router, prefix="/api/v1")
 app.include_router(countries_router, prefix="/api/v1")
 app.include_router(flights_router, prefix="/api/v1")
+app.include_router(buses_router, prefix="/api/v1")
 app.include_router(users_router, prefix="/api/v1")
 app.include_router(trips_router, prefix="/api/v1")
 
