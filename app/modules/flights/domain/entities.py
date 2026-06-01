@@ -25,6 +25,11 @@ class FlightLeg:
     departure_lng: float | None = None
     arrival_lat: float | None = None
     arrival_lng: float | None = None
+    # City info enriched from countries collection after search
+    departure_city_name: str | None = None
+    departure_city_freebase_id: str | None = None
+    arrival_city_name: str | None = None
+    arrival_city_freebase_id: str | None = None
 
 
 @dataclass

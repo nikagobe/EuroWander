@@ -64,7 +64,8 @@ async def search_flights(
         limit=req.limit,
     )
     airport_repo = MongoAirportRepository(db["airports"])
-    offers = await enrich_offers_with_coords(offers, airport_repo)
+    country_repo = MongoCountryRepository(db["countries"])
+    offers = await enrich_offers_with_coords(offers, airport_repo, country_repo)
     return [FlightOfferResponse.from_entity(offer) for offer in offers]
 
 
@@ -93,6 +94,7 @@ async def regional_search_flights(
     )
     offers = await service.search_from_region(params)
     airport_repo = MongoAirportRepository(db["airports"])
-    offers = await enrich_offers_with_coords(offers, airport_repo)
+    country_repo = MongoCountryRepository(db["countries"])
+    offers = await enrich_offers_with_coords(offers, airport_repo, country_repo)
     return [FlightOfferResponse.from_entity(offer) for offer in offers]
 

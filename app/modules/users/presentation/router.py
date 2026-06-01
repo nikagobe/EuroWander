@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, Query, status
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from jose import JWTError
 from motor.motor_asyncio import AsyncIOMotorDatabase
@@ -76,4 +76,19 @@ async def login(
 async def me(current_user: User = Depends(get_current_user)) -> UserResponse:
     """Return the profile of the currently authenticated user."""
     return UserResponse.from_entity(current_user)
+
+
+@router.get("/search", response_model=list[UserResponse])
+async def search_users(
+    q: str = Query(..., min_length=2, description="Partial match on first name, last name, or email"),
+    limit: int = Query(20, ge=1, le=50, description="Maximum number of results to return"),
+    current_user: User = Depends(get_current_user),
+    service: UserService = Depends(get_user_service),
+) -> list[UserResponse]:
+    """Search for users by first name, last name, or email.
+    Useful for finding people to invite to a trip.
+    The authenticated user is excluded from the results."""
+    users = await service.search_users(query=q, requester_id=current_user.id, limit=limit)
+    return [UserResponse.from_entity(u) for u in users]
+
 

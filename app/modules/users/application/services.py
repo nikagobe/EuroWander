@@ -62,3 +62,13 @@ class UserService:
             )
         return user
 
+    async def search_users(self, query: str, requester_id: str, limit: int = 20) -> list[User]:
+        """Search active users by name or email. Excludes the requester from results."""
+        query = query.strip()
+        if len(query) < 2:
+            raise HTTPException(
+                status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+                detail="Search query must be at least 2 characters.",
+            )
+        return await self._repo.search(query=query, exclude_user_id=requester_id, limit=limit)
+

@@ -28,6 +28,26 @@ class MongoCountryRepository(CountryRepository):
         docs = await cursor.to_list(length=None)
         return [self._to_entity(doc) for doc in docs]
 
+    async def get_city_by_iata(self, iata_code: str) -> MajorCity | None:
+        """Find the major city that has this IATA code in its airports list."""
+        iata_upper = iata_code.upper()
+        doc = await self.collection.find_one(
+            {"major_cities.airports": iata_upper},
+            {"major_cities.$": 1},
+        )
+        if not doc:
+            return None
+        cities = doc.get("major_cities", [])
+        if not cities:
+            return None
+        c = cities[0]
+        return MajorCity(
+            name=c.get("name", ""),
+            wikidata_id=c.get("wikidata_id", ""),
+            freebase_id=c.get("freebase_id", ""),
+            description=c.get("description", ""),
+        )
+
     @staticmethod
     def _to_entity(doc: dict) -> Country:
         major_cities = [

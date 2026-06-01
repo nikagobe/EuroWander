@@ -1,11 +1,18 @@
 """
-Helpers for building stable, human-readable flight IDs from offer data.
+Helpers for building stable, human-readable flight IDs from offer data,
+and for snapshotting both flight and bus offers into trip value-objects.
 Lives in application/ because it's business logic (not DB, not HTTP).
 """
 
 import re
 
-from app.modules.trips.domain.entities import SavedFlight, SavedFlightLeg
+from app.modules.trips.domain.entities import (
+    SavedBusJourney,
+    SavedBusSegment,
+    SavedFlight,
+    SavedFlightLeg,
+)
+from app.modules.buses.domain.entities import BusOffer
 from app.modules.flights.domain.entities import FlightOffer
 
 
@@ -62,4 +69,34 @@ def snapshot_flight(offer: FlightOffer) -> SavedFlight:
         booking_token=offer.booking_token,
         legs=legs,
     )
+
+
+def snapshot_bus(offer: BusOffer) -> SavedBusJourney:
+    """Convert a live BusOffer into a SavedBusJourney value-object for storage."""
+    segments = [
+        SavedBusSegment(
+            dep_name=seg.dep_name,
+            arr_name=seg.arr_name,
+            dep_time=seg.dep_time,
+            arr_time=seg.arr_time,
+            product_type=seg.product_type,
+            product=seg.product,
+        )
+        for seg in offer.segments
+    ]
+    return SavedBusJourney(
+        dep_name=offer.dep_name,
+        arr_name=offer.arr_name,
+        dep_time=offer.dep_time,
+        arr_time=offer.arr_time,
+        duration=offer.duration,
+        duration_minutes=offer.duration_minutes,
+        changeovers=offer.changeovers,
+        price=offer.price,
+        currency=offer.currency,
+        deeplink=offer.deeplink,
+        additional_info=offer.additional_info,
+        segments=segments,
+    )
+
 

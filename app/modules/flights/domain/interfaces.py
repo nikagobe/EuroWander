@@ -3,6 +3,26 @@ from abc import ABC, abstractmethod
 from app.modules.flights.domain.entities import FlightOffer
 
 
+class BookingLinkProvider(ABC):
+    """
+    Abstract interface for resolving a booking_token into a purchasable URL.
+    Concrete implementations call SerpApi (booking_token re-search) then
+    follow Google's redirect to extract the final vendor link.
+    """
+
+    @abstractmethod
+    async def fetch_booking_options(
+        self,
+        booking_token: str,
+        departure_id: str,   # IATA or freebase_id
+        arrival_id: str,     # IATA or freebase_id
+        outbound_date: str,  # YYYY-MM-DD
+    ) -> list[dict]: ...
+
+    @abstractmethod
+    async def resolve_url(self, url: str, post_data: str) -> str: ...
+
+
 class FlightSearchProvider(ABC):
     """
     Abstract interface for any flight-data provider.
