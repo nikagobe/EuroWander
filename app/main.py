@@ -19,6 +19,8 @@ from app.modules.finances.infrastructure.repositories import MongoExpenseReposit
 from app.modules.finances.presentation.router import router as finances_router
 from app.modules.flights.presentation.router import router as flights_router
 from app.modules.hotels.presentation.router import router as hotels_router
+from app.modules.photos.infrastructure.repositories import MongoPhotoRepository
+from app.modules.photos.presentation.router import router as photos_router
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.trips.presentation.router import router as trips_router
 from app.modules.users.infrastructure.repositories import MongoUserRepository
@@ -36,6 +38,7 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     await MongoTripRepository(db["trips"]).ensure_indexes()
     await MongoExpenseRepository(db["expenses"]).ensure_indexes()
     await MongoDocumentRepository(db["documents"]).ensure_indexes()
+    await MongoPhotoRepository(db["photos"]).ensure_indexes()
     yield
     # Shutdown: close the MongoDB connection
     client.close()
@@ -65,6 +68,7 @@ app.include_router(buses_router, prefix="/api/v1")
 app.include_router(users_router, prefix="/api/v1")
 app.include_router(trips_router, prefix="/api/v1")
 app.include_router(documents_router, prefix="/api/v1")
+app.include_router(photos_router, prefix="/api/v1")
 app.include_router(finances_router, prefix="/api/v1")
 
 

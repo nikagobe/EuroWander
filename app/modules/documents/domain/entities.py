@@ -20,6 +20,15 @@ class DocumentCategory(str, Enum):
     TICKET = "ticket"
     OTHER = "other"
 
+    def default_display_name(self) -> str:
+        """Human-readable name used when the user doesn't provide a custom name."""
+        return self.value.replace("_", " ").title()
+
+
+class DocumentVisibility(str, Enum):
+    PRIVATE = "private"  # only the uploader can see
+    GROUP = "group"      # all trip members can see
+
 
 # Only these MIME types are accepted for upload.
 ALLOWED_CONTENT_TYPES: frozenset[str] = frozenset({
@@ -48,6 +57,8 @@ class Document:
     content_type: str  # MIME type (validated against whitelist)
     size_bytes: int
     category: DocumentCategory
+    name: str = ""  # user-defined display name; defaults to category label
+    visibility: DocumentVisibility = DocumentVisibility.GROUP
     id: str = ""
     created_at: datetime = field(default_factory=datetime.utcnow)
 

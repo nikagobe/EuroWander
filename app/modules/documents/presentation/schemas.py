@@ -12,6 +12,7 @@ from app.modules.documents.domain.entities import (
     ALLOWED_CONTENT_TYPES,
     Document,
     DocumentCategory,
+    DocumentVisibility,
 )
 
 
@@ -67,6 +68,8 @@ class ConfirmUploadRequest(BaseModel):
                 "content_type": "application/pdf",
                 "size_bytes": 245_120,
                 "category": "boarding_pass",
+                "visibility": "group",
+                "name": "Paris Boarding Pass",
             }
         }
     )
@@ -76,6 +79,12 @@ class ConfirmUploadRequest(BaseModel):
     content_type: str
     size_bytes: int = Field(..., gt=0)
     category: DocumentCategory
+    visibility: DocumentVisibility = DocumentVisibility.GROUP
+    name: str = Field(
+        default="",
+        max_length=255,
+        description="Optional display name. If empty, defaults to the category label (e.g. 'Boarding Pass').",
+    )
 
 
 class DocumentResponse(BaseModel):
@@ -91,6 +100,8 @@ class DocumentResponse(BaseModel):
                 "content_type": "application/pdf",
                 "size_bytes": 245_120,
                 "category": "boarding_pass",
+                "visibility": "group",
+                "name": "Paris Boarding Pass",
                 "created_at": "2026-06-10T12:30:00",
             }
         }
@@ -103,6 +114,8 @@ class DocumentResponse(BaseModel):
     content_type: str
     size_bytes: int
     category: DocumentCategory
+    visibility: DocumentVisibility
+    name: str
     created_at: datetime
 
     @classmethod
@@ -115,6 +128,8 @@ class DocumentResponse(BaseModel):
             content_type=doc.content_type,
             size_bytes=doc.size_bytes,
             category=doc.category,
+            visibility=doc.visibility,
+            name=doc.name,
             created_at=doc.created_at,
         )
 

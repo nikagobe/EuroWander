@@ -1,28 +1,27 @@
 """
-Document application service.
+Photo application service.
 
 Orchestrates upload-URL generation, metadata persistence, and deletion.
-Business rules (access control, MIME validation, size limits) live here.
+All photos in a trip are visible to every member (no privacy toggle).
 """
 
 from datetime import datetime
 from uuid import uuid4
 
-from app.modules.documents.domain.entities import (
-    ALLOWED_CONTENT_TYPES,
-    MAX_DOCUMENTS_PER_TRIP,
-    Document,
-    DocumentCategory,
-    DocumentVisibility,
+from app.modules.documents.domain.interfaces import StorageClient
+from app.modules.photos.domain.entities import (
+    ALLOWED_PHOTO_TYPES,
+    MAX_PHOTOS_PER_TRIP,
+    Photo,
 )
-from app.modules.documents.domain.interfaces import DocumentRepository, StorageClient
+from app.modules.photos.domain.interfaces import PhotoRepository
 from app.modules.trips.domain.interfaces import TripRepository
 
 
-class DocumentService:
+class PhotoService:
     def __init__(
         self,
-        repo: DocumentRepository,
+        repo: PhotoRepository,
         storage: StorageClient,
         trip_repo: TripRepository,
     ) -> None:
@@ -40,11 +39,11 @@ class DocumentService:
 
     @staticmethod
     def _validate_content_type(content_type: str) -> None:
-        """Raise ValueError if the MIME type is not in the whitelist."""
-        if content_type not in ALLOWED_CONTENT_TYPES:
-            allowed = ", ".join(sorted(ALLOWED_CONTENT_TYPES))
+        """Raise ValueError if the MIME type is not an allowed image type."""
+        if content_type not in ALLOWED_PHOTO_TYPES:
+            allowed = ", ".join(sorted(ALLOWED_PHOTO_TYPES))
             raise ValueError(
-                f"Content type '{content_type}' is not allowed. "
+                f"Content type '{content_type}' is not allowed for photos. "
                 f"Accepted types: {allowed}"
             )
 
@@ -52,7 +51,7 @@ class DocumentService:
     def _build_file_key(trip_id: str, file_name: str) -> str:
         """Build a unique, namespaced object key for S3."""
         unique = uuid4().hex[:12]
-        return f"trips/{trip_id}/{unique}/{file_name}"
+        return f"trips/{trip_id}/photos/{unique}/{file_name}"
 
     # ── Use Cases ──────────────────────────────────────────────────────────────
 
@@ -80,9 +79,9 @@ class DocumentService:
             raise ValueError(f"File exceeds maximum allowed size ({max_mb:.0f} MB).")
 
         count = await self._repo.count_by_trip(trip_id)
-        if count >= MAX_DOCUMENTS_PER_TRIP:
+        if count >= MAX_PHOTOS_PER_TRIP:
             raise ValueError(
-                f"Trip already has {MAX_DOCUMENTS_PER_TRIP} documents (limit reached)."
+                f"Trip already has {MAX_PHOTOS_PER_TRIP} photos (limit reached)."
             )
 
         file_key = self._build_file_key(trip_id, file_name)
@@ -99,69 +98,62 @@ class DocumentService:
         file_name: str,
         content_type: str,
         size_bytes: int,
-        category: DocumentCategory,
-        visibility: DocumentVisibility = DocumentVisibility.GROUP,
-        name: str = "",
-    ) -> Document:
-        """Persist document metadata after a successful direct upload."""
+        caption: str = "",
+    ) -> Photo:
+        """Persist photo metadata after a successful direct upload."""
         await self._assert_trip_member(trip_id, user_id)
         self._validate_content_type(content_type)
 
-        # Default name to a human-readable category label if not provided
-        display_name = name.strip() if name else category.default_display_name()
-
-        doc = Document(
+        photo = Photo(
             trip_id=trip_id,
             uploaded_by=user_id,
             file_name=file_name,
             file_key=file_key,
             content_type=content_type,
             size_bytes=size_bytes,
-            category=category,
-            name=display_name,
-            visibility=visibility,
+            caption=caption,
         )
-        return await self._repo.create(doc)
+        return await self._repo.create(photo)
 
-    async def list_documents(self, trip_id: str, user_id: str) -> list[Document]:
+    async def list_photos(self, trip_id: str, user_id: str) -> list[Photo]:
+        """Return all photos for a trip (all members can see all photos)."""
+        await self._assert_trip_member(trip_id, user_id)
+        return await self._repo.list_by_trip(trip_id)
+
+    async def list_photos_paginated(
+        self, trip_id: str, user_id: str, skip: int = 0, limit: int = 10
+    ) -> tuple[list[Photo], int]:
         """
-        Return documents for a trip visible to *user_id*.
+        Return a paginated page of photos for a trip.
 
-        - GROUP visibility: visible to all trip members.
-        - PRIVATE visibility: visible only to the uploader.
+        Returns (photos, total_count) so the frontend knows if more pages exist.
         """
         await self._assert_trip_member(trip_id, user_id)
-        all_docs = await self._repo.list_by_trip(trip_id)
-        return [
-            d for d in all_docs
-            if d.visibility == DocumentVisibility.GROUP or d.uploaded_by == user_id
-        ]
+        photos = await self._repo.list_by_trip_paginated(trip_id, skip, limit)
+        total = await self._repo.count_by_trip(trip_id)
+        return photos, total
 
     async def get_download_url(
-        self, trip_id: str, user_id: str, doc_id: str
+        self, trip_id: str, user_id: str, photo_id: str
     ) -> tuple[str, datetime]:
         """
-        Generate a presigned GET URL for a specific document.
+        Generate a presigned GET URL for a specific photo.
 
         Returns (download_url, expires_at).
-        Raises ValueError if the document is private and user is not the uploader.
         """
         await self._assert_trip_member(trip_id, user_id)
 
-        doc = await self._repo.get_by_id(doc_id)
-        if doc is None or doc.trip_id != trip_id:
-            raise ValueError("Document not found.")
+        photo = await self._repo.get_by_id(photo_id)
+        if photo is None or photo.trip_id != trip_id:
+            raise ValueError("Photo not found.")
 
-        if doc.visibility == DocumentVisibility.PRIVATE and doc.uploaded_by != user_id:
-            raise ValueError("Document not found.")
+        return await self._storage.generate_download_url(photo.file_key)
 
-        return await self._storage.generate_download_url(doc.file_key)
-
-    async def delete_document(
-        self, trip_id: str, user_id: str, doc_id: str
+    async def delete_photo(
+        self, trip_id: str, user_id: str, photo_id: str
     ) -> None:
         """
-        Delete a document from S3 and MongoDB.
+        Delete a photo from S3 and MongoDB.
 
         Only the uploader or the trip master may delete.
         """
@@ -169,16 +161,15 @@ class DocumentService:
         if trip is None:
             raise ValueError("Trip not found or access denied.")
 
-        doc = await self._repo.get_by_id(doc_id)
-        if doc is None or doc.trip_id != trip_id:
-            raise ValueError("Document not found.")
+        photo = await self._repo.get_by_id(photo_id)
+        if photo is None or photo.trip_id != trip_id:
+            raise ValueError("Photo not found.")
 
-        # Authorization: only the uploader or the trip master can delete
         is_master = trip.is_master(user_id)
-        is_uploader = doc.uploaded_by == user_id
+        is_uploader = photo.uploaded_by == user_id
         if not (is_master or is_uploader):
-            raise PermissionError("Only the uploader or trip master can delete this document.")
+            raise PermissionError("Only the uploader or trip master can delete this photo.")
 
-        await self._storage.delete_file(doc.file_key)
-        await self._repo.delete(doc_id)
+        await self._storage.delete_file(photo.file_key)
+        await self._repo.delete(photo_id)
 

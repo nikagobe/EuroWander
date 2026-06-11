@@ -32,7 +32,10 @@ class S3StorageClient(StorageClient):
             region_name=region,
             aws_access_key_id=access_key_id,
             aws_secret_access_key=secret_access_key,
-            config=BotoConfig(signature_version="s3v4"),
+            config=BotoConfig(
+                signature_version="s3v4",
+                s3={"addressing_style": "virtual"},
+            ),
         )
 
     async def generate_upload_url(
@@ -46,7 +49,6 @@ class S3StorageClient(StorageClient):
                 "Bucket": self._bucket,
                 "Key": file_key,
                 "ContentType": content_type,
-                "ContentLength": size_bytes,
             },
             ExpiresIn=self._expiration,
         )
