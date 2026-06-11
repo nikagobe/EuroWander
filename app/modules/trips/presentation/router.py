@@ -4,10 +4,13 @@ from motor.motor_asyncio import AsyncIOMotorDatabase
 from app.config import settings
 from app.database.client import get_db
 from app.modules.buses.domain.entities import BusOffer, BusSegment
+from app.modules.finances.application.services import FinanceService
+from app.modules.finances.infrastructure.repositories import MongoExpenseRepository
 from app.modules.flights.domain.entities import FlightLeg, FlightOffer
 from app.modules.flights.infrastructure.booking_client import FakeBookingClient, SerpApiBookingClient
 from app.modules.trips.application.booking_service import TripBookingService
 from app.modules.trips.application.services import TripService
+from app.modules.trips.domain.entities import SavedHotel
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.trips.presentation.schemas import (
     AddMemberRequest,
@@ -15,10 +18,16 @@ from app.modules.trips.presentation.schemas import (
     BusJourneyInput,
     CreateTripRequest,
     FlightOfferInput,
+    HotelInput,
+    MarkBusPaidRequest,
+    MarkFlightPaidRequest,
+    MarkHotelPaidRequest,
     TripMemberResponse,
     TripResponse,
 )
 from app.modules.users.domain.entities import User
+from app.modules.users.application.services import UserService
+from app.modules.users.infrastructure.repositories import MongoUserRepository
 from app.modules.users.presentation.router import get_current_user
 
 router = APIRouter(prefix="/trips", tags=["trips"])
@@ -31,6 +40,11 @@ def get_trip_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> TripService:
     return TripService(repo)
 
 
+def get_user_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> UserService:
+    repo = MongoUserRepository(db["users"])
+    return UserService(repo)
+
+
 def get_booking_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> TripBookingService:
     repo = MongoTripRepository(db["trips"])
     provider = (
@@ -39,6 +53,11 @@ def get_booking_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> TripBooki
         else FakeBookingClient()
     )
     return TripBookingService(repo, provider)
+
+
+def get_finance_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> FinanceService:
+    repo = MongoExpenseRepository(db["expenses"])
+    return FinanceService(repo)
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -123,6 +142,8 @@ async def create_trip(
         return_offer=_input_to_offer(req.return_flight),
         name=req.name,
         bus_offer=_input_to_bus_offer(req.bus_journey) if req.bus_journey else None,
+        creator_first_name=current_user.first_name,
+        creator_last_name=current_user.last_name,
     )
     return TripResponse.from_entity(trip)
 
@@ -206,12 +227,17 @@ async def add_trip_member(
     req: AddMemberRequest,
     current_user: User = Depends(get_current_user),
     service: TripService = Depends(get_trip_service),
+    user_service: UserService = Depends(get_user_service),
 ) -> TripResponse:
     """Add a user to the trip.  Only the trip master can call this endpoint."""
+    # Resolve the invitee so we can snapshot their name
+    invitee = await user_service.get_current_user(req.user_id)
     trip = await service.add_member(
         trip_id=trip_id,
         requester_id=current_user.id,
         new_user_id=req.user_id,
+        first_name=invitee.first_name,
+        last_name=invitee.last_name,
     )
     return TripResponse.from_entity(trip)
 
@@ -230,5 +256,363 @@ async def remove_trip_member(
         requester_id=current_user.id,
         target_user_id=member_user_id,
     )
+
+
+# ── Flight payment endpoints ──────────────────────────────────────────────────
+
+@router.patch(
+    "/{trip_id}/flights/{flight_type}/payment",
+    response_model=TripResponse,
+)
+async def mark_flight_paid(
+    trip_id: str,
+    flight_type: str,
+    req: MarkFlightPaidRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Mark a flight ticket (outbound or return) as purchased.
+
+    - **flight_type**: `outbound` or `return`
+    - Records the actual price paid, who paid, and which members share the cost.
+    - Automatically creates/updates an expense in the finances module so it
+      shows up in the Tricount-style balance calculation.
+    """
+    if flight_type not in ("outbound", "return"):
+        from fastapi import HTTPException
+        raise HTTPException(status_code=422, detail="flight_type must be 'outbound' or 'return'.")
+
+    trip = await service.mark_flight_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        flight_type=flight_type,
+        actual_paid_amount=req.actual_paid_amount,
+        paid_currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+    )
+
+    # Determine the flight snapshot so we can build a meaningful expense name
+    flight = trip.outbound_flight if flight_type == "outbound" else trip.return_flight
+    first_leg = flight.legs[0] if flight.legs else None
+    label = (
+        f"{first_leg.flight_number} ({flight_type})"
+        if first_leg
+        else f"Flight ticket ({flight_type})"
+    )
+
+    # Upsert the auto-expense so it appears in the finances module
+    await finance_service.upsert_ticket_expense(
+        trip_id=trip_id,
+        name=label,
+        amount=req.actual_paid_amount,
+        currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+        source_ref=flight.flight_id,
+    )
+
+    return TripResponse.from_entity(trip)
+
+
+@router.delete(
+    "/{trip_id}/flights/{flight_type}/payment",
+    response_model=TripResponse,
+)
+async def unmark_flight_paid(
+    trip_id: str,
+    flight_type: str,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Clear the payment info from a flight ticket (mark as unpaid).
+    Also removes the corresponding auto-generated expense from finances.
+    """
+    if flight_type not in ("outbound", "return"):
+        from fastapi import HTTPException
+        raise HTTPException(status_code=422, detail="flight_type must be 'outbound' or 'return'.")
+
+    # Get current trip to retrieve flight_id before clearing
+    current_trip = await service.get_trip(trip_id, current_user.id)
+    flight = current_trip.outbound_flight if flight_type == "outbound" else current_trip.return_flight
+
+    trip = await service.unmark_flight_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        flight_type=flight_type,
+    )
+
+    # Remove the auto-expense if it exists
+    existing = await finance_service._repo.get_by_source_ref(trip_id, flight.flight_id)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    return TripResponse.from_entity(trip)
+
+
+# ── Bus payment endpoints ─────────────────────────────────────────────────────
+
+@router.patch("/{trip_id}/bus/payment", response_model=TripResponse)
+async def mark_bus_paid(
+    trip_id: str,
+    req: MarkBusPaidRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Mark the trip's bus journey ticket as purchased.
+
+    - Records the actual price paid, who paid, and which members share the cost.
+    - Automatically creates/updates an expense in the finances module.
+    - Returns 400 if the trip has no bus journey.
+    """
+    trip = await service.mark_bus_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        actual_paid_amount=req.actual_paid_amount,
+        paid_currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+    )
+
+    bus = trip.bus_journey  # guaranteed non-None after mark_bus_paid succeeds
+    label = f"Bus {bus.dep_name} → {bus.arr_name}"  # type: ignore[union-attr]
+    source_ref = bus.journey_id or f"bus-{trip_id}"  # type: ignore[union-attr]
+
+    await finance_service.upsert_ticket_expense(
+        trip_id=trip_id,
+        name=label,
+        amount=req.actual_paid_amount,
+        currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+        source_ref=source_ref,
+    )
+
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/bus/payment", response_model=TripResponse)
+async def unmark_bus_paid(
+    trip_id: str,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Clear the payment info from the bus journey ticket (mark as unpaid).
+    Also removes the corresponding auto-generated expense from finances.
+    Returns 400 if the trip has no bus journey.
+    """
+    current_trip = await service.get_trip(trip_id, current_user.id)
+    if current_trip.bus_journey:
+        source_ref = current_trip.bus_journey.journey_id or f"bus-{trip_id}"
+        existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+        if existing:
+            await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.unmark_bus_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+# ── Hotel endpoints ───────────────────────────────────────────────────────────
+
+def _input_to_saved_hotel(inp: HotelInput) -> SavedHotel:
+    """Convert the client-supplied HotelInput into a domain SavedHotel."""
+    return SavedHotel(
+        hotel_id=inp.hotel_id,
+        name=inp.name,
+        city=inp.city,
+        address=inp.address,
+        latitude=inp.latitude,
+        longitude=inp.longitude,
+        photo_url=inp.photo_url,
+        stars=inp.stars,
+        review_score=inp.review_score,
+        review_score_word=inp.review_score_word,
+        checkin_date=inp.checkin_date,
+        checkout_date=inp.checkout_date,
+        price_per_night=inp.price_per_night,
+        price_total=inp.price_total,
+        currency=inp.currency,
+        booking_url=inp.booking_url,
+    )
+
+
+@router.post("/{trip_id}/hotels", response_model=TripResponse)
+async def add_hotel_to_trip(
+    trip_id: str,
+    req: HotelInput,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+) -> TripResponse:
+    """
+    Add a hotel to the trip.
+
+    Send the hotel data as received from `/hotels/search` or `/hotels/details`.
+    Multiple hotels can be saved (e.g. one per city in a multi-city trip).
+    Returns 409 if the same hotel_id is already saved.
+    """
+    hotel = _input_to_saved_hotel(req)
+    trip = await service.add_hotel(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        hotel=hotel,
+    )
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/hotels/{hotel_id}", response_model=TripResponse)
+async def remove_hotel_from_trip(
+    trip_id: str,
+    hotel_id: int,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Remove a specific hotel from the trip by its Booking.com hotel_id.
+    Also removes the corresponding auto-generated expense from finances if it exists.
+    Returns 400 if the hotel is not found in this trip.
+    """
+    source_ref = f"hotel-{hotel_id}"
+    existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.remove_hotel(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        hotel_id=hotel_id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+@router.get("/{trip_id}/hotels/{hotel_id}/booking-link", response_model=BookingLinkResponse)
+async def get_hotel_booking_link(
+    trip_id: str,
+    hotel_id: int,
+    adults: int = Query(1, ge=1, description="Number of adults"),
+    rooms: int = Query(1, ge=1, description="Number of rooms"),
+    children: int = Query(0, ge=0, description="Number of children"),
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+) -> BookingLinkResponse:
+    """
+    Generate a direct Booking.com URL for a specific saved hotel,
+    pre-filled with check-in/check-out dates and guest parameters.
+
+    Returns 400 if the hotel is not found in this trip or has no booking URL.
+    """
+    from fastapi import HTTPException
+
+    trip = await service.get_trip(trip_id, current_user.id)
+    hotel = trip.find_hotel(hotel_id)
+    if hotel is None:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=f"Hotel {hotel_id} not found in this trip.",
+        )
+    base_url = hotel.booking_url
+    if not base_url:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Hotel has no booking URL available.",
+        )
+
+    # Strip trailing query string from the base URL if present
+    if "?" in base_url:
+        base_url = base_url.split("?")[0]
+
+    params = (
+        f"?checkin={hotel.checkin_date}"
+        f"&checkout={hotel.checkout_date}"
+        f"&group_adults={adults}"
+        f"&req_adults={adults}"
+        f"&no_rooms={rooms}"
+        f"&group_children={children}"
+        f"&req_children={children}"
+    )
+
+    return BookingLinkResponse(booking_url=f"{base_url}{params}")
+
+
+# ── Hotel payment endpoints ───────────────────────────────────────────────────
+
+@router.patch("/{trip_id}/hotels/{hotel_id}/payment", response_model=TripResponse)
+async def mark_hotel_paid(
+    trip_id: str,
+    hotel_id: int,
+    req: MarkHotelPaidRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Mark a specific hotel as booked/paid.
+
+    - Records the actual price paid, who paid, and which members share the cost.
+    - Automatically creates/updates an expense in the finances module.
+    - Returns 400 if the hotel is not found in this trip.
+    """
+    trip = await service.mark_hotel_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        hotel_id=hotel_id,
+        actual_paid_amount=req.actual_paid_amount,
+        paid_currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+    )
+
+    hotel = trip.find_hotel(hotel_id)
+    label = f"Hotel: {hotel.name}"  # type: ignore[union-attr]
+    source_ref = f"hotel-{hotel_id}"
+
+    await finance_service.upsert_ticket_expense(
+        trip_id=trip_id,
+        name=label,
+        amount=req.actual_paid_amount,
+        currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+        source_ref=source_ref,
+    )
+
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/hotels/{hotel_id}/payment", response_model=TripResponse)
+async def unmark_hotel_paid(
+    trip_id: str,
+    hotel_id: int,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Clear the payment info from a specific hotel (mark as unpaid).
+    Also removes the corresponding auto-generated expense from finances.
+    Returns 400 if the hotel is not found in this trip.
+    """
+    source_ref = f"hotel-{hotel_id}"
+    existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.unmark_hotel_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        hotel_id=hotel_id,
+    )
+    return TripResponse.from_entity(trip)
 
 

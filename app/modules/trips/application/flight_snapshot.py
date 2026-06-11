@@ -84,7 +84,15 @@ def snapshot_bus(offer: BusOffer) -> SavedBusJourney:
         )
         for seg in offer.segments
     ]
+
+    # Build a stable ID: "{dep_slug}-{arr_slug}-{date_slug}"
+    dep_slug = re.sub(r"\s+", "_", offer.dep_name.lower())[:20]
+    arr_slug = re.sub(r"\s+", "_", offer.arr_name.lower())[:20]
+    date_slug = re.sub(r"\D", "", offer.dep_time.split("T")[0])[:8]
+    journey_id = f"{dep_slug}-{arr_slug}-{date_slug}"
+
     return SavedBusJourney(
+        journey_id=journey_id,
         dep_name=offer.dep_name,
         arr_name=offer.arr_name,
         dep_time=offer.dep_time,

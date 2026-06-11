@@ -1,8 +1,11 @@
+import logging
 from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
+logging.basicConfig(level=logging.INFO)
 
 from app.config import settings
 from app.database.client import get_client
@@ -10,7 +13,12 @@ from app.modules.airports.presentation.router import router as airports_router
 from app.modules.cities.presentation.router import router as cities_router
 from app.modules.countries.presentation.router import router as countries_router
 from app.modules.buses.presentation.router import router as buses_router
+from app.modules.documents.infrastructure.repositories import MongoDocumentRepository
+from app.modules.documents.presentation.router import router as documents_router
+from app.modules.finances.infrastructure.repositories import MongoExpenseRepository
+from app.modules.finances.presentation.router import router as finances_router
 from app.modules.flights.presentation.router import router as flights_router
+from app.modules.hotels.presentation.router import router as hotels_router
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.trips.presentation.router import router as trips_router
 from app.modules.users.infrastructure.repositories import MongoUserRepository
@@ -26,6 +34,8 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     db = client[settings.database_name]
     await MongoUserRepository(db["users"]).ensure_indexes()
     await MongoTripRepository(db["trips"]).ensure_indexes()
+    await MongoExpenseRepository(db["expenses"]).ensure_indexes()
+    await MongoDocumentRepository(db["documents"]).ensure_indexes()
     yield
     # Shutdown: close the MongoDB connection
     client.close()
@@ -50,9 +60,12 @@ app.include_router(airports_router, prefix="/api/v1")
 app.include_router(cities_router, prefix="/api/v1")
 app.include_router(countries_router, prefix="/api/v1")
 app.include_router(flights_router, prefix="/api/v1")
+app.include_router(hotels_router, prefix="/api/v1")
 app.include_router(buses_router, prefix="/api/v1")
 app.include_router(users_router, prefix="/api/v1")
 app.include_router(trips_router, prefix="/api/v1")
+app.include_router(documents_router, prefix="/api/v1")
+app.include_router(finances_router, prefix="/api/v1")
 
 
 

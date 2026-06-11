@@ -1,7 +1,7 @@
 from fastapi import HTTPException, status
 
 from app.modules.buses.domain.entities import BusOffer
-from app.modules.trips.domain.entities import Trip, TripMember, TripRole
+from app.modules.trips.domain.entities import SavedHotel, Trip, TripMember, TripRole
 from app.modules.trips.domain.interfaces import TripRepository
 from app.modules.trips.application.flight_snapshot import snapshot_bus, snapshot_flight
 from app.modules.flights.domain.entities import FlightOffer
@@ -18,10 +18,17 @@ class TripService:
         return_offer: FlightOffer,
         name: str = "",
         bus_offer: BusOffer | None = None,
+        creator_first_name: str = "",
+        creator_last_name: str = "",
     ) -> Trip:
         """Snapshot flight (and optional bus) offers and persist a new Trip.
         The creator is automatically added as MASTER member."""
-        master = TripMember(user_id=user_id, role=TripRole.MASTER)
+        master = TripMember(
+            user_id=user_id,
+            role=TripRole.MASTER,
+            first_name=creator_first_name,
+            last_name=creator_last_name,
+        )
         trip = Trip(
             user_id=user_id,
             name=name,
@@ -48,7 +55,14 @@ class TripService:
 
     # ── Member management ─────────────────────────────────────────────────────
 
-    async def add_member(self, trip_id: str, requester_id: str, new_user_id: str) -> Trip:
+    async def add_member(
+        self,
+        trip_id: str,
+        requester_id: str,
+        new_user_id: str,
+        first_name: str = "",
+        last_name: str = "",
+    ) -> Trip:
         """Add *new_user_id* as a MEMBER of the trip.  Only the master may do this."""
         trip = await self._repo.get_by_id_any_user(trip_id)
         if trip is None:
@@ -63,10 +77,115 @@ class TripService:
                 status_code=status.HTTP_409_CONFLICT,
                 detail="User is already a member of this trip.",
             )
-        member = TripMember(user_id=new_user_id, role=TripRole.MEMBER)
+        member = TripMember(user_id=new_user_id, role=TripRole.MEMBER, first_name=first_name, last_name=last_name)
         await self._repo.add_member(trip_id, member)
         # Return refreshed entity
         return await self._repo.get_by_id_any_user(trip_id)  # type: ignore[return-value]
+
+    async def mark_flight_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        flight_type: str,   # "outbound" | "return"
+        actual_paid_amount: float,
+        paid_currency: str,
+        paid_by: str,
+        eligible_member_ids: list[str],
+    ) -> Trip:
+        """Mark a flight ticket as paid and record the actual price + who shares the cost.
+        Only trip members (master or member) may call this."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        updated = await self._repo.update_flight_payment(
+            trip_id=trip_id,
+            flight_type=flight_type,
+            is_paid=True,
+            actual_paid_amount=actual_paid_amount,
+            paid_currency=paid_currency,
+            paid_by=paid_by,
+            eligible_member_ids=eligible_member_ids,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def unmark_flight_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        flight_type: str,
+    ) -> Trip:
+        """Clear payment info from a flight ticket."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        await self._repo.update_flight_payment(
+            trip_id=trip_id,
+            flight_type=flight_type,
+            is_paid=False,
+            actual_paid_amount=None,
+            paid_currency=None,
+            paid_by=None,
+            eligible_member_ids=[],
+        )
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    # ── Bus payment management ────────────────────────────────────────────────
+
+    async def mark_bus_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        actual_paid_amount: float,
+        paid_currency: str,
+        paid_by: str,
+        eligible_member_ids: list[str],
+    ) -> Trip:
+        """Mark the bus journey ticket as paid. Only trip members may call this."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if trip.bus_journey is None:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="This trip has no bus journey.",
+            )
+        updated = await self._repo.update_bus_payment(
+            trip_id=trip_id,
+            is_paid=True,
+            actual_paid_amount=actual_paid_amount,
+            paid_currency=paid_currency,
+            paid_by=paid_by,
+            eligible_member_ids=eligible_member_ids,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def unmark_bus_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+    ) -> Trip:
+        """Clear payment info from the bus journey ticket."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if trip.bus_journey is None:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="This trip has no bus journey.",
+            )
+        await self._repo.update_bus_payment(
+            trip_id=trip_id,
+            is_paid=False,
+            actual_paid_amount=None,
+            paid_currency=None,
+            paid_by=None,
+            eligible_member_ids=[],
+        )
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
 
     async def remove_member(self, trip_id: str, requester_id: str, target_user_id: str) -> Trip:
         """Remove *target_user_id* from the trip.
@@ -93,5 +212,104 @@ class TripService:
                 detail="Member not found in this trip.",
             )
         return await self._repo.get_by_id_any_user(trip_id)  # type: ignore[return-value]
+
+    # ── Hotel management ─────────────────────────────────────────────────────
+
+    async def add_hotel(
+        self,
+        trip_id: str,
+        requester_id: str,
+        hotel: SavedHotel,
+    ) -> Trip:
+        """Add a hotel to the trip's hotels list. Only members may call this."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        # Prevent duplicate hotel_id
+        if trip.find_hotel(hotel.hotel_id):
+            raise HTTPException(
+                status_code=status.HTTP_409_CONFLICT,
+                detail=f"Hotel {hotel.hotel_id} is already saved in this trip.",
+            )
+        updated = await self._repo.add_hotel(trip_id, hotel)
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def remove_hotel(
+        self,
+        trip_id: str,
+        requester_id: str,
+        hotel_id: int,
+    ) -> Trip:
+        """Remove a specific hotel from the trip by hotel_id."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_hotel(hotel_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Hotel {hotel_id} not found in this trip.",
+            )
+        await self._repo.remove_hotel(trip_id, hotel_id)
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def mark_hotel_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        hotel_id: int,
+        actual_paid_amount: float,
+        paid_currency: str,
+        paid_by: str,
+        eligible_member_ids: list[str],
+    ) -> Trip:
+        """Mark a specific hotel as paid and record cost-sharing info."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_hotel(hotel_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Hotel {hotel_id} not found in this trip.",
+            )
+        updated = await self._repo.update_hotel_payment(
+            trip_id=trip_id,
+            hotel_id=hotel_id,
+            is_paid=True,
+            actual_paid_amount=actual_paid_amount,
+            paid_currency=paid_currency,
+            paid_by=paid_by,
+            eligible_member_ids=eligible_member_ids,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def unmark_hotel_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        hotel_id: int,
+    ) -> Trip:
+        """Clear payment info from a specific hotel."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_hotel(hotel_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Hotel {hotel_id} not found in this trip.",
+            )
+        await self._repo.update_hotel_payment(
+            trip_id=trip_id,
+            hotel_id=hotel_id,
+            is_paid=False,
+            actual_paid_amount=None,
+            paid_currency=None,
+            paid_by=None,
+            eligible_member_ids=[],
+        )
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
 
 

@@ -5,11 +5,13 @@ A Trip is owned by a user and anchored by two flights:
   - outbound_flight  : the "there" leg
   - return_flight    : the "back" leg
 
-It may also include an optional inter-city bus journey (Flixbus):
+It may also include:
   - bus_journey : a SavedBusJourney snapshot, or None if no bus was chosen.
+  - hotels      : a list of SavedHotel snapshots (one per city/leg).
 
-A SavedFlight / SavedBusJourney are value-object snapshots embedded in the
-Trip document so the record is self-contained even if provider data changes.
+A SavedFlight / SavedBusJourney / SavedHotel are value-object snapshots
+embedded in the Trip document so the record is self-contained even if
+provider data changes.
 """
 
 from dataclasses import dataclass, field
@@ -31,9 +33,12 @@ class TripRole(str, Enum):
 
 @dataclass
 class TripMember:
-    """Value object representing one participant in a Trip."""
+    """Value object representing one participant in a Trip.
+    Name fields are snapshotted at invite time so the trip document is self-contained."""
     user_id: str
     role: TripRole
+    first_name: str = ""
+    last_name: str = ""
     joined_at: datetime = field(default_factory=datetime.utcnow)
 
 
@@ -67,6 +72,12 @@ class SavedFlight:
     airline_logo: str
     booking_token: str
     legs: list[SavedFlightLeg] = field(default_factory=list)
+    # Payment tracking
+    is_paid: bool = False
+    actual_paid_amount: float | None = None
+    paid_currency: str | None = None
+    paid_by: str | None = None          # user_id of who paid
+    eligible_member_ids: list[str] = field(default_factory=list)  # who shares this cost
 
 
 @dataclass
@@ -98,6 +109,43 @@ class SavedBusJourney:
     deeplink: str
     additional_info: str
     segments: list[SavedBusSegment] = field(default_factory=list)
+    journey_id: str = ""             # stable ID built at snapshot time
+    # Payment tracking
+    is_paid: bool = False
+    actual_paid_amount: float | None = None
+    paid_currency: str | None = None
+    paid_by: str | None = None          # user_id of who paid
+    eligible_member_ids: list[str] = field(default_factory=list)
+
+
+@dataclass
+class SavedHotel:
+    """
+    A Booking.com hotel snapshot embedded in a Trip.
+    Optional — user may not have chosen a hotel.
+    """
+    hotel_id: int                       # Booking.com property ID
+    name: str
+    city: str
+    address: str
+    latitude: float
+    longitude: float
+    photo_url: str                      # Main thumbnail URL
+    stars: int
+    review_score: float
+    review_score_word: str
+    checkin_date: str                   # YYYY-MM-DD
+    checkout_date: str                  # YYYY-MM-DD
+    price_per_night: float
+    price_total: float
+    currency: str
+    booking_url: str = ""               # Booking.com direct URL
+    # Payment tracking
+    is_paid: bool = False
+    actual_paid_amount: float | None = None
+    paid_currency: str | None = None
+    paid_by: str | None = None          # user_id of who paid
+    eligible_member_ids: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -108,6 +156,7 @@ class Trip:
     return_flight: SavedFlight
     name: str = ""                               # user-defined trip name
     bus_journey: SavedBusJourney | None = None   # optional inter-city bus
+    hotels: list[SavedHotel] = field(default_factory=list)  # multiple hotel bookings
     members: list[TripMember] = field(default_factory=list)
     id: str = ""
     status: TripStatus = TripStatus.PLANNING
@@ -121,4 +170,8 @@ class Trip:
     def has_member(self, user_id: str) -> bool:
         """Return True if *user_id* is already a participant (any role)."""
         return any(m.user_id == user_id for m in self.members)
+
+    def find_hotel(self, hotel_id: int) -> SavedHotel | None:
+        """Find a hotel in the list by its Booking.com hotel_id."""
+        return next((h for h in self.hotels if h.hotel_id == hotel_id), None)
 

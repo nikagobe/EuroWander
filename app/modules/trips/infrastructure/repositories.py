@@ -8,6 +8,7 @@ from app.modules.trips.domain.entities import (
     SavedBusSegment,
     SavedFlight,
     SavedFlightLeg,
+    SavedHotel,
     Trip,
     TripMember,
     TripRole,
@@ -76,6 +77,8 @@ class MongoTripRepository(TripRepository):
             {"$push": {"members": {
                 "user_id": member.user_id,
                 "role": member.role.value,
+                "first_name": member.first_name,
+                "last_name": member.last_name,
                 "joined_at": member.joined_at,
             }}},
         )
@@ -92,13 +95,148 @@ class MongoTripRepository(TripRepository):
         )
         return result.modified_count == 1
 
-    # ── Index ────────────────────────────────────────────────────────────────
+    async def update_flight_payment(
+        self,
+        trip_id: str,
+        flight_type: str,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        field_prefix = "outbound_flight" if flight_type == "outbound" else "return_flight"
+        result = await self._col.update_one(
+            {"_id": oid},
+            {"$set": {
+                f"{field_prefix}.is_paid": is_paid,
+                f"{field_prefix}.actual_paid_amount": actual_paid_amount,
+                f"{field_prefix}.paid_currency": paid_currency,
+                f"{field_prefix}.paid_by": paid_by,
+                f"{field_prefix}.eligible_member_ids": eligible_member_ids,
+                "updated_at": datetime.utcnow(),
+            }},
+        )
+        return result.modified_count == 1
+
+    async def update_bus_payment(
+        self,
+        trip_id: str,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        result = await self._col.update_one(
+            {"_id": oid, "bus_journey": {"$ne": None}},
+            {"$set": {
+                "bus_journey.is_paid": is_paid,
+                "bus_journey.actual_paid_amount": actual_paid_amount,
+                "bus_journey.paid_currency": paid_currency,
+                "bus_journey.paid_by": paid_by,
+                "bus_journey.eligible_member_ids": eligible_member_ids,
+                "updated_at": datetime.utcnow(),
+            }},
+        )
+        return result.modified_count == 1
+
+    async def add_hotel(self, trip_id: str, hotel: SavedHotel) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        result = await self._col.update_one(
+            {"_id": oid},
+            {
+                "$push": {"hotels": self._hotel_doc(hotel)},
+                "$set": {"updated_at": datetime.utcnow()},
+            },
+        )
+        return result.modified_count == 1
+
+    async def remove_hotel(self, trip_id: str, hotel_id: int) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        result = await self._col.update_one(
+            {"_id": oid, "hotels.hotel_id": hotel_id},
+            {
+                "$pull": {"hotels": {"hotel_id": hotel_id}},
+                "$set": {"updated_at": datetime.utcnow()},
+            },
+        )
+        return result.modified_count == 1
+
+    async def update_hotel_payment(
+        self,
+        trip_id: str,
+        hotel_id: int,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        result = await self._col.update_one(
+            {"_id": oid, "hotels.hotel_id": hotel_id},
+            {"$set": {
+                "hotels.$.is_paid": is_paid,
+                "hotels.$.actual_paid_amount": actual_paid_amount,
+                "hotels.$.paid_currency": paid_currency,
+                "hotels.$.paid_by": paid_by,
+                "hotels.$.eligible_member_ids": eligible_member_ids,
+                "updated_at": datetime.utcnow(),
+            }},
+        )
+        return result.modified_count == 1
+
+    # ── Index ─────────────────────────────────────────────────────────────────
 
     async def ensure_indexes(self) -> None:
         await self._col.create_index("user_id")
         await self._col.create_index("members.user_id")
 
     # ── Mapping ──────────────────────────────────────────────────────────────
+
+    @staticmethod
+    def _hotel_doc(h: SavedHotel) -> dict:
+        return {
+            "hotel_id": h.hotel_id,
+            "name": h.name,
+            "city": h.city,
+            "address": h.address,
+            "latitude": h.latitude,
+            "longitude": h.longitude,
+            "photo_url": h.photo_url,
+            "stars": h.stars,
+            "review_score": h.review_score,
+            "review_score_word": h.review_score_word,
+            "checkin_date": h.checkin_date,
+            "checkout_date": h.checkout_date,
+            "price_per_night": h.price_per_night,
+            "price_total": h.price_total,
+            "currency": h.currency,
+            "booking_url": h.booking_url,
+            "is_paid": h.is_paid,
+            "actual_paid_amount": h.actual_paid_amount,
+            "paid_currency": h.paid_currency,
+            "paid_by": h.paid_by,
+            "eligible_member_ids": h.eligible_member_ids,
+        }
 
     @staticmethod
     def _to_doc(trip: Trip) -> dict:
@@ -130,10 +268,16 @@ class MongoTripRepository(TripRepository):
                 "airline_logo": f.airline_logo,
                 "booking_token": f.booking_token,
                 "legs": [leg_doc(l) for l in f.legs],
+                "is_paid": f.is_paid,
+                "actual_paid_amount": f.actual_paid_amount,
+                "paid_currency": f.paid_currency,
+                "paid_by": f.paid_by,
+                "eligible_member_ids": f.eligible_member_ids,
             }
 
         def bus_doc(b: SavedBusJourney) -> dict:
             return {
+                "journey_id": b.journey_id,
                 "dep_name": b.dep_name,
                 "arr_name": b.arr_name,
                 "dep_time": b.dep_time,
@@ -156,18 +300,30 @@ class MongoTripRepository(TripRepository):
                     }
                     for s in b.segments
                 ],
+                "is_paid": b.is_paid,
+                "actual_paid_amount": b.actual_paid_amount,
+                "paid_currency": b.paid_currency,
+                "paid_by": b.paid_by,
+                "eligible_member_ids": b.eligible_member_ids,
             }
 
         return {
             "user_id": trip.user_id,
             "name": trip.name,
             "members": [
-                {"user_id": m.user_id, "role": m.role.value, "joined_at": m.joined_at}
+                {
+                    "user_id": m.user_id,
+                    "role": m.role.value,
+                    "first_name": m.first_name,
+                    "last_name": m.last_name,
+                    "joined_at": m.joined_at,
+                }
                 for m in trip.members
             ],
             "outbound_flight": flight_doc(trip.outbound_flight),
             "return_flight": flight_doc(trip.return_flight),
             "bus_journey": bus_doc(trip.bus_journey) if trip.bus_journey is not None else None,
+            "hotels": [MongoTripRepository._hotel_doc(h) for h in trip.hotels],
             "status": trip.status.value,
             "created_at": trip.created_at,
             "updated_at": trip.updated_at,
@@ -203,10 +359,16 @@ class MongoTripRepository(TripRepository):
                 airline_logo=d.get("airline_logo", ""),
                 booking_token=d.get("booking_token", ""),
                 legs=[parse_leg(l) for l in d.get("legs", [])],
+                is_paid=d.get("is_paid", False),
+                actual_paid_amount=d.get("actual_paid_amount"),
+                paid_currency=d.get("paid_currency"),
+                paid_by=d.get("paid_by"),
+                eligible_member_ids=d.get("eligible_member_ids", []),
             )
 
         def parse_bus(d: dict) -> SavedBusJourney:
             return SavedBusJourney(
+                journey_id=d.get("journey_id", ""),
                 dep_name=d.get("dep_name", ""),
                 arr_name=d.get("arr_name", ""),
                 dep_time=d.get("dep_time", ""),
@@ -229,14 +391,53 @@ class MongoTripRepository(TripRepository):
                     )
                     for s in d.get("segments", [])
                 ],
+                is_paid=d.get("is_paid", False),
+                actual_paid_amount=d.get("actual_paid_amount"),
+                paid_currency=d.get("paid_currency"),
+                paid_by=d.get("paid_by"),
+                eligible_member_ids=d.get("eligible_member_ids", []),
             )
 
         bus_data = doc.get("bus_journey")
+
+        def parse_hotel(d: dict) -> SavedHotel:
+            return SavedHotel(
+                hotel_id=d.get("hotel_id", 0),
+                name=d.get("name", ""),
+                city=d.get("city", ""),
+                address=d.get("address", ""),
+                latitude=d.get("latitude", 0.0),
+                longitude=d.get("longitude", 0.0),
+                photo_url=d.get("photo_url", ""),
+                stars=d.get("stars", 0),
+                review_score=d.get("review_score", 0.0),
+                review_score_word=d.get("review_score_word", ""),
+                checkin_date=d.get("checkin_date", ""),
+                checkout_date=d.get("checkout_date", ""),
+                price_per_night=d.get("price_per_night", 0.0),
+                price_total=d.get("price_total", 0.0),
+                currency=d.get("currency", "EUR"),
+                booking_url=d.get("booking_url", ""),
+                is_paid=d.get("is_paid", False),
+                actual_paid_amount=d.get("actual_paid_amount"),
+                paid_currency=d.get("paid_currency"),
+                paid_by=d.get("paid_by"),
+                eligible_member_ids=d.get("eligible_member_ids", []),
+            )
+
+        # Backward compat: old docs may have "hotel" (single dict), new ones have "hotels" (list)
+        hotels_raw: list[dict] = doc.get("hotels", [])
+        old_hotel = doc.get("hotel")
+        if not hotels_raw and old_hotel:
+            hotels_raw = [old_hotel]
+        hotels: list[SavedHotel] = [parse_hotel(h) for h in hotels_raw]
 
         members = [
             TripMember(
                 user_id=m["user_id"],
                 role=TripRole(m.get("role", "member")),
+                first_name=m.get("first_name", ""),
+                last_name=m.get("last_name", ""),
                 joined_at=m.get("joined_at", datetime.utcnow()),
             )
             for m in doc.get("members", [])
@@ -250,6 +451,7 @@ class MongoTripRepository(TripRepository):
             outbound_flight=parse_flight(doc["outbound_flight"]),
             return_flight=parse_flight(doc["return_flight"]),
             bus_journey=parse_bus(bus_data) if bus_data is not None else None,
+            hotels=hotels,
             status=TripStatus(doc.get("status", "planning")),
             created_at=doc.get("created_at", datetime.utcnow()),
             updated_at=doc.get("updated_at", datetime.utcnow()),

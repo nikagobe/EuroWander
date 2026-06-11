@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from app.modules.trips.domain.entities import Trip, TripMember
+from app.modules.trips.domain.entities import SavedHotel, Trip, TripMember
 
 
 class TripRepository(ABC):
@@ -35,5 +35,56 @@ class TripRepository(ABC):
     @abstractmethod
     async def remove_member(self, trip_id: str, member_user_id: str) -> bool:
         """Remove the member with *member_user_id* from the trip. Returns False if not found."""
+        ...
+
+    @abstractmethod
+    async def update_flight_payment(
+        self,
+        trip_id: str,
+        flight_type: str,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        """Persist payment info on outbound_flight or return_flight. Returns False if not found."""
+        ...
+
+    @abstractmethod
+    async def update_bus_payment(
+        self,
+        trip_id: str,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        """Persist payment info on bus_journey. Returns False if trip not found or has no bus."""
+        ...
+
+    @abstractmethod
+    async def add_hotel(self, trip_id: str, hotel: SavedHotel) -> bool:
+        """Append a hotel to the trip's hotels list. Returns False if trip not found."""
+        ...
+
+    @abstractmethod
+    async def remove_hotel(self, trip_id: str, hotel_id: int) -> bool:
+        """Remove a specific hotel by hotel_id. Returns False if not found."""
+        ...
+
+    @abstractmethod
+    async def update_hotel_payment(
+        self,
+        trip_id: str,
+        hotel_id: int,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        """Persist payment info on a specific hotel. Returns False if trip/hotel not found."""
         ...
 

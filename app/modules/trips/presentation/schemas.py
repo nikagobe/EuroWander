@@ -7,6 +7,7 @@ from app.modules.trips.domain.entities import (
     SavedBusSegment,
     SavedFlight,
     SavedFlightLeg,
+    SavedHotel,
     Trip,
     TripMember,
     TripRole,
@@ -75,6 +76,29 @@ class BusJourneyInput(BaseModel):
     deeplink: str = ""
     additional_info: str = ""
     segments: list[BusSegmentInput] = []
+
+
+class HotelInput(BaseModel):
+    """
+    The client sends hotel data from /hotels/search or /hotels/details
+    to save it to a trip.
+    """
+    hotel_id: int
+    name: str
+    city: str = ""
+    address: str = ""
+    latitude: float = 0.0
+    longitude: float = 0.0
+    photo_url: str = ""
+    stars: int = 0
+    review_score: float = 0.0
+    review_score_word: str = ""
+    checkin_date: str                   # YYYY-MM-DD
+    checkout_date: str                  # YYYY-MM-DD
+    price_per_night: float
+    price_total: float
+    currency: str = "EUR"
+    booking_url: str = ""
 
 
 class CreateTripRequest(BaseModel):
@@ -180,6 +204,11 @@ class SavedFlightResponse(BaseModel):
     airline_logo: str
     booking_token: str
     legs: list[SavedFlightLegResponse]
+    is_paid: bool
+    actual_paid_amount: float | None
+    paid_currency: str | None
+    paid_by: str | None
+    eligible_member_ids: list[str]
 
     @classmethod
     def from_entity(cls, f: SavedFlight) -> "SavedFlightResponse":
@@ -192,6 +221,11 @@ class SavedFlightResponse(BaseModel):
             airline_logo=f.airline_logo,
             booking_token=f.booking_token,
             legs=[SavedFlightLegResponse.from_entity(l) for l in f.legs],
+            is_paid=f.is_paid,
+            actual_paid_amount=f.actual_paid_amount,
+            paid_currency=f.paid_currency,
+            paid_by=f.paid_by,
+            eligible_member_ids=f.eligible_member_ids,
         )
 
 
@@ -209,6 +243,7 @@ class BusSegmentResponse(BaseModel):
 
 
 class BusJourneyResponse(BaseModel):
+    journey_id: str
     dep_name: str
     arr_name: str
     dep_time: str
@@ -221,10 +256,16 @@ class BusJourneyResponse(BaseModel):
     deeplink: str
     additional_info: str
     segments: list[BusSegmentResponse]
+    is_paid: bool
+    actual_paid_amount: float | None
+    paid_currency: str | None
+    paid_by: str | None
+    eligible_member_ids: list[str]
 
     @classmethod
     def from_entity(cls, b: SavedBusJourney) -> "BusJourneyResponse":
         return cls(
+            journey_id=b.journey_id,
             dep_name=b.dep_name,
             arr_name=b.arr_name,
             dep_time=b.dep_time,
@@ -237,6 +278,11 @@ class BusJourneyResponse(BaseModel):
             deeplink=b.deeplink,
             additional_info=b.additional_info,
             segments=[BusSegmentResponse.from_entity(s) for s in b.segments],
+            is_paid=b.is_paid,
+            actual_paid_amount=b.actual_paid_amount,
+            paid_currency=b.paid_currency,
+            paid_by=b.paid_by,
+            eligible_member_ids=b.eligible_member_ids,
         )
 
 
@@ -246,6 +292,56 @@ class BookingLinkResponse(BaseModel):
     model_config = ConfigDict(
         json_schema_extra={"example": {"booking_url": "https://track.metaconnect.saas.amadeus.com/..."}}
     )
+
+
+class SavedHotelResponse(BaseModel):
+    hotel_id: int
+    name: str
+    city: str
+    address: str
+    latitude: float
+    longitude: float
+    photo_url: str
+    stars: int
+    review_score: float
+    review_score_word: str
+    checkin_date: str
+    checkout_date: str
+    price_per_night: float
+    price_total: float
+    currency: str
+    booking_url: str
+    is_paid: bool
+    actual_paid_amount: float | None
+    paid_currency: str | None
+    paid_by: str | None
+    eligible_member_ids: list[str]
+
+    @classmethod
+    def from_entity(cls, h: SavedHotel) -> "SavedHotelResponse":
+        return cls(
+            hotel_id=h.hotel_id,
+            name=h.name,
+            city=h.city,
+            address=h.address,
+            latitude=h.latitude,
+            longitude=h.longitude,
+            photo_url=h.photo_url,
+            stars=h.stars,
+            review_score=h.review_score,
+            review_score_word=h.review_score_word,
+            checkin_date=h.checkin_date,
+            checkout_date=h.checkout_date,
+            price_per_night=h.price_per_night,
+            price_total=h.price_total,
+            currency=h.currency,
+            booking_url=h.booking_url,
+            is_paid=h.is_paid,
+            actual_paid_amount=h.actual_paid_amount,
+            paid_currency=h.paid_currency,
+            paid_by=h.paid_by,
+            eligible_member_ids=h.eligible_member_ids,
+        )
 
 
 # ── Member schemas ────────────────────────────────────────────────────────────
@@ -261,11 +357,19 @@ class AddMemberRequest(BaseModel):
 class TripMemberResponse(BaseModel):
     user_id: str
     role: TripRole
+    first_name: str
+    last_name: str
     joined_at: datetime
 
     @classmethod
     def from_entity(cls, m: TripMember) -> "TripMemberResponse":
-        return cls(user_id=m.user_id, role=m.role, joined_at=m.joined_at)
+        return cls(
+            user_id=m.user_id,
+            role=m.role,
+            first_name=m.first_name,
+            last_name=m.last_name,
+            joined_at=m.joined_at,
+        )
 
 
 class TripResponse(BaseModel):
@@ -277,6 +381,7 @@ class TripResponse(BaseModel):
     outbound_flight: SavedFlightResponse
     return_flight: SavedFlightResponse
     bus_journey: BusJourneyResponse | None
+    hotels: list[SavedHotelResponse]
     created_at: datetime
     updated_at: datetime
 
@@ -291,6 +396,79 @@ class TripResponse(BaseModel):
             outbound_flight=SavedFlightResponse.from_entity(trip.outbound_flight),
             return_flight=SavedFlightResponse.from_entity(trip.return_flight),
             bus_journey=BusJourneyResponse.from_entity(trip.bus_journey) if trip.bus_journey else None,
+            hotels=[SavedHotelResponse.from_entity(h) for h in trip.hotels],
             created_at=trip.created_at,
             updated_at=trip.updated_at,
         )
+
+
+# ── Flight payment schema ────────────────────────────────────────────────────
+
+class MarkFlightPaidRequest(BaseModel):
+    """
+    Called when a user marks a flight ticket as bought.
+    actual_paid_amount: real price paid (may differ from estimated price).
+    paid_by: user_id of the member who paid.
+    eligible_member_ids: user_ids of members who share this cost.
+    currency: currency of actual_paid_amount (defaults to the flight's currency).
+    """
+    actual_paid_amount: float
+    paid_by: str
+    eligible_member_ids: list[str]
+    currency: str = "EUR"
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "actual_paid_amount": 74.50,
+                "currency": "EUR",
+                "paid_by": "664abc123def456789012345",
+                "eligible_member_ids": ["664abc123def456789012345", "664abc123def456789099999"],
+            }
+        }
+    )
+
+
+class MarkBusPaidRequest(BaseModel):
+    """
+    Called when a user marks a bus journey ticket as bought.
+    Identical shape to MarkFlightPaidRequest — kept separate for clarity.
+    """
+    actual_paid_amount: float
+    paid_by: str
+    eligible_member_ids: list[str]
+    currency: str = "EUR"
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "actual_paid_amount": 26.99,
+                "currency": "EUR",
+                "paid_by": "664abc123def456789012345",
+                "eligible_member_ids": ["664abc123def456789012345", "664abc123def456789099999"],
+            }
+        }
+    )
+
+
+class MarkHotelPaidRequest(BaseModel):
+    """
+    Called when a user marks the hotel as booked/paid.
+    """
+    actual_paid_amount: float
+    paid_by: str
+    eligible_member_ids: list[str]
+    currency: str = "EUR"
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "actual_paid_amount": 450.00,
+                "currency": "EUR",
+                "paid_by": "664abc123def456789012345",
+                "eligible_member_ids": ["664abc123def456789012345", "664abc123def456789099999"],
+            }
+        }
+    )
+
+
