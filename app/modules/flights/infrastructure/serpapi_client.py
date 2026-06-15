@@ -6,7 +6,12 @@ departure_id / arrival_id are freebase IDs (e.g. "/m/05qtj") taken directly
 from the `freebase_id` field stored on every City document.
 """
 
+import json
+import logging
+
 import httpx
+
+logger = logging.getLogger(__name__)
 
 from app.modules.flights.domain.entities import FlightLeg, FlightOffer
 from app.modules.flights.domain.interfaces import FlightSearchProvider
@@ -54,12 +59,25 @@ class SerpApiFlightClient(FlightSearchProvider):
         except ImportError:
             verify = True  # default httpx behaviour
 
+        # Log outgoing request params (mask api_key)
+        log_params = {k: v for k, v in params.items() if k != "api_key"}
+        logger.info("[SerpApi] search request params: %s", log_params)
+
         async with httpx.AsyncClient(timeout=20, verify=verify) as client:
             response = await client.get(_BASE_URL, params=params)
             response.raise_for_status()
             data = response.json()
 
-        return _parse_serpapi_response(data)
+        logger.info("[SerpApi] raw response keys: %s", list(data.keys()))
+        logger.info("[SerpApi] full response:\n%s", json.dumps(data, indent=2))
+
+        best_count = len(data.get("best_flights", []))
+        other_count = len(data.get("other_flights", []))
+        logger.info("[SerpApi] best_flights=%d, other_flights=%d", best_count, other_count)
+
+        offers = _parse_serpapi_response(data)
+        logger.info("[SerpApi] parsed %d FlightOffer(s)", len(offers))
+        return offers
 
     async def search_multi_origin(
         self,
@@ -100,12 +118,25 @@ class SerpApiFlightClient(FlightSearchProvider):
         except ImportError:
             verify = True
 
+        # Log outgoing request params (mask api_key)
+        log_params = {k: v for k, v in params.items() if k != "api_key"}
+        logger.info("[SerpApi] search_multi_origin request params: %s", log_params)
+
         async with httpx.AsyncClient(timeout=20, verify=verify) as client:
             response = await client.get(_BASE_URL, params=params)
             response.raise_for_status()
             data = response.json()
 
-        return _parse_serpapi_response(data)
+        logger.info("[SerpApi] multi-origin raw response keys: %s", list(data.keys()))
+        logger.info("[SerpApi] multi-origin full response:\n%s", json.dumps(data, indent=2))
+
+        best_count = len(data.get("best_flights", []))
+        other_count = len(data.get("other_flights", []))
+        logger.info("[SerpApi] multi-origin best_flights=%d, other_flights=%d", best_count, other_count)
+
+        offers = _parse_serpapi_response(data)
+        logger.info("[SerpApi] multi-origin parsed %d FlightOffer(s)", len(offers))
+        return offers
 
 
 def _parse_serpapi_response(data: dict) -> list[FlightOffer]:
@@ -116,12 +147,21 @@ def _parse_serpapi_response(data: dict) -> list[FlightOffer]:
     raw_groups: list[dict] = data.get("best_flights", []) + data.get("other_flights", [])
 
     for group in raw_groups:
+        # Skip offers that have no price — SerpApi sometimes omits it
+        # for other_flights entries. Showing €0 to the user is misleading.
+        if "price" not in group or group["price"] is None:
+            logger.info(
+                "[SerpApi] skipping offer without price (flights: %s)",
+                [f.get("flight_number", "?") for f in group.get("flights", [])],
+            )
+            continue
+
         raw_legs: list[dict] = group.get("flights", [])
         legs = [_parse_leg(leg) for leg in raw_legs]
 
         offers.append(
             FlightOffer(
-                price=float(group.get("price", 0)),
+                price=float(group["price"]),
                 currency=data.get("search_parameters", {}).get("currency", "EUR"),
                 total_duration_minutes=group.get("total_duration", 0),
                 legs=legs,

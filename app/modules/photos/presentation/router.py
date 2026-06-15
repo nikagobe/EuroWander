@@ -6,6 +6,8 @@ Photos are always visible to all trip members.
 The backend never handles file bytes — only metadata and presigned URLs.
 """
 
+import logging
+
 from fastapi import APIRouter, Depends, HTTPException, Query, status
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
@@ -25,6 +27,8 @@ from app.modules.photos.presentation.schemas import (
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.users.domain.entities import User
 from app.modules.users.presentation.router import get_current_user
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/trips/{trip_id}/photos", tags=["photos"])
 
@@ -74,6 +78,9 @@ async def request_upload_url(
         )
     except ValueError as e:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+    except Exception as e:
+        logger.exception("[Photos] upload-url failed for trip=%s user=%s", trip_id, current_user.id)
+        raise HTTPException(status_code=500, detail="Internal error generating upload URL.")
 
     return PhotoUploadUrlResponse(
         upload_url=upload_url,
@@ -106,6 +113,9 @@ async def confirm_upload(
         )
     except ValueError as e:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+    except Exception as e:
+        logger.exception("[Photos] confirm_upload failed for trip=%s user=%s", trip_id, current_user.id)
+        raise HTTPException(status_code=500, detail="Internal error confirming upload.")
 
     return PhotoResponse.from_entity(photo)
 

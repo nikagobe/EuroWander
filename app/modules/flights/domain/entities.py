@@ -48,3 +48,37 @@ class FlightOffer:
     booking_token: str = ""
     source: str = ""          # e.g. "serpapi" or "fake"
 
+    # ── Trip-level summary (first leg → last leg) ─────────────────────────────
+
+    @property
+    def departure_airport(self) -> str:
+        return self.legs[0].departure_airport if self.legs else ""
+
+    @property
+    def departure_airport_name(self) -> str:
+        return self.legs[0].departure_airport_name if self.legs else ""
+
+    @property
+    def departure_city_name(self) -> str | None:
+        return self.legs[0].departure_city_name if self.legs else None
+
+    @property
+    def arrival_airport(self) -> str:
+        return self.legs[-1].arrival_airport if self.legs else ""
+
+    @property
+    def arrival_airport_name(self) -> str:
+        return self.legs[-1].arrival_airport_name if self.legs else ""
+
+    @property
+    def arrival_city_name(self) -> str | None:
+        return self.legs[-1].arrival_city_name if self.legs else None
+
+    @property
+    def departure_time(self) -> str:
+        return self.legs[0].departure_time if self.legs else ""
+
+    @property
+    def arrival_time(self) -> str:
+        return self.legs[-1].arrival_time if self.legs else ""
+

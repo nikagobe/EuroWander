@@ -120,11 +120,19 @@ class FlightOfferResponse(BaseModel):
     model_config = ConfigDict(
         json_schema_extra={
             "example": {
-                "price": 37.0,
+                "price": 119.0,
                 "currency": "EUR",
-                "total_duration_minutes": 105,
-                "stops": 0,
-                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/FR.png",
+                "total_duration_minutes": 680,
+                "stops": 1,
+                "departure_airport": "BSL",
+                "departure_airport_name": "EuroAirport Basel-Mulhouse-Freiburg",
+                "departure_city_name": "Basel",
+                "arrival_airport": "TBS",
+                "arrival_airport_name": "Tbilisi International Airport",
+                "arrival_city_name": "Tbilisi",
+                "departure_time": "2026-06-15 11:45",
+                "arrival_time": "2026-06-16 01:05",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VF.png",
                 "booking_token": "abc123",
                 "source": "serpapi",
                 "legs": [],
@@ -136,6 +144,15 @@ class FlightOfferResponse(BaseModel):
     currency: str
     total_duration_minutes: int
     stops: int
+    # Trip-level summary: origin (first leg) → final destination (last leg)
+    departure_airport: str
+    departure_airport_name: str
+    departure_city_name: str | None = None
+    arrival_airport: str
+    arrival_airport_name: str
+    arrival_city_name: str | None = None
+    departure_time: str
+    arrival_time: str
     airline_logo: str
     booking_token: str
     source: str
@@ -148,6 +165,14 @@ class FlightOfferResponse(BaseModel):
             currency=offer.currency,
             total_duration_minutes=offer.total_duration_minutes,
             stops=offer.stops,
+            departure_airport=offer.departure_airport,
+            departure_airport_name=offer.departure_airport_name,
+            departure_city_name=offer.departure_city_name,
+            arrival_airport=offer.arrival_airport,
+            arrival_airport_name=offer.arrival_airport_name,
+            arrival_city_name=offer.arrival_city_name,
+            departure_time=offer.departure_time,
+            arrival_time=offer.arrival_time,
             airline_logo=offer.airline_logo,
             booking_token=offer.booking_token,
             source=offer.source,

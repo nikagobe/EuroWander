@@ -1,0 +1,78 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: EuroWander API – FastAPI on AWS Lambda (container image)
+
+Globals:
+  Function:
+    Timeout: 30
+    MemorySize: 512
+
+Parameters:
+  MongoDbUri:
+    Type: String
+    NoEcho: true
+    Description: MongoDB Atlas connection string
+  SecretKey:
+    Type: String
+    NoEcho: true
+    Description: JWT/session secret key
+  SerpApiKey:
+    Type: String
+    NoEcho: true
+    Default: ""
+  RapidApiKey:
+    Type: String
+    NoEcho: true
+    Default: ""
+  GooglePlacesKey:
+    Type: String
+    NoEcho: true
+    Default: ""
+  AwsS3BucketName:
+    Type: String
+    Default: ""
+  AwsS3Region:
+    Type: String
+    Default: eu-central-1
+
+Resources:
+  EuroWanderFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      PackageType: Image
+      Architectures:
+        - x86_64
+      Policies:
+        - S3CrudPolicy:
+            BucketName: !Ref AwsS3BucketName
+      Environment:
+        Variables:
+          MONGODB_URI: !Ref MongoDbUri
+          DATABASE_NAME: eurowander
+          SECRET_KEY: !Ref SecretKey
+          SERPAPI_KEY: !Ref SerpApiKey
+          RAPIDAPI_KEY: !Ref RapidApiKey
+          GOOGLE_PLACES_KEY: !Ref GooglePlacesKey
+          AWS_S3_BUCKET_NAME: !Ref AwsS3BucketName
+          AWS_S3_REGION: !Ref AwsS3Region
+      Events:
+        ApiCatchAll:
+          Type: HttpApi
+          Properties:
+            Path: /{proxy+}
+            Method: ANY
+        RootPath:
+          Type: HttpApi
+          Properties:
+            Path: /
+            Method: ANY
+    Metadata:
+      Dockerfile: Dockerfile.lambda
+      DockerContext: .
+      DockerTag: latest
+
+Outputs:
+  ApiUrl:
+    Description: "API Gateway endpoint URL"
+    Value: !Sub "https://${ServerlessHttpApi}.execute-api.${AWS::Region}.amazonaws.com"
+

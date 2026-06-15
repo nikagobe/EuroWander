@@ -1,0 +1,18 @@
+# SAM build artifacts
+.aws-sam/
+
+# Dev / test / data files not needed in Lambda
+tests/
+data/
+scripts/
+.env
+.git/
+.github/
+__pycache__/
+*.pyc
+*.md
+docker-compose.yml
+pyproject.toml
+.mypy_cache/
+
+

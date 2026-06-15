@@ -30,7 +30,8 @@ class FlightService:
             return_date=return_date,
             adults=adults,
         )
-        # Business rule: rank by price, cap at limit
-        sorted_offers = sorted(offers, key=lambda o: o.price)
+        # Business rule: discard offers without a valid price, rank by price, cap at limit
+        priced_offers = [o for o in offers if o.price > 0]
+        sorted_offers = sorted(priced_offers, key=lambda o: o.price)
         return sorted_offers[: min(limit, MAX_RESULTS)]
 

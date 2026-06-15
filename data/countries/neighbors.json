@@ -1,52 +1,290 @@
 {
-  "Albania": ["Greece", "North_Macedonia", "Kosovo", "Montenegro", "Serbia"],
-  "Andorra": ["France", "Spain"],
-  "Austria": ["Germany", "Czech_Republic", "Slovakia", "Hungary", "Slovenia", "Italy", "Switzerland", "Liechtenstein"],
-  "Belarus": ["Russia", "Ukraine", "Poland", "Lithuania", "Latvia"],
-  "Belgium": ["Netherlands", "Germany", "Luxembourg", "France"],
-  "Bosnia_and_Herzegovina": ["Croatia", "Serbia", "Montenegro"],
-  "Bulgaria": ["Romania", "Serbia", "North_Macedonia", "Greece", "Turkey"],
-  "Croatia": ["Slovenia", "Hungary", "Serbia", "Bosnia_and_Herzegovina", "Montenegro"],
+  "Albania": [
+    "Greece",
+    "North_Macedonia",
+    "Kosovo",
+    "Montenegro",
+    "Serbia"
+  ],
+  "Andorra": [
+    "France",
+    "Spain"
+  ],
+  "Austria": [
+    "Germany",
+    "Czech_Republic",
+    "Slovakia",
+    "Hungary",
+    "Slovenia",
+    "Italy",
+    "Switzerland",
+    "Liechtenstein"
+  ],
+  "Belarus": [
+    "Russia",
+    "Ukraine",
+    "Poland",
+    "Lithuania",
+    "Latvia"
+  ],
+  "Belgium": [
+    "Netherlands",
+    "Germany",
+    "Luxembourg",
+    "France"
+  ],
+  "Bosnia_and_Herzegovina": [
+    "Croatia",
+    "Serbia",
+    "Montenegro"
+  ],
+  "Bulgaria": [
+    "Romania",
+    "Serbia",
+    "North_Macedonia",
+    "Greece",
+    "Turkey"
+  ],
+  "Croatia": [
+    "Slovenia",
+    "Hungary",
+    "Serbia",
+    "Bosnia_and_Herzegovina",
+    "Montenegro"
+  ],
   "Cyprus": [],
-  "Czech_Republic": ["Germany", "Poland", "Slovakia", "Austria"],
-  "Denmark": ["Germany"],
-  "Estonia": ["Latvia", "Russia"],
-  "Finland": ["Sweden", "Norway", "Russia"],
-  "France": ["Spain", "Andorra", "Monaco", "Italy", "Switzerland", "Germany", "Luxembourg", "Belgium"],
-  "Georgia": ["Russia", "Turkey", "Armenia", "Azerbaijan"],
-  "Germany": ["Denmark", "Netherlands", "Belgium", "Luxembourg", "France", "Switzerland", "Austria", "Czech_Republic", "Poland"],
-  "Greece": ["Albania", "North_Macedonia", "Bulgaria", "Turkey"],
-  "Hungary": ["Austria", "Slovakia", "Ukraine", "Romania", "Serbia", "Croatia", "Slovenia"],
+  "Czech_Republic": [
+    "Germany",
+    "Poland",
+    "Slovakia",
+    "Austria"
+  ],
+  "Denmark": [
+    "Germany"
+  ],
+  "Estonia": [
+    "Latvia",
+    "Russia"
+  ],
+  "Finland": [
+    "Sweden",
+    "Norway",
+    "Russia"
+  ],
+  "France": [
+    "Spain",
+    "Andorra",
+    "Monaco",
+    "Italy",
+    "Switzerland",
+    "Germany",
+    "Luxembourg",
+    "Belgium"
+  ],
+  "Georgia": [
+    "Russia",
+    "Turkey",
+    "Armenia",
+    "Azerbaijan"
+  ],
+  "Germany": [
+    "Denmark",
+    "Netherlands",
+    "Belgium",
+    "Luxembourg",
+    "France",
+    "Switzerland",
+    "Austria",
+    "Czech_Republic",
+    "Poland"
+  ],
+  "Greece": [
+    "Albania",
+    "North_Macedonia",
+    "Bulgaria",
+    "Turkey"
+  ],
+  "Hungary": [
+    "Austria",
+    "Slovakia",
+    "Ukraine",
+    "Romania",
+    "Serbia",
+    "Croatia",
+    "Slovenia"
+  ],
   "Iceland": [],
-  "Ireland": ["United_Kingdom"],
-  "Italy": ["France", "Monaco", "Switzerland", "Austria", "Slovenia", "San_Marino", "Vatican_City"],
-  "Kazakhstan": ["Russia"],
-  "Kosovo": ["Serbia", "North_Macedonia", "Albania", "Montenegro"],
-  "Latvia": ["Estonia", "Russia", "Belarus", "Lithuania"],
-  "Liechtenstein": ["Switzerland", "Austria"],
-  "Lithuania": ["Latvia", "Belarus", "Poland", "Russia"],
-  "Luxembourg": ["Belgium", "Germany", "France"],
+  "Ireland": [
+    "United_Kingdom"
+  ],
+  "Italy": [
+    "France",
+    "Monaco",
+    "Switzerland",
+    "Austria",
+    "Slovenia",
+    "San_Marino",
+    "Vatican_City"
+  ],
+  "Kazakhstan": [
+    "Russia"
+  ],
+  "Kosovo": [
+    "Serbia",
+    "North_Macedonia",
+    "Albania",
+    "Montenegro"
+  ],
+  "Latvia": [
+    "Estonia",
+    "Russia",
+    "Belarus",
+    "Lithuania"
+  ],
+  "Liechtenstein": [
+    "Switzerland",
+    "Austria"
+  ],
+  "Lithuania": [
+    "Latvia",
+    "Belarus",
+    "Poland",
+    "Russia"
+  ],
+  "Luxembourg": [
+    "Belgium",
+    "Germany",
+    "France"
+  ],
   "Malta": [],
-  "Moldova": ["Romania", "Ukraine"],
-  "Monaco": ["France"],
-  "Montenegro": ["Croatia", "Bosnia_and_Herzegovina", "Serbia", "Kosovo", "Albania"],
-  "Netherlands": ["Belgium", "Germany"],
-  "North_Macedonia": ["Kosovo", "Serbia", "Bulgaria", "Greece", "Albania"],
-  "Northern_Cyprus": ["Cyprus"],
-  "Norway": ["Sweden", "Finland", "Russia"],
-  "Poland": ["Germany", "Czech_Republic", "Slovakia", "Ukraine", "Belarus", "Lithuania", "Russia"],
-  "Portugal": ["Spain"],
-  "Romania": ["Hungary", "Ukraine", "Moldova", "Bulgaria", "Serbia"],
-  "Russia": ["Norway", "Finland", "Estonia", "Latvia", "Lithuania", "Poland", "Belarus", "Ukraine", "Georgia", "Kazakhstan"],
-  "San_Marino": ["Italy"],
-  "Serbia": ["Hungary", "Romania", "Bulgaria", "North_Macedonia", "Kosovo", "Montenegro", "Bosnia_and_Herzegovina", "Croatia"],
-  "Slovakia": ["Czech_Republic", "Poland", "Ukraine", "Hungary", "Austria"],
-  "Slovenia": ["Austria", "Italy", "Hungary", "Croatia"],
-  "Spain": ["Portugal", "France", "Andorra"],
-  "Sweden": ["Norway", "Finland"],
-  "Switzerland": ["France", "Germany", "Austria", "Liechtenstein", "Italy"],
-  "Ukraine": ["Russia", "Belarus", "Poland", "Slovakia", "Hungary", "Romania", "Moldova"],
-  "United_Kingdom": ["Ireland"],
-  "Vatican_City": ["Italy"]
+  "Moldova": [
+    "Romania",
+    "Ukraine"
+  ],
+  "Monaco": [
+    "France"
+  ],
+  "Montenegro": [
+    "Croatia",
+    "Bosnia_and_Herzegovina",
+    "Serbia",
+    "Kosovo",
+    "Albania"
+  ],
+  "Netherlands": [
+    "Belgium",
+    "Germany"
+  ],
+  "North_Macedonia": [
+    "Kosovo",
+    "Serbia",
+    "Bulgaria",
+    "Greece",
+    "Albania"
+  ],
+  "Northern_Cyprus": [
+    "Cyprus"
+  ],
+  "Norway": [
+    "Sweden",
+    "Finland",
+    "Russia"
+  ],
+  "Poland": [
+    "Germany",
+    "Czech_Republic",
+    "Slovakia",
+    "Ukraine",
+    "Belarus",
+    "Lithuania",
+    "Russia"
+  ],
+  "Portugal": [
+    "Spain"
+  ],
+  "Romania": [
+    "Hungary",
+    "Ukraine",
+    "Moldova",
+    "Bulgaria",
+    "Serbia"
+  ],
+  "Russia": [
+    "Norway",
+    "Finland",
+    "Estonia",
+    "Latvia",
+    "Lithuania",
+    "Poland",
+    "Belarus",
+    "Ukraine",
+    "Georgia",
+    "Kazakhstan"
+  ],
+  "San_Marino": [
+    "Italy"
+  ],
+  "Serbia": [
+    "Hungary",
+    "Romania",
+    "Bulgaria",
+    "North_Macedonia",
+    "Kosovo",
+    "Montenegro",
+    "Bosnia_and_Herzegovina",
+    "Croatia"
+  ],
+  "Slovakia": [
+    "Czech_Republic",
+    "Poland",
+    "Ukraine",
+    "Hungary",
+    "Austria"
+  ],
+  "Slovenia": [
+    "Austria",
+    "Italy",
+    "Hungary",
+    "Croatia"
+  ],
+  "Spain": [
+    "Portugal",
+    "France",
+    "Andorra"
+  ],
+  "Sweden": [
+    "Norway",
+    "Finland"
+  ],
+  "Switzerland": [
+    "France",
+    "Germany",
+    "Austria",
+    "Liechtenstein",
+    "Italy"
+  ],
+  "Ukraine": [
+    "Russia",
+    "Belarus",
+    "Poland",
+    "Slovakia",
+    "Hungary",
+    "Romania",
+    "Moldova"
+  ],
+  "United_Kingdom": [
+    "Ireland"
+  ],
+  "Vatican_City": [
+    "Italy"
+  ],
+  "Turkey": [
+    "Greece",
+    "Bulgaria",
+    "Georgia",
+    "Armenia",
+    "Syria",
+    "Iraq",
+    "Iran"
+  ]
 }
-

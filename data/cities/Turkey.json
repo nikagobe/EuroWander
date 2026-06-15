@@ -1,0 +1,51 @@
+[
+  {
+    "wikidata_id": "Q406",
+    "name": "Istanbul",
+    "description": "largest city in Turkey, transcontinental city",
+    "freebase_id": "/m/09949m",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "wikidata_id": "Q3854",
+    "name": "Ankara",
+    "description": "capital city of Turkey",
+    "freebase_id": "/m/0f04v",
+    "lat": 39.9334,
+    "lng": 32.8597
+  },
+  {
+    "wikidata_id": "Q5765",
+    "name": "Antalya",
+    "description": "city in southern Turkey on the Mediterranean coast",
+    "freebase_id": "/m/0h31k",
+    "lat": 36.8969,
+    "lng": 30.7133
+  },
+  {
+    "wikidata_id": "Q35997",
+    "name": "Izmir",
+    "description": "city in western Turkey on the Aegean coast",
+    "freebase_id": "/m/0djtf",
+    "lat": 38.4237,
+    "lng": 27.1428
+  },
+  {
+    "wikidata_id": "Q79857",
+    "name": "Bodrum",
+    "description": "resort city in southwestern Turkey",
+    "freebase_id": "/m/01fhg3",
+    "lat": 37.0344,
+    "lng": 27.4305
+  },
+  {
+    "wikidata_id": "Q12078",
+    "name": "Dalaman",
+    "description": "district and city in Muğla Province, Turkey",
+    "freebase_id": "/m/026p0vy",
+    "lat": 36.7667,
+    "lng": 28.8
+  }
+]
+

@@ -1,0 +1,20 @@
+# ---------- Build Stage ----------
+FROM python:3.12-slim AS builder
+
+WORKDIR /build
+COPY requirements.txt .
+RUN pip install --no-cache-dir --target /build/deps -r requirements.txt
+
+# ---------- Runtime Stage ----------
+FROM public.ecr.aws/lambda/python:3.12
+
+# Copy installed packages
+COPY --from=builder /build/deps ${LAMBDA_TASK_ROOT}
+
+# Copy application code
+COPY app/ ${LAMBDA_TASK_ROOT}/app/
+COPY lambda_handler.py ${LAMBDA_TASK_ROOT}/
+
+# Lambda will call this handler
+CMD ["lambda_handler.handler"]
+

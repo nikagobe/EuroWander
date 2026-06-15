@@ -1,14 +1,23 @@
 import logging
+import os
+import sys
 from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-logging.basicConfig(level=logging.INFO)
+# Force logging to work both locally and in Lambda containers.
+# Lambda's runtime may pre-configure the root logger, making basicConfig() a no-op.
+root_logger = logging.getLogger()
+root_logger.setLevel(logging.INFO)
+if not root_logger.handlers:
+    handler = logging.StreamHandler(sys.stdout)
+    handler.setFormatter(logging.Formatter("%(levelname)s\t%(name)s\t%(message)s"))
+    root_logger.addHandler(handler)
 
 from app.config import settings
-from app.database.client import get_client
+from app.database.client import close_client, get_client
 from app.modules.airports.presentation.router import router as airports_router
 from app.modules.cities.presentation.router import router as cities_router
 from app.modules.countries.presentation.router import router as countries_router
@@ -26,22 +35,37 @@ from app.modules.trips.presentation.router import router as trips_router
 from app.modules.users.infrastructure.repositories import MongoUserRepository
 from app.modules.users.presentation.router import router as users_router
 
+# Detect if running inside AWS Lambda
+_IS_LAMBDA = bool(os.environ.get("AWS_LAMBDA_FUNCTION_NAME"))
+
+logger = logging.getLogger(__name__)
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     # Startup: verify database connection
-    client = get_client()
-    await client.admin.command("ping")
-    # Ensure unique index on users.email
-    db = client[settings.database_name]
-    await MongoUserRepository(db["users"]).ensure_indexes()
-    await MongoTripRepository(db["trips"]).ensure_indexes()
-    await MongoExpenseRepository(db["expenses"]).ensure_indexes()
-    await MongoDocumentRepository(db["documents"]).ensure_indexes()
-    await MongoPhotoRepository(db["photos"]).ensure_indexes()
+    try:
+        logger.info("Connecting to MongoDB...")
+        client = get_client()
+        await client.admin.command("ping")
+        logger.info("MongoDB connection OK")
+        # Ensure indexes
+        db = client[settings.database_name]
+        await MongoUserRepository(db["users"]).ensure_indexes()
+        await MongoTripRepository(db["trips"]).ensure_indexes()
+        await MongoExpenseRepository(db["expenses"]).ensure_indexes()
+        await MongoDocumentRepository(db["documents"]).ensure_indexes()
+        await MongoPhotoRepository(db["photos"]).ensure_indexes()
+        logger.info("Indexes ensured")
+    except Exception as e:
+        logger.error(f"Startup failed: {e}", exc_info=True)
+        raise
     yield
-    # Shutdown: close the MongoDB connection
-    client.close()
+    # Shutdown: On Lambda, do NOT close the client — the connection
+    # must persist across warm invocations. Lambda destroys the
+    # container when it's done. On uvicorn/local, close normally.
+    if not _IS_LAMBDA:
+        close_client()
 
 
 app = FastAPI(

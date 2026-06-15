@@ -23,7 +23,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 MONGODB_URI = os.getenv(
     "MONGODB_URI",
-    "mongodb://admin:secret@localhost:27017/eurowander?authSource=admin",
+    "mongodb+srv://eurowander-app:S3VcK7oBKm32vVJM@cluster0.cjwhina.mongodb.net/?appName=Cluster0",
 )
 DATABASE_NAME = os.getenv("DATABASE_NAME", "eurowander")
 COUNTRIES_COLLECTION = "countries"

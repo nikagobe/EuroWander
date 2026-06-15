@@ -12,6 +12,14 @@ def get_client() -> AsyncIOMotorClient:
     return _client
 
 
+def close_client() -> None:
+    """Close the client and reset the global so a fresh one is created next time."""
+    global _client
+    if _client is not None:
+        _client.close()
+        _client = None
+
+
 async def get_db() -> AsyncIOMotorDatabase:
     return get_client()[settings.database_name]
 

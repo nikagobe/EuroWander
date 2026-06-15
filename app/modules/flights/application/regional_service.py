@@ -76,7 +76,9 @@ class MultiOriginFlightService:
         results_per_batch: tuple[list[FlightOffer], ...] = await asyncio.gather(*tasks)
 
         merged = _merge_and_deduplicate(results_per_batch)
-        return sorted(merged, key=lambda o: o.price)[: min(params.limit, MAX_RESULTS)]
+        # Discard offers without a valid price, then sort cheapest-first
+        priced = [o for o in merged if o.price > 0]
+        return sorted(priced, key=lambda o: o.price)[: min(params.limit, MAX_RESULTS)]
 
     async def _collect_departure_ids(self, country_name: str) -> list[str]:
         """
