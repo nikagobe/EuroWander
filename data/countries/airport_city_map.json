@@ -1,0 +1,912 @@
+{
+  "Albania": {
+    "Tirana": [
+      "TIA"
+    ]
+  },
+  "Andorra": {
+    "Andorra la Vella": [
+      "LEU"
+    ]
+  },
+  "Austria": {
+    "Vienna": [
+      "VIE"
+    ],
+    "Graz": [
+      "GRZ"
+    ],
+    "Linz": [
+      "LNZ"
+    ],
+    "Salzburg": [
+      "SZG"
+    ],
+    "Innsbruck": [
+      "INN"
+    ]
+  },
+  "Belarus": {
+    "Minsk": [
+      "MSQ"
+    ],
+    "Gomel": [
+      "GME"
+    ],
+    "Vitebsk": [
+      "VTB"
+    ],
+    "Hrodna": [
+      "GNA"
+    ],
+    "Brest": [
+      "BQT"
+    ]
+  },
+  "Belgium": {
+    "Brussels": [
+      "ANR",
+      "BRU",
+      "CRL"
+    ],
+    "Antwerp": [
+      "ANR",
+      "BRU"
+    ],
+    "Liège": [
+      "LGG"
+    ],
+    "Bruges": [
+      "KJK",
+      "OST"
+    ],
+    "Ghent": [
+      "ANR",
+      "BRU",
+      "KJK",
+      "OST"
+    ],
+    "Leuven": [
+      "ANR",
+      "BRU",
+      "CRL",
+      "LGG"
+    ]
+  },
+  "Bosnia_and_Herzegovina": {
+    "Sarajevo": [
+      "OMO",
+      "SJJ",
+      "TZL"
+    ],
+    "Banja Luka": [
+      "BNX"
+    ],
+    "Tuzla": [
+      "TZL"
+    ],
+    "Mostar": [
+      "OMO",
+      "SJJ"
+    ]
+  },
+  "Bulgaria": {
+    "Sofia": [
+      "SOF"
+    ],
+    "Plovdiv": [
+      "PDV"
+    ],
+    "Varna": [
+      "BOJ",
+      "VAR"
+    ],
+    "Burgas": [
+      "BOJ"
+    ],
+    "Stara Zagora": [
+      "JAM",
+      "PDV"
+    ]
+  },
+  "Croatia": {
+    "Zagreb": [
+      "ZAG"
+    ],
+    "Split": [
+      "BWK",
+      "SPU"
+    ],
+    "Rijeka": [
+      "PUY",
+      "RJK"
+    ],
+    "Osijek": [
+      "OSI"
+    ],
+    "Dubrovnik": [
+      "DBV"
+    ]
+  },
+  "Cyprus": {
+    "Nicosia": [
+      "AKT",
+      "ECN",
+      "GEC",
+      "LCA"
+    ],
+    "Limassol": [
+      "AKT",
+      "ECN",
+      "LCA",
+      "PFO"
+    ],
+    "Larnaca": [
+      "AKT",
+      "ECN",
+      "GEC",
+      "LCA"
+    ],
+    "Paphos": [
+      "AKT",
+      "PFO"
+    ]
+  },
+  "Czech_Republic": {
+    "Prague": [
+      "PRG",
+      "VOD"
+    ],
+    "Brno": [
+      "BRQ",
+      "PRV",
+      "UHE"
+    ],
+    "Ostrava": [
+      "OSR",
+      "PRV"
+    ],
+    "Plzeň": [
+      "KLV",
+      "PRG"
+    ],
+    "Pardubice": [
+      "PED"
+    ]
+  },
+  "Denmark": {
+    "Copenhagen": [
+      "CPH",
+      "RKE"
+    ],
+    "Aarhus": [
+      "AAR",
+      "KRP",
+      "ODE",
+      "SQW"
+    ],
+    "Aalborg": [
+      "AAL",
+      "CNL",
+      "SQW",
+      "TED"
+    ],
+    "Odense": [
+      "ODE",
+      "SGD",
+      "SKS"
+    ]
+  },
+  "Estonia": {
+    "Tallinn": [
+      "TLL"
+    ],
+    "Tartu": [
+      "TAY"
+    ]
+  },
+  "Finland": {
+    "Helsinki": [
+      "HEL"
+    ],
+    "Tampere": [
+      "KEV",
+      "TMP"
+    ],
+    "Turku": [
+      "TKU"
+    ],
+    "Oulu": [
+      "OUL"
+    ]
+  },
+  "France": {
+    "Paris": [
+      "BVA",
+      "CDG",
+      "CSF",
+      "LBG",
+      "ORY",
+      "POX",
+      "TNF",
+      "VIY"
+    ],
+    "Marseille": [
+      "AVN",
+      "CTT",
+      "MRS",
+      "TLN"
+    ],
+    "Lyon": [
+      "EBU",
+      "GNB",
+      "LYN",
+      "LYS",
+      "RNE"
+    ],
+    "Toulouse": [
+      "DCM",
+      "LBI",
+      "TLS"
+    ],
+    "Nice": [
+      "CEQ",
+      "NCE"
+    ],
+    "Nantes": [
+      "EDM",
+      "LBY",
+      "NTE",
+      "SNR"
+    ],
+    "Strasbourg": [
+      "CMR",
+      "SXB"
+    ],
+    "Bordeaux": [
+      "BOD"
+    ],
+    "Lille": [
+      "HZB",
+      "LIL"
+    ]
+  },
+  "Georgia": {
+    "Tbilisi": [
+      "TBS"
+    ],
+    "Batumi": [
+      "BUS"
+    ],
+    "Kutaisi": [
+      "KUT"
+    ]
+  },
+  "Germany": {
+    "Berlin": [
+      "BER"
+    ],
+    "Hamburg": [
+      "HAM",
+      "LBC",
+      "XFW"
+    ],
+    "Munich": [
+      "AGB",
+      "IGS",
+      "MUC",
+      "OBF"
+    ],
+    "Cologne": [
+      "CGN",
+      "DTM",
+      "DUS",
+      "GKE",
+      "MGL"
+    ],
+    "Frankfurt": [
+      "FRA",
+      "HHN",
+      "MHG",
+      "SGE",
+      "WIE"
+    ],
+    "Stuttgart": [
+      "STR"
+    ],
+    "Düsseldorf": [
+      "CGN",
+      "DTM",
+      "DUS",
+      "GKE",
+      "MGL",
+      "NRN"
+    ],
+    "Leipzig": [
+      "AOC",
+      "LEJ"
+    ],
+    "Dresden": [
+      "DRS"
+    ],
+    "Nuremberg": [
+      "BYU",
+      "NUE"
+    ],
+    "Hanover": [
+      "BWE",
+      "HAJ"
+    ],
+    "Bremen": [
+      "BRE",
+      "FCN"
+    ]
+  },
+  "Greece": {
+    "Athens": [
+      "ATH"
+    ],
+    "Thessaloniki": [
+      "SKG"
+    ],
+    "Heraklion": [
+      "HER"
+    ],
+    "Patras": [
+      "GPA",
+      "PYR"
+    ],
+    "Rhodes": [
+      "RHO"
+    ]
+  },
+  "Hungary": {
+    "Budapest": [
+      "BUD"
+    ],
+    "Debrecen": [
+      "DEB"
+    ],
+    "Pécs": [
+      "PEV"
+    ]
+  },
+  "Iceland": {
+    "Akureyri": [
+      "AEY",
+      "HZK",
+      "MVA",
+      "SIJ"
+    ]
+  },
+  "Ireland": {
+    "Dublin": [
+      "DUB"
+    ],
+    "Cork": [
+      "KIR",
+      "ORK"
+    ],
+    "Shannon": [
+      "KIR",
+      "SNN"
+    ]
+  },
+  "Italy": {
+    "Rome": [
+      "CIA",
+      "FCO"
+    ],
+    "Milan": [
+      "BGY",
+      "LIN",
+      "MXP"
+    ],
+    "Naples": [
+      "NAP",
+      "QSR"
+    ],
+    "Turin": [
+      "AOT",
+      "CUF",
+      "TRN"
+    ],
+    "Palermo": [
+      "PMO",
+      "TPS"
+    ],
+    "Genoa": [
+      "GOA"
+    ],
+    "Bologna": [
+      "BLQ",
+      "FLR",
+      "FRL"
+    ],
+    "Florence": [
+      "FLR",
+      "PSA"
+    ],
+    "Venice": [
+      "AVB",
+      "TSF",
+      "VCE"
+    ],
+    "Catania": [
+      "CIY",
+      "CTA"
+    ],
+    "Bari": [
+      "BRI"
+    ]
+  },
+  "Kazakhstan": {
+    "Almaty": [
+      "ALA"
+    ],
+    "Astana": [
+      "NQZ"
+    ]
+  },
+  "Kosovo": {
+    "Pristina": [
+      "PRN"
+    ],
+    "Prizren": [
+      "PRN"
+    ]
+  },
+  "Latvia": {
+    "Riga": [
+      "RIX"
+    ]
+  },
+  "Liechtenstein": {
+    "Vaduz": [
+      "ACH",
+      "SMV"
+    ]
+  },
+  "Lithuania": {
+    "Vilnius": [
+      "VNO"
+    ],
+    "Kaunas": [
+      "KUN"
+    ],
+    "Klaipėda": [
+      "PLQ"
+    ]
+  },
+  "Luxembourg": {
+    "Luxembourg": [
+      "LUX"
+    ]
+  },
+  "Malta": {
+    "Valletta": [
+      "MLA"
+    ],
+    "Birkirkara": [
+      "MLA"
+    ]
+  },
+  "Monaco": {
+    "Monaco": [
+      "CEQ",
+      "NCE"
+    ]
+  },
+  "Montenegro": {
+    "Podgorica": [
+      "TGD",
+      "TIV"
+    ],
+    "Tivat": [
+      "TGD",
+      "TIV"
+    ],
+    "Nikšić": [
+      "TGD",
+      "TIV"
+    ]
+  },
+  "Netherlands": {
+    "Amsterdam": [
+      "AMS",
+      "DHR",
+      "LEY",
+      "RTM"
+    ],
+    "Rotterdam": [
+      "AMS",
+      "GLZ",
+      "RTM",
+      "WOE"
+    ],
+    "The Hague": [
+      "AMS",
+      "GLZ",
+      "RTM",
+      "WOE"
+    ],
+    "Utrecht": [
+      "AMS",
+      "EIN",
+      "GLZ",
+      "LEY",
+      "RTM",
+      "UDE"
+    ],
+    "Eindhoven": [
+      "EIN",
+      "GLZ",
+      "MST",
+      "UDE",
+      "WOE"
+    ]
+  },
+  "North_Macedonia": {
+    "Skopje": [
+      "SKP"
+    ],
+    "Bitola": [
+      "OHD"
+    ],
+    "Ohrid": [
+      "OHD"
+    ]
+  },
+  "Northern_Cyprus": {
+    "Famagusta": [
+      "ECN",
+      "GEC",
+      "LCA"
+    ]
+  },
+  "Norway": {
+    "Oslo": [
+      "OSL"
+    ],
+    "Bergen": [
+      "BGO",
+      "SRP"
+    ],
+    "Trondheim": [
+      "OLA",
+      "TRD"
+    ]
+  },
+  "Poland": {
+    "Warsaw": [
+      "RDO",
+      "WAW",
+      "WMI"
+    ],
+    "Kraków": [
+      "KRK",
+      "KTW"
+    ],
+    "Łódź": [
+      "LCJ"
+    ],
+    "Wrocław": [
+      "WRO"
+    ],
+    "Poznań": [
+      "POZ"
+    ],
+    "Gdańsk": [
+      "GDN"
+    ],
+    "Szczecin": [
+      "SZZ"
+    ],
+    "Katowice": [
+      "KRK",
+      "KTW"
+    ]
+  },
+  "Portugal": {
+    "Lisbon": [
+      "CAT",
+      "LIS"
+    ],
+    "Porto": [
+      "OPO",
+      "PXO",
+      "VRL",
+      "VSE"
+    ]
+  },
+  "Romania": {
+    "Bucharest": [
+      "BBU",
+      "OTP"
+    ],
+    "Cluj-Napoca": [
+      "CLJ",
+      "TGM"
+    ],
+    "Timișoara": [
+      "ARW",
+      "TSR"
+    ],
+    "Iași": [
+      "IAS"
+    ],
+    "Constanța": [
+      "CND"
+    ],
+    "Brașov": [
+      "GHV"
+    ]
+  },
+  "Russia": {
+    "Moscow": [
+      "CKL",
+      "DME",
+      "SVO",
+      "VKO",
+      "ZIA"
+    ],
+    "Saint Petersburg": [
+      "LED"
+    ],
+    "Novosibirsk": [
+      "OVB"
+    ],
+    "Yekaterinburg": [
+      "SVX"
+    ],
+    "Kazan": [
+      "KZN"
+    ],
+    "Nizhny Novgorod": [
+      "GOJ"
+    ],
+    "Chelyabinsk": [
+      "CEK"
+    ],
+    "Samara": [
+      "KUF"
+    ],
+    "Ufa": [
+      "UFA"
+    ],
+    "Rostov-on-Don": [
+      "ROV",
+      "TGK"
+    ],
+    "Kaliningrad": [
+      "KGD"
+    ],
+    "Krasnodar": [
+      "KRR",
+      "NOI"
+    ]
+  },
+  "San_Marino": {
+    "San Marino": [
+      "FRL",
+      "RMI"
+    ]
+  },
+  "Serbia": {
+    "Belgrade": [
+      "BEG",
+      "BJY"
+    ],
+    "Novi Sad": [
+      "BEG",
+      "BJY"
+    ],
+    "Niš": [
+      "INI"
+    ]
+  },
+  "Slovakia": {
+    "Bratislava": [
+      "BTS",
+      "PZY"
+    ],
+    "Košice": [
+      "KSC"
+    ]
+  },
+  "Slovenia": {
+    "Ljubljana": [
+      "LJU"
+    ],
+    "Maribor": [
+      "MBX"
+    ]
+  },
+  "Spain": {
+    "Madrid": [
+      "MAD",
+      "TOJ"
+    ],
+    "Barcelona": [
+      "BCN",
+      "GRO"
+    ],
+    "Sevilla": [
+      "OZP",
+      "SVQ",
+      "XRY"
+    ],
+    "Alicante": [
+      "ALC"
+    ],
+    "Palma": [
+      "PMI",
+      "SPC"
+    ]
+  },
+  "Sweden": {
+    "Stockholm": [
+      "ARN",
+      "BMA",
+      "EKT",
+      "NYO",
+      "VST"
+    ],
+    "Gothenburg": [
+      "GOT",
+      "GSE",
+      "THN"
+    ],
+    "Malmö": [
+      "AGH",
+      "KID",
+      "MMX"
+    ],
+    "Uppsala": [
+      "ARN",
+      "BMA",
+      "EKT",
+      "VST"
+    ]
+  },
+  "Switzerland": {
+    "Zurich": [
+      "ACH",
+      "EML",
+      "ZRH"
+    ],
+    "Geneva": [
+      "GVA"
+    ],
+    "Basel": [
+      "BRN",
+      "EML",
+      "ZRH"
+    ],
+    "Bern": [
+      "BRN",
+      "EML",
+      "VIP"
+    ]
+  },
+  "Ukraine": {
+    "Kyiv": [
+      "IEV",
+      "KBP"
+    ],
+    "Kharkiv": [
+      "HRK"
+    ],
+    "Odesa": [
+      "ODS"
+    ],
+    "Dnipro": [
+      "DNK",
+      "OZH"
+    ],
+    "Zaporizhzhia": [
+      "DNK",
+      "OZH"
+    ],
+    "Lviv": [
+      "LWO"
+    ]
+  },
+  "United_Kingdom": {
+    "London": [
+      "BBS",
+      "BEX",
+      "BQH",
+      "ESH",
+      "FAB",
+      "LCY",
+      "LGW",
+      "LHR",
+      "LTN",
+      "LYX",
+      "NHT",
+      "ODH",
+      "OXF",
+      "SEN",
+      "STN"
+    ],
+    "Birmingham": [
+      "BHX",
+      "CVT",
+      "EMA",
+      "GLO",
+      "NQT"
+    ],
+    "Manchester": [
+      "BLK",
+      "CEG",
+      "LBA",
+      "LPL",
+      "MAN",
+      "WRT"
+    ],
+    "Glasgow": [
+      "EDI",
+      "GLA",
+      "PIK"
+    ],
+    "Leeds": [
+      "LBA",
+      "MAN",
+      "MME"
+    ],
+    "Edinburgh": [
+      "ADX",
+      "DND",
+      "EDI",
+      "GLA"
+    ],
+    "Liverpool": [
+      "BLK",
+      "CEG",
+      "LPL",
+      "MAN",
+      "WRT"
+    ],
+    "Bristol": [
+      "BRS",
+      "BZZ",
+      "CWL",
+      "FFD",
+      "GLO",
+      "YEO"
+    ],
+    "Newcastle upon Tyne": [
+      "CAX",
+      "MME",
+      "NCL"
+    ]
+  },
+  "Vatican_City": {
+    "Vatican City": [
+      "CIA",
+      "FCO"
+    ]
+  },
+  "Turkey": {
+    "Istanbul": [
+      "IST",
+      "SAW"
+    ],
+    "Ankara": [
+      "ESB"
+    ],
+    "Antalya": [
+      "AYT"
+    ],
+    "Izmir": [
+      "ADB"
+    ],
+    "Bodrum": [
+      "BJV"
+    ],
+    "Dalaman": [
+      "DLM"
+    ]
+  }
+}

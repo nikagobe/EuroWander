@@ -1,0 +1,15 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "eurowander-app"
+resolve_s3 = true
+s3_prefix = "eurowander-app"
+region = "eu-central-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+parameter_overrides = "AwsS3BucketName=\"eurowander-documents-2026\" AwsS3Region=\"eu-north-1\""
+image_repositories = ["EuroWanderFunction=170420138590.dkr.ecr.eu-central-1.amazonaws.com/eurowanderappa0398e78/eurowanderfunction804f314frepo"]
+
+[default.global.parameters]
+region = "eu-central-1"
