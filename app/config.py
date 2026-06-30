@@ -19,6 +19,7 @@ class Settings(BaseSettings):
     serpapi_key: str = ""
     rapidapi_key: str = ""
     google_places_key: str = ""
+    tripadvisor_key: str = ""
     # AWS S3 (object storage for documents)
     aws_access_key_id: str = ""
     aws_secret_access_key: str = ""

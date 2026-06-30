@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "tripadvisor-content": {
+      "type": "http",
+      "url": "https://docs.terra.tripadvisor.com/mcp",
+      "headers": {
+        "x-api-key": "${TRIPADVISOR_KEY}"
+      }
+    }
+  }
+}
+
