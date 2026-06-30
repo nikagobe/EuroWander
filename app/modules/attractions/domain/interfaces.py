@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from app.modules.attractions.domain.entities import AttractionDetails, AttractionLocation
+from app.modules.attractions.domain.entities import AttractionDetails, AttractionLocation, PaginatedLocations
 
 
 class AttractionSearchProvider(ABC):
@@ -24,7 +24,9 @@ class AttractionSearchProvider(ABC):
         longitude: float,
         category: str,
         language: str,
-    ) -> list[AttractionLocation]: ...
+        page: int = 1,
+        size: int = 20,
+    ) -> PaginatedLocations: ...
 
 
 class AttractionDetailsProvider(ABC):
@@ -40,4 +42,3 @@ class AttractionDetailsProvider(ABC):
         language: str,
         currency: str,
     ) -> AttractionDetails | None: ...
-

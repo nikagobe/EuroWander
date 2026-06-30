@@ -6,6 +6,8 @@ from app.modules.attractions.infrastructure.tripadvisor_client import TripAdviso
 from app.modules.attractions.presentation.schemas import (
     AttractionDetailsResponse,
     AttractionLocationResponse,
+    PaginatedAttractionResponse,
+    PaginationMeta,
 )
 
 router = APIRouter(prefix="/attractions", tags=["attractions"])
@@ -55,32 +57,92 @@ async def search_restaurants(
     return [AttractionLocationResponse.from_entity(loc) for loc in locations]
 
 
-@router.get("/nearby", response_model=list[AttractionLocationResponse])
+@router.get("/must-see", response_model=PaginatedAttractionResponse)
+async def get_must_see_attractions(
+    latitude: float = Query(..., description="City latitude (from /cities/search)"),
+    longitude: float = Query(..., description="City longitude (from /cities/search)"),
+    language: str = Query("en", description="Language code"),
+    page: int = Query(1, ge=1, description="Page number (1-based)"),
+    size: int = Query(20, ge=1, le=20, description="Results per page (max 20)"),
+    service: AttractionService = Depends(get_attraction_service),
+) -> PaginatedAttractionResponse:
+    """
+    Must-see attractions in a city — top-rated landmarks, museums, and sights.
+
+    **Flutter flow:** User picks a city (gets lat/lng) → call this → show "Must See" section.
+    Paginated — use `page` param for infinite scroll.
+    """
+    result = await service.search_nearby(
+        latitude=latitude, longitude=longitude,
+        category="attractions", language=language,
+        page=page, size=size,
+    )
+    return PaginatedAttractionResponse(
+        data=[AttractionLocationResponse.from_entity(loc) for loc in result.items],
+        pagination=PaginationMeta(
+            page=result.page, size=result.size,
+            total_elements=result.total_elements, total_pages=result.total_pages,
+        ),
+    )
+
+
+@router.get("/going-out", response_model=PaginatedAttractionResponse)
+async def get_going_out_recommendations(
+    latitude: float = Query(..., description="City latitude (from /cities/search)"),
+    longitude: float = Query(..., description="City longitude (from /cities/search)"),
+    language: str = Query("en", description="Language code"),
+    page: int = Query(1, ge=1, description="Page number (1-based)"),
+    size: int = Query(20, ge=1, le=20, description="Results per page (max 20)"),
+    service: AttractionService = Depends(get_attraction_service),
+) -> PaginatedAttractionResponse:
+    """
+    Popular restaurants, cafés, and bars — top-rated places to eat, drink, and have fun.
+
+    **Flutter flow:** User picks a city (gets lat/lng) → call this → show "Eat, Drink & Nightlife" section.
+    Paginated — use `page` param for infinite scroll.
+    """
+    result = await service.search_nearby(
+        latitude=latitude, longitude=longitude,
+        category="restaurants", language=language,
+        page=page, size=size,
+    )
+    return PaginatedAttractionResponse(
+        data=[AttractionLocationResponse.from_entity(loc) for loc in result.items],
+        pagination=PaginationMeta(
+            page=result.page, size=result.size,
+            total_elements=result.total_elements, total_pages=result.total_pages,
+        ),
+    )
+
+
+@router.get("/nearby", response_model=PaginatedAttractionResponse)
 async def search_nearby(
-    latitude: float = Query(..., description="Latitude coordinate (from /cities/search)"),
-    longitude: float = Query(..., description="Longitude coordinate (from /cities/search)"),
+    latitude: float = Query(..., description="Latitude coordinate"),
+    longitude: float = Query(..., description="Longitude coordinate"),
     category: str = Query("attractions", description="Category: 'attractions' or 'restaurants'"),
     language: str = Query("en", description="Language code"),
+    page: int = Query(1, ge=1, description="Page number (1-based)"),
+    size: int = Query(20, ge=1, le=20, description="Results per page (max 20)"),
     service: AttractionService = Depends(get_attraction_service),
-) -> list[AttractionLocationResponse]:
+) -> PaginatedAttractionResponse:
     """
-    Find popular attractions or restaurants near a location (e.g. city center).
+    Find attractions or restaurants near a location — paginated.
 
-    **Flutter flow:**
-    1. User picks a city from `/cities/search` → gives you `lat` + `lng`.
-    2. Call this with those coordinates + category.
-
-    - `latitude` / `longitude`: GPS coordinates.
-    - `category`: 'attractions' for landmarks/museums/parks, 'restaurants' for dining/cafés.
-    - Results sorted by rating, within 10 km radius.
+    - `page` / `size`: Pagination controls. Max 20 per page.
+    - Results sorted by rating, within 8 km radius.
     """
-    locations = await service.search_nearby(
-        latitude=latitude,
-        longitude=longitude,
-        category=category,
-        language=language,
+    result = await service.search_nearby(
+        latitude=latitude, longitude=longitude,
+        category=category, language=language,
+        page=page, size=size,
     )
-    return [AttractionLocationResponse.from_entity(loc) for loc in locations]
+    return PaginatedAttractionResponse(
+        data=[AttractionLocationResponse.from_entity(loc) for loc in result.items],
+        pagination=PaginationMeta(
+            page=result.page, size=result.size,
+            total_elements=result.total_elements, total_pages=result.total_pages,
+        ),
+    )
 
 
 @router.get("/details/{location_id}", response_model=AttractionDetailsResponse)
@@ -94,7 +156,7 @@ async def get_attraction_details(
     Get full details for a single attraction or restaurant.
 
     - `location_id`: TripAdvisor location ID (from search results).
-    - Returns complete info: description, rating, reviews, photos, hours, cuisine (restaurants).
+    - Returns complete info: description, rating, reviews, photos, hours, cuisine.
     """
     details = await service.get_details(
         location_id=location_id,
@@ -107,5 +169,3 @@ async def get_attraction_details(
             detail=f"Location with id '{location_id}' not found.",
         )
     return AttractionDetailsResponse.from_entity(details)
-
-

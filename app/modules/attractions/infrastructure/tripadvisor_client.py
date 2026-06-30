@@ -8,7 +8,6 @@ Auth: X-API-Key header
 """
 
 import logging
-import math
 
 import httpx
 
@@ -16,7 +15,7 @@ from app.modules.attractions.domain.entities import (
     AttractionDetails,
     AttractionLocation,
     AttractionPhoto,
-    AttractionReview,
+    PaginatedLocations,
 )
 from app.modules.attractions.domain.interfaces import (
     AttractionDetailsProvider,
@@ -129,27 +128,24 @@ class TripAdvisorClient(AttractionSearchProvider, AttractionDetailsProvider):
         longitude: float,
         category: str,
         language: str,
-    ) -> list[AttractionLocation]:
+        page: int = 1,
+        size: int = 20,
+    ) -> PaginatedLocations:
         """
         Search TripAdvisor locations near given coordinates.
-        Uses bounding box (~15 km in each direction) to cover full city area,
-        since radius is capped at 8 KM by the API.
+        Returns a single page of results with pagination metadata.
+        Flutter handles page navigation.
         """
-        # Calculate bounding box: ~15 km offset in each direction
-        # 1 degree latitude ≈ 111 km, 1 degree longitude ≈ 111 * cos(lat) km
-        offset_km = 15.0
-        lat_offset = offset_km / 111.0
-        lon_offset = offset_km / (111.0 * math.cos(math.radians(latitude)))
-
         params: dict[str, str | int | float] = {
-            "sw_lat": latitude - lat_offset,
-            "sw_lon": longitude - lon_offset,
-            "ne_lat": latitude + lat_offset,
-            "ne_lon": longitude + lon_offset,
+            "lat": latitude,
+            "lon": longitude,
+            "radius": 8,
+            "unit": "KM",
             "category": _CATEGORY_MAP.get(category, "ATTRACTION"),
             "include_photo": "true",
             "sort": "rating,desc",
-            "size": 20,
+            "size": min(size, 20),  # API max is 20 per page
+            "page": page,
             "locale": _resolve_locale(language),
         }
 
@@ -161,16 +157,26 @@ class TripAdvisorClient(AttractionSearchProvider, AttractionDetailsProvider):
                 timeout=15.0,
             )
             logger.info(
-                "TripAdvisor /locations/nearby [%s]: %s",
+                "TripAdvisor /locations/nearby page=%s [%s]: %s",
+                page,
                 response.status_code,
-                response.text[:500],
+                response.text[:300],
             )
             if response.status_code == 403:
                 raise PermissionError("nearby search not available on current API plan")
             response.raise_for_status()
             payload: dict = response.json()
 
-        return _parse_nearby_results(payload, category)
+        items = _parse_nearby_results(payload, category)
+        pagination: dict = payload.get("pagination", {})
+
+        return PaginatedLocations(
+            items=items,
+            page=pagination.get("page", page),
+            size=pagination.get("size", size),
+            total_elements=pagination.get("total_elements", len(items)),
+            total_pages=pagination.get("total_pages", 1),
+        )
 
     # ── Location details (with photos & reviews) ───────────────────────────────
 
@@ -236,6 +242,17 @@ def _parse_nearby_results(payload: dict, category: str) -> list[AttractionLocati
         latitude = float(coords.get("latitude", 0) or 0)
         longitude = float(coords.get("longitude", 0) or 0)
 
+        # Rating
+        traveler_ratings: dict = location.get("traveler_ratings", {})
+        overall: dict = traveler_ratings.get("overall", {})
+        rating = float(overall.get("rating", 0) or 0)
+        num_reviews = int(overall.get("count", 0) or 0)
+
+        # Photo (representative photo from nearby response)
+        photo_data: dict = item.get("photo", {})
+        photo_info: dict = photo_data.get("photo", {})
+        photo_url = photo_info.get("original_size_url", "")
+
         if location_id and name:
             results.append(
                 AttractionLocation(
@@ -245,6 +262,9 @@ def _parse_nearby_results(payload: dict, category: str) -> list[AttractionLocati
                     latitude=latitude,
                     longitude=longitude,
                     category=category,
+                    rating=rating,
+                    num_reviews=num_reviews,
+                    photo_url=photo_url,
                 )
             )
 
@@ -264,13 +284,23 @@ def _parse_search_results(payload: dict, category: str) -> list[AttractionLocati
         name = _get_primary_name(names) or location.get("name", "")
         addresses: list[dict] = location.get("addresses", [])
         address = addresses[0].get("formatted", "") if addresses else ""
-        # Fallback for older response format
         if not address:
             address_obj: dict = location.get("address_obj", {})
             address = address_obj.get("address_string", "")
         coords: dict = location.get("coordinates", {})
         latitude = float(coords.get("latitude", location.get("latitude", 0)) or 0)
         longitude = float(coords.get("longitude", location.get("longitude", 0)) or 0)
+
+        # Rating
+        traveler_ratings: dict = location.get("traveler_ratings", {})
+        overall: dict = traveler_ratings.get("overall", {})
+        rating = float(overall.get("rating", 0) or 0)
+        num_reviews = int(overall.get("count", 0) or 0)
+
+        # Photo
+        photo_data: dict = item.get("photo", {})
+        photo_info: dict = photo_data.get("photo", {})
+        photo_url = photo_info.get("original_size_url", "")
 
         if location_id and name:
             results.append(
@@ -281,6 +311,9 @@ def _parse_search_results(payload: dict, category: str) -> list[AttractionLocati
                     latitude=latitude,
                     longitude=longitude,
                     category=category,
+                    rating=rating,
+                    num_reviews=num_reviews,
+                    photo_url=photo_url,
                 )
             )
 
@@ -394,3 +427,6 @@ def _get_primary_name(names: list[dict]) -> str:
         if n.get("primary"):
             return n.get("value", "")
     return names[0].get("value", "") if names else ""
+
+
+

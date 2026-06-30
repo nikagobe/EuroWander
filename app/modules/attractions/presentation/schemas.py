@@ -8,6 +8,40 @@ from app.modules.attractions.domain.entities import (
 )
 
 
+# ── Pagination ─────────────────────────────────────────────────────────────────
+
+
+class PaginationMeta(BaseModel):
+    """Pagination metadata for Flutter list views."""
+
+    page: int
+    size: int
+    total_elements: int
+    total_pages: int
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {"page": 1, "size": 20, "total_elements": 85, "total_pages": 5}
+        }
+    )
+
+
+class PaginatedAttractionResponse(BaseModel):
+    """Paginated list of attractions/restaurants for Flutter infinite scroll."""
+
+    data: list["AttractionLocationResponse"]
+    pagination: PaginationMeta
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "data": [{"location_id": "197572", "name": "Eiffel Tower", "address": "Paris", "latitude": 48.8584, "longitude": 2.2945, "category": "attractions"}],
+                "pagination": {"page": 1, "size": 20, "total_elements": 85, "total_pages": 5},
+            }
+        }
+    )
+
+
 # ── Responses ─────────────────────────────────────────────────────────────────
 
 
@@ -23,6 +57,9 @@ class AttractionLocationResponse(BaseModel):
                 "latitude": 48.8584,
                 "longitude": 2.2945,
                 "category": "attractions",
+                "rating": 4.5,
+                "num_reviews": 142000,
+                "photo_url": "https://media-cdn.tripadvisor.com/media/photo-o/...",
             }
         }
     )
@@ -33,6 +70,9 @@ class AttractionLocationResponse(BaseModel):
     latitude: float
     longitude: float
     category: str
+    rating: float
+    num_reviews: int
+    photo_url: str
 
     @classmethod
     def from_entity(cls, entity: AttractionLocation) -> "AttractionLocationResponse":
@@ -43,6 +83,9 @@ class AttractionLocationResponse(BaseModel):
             latitude=entity.latitude,
             longitude=entity.longitude,
             category=entity.category,
+            rating=entity.rating,
+            num_reviews=entity.num_reviews,
+            photo_url=entity.photo_url,
         )
 
 
@@ -158,4 +201,3 @@ class AttractionDetailsResponse(BaseModel):
             photos=[AttractionPhotoResponse.from_entity(p) for p in entity.photos],
             reviews=[AttractionReviewResponse.from_entity(r) for r in entity.reviews],
         )
-

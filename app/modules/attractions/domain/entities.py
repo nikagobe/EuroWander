@@ -15,6 +15,9 @@ class AttractionLocation:
     latitude: float
     longitude: float
     category: str                       # "attractions" or "restaurants"
+    rating: float = 0.0                 # Average rating (1.0–5.0)
+    num_reviews: int = 0
+    photo_url: str = ""                 # Representative photo URL
 
 
 @dataclass
@@ -68,3 +71,13 @@ class AttractionDetails:
     photos: list[AttractionPhoto] = field(default_factory=list)
     reviews: list[AttractionReview] = field(default_factory=list)
 
+
+@dataclass
+class PaginatedLocations:
+    """A page of location results with pagination metadata."""
+
+    items: list[AttractionLocation]
+    page: int
+    size: int
+    total_elements: int
+    total_pages: int

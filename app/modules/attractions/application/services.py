@@ -1,4 +1,4 @@
-from app.modules.attractions.domain.entities import AttractionDetails, AttractionLocation
+from app.modules.attractions.domain.entities import AttractionDetails, AttractionLocation, PaginatedLocations
 from app.modules.attractions.domain.interfaces import (
     AttractionDetailsProvider,
     AttractionSearchProvider,
@@ -59,10 +59,12 @@ class AttractionService:
         longitude: float,
         category: str = "attractions",
         language: str = "en",
-    ) -> list[AttractionLocation]:
+        page: int = 1,
+        size: int = 20,
+    ) -> PaginatedLocations:
         """
         Search for attractions or restaurants near given coordinates.
-        Category must be 'attractions' or 'restaurants'.
+        Returns a paginated result — Flutter handles page navigation.
         """
         valid_categories = ("attractions", "restaurants")
         if category not in valid_categories:
@@ -72,8 +74,9 @@ class AttractionService:
             longitude=longitude,
             category=category,
             language=language,
+            page=page,
+            size=size,
         )
-
 
     async def get_details(
         self,
@@ -92,5 +95,3 @@ class AttractionService:
             language=language,
             currency=currency,
         )
-
-
