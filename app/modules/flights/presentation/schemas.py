@@ -1,4 +1,4 @@
-from pydantic import BaseModel, ConfigDict, field_validator
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 from app.modules.flights.domain.entities import FlightLeg, FlightOffer
 
@@ -24,7 +24,7 @@ class FlightSearchRequest(BaseModel):
     destination_id: str
     outbound_date: str        # YYYY-MM-DD
     return_date: str | None = None
-    adults: int = 1
+    adults: int = Field(default=1, ge=1, le=9, description="Number of adult passengers (1-9)")
     limit: int = 10
 
     @field_validator("origin_id", "destination_id")
@@ -53,7 +53,7 @@ class RegionalFlightSearchRequest(BaseModel):
     destination_id: str          # freebase_id of the destination city
     outbound_date: str           # YYYY-MM-DD
     return_date: str | None = None
-    adults: int = 1
+    adults: int = Field(default=1, ge=1, le=9, description="Number of adult passengers (1-9)")
     limit: int = 20
 
     @field_validator("destination_id")
@@ -120,8 +120,10 @@ class FlightOfferResponse(BaseModel):
     model_config = ConfigDict(
         json_schema_extra={
             "example": {
-                "price": 119.0,
+                "price": 238.0,
+                "price_per_person": 119.0,
                 "currency": "EUR",
+                "adults": 2,
                 "total_duration_minutes": 680,
                 "stops": 1,
                 "departure_airport": "BSL",
@@ -140,8 +142,10 @@ class FlightOfferResponse(BaseModel):
         }
     )
 
-    price: float
+    price: float                    # Total price for all adults
+    price_per_person: float         # Price divided among adults
     currency: str
+    adults: int                     # Number of passengers the price covers
     total_duration_minutes: int
     stops: int
     # Trip-level summary: origin (first leg) → final destination (last leg)
@@ -162,7 +166,9 @@ class FlightOfferResponse(BaseModel):
     def from_entity(cls, offer: FlightOffer) -> "FlightOfferResponse":
         return cls(
             price=offer.price,
+            price_per_person=offer.price_per_person,
             currency=offer.currency,
+            adults=offer.adults,
             total_duration_minutes=offer.total_duration_minutes,
             stops=offer.stops,
             departure_airport=offer.departure_airport,

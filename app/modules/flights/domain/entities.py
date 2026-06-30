@@ -37,9 +37,11 @@ class FlightOffer:
     """
     A complete flight offer that may consist of multiple legs (stops).
     Pure domain model — no MongoDB or FastAPI awareness.
+
+    Price semantics: SerpApi returns *total* price for all requested adults.
     """
 
-    price: float
+    price: float              # Total price for all adults (as returned by provider)
     currency: str
     total_duration_minutes: int
     legs: list[FlightLeg] = field(default_factory=list)
@@ -47,6 +49,16 @@ class FlightOffer:
     airline_logo: str = ""
     booking_token: str = ""
     source: str = ""          # e.g. "serpapi" or "fake"
+    adults: int = 1           # Number of passengers the price covers
+
+    # ── Derived price helpers ─────────────────────────────────────────────────
+
+    @property
+    def price_per_person(self) -> float:
+        """Price divided equally among all adults."""
+        if self.adults <= 0:
+            return self.price
+        return round(self.price / self.adults, 2)
 
     # ── Trip-level summary (first leg → last leg) ─────────────────────────────
 

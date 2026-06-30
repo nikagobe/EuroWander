@@ -1,6 +1,6 @@
 from datetime import date as DateType
 
-from pydantic import BaseModel, ConfigDict, field_validator
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 from app.modules.buses.domain.entities import BusOffer, BusSegment
 
@@ -24,7 +24,7 @@ class BusSearchRequest(BaseModel):
     origin_freebase_id: str         # e.g. "/m/0156q"  (Berlin)
     destination_freebase_id: str    # e.g. "/m/04jpl"  (Munich)
     date: str                       # YYYY-MM-DD
-    adults: int = 1
+    adults: int = Field(default=1, ge=1, le=9, description="Number of adult passengers (1-9)")
     currency: str = "EUR"
     limit: int = 20
 
@@ -75,7 +75,10 @@ class BusOfferResponse(BaseModel):
                 "duration_minutes": 460,
                 "changeovers": 0,
                 "price": 26.99,
+                "price_per_person": 26.99,
+                "total_price": 53.98,
                 "currency": "EUR",
+                "adults": 2,
                 "deeplink": "https://shop.flixbus.com/...",
                 "additional_info": "",
                 "source": "flixbus",
@@ -91,8 +94,11 @@ class BusOfferResponse(BaseModel):
     duration: str
     duration_minutes: int
     changeovers: int
-    price: float
+    price: float                # Per-person price
+    price_per_person: float     # Same as price (FlixBus quotes per person)
+    total_price: float          # price × adults
     currency: str
+    adults: int                 # Number of passengers
     deeplink: str
     additional_info: str
     source: str
@@ -109,7 +115,10 @@ class BusOfferResponse(BaseModel):
             duration_minutes=offer.duration_minutes,
             changeovers=offer.changeovers,
             price=offer.price,
+            price_per_person=offer.price_per_person,
+            total_price=offer.total_price,
             currency=offer.currency,
+            adults=offer.adults,
             deeplink=offer.deeplink,
             additional_info=offer.additional_info,
             source=offer.source,

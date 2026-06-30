@@ -12,7 +12,7 @@ from app.modules.buses.domain.interfaces import BusSearchProvider
 _FAKE_FILE = Path(__file__).parent.parent.parent.parent.parent / "data" / "buses" / "fake_berlin_munich.json"
 
 
-def _parse_journeys(data: dict, source: str = "fake") -> list[BusOffer]:
+def _parse_journeys(data: dict, source: str = "fake", adults: int = 1) -> list[BusOffer]:
     offers: list[BusOffer] = []
     for j in data.get("journeys", []):
         fares = j.get("fares", [{}])
@@ -55,6 +55,7 @@ def _parse_journeys(data: dict, source: str = "fake") -> list[BusOffer]:
                 segments=segments,
                 additional_info=additional_info,
                 source=source,
+                adults=adults,
             )
         )
     return offers
@@ -73,5 +74,5 @@ class FakeBusClient(BusSearchProvider):
     ) -> list[BusOffer]:
         with open(_FAKE_FILE, encoding="utf-8") as f:
             data = json.load(f)
-        return _parse_journeys(data, source="fake")
+        return _parse_journeys(data, source="fake", adults=adults)
 

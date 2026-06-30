@@ -28,12 +28,12 @@ _FAKE_MULTI_BY_DESTINATION: dict[str, Path] = {
 }
 
 
-def _load_fixture(path: Path) -> list[FlightOffer]:
+def _load_fixture(path: Path, adults: int = 1) -> list[FlightOffer]:
     if not path.exists():
         return []
     with path.open(encoding="utf-8-sig") as f:
         data: dict = json.load(f)
-    return _parse_serpapi_response(data)
+    return _parse_serpapi_response(data, adults=adults)
 
 
 def _multi_fixture(destination: str) -> Path:
@@ -56,7 +56,7 @@ class FakeFlightClient(FlightSearchProvider):
         return_date: str | None,
         adults: int,
     ) -> list[FlightOffer]:
-        return _load_fixture(_FAKE_SINGLE_PATH)
+        return _load_fixture(_FAKE_SINGLE_PATH, adults=adults)
 
     async def search_multi_origin(
         self,
@@ -66,4 +66,4 @@ class FakeFlightClient(FlightSearchProvider):
         return_date: str | None,
         adults: int,
     ) -> list[FlightOffer]:
-        return _load_fixture(_multi_fixture(destination))
+        return _load_fixture(_multi_fixture(destination), adults=adults)

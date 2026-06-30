@@ -55,5 +55,5 @@ class FlixbusClient(BusSearchProvider):
             response.raise_for_status()
             data: dict = response.json()
 
-        return _parse_journeys(data, source="flixbus")
+        return _parse_journeys(data, source="flixbus", adults=adults)
 

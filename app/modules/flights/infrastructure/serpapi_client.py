@@ -75,7 +75,7 @@ class SerpApiFlightClient(FlightSearchProvider):
         other_count = len(data.get("other_flights", []))
         logger.info("[SerpApi] best_flights=%d, other_flights=%d", best_count, other_count)
 
-        offers = _parse_serpapi_response(data)
+        offers = _parse_serpapi_response(data, adults=adults)
         logger.info("[SerpApi] parsed %d FlightOffer(s)", len(offers))
         return offers
 
@@ -134,12 +134,12 @@ class SerpApiFlightClient(FlightSearchProvider):
         other_count = len(data.get("other_flights", []))
         logger.info("[SerpApi] multi-origin best_flights=%d, other_flights=%d", best_count, other_count)
 
-        offers = _parse_serpapi_response(data)
+        offers = _parse_serpapi_response(data, adults=adults)
         logger.info("[SerpApi] multi-origin parsed %d FlightOffer(s)", len(offers))
         return offers
 
 
-def _parse_serpapi_response(data: dict) -> list[FlightOffer]:
+def _parse_serpapi_response(data: dict, adults: int = 1) -> list[FlightOffer]:
     """Parse a SerpApi Google Flights JSON response into domain FlightOffer objects."""
     offers: list[FlightOffer] = []
 
@@ -169,6 +169,7 @@ def _parse_serpapi_response(data: dict) -> list[FlightOffer]:
                 airline_logo=group.get("airline_logo", ""),
                 booking_token=group.get("booking_token", ""),
                 source="serpapi",
+                adults=adults,
             )
         )
 

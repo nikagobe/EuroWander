@@ -23,7 +23,7 @@ class MongoCityRepository(CityRepository):
             wikidata_id=doc.get("wikidata_id", ""),
             name=doc.get("name", ""),
             description=doc.get("description", ""),
-            country=doc.get("country", "").capitalize(),
+            country=doc.get("country", ""),
             freebase_id=doc.get("freebase_id", ""),
             lat=doc.get("lat"),
             lng=doc.get("lng"),

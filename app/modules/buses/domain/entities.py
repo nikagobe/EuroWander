@@ -18,6 +18,8 @@ class BusOffer:
     """
     A complete Flixbus journey offer.
     Pure domain model — no MongoDB or FastAPI awareness.
+
+    Price semantics: FlixBus returns *per-person* fare.
     """
 
     dep_name: str           # First departure station
@@ -27,10 +29,23 @@ class BusOffer:
     duration: str           # Human-readable "07:40"
     duration_minutes: int   # Parsed total minutes
     changeovers: int
-    price: float
+    price: float            # Per-person price (as returned by FlixBus)
     currency: str
     deeplink: str
     segments: list[BusSegment] = field(default_factory=list)
     additional_info: str = ""   # e.g. "1 seat left at this price"
     source: str = ""            # "flixbus" | "fake"
+    adults: int = 1             # Number of passengers searched
+
+    # ── Derived price helpers ─────────────────────────────────────────────────
+
+    @property
+    def total_price(self) -> float:
+        """Total cost for all adults."""
+        return round(self.price * self.adults, 2)
+
+    @property
+    def price_per_person(self) -> float:
+        """Per-person price (same as `price` since FlixBus quotes per person)."""
+        return self.price
 
