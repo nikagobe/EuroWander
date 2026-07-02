@@ -29,6 +29,7 @@ from app.modules.finances.presentation.router import router as finances_router
 from app.modules.flights.presentation.router import router as flights_router
 from app.modules.attractions.presentation.router import router as attractions_router
 from app.modules.hotels.presentation.router import router as hotels_router
+from app.modules.restaurants.presentation.router import router as restaurants_router
 from app.modules.photos.infrastructure.repositories import MongoPhotoRepository
 from app.modules.photos.presentation.router import router as photos_router
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
@@ -90,6 +91,7 @@ app.include_router(countries_router, prefix="/api/v1")
 app.include_router(flights_router, prefix="/api/v1")
 app.include_router(hotels_router, prefix="/api/v1")
 app.include_router(attractions_router, prefix="/api/v1")
+app.include_router(restaurants_router, prefix="/api/v1")
 app.include_router(buses_router, prefix="/api/v1")
 app.include_router(users_router, prefix="/api/v1")
 app.include_router(trips_router, prefix="/api/v1")

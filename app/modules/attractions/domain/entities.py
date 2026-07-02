@@ -2,82 +2,122 @@ from dataclasses import dataclass, field
 
 
 @dataclass
-class AttractionLocation:
+class AttractionDestination:
     """
-    A search result from TripAdvisor location search.
+    A city/destination result from TripAdvisor autocomplete (RapidAPI scraper).
     Pure domain model — no MongoDB or FastAPI awareness.
-    Covers both attractions and restaurants.
+    Used by Flutter to let users pick a city before browsing attractions.
     """
 
-    location_id: str                    # TripAdvisor location ID
-    name: str                           # Place name
-    address: str                        # Full street address
-    latitude: float
-    longitude: float
-    category: str                       # "attractions" or "restaurants"
-    rating: float = 0.0                 # Average rating (1.0–5.0)
-    num_reviews: int = 0
-    photo_url: str = ""                 # Representative photo URL
+    geo_id: int                     # TripAdvisor geo ID (e.g. 187147 for Paris)
+    name: str                       # City name (e.g. "Paris")
+    secondary_text: str             # Region/country (e.g. "Ile-de-France, France")
+    image_url: str                  # City photo URL (if available)
+
+
+@dataclass
+class Attraction:
+    """
+    A single attraction from TripAdvisor search results.
+    Pure domain model — no MongoDB or FastAPI awareness.
+    """
+
+    location_id: str                # TripAdvisor location ID
+    name: str                       # Attraction name (without ranking prefix)
+    category: str                   # e.g. "Amusement & Theme Parks"
+    neighborhood: str               # e.g. "Lake Buena Vista" or ""
+    rating: float                   # Bubble rating 1.0–5.0
+    num_reviews: int                # Total review count
+    photo_url: str                  # Photo URL (resized)
+    latitude: float                 # From map pins
+    longitude: float                # From map pins
+    badge: str                      # e.g. "TRAVELLER_CHOICE", "BEST_OF_BEST", ""
+    ticket_price: str               # e.g. "Tickets from $107 USD" or ""
+    is_open_now: bool               # Whether attraction is currently open
+
+
+@dataclass
+class PaginatedAttractions:
+    """A page of attraction results with pagination metadata."""
+
+    items: list[Attraction]
+    current_page: int
+    total_pages: int
+    total_results: int
+    page_size: int
 
 
 @dataclass
 class AttractionPhoto:
-    """A single photo associated with a location."""
+    """A single photo for an attraction."""
 
-    photo_id: str
-    url_small: str                      # Thumbnail
-    url_medium: str                     # Medium resolution
-    url_large: str                      # Full resolution
-    caption: str = ""
-    user: str = ""                      # Attribution (who uploaded)
+    url: str
+    caption: str
+    width: int
+    height: int
 
 
 @dataclass
 class AttractionReview:
-    """A single user review for a location."""
+    """A user review for an attraction."""
 
-    review_id: str
-    rating: int                         # 1–5 bubble rating
+    rating: float
     title: str
     text: str
-    published_date: str                 # ISO date string
-    user_name: str = ""
+    author: str
+    published_date: str
+    trip_type: str
 
 
 @dataclass
-class AttractionDetails:
+class NearbyAttractionCard:
+    """A nearby attraction card from the details page."""
+
+    content_id: str
+    name: str
+    rating: float
+    num_reviews: int
+    distance: str
+    category: str
+    photo_url: str
+
+
+@dataclass
+class NearbyRestaurantCard:
+    """A nearby restaurant card from the attraction details page."""
+
+    content_id: str
+    name: str
+    rating: float
+    num_reviews: int
+    distance: str
+    cuisine: str
+    photo_url: str
+
+
+@dataclass
+class AttractionDetail:
     """
-    Detailed information for a single attraction or restaurant.
-    Pure domain model — no MongoDB or FastAPI awareness.
+    Full details of a single attraction from TripAdvisor.
+    Pure domain model — no framework awareness.
     """
 
-    location_id: str
+    content_id: str
     name: str
+    rating: float
+    num_reviews: int
+    ranking: str
+    category: str
     description: str
+    address: str
     latitude: float
     longitude: float
-    address: str
     phone: str
     website: str
-    email: str
-    category: str                       # "attractions" or "restaurants"
-    subcategories: list[str] = field(default_factory=list)   # e.g. ["Museums", "Art Museums"]
-    rating: float = 0.0                 # Average rating (1.0–5.0)
-    num_reviews: int = 0
-    ranking_string: str = ""            # e.g. "#5 of 200 things to do in Paris"
-    price_level: str = ""               # e.g. "$", "$$", "$$$"
-    hours: list[str] = field(default_factory=list)           # Operating hours per day
-    cuisine: list[str] = field(default_factory=list)         # Restaurants only
+    hours_status: str
+    today_schedule: list[str] = field(default_factory=list)
+    about_items: list[str] = field(default_factory=list)
     photos: list[AttractionPhoto] = field(default_factory=list)
     reviews: list[AttractionReview] = field(default_factory=list)
-
-
-@dataclass
-class PaginatedLocations:
-    """A page of location results with pagination metadata."""
-
-    items: list[AttractionLocation]
-    page: int
-    size: int
-    total_elements: int
-    total_pages: int
+    nearby_attractions: list[NearbyAttractionCard] = field(default_factory=list)
+    nearby_restaurants: list[NearbyRestaurantCard] = field(default_factory=list)
