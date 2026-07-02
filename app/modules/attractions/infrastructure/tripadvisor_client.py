@@ -56,7 +56,7 @@ class TripAdvisorScraperClient(
         """
         params: dict[str, str] = {"query": query}
 
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(verify=False) as client:
             response = await client.get(
                 _AUTOCOMPLETE_URL,
                 params=params,
@@ -101,7 +101,7 @@ class TripAdvisorScraperClient(
             "units": "kilometers",
         }
 
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(verify=False) as client:
             response = await client.get(
                 _ATTRACTIONS_SEARCH_URL,
                 params=params,
@@ -118,6 +118,10 @@ class TripAdvisorScraperClient(
             response.raise_for_status()
             payload: dict = response.json()
 
+        logger.debug(
+            "attractions/search raw response (first 2000 chars): %s",
+            str(payload)[:2000],
+        )
         return _parse_attractions_response(payload)
 
     # ── Attraction Details ────────────────────────────────────────────────────
@@ -140,7 +144,7 @@ class TripAdvisorScraperClient(
             "adults": adults,
         }
 
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(verify=False) as client:
             response = await client.get(
                 _ATTRACTIONS_DETAILS_URL,
                 params=params,
@@ -164,20 +168,31 @@ class TripAdvisorScraperClient(
 
 def _parse_attractions_response(payload: dict) -> PaginatedAttractions:
     """Parse the RapidAPI TripAdvisor attractions/search response."""
-    data: dict = payload.get("data", {})
-    meta: dict = payload.get("meta", {})
+    data: dict = payload.get("data", {}) or {}
+    meta: dict = payload.get("meta", {}) or {}
+
+    logger.debug("attractions/search raw payload keys: %s", list(payload.keys()))
+    logger.debug("attractions/search data keys: %s", list(data.keys()) if data else "EMPTY")
+    logger.debug(
+        "attractions/search meta: currentPage=%s totalPage=%s totalRecords=%s",
+        meta.get("currentPage"),
+        meta.get("totalPage"),
+        meta.get("totalRecords"),
+    )
 
     # Build lat/lng lookup from map pins
     coords_map: dict[str, tuple[float, float]] = _build_coords_map(data)
 
     # Parse attraction cards
-    cards: list[dict] = data.get("attractions", [])
+    cards: list[dict] = data.get("attractions", []) or []
     items: list[Attraction] = []
 
     for card in cards:
         attraction = _parse_attraction_card(card, coords_map)
         if attraction:
             items.append(attraction)
+
+    logger.debug("Parsed %d attractions from %d cards", len(items), len(cards))
 
     return PaginatedAttractions(
         items=items,
@@ -191,13 +206,15 @@ def _parse_attractions_response(payload: dict) -> PaginatedAttractions:
 def _build_coords_map(data: dict) -> dict[str, tuple[float, float]]:
     """Extract lat/lng from mapSections pins, keyed by location ID."""
     coords: dict[str, tuple[float, float]] = {}
-    map_sections: list[dict] = data.get("mapSections", [])
+    map_sections: list[dict] = data.get("mapSections", []) or []
 
     for section in map_sections:
-        pins: list[dict] = section.get("pins", [])
+        pins: list[dict] = section.get("pins", []) or []
         for pin in pins:
-            geo_point: dict = pin.get("geoPoint", {})
-            save_id: dict = pin.get("saveId", {})
+            geo_point: dict | None = pin.get("geoPoint")
+            save_id: dict | None = pin.get("saveId")
+            if not geo_point or not save_id:
+                continue
             loc_id: str = str(save_id.get("id", ""))
             lat = geo_point.get("latitude", 0.0)
             lon = geo_point.get("longitude", 0.0)

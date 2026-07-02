@@ -69,7 +69,7 @@ class TripAdvisorRestaurantClient(RestaurantSearchProvider, RestaurantDetailProv
         if update_token:
             params["updateToken"] = update_token
 
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(verify=False) as client:
             response = await client.get(
                 _RESTAURANTS_SEARCH_URL,
                 params=params,
@@ -103,7 +103,7 @@ class TripAdvisorRestaurantClient(RestaurantSearchProvider, RestaurantDetailProv
             "units": "kilometers",
         }
 
-        async with httpx.AsyncClient() as client:
+        async with httpx.AsyncClient(verify=False) as client:
             response = await client.get(
                 _RESTAURANTS_DETAILS_URL,
                 params=params,
