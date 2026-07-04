@@ -1,4 +1,5 @@
-from fastapi import APIRouter, Depends, Query
+import httpx
+from fastapi import APIRouter, Depends, HTTPException, Query
 
 from app.config import settings
 from app.modules.attractions.application.services import AttractionService
@@ -110,11 +111,22 @@ async def get_attraction_details(
     2. Call this endpoint with the `location_id` as `content_id`
     3. Render the detail screen with all returned data
     """
-    detail = await service.get_attraction_details(
-        content_id=content_id,
-        start_date=start_date,
-        end_date=end_date,
-        currency=currency,
-        adults=adults,
-    )
+    try:
+        detail = await service.get_attraction_details(
+            content_id=content_id,
+            start_date=start_date,
+            end_date=end_date,
+            currency=currency,
+            adults=adults,
+        )
+    except httpx.ReadTimeout:
+        raise HTTPException(
+            status_code=504,
+            detail="Attraction details request timed out. Please try again.",
+        )
+    except httpx.HTTPStatusError as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Upstream API error: {exc.response.status_code}",
+        )
     return AttractionDetailResponse.from_entity(detail)

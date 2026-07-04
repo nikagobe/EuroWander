@@ -134,7 +134,7 @@ class TripAdvisorScraperClient(
         currency: str,
         adults: int,
     ) -> AttractionDetail:
-        """Fetch attraction details from TripAdvisor RapidAPI."""
+        """Fetch attraction details from TripAdvisor RapidAPI with retry on timeout."""
         params: dict[str, str | int] = {
             "contentId": content_id,
             "startDate": start_date,
@@ -144,23 +144,42 @@ class TripAdvisorScraperClient(
             "adults": adults,
         }
 
-        async with httpx.AsyncClient(verify=False) as client:
-            response = await client.get(
-                _ATTRACTIONS_DETAILS_URL,
-                params=params,
-                headers=self._headers(),
-                timeout=20.0,
-            )
-            logger.info(
-                "TripAdvisor attractions/details [%s]: contentId=%s, %d chars",
-                response.status_code,
-                content_id,
-                len(response.text),
-            )
-            response.raise_for_status()
-            payload: dict = response.json()
+        max_retries: int = 2
+        timeout: float = 45.0  # Details endpoint is heavier; needs more time
 
-        return _parse_attraction_detail(payload, content_id)
+        for attempt in range(max_retries + 1):
+            try:
+                async with httpx.AsyncClient(verify=False) as client:
+                    response = await client.get(
+                        _ATTRACTIONS_DETAILS_URL,
+                        params=params,
+                        headers=self._headers(),
+                        timeout=timeout,
+                    )
+                    logger.info(
+                        "TripAdvisor attractions/details [%s]: contentId=%s, %d chars",
+                        response.status_code,
+                        content_id,
+                        len(response.text),
+                    )
+                    response.raise_for_status()
+                    payload: dict = response.json()
+                return _parse_attraction_detail(payload, content_id)
+            except httpx.ReadTimeout:
+                if attempt < max_retries:
+                    logger.warning(
+                        "TripAdvisor details timeout (attempt %d/%d): contentId=%s",
+                        attempt + 1,
+                        max_retries + 1,
+                        content_id,
+                    )
+                    continue
+                logger.error(
+                    "TripAdvisor details timeout after %d attempts: contentId=%s",
+                    max_retries + 1,
+                    content_id,
+                )
+                raise
 
 
 # ── Parsers ────────────────────────────────────────────────────────────────────
