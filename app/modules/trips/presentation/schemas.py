@@ -3,11 +3,13 @@ from datetime import datetime
 from pydantic import BaseModel, ConfigDict
 
 from app.modules.trips.domain.entities import (
+    SavedAttraction,
     SavedBusJourney,
     SavedBusSegment,
     SavedFlight,
     SavedFlightLeg,
     SavedHotel,
+    SavedRestaurant,
     Trip,
     TripMember,
     TripRole,
@@ -99,6 +101,82 @@ class HotelInput(BaseModel):
     price_total: float
     currency: str = "EUR"
     booking_url: str = ""
+
+
+class AttractionInput(BaseModel):
+    """
+    The client sends attraction data from /attractions/search or /attractions/details
+    to save it to a trip.  Must include day_date + time_slot for schedule placement.
+    """
+    location_id: str
+    name: str
+    category: str = ""
+    photo_url: str = ""
+    latitude: float = 0.0
+    longitude: float = 0.0
+    address: str = ""
+    rating: float = 0.0
+    num_reviews: int = 0
+    ticket_price: str = ""
+    day_date: str                       # YYYY-MM-DD
+    time_slot: str = "morning"          # morning | midday | evening | night
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "location_id": "188757",
+                "name": "Eiffel Tower",
+                "category": "Sights & Landmarks",
+                "photo_url": "https://...",
+                "latitude": 48.8584,
+                "longitude": 2.2945,
+                "address": "Champ de Mars, 5 Avenue Anatole France",
+                "rating": 4.5,
+                "num_reviews": 142000,
+                "ticket_price": "Tickets from €26",
+                "day_date": "2026-07-28",
+                "time_slot": "morning",
+            }
+        }
+    )
+
+
+class RestaurantInput(BaseModel):
+    """
+    The client sends restaurant data from /restaurants/search or /restaurants/details
+    to save it to a trip.  Must include day_date + time_slot for schedule placement.
+    """
+    location_id: str
+    name: str
+    cuisine: str = ""
+    photo_url: str = ""
+    latitude: float = 0.0
+    longitude: float = 0.0
+    address: str = ""
+    rating: float = 0.0
+    num_reviews: int = 0
+    price_level: str = ""
+    day_date: str                       # YYYY-MM-DD
+    time_slot: str = "evening"          # morning | midday | evening | night
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "location_id": "1234567",
+                "name": "Le Jules Verne",
+                "cuisine": "$$$$ • French",
+                "photo_url": "https://...",
+                "latitude": 48.8583,
+                "longitude": 2.2944,
+                "address": "Eiffel Tower, 2nd floor",
+                "rating": 4.0,
+                "num_reviews": 3200,
+                "price_level": "$$$$",
+                "day_date": "2026-07-28",
+                "time_slot": "evening",
+            }
+        }
+    )
 
 
 class CreateTripRequest(BaseModel):
@@ -344,6 +422,90 @@ class SavedHotelResponse(BaseModel):
         )
 
 
+class SavedAttractionResponse(BaseModel):
+    location_id: str
+    name: str
+    category: str
+    photo_url: str
+    latitude: float
+    longitude: float
+    address: str
+    rating: float
+    num_reviews: int
+    ticket_price: str
+    day_date: str
+    time_slot: str
+    is_paid: bool
+    actual_paid_amount: float | None
+    paid_currency: str | None
+    paid_by: str | None
+    eligible_member_ids: list[str]
+
+    @classmethod
+    def from_entity(cls, a: SavedAttraction) -> "SavedAttractionResponse":
+        return cls(
+            location_id=a.location_id,
+            name=a.name,
+            category=a.category,
+            photo_url=a.photo_url,
+            latitude=a.latitude,
+            longitude=a.longitude,
+            address=a.address,
+            rating=a.rating,
+            num_reviews=a.num_reviews,
+            ticket_price=a.ticket_price,
+            day_date=a.day_date,
+            time_slot=a.time_slot,
+            is_paid=a.is_paid,
+            actual_paid_amount=a.actual_paid_amount,
+            paid_currency=a.paid_currency,
+            paid_by=a.paid_by,
+            eligible_member_ids=a.eligible_member_ids,
+        )
+
+
+class SavedRestaurantResponse(BaseModel):
+    location_id: str
+    name: str
+    cuisine: str
+    photo_url: str
+    latitude: float
+    longitude: float
+    address: str
+    rating: float
+    num_reviews: int
+    price_level: str
+    day_date: str
+    time_slot: str
+    is_paid: bool
+    actual_paid_amount: float | None
+    paid_currency: str | None
+    paid_by: str | None
+    eligible_member_ids: list[str]
+
+    @classmethod
+    def from_entity(cls, r: SavedRestaurant) -> "SavedRestaurantResponse":
+        return cls(
+            location_id=r.location_id,
+            name=r.name,
+            cuisine=r.cuisine,
+            photo_url=r.photo_url,
+            latitude=r.latitude,
+            longitude=r.longitude,
+            address=r.address,
+            rating=r.rating,
+            num_reviews=r.num_reviews,
+            price_level=r.price_level,
+            day_date=r.day_date,
+            time_slot=r.time_slot,
+            is_paid=r.is_paid,
+            actual_paid_amount=r.actual_paid_amount,
+            paid_currency=r.paid_currency,
+            paid_by=r.paid_by,
+            eligible_member_ids=r.eligible_member_ids,
+        )
+
+
 # ── Member schemas ────────────────────────────────────────────────────────────
 
 class AddMemberRequest(BaseModel):
@@ -382,6 +544,8 @@ class TripResponse(BaseModel):
     return_flight: SavedFlightResponse
     bus_journey: BusJourneyResponse | None
     hotels: list[SavedHotelResponse]
+    attractions: list[SavedAttractionResponse]
+    restaurants: list[SavedRestaurantResponse]
     created_at: datetime
     updated_at: datetime
 
@@ -397,6 +561,8 @@ class TripResponse(BaseModel):
             return_flight=SavedFlightResponse.from_entity(trip.return_flight),
             bus_journey=BusJourneyResponse.from_entity(trip.bus_journey) if trip.bus_journey else None,
             hotels=[SavedHotelResponse.from_entity(h) for h in trip.hotels],
+            attractions=[SavedAttractionResponse.from_entity(a) for a in trip.attractions],
+            restaurants=[SavedRestaurantResponse.from_entity(r) for r in trip.restaurants],
             created_at=trip.created_at,
             updated_at=trip.updated_at,
         )
@@ -464,6 +630,48 @@ class MarkHotelPaidRequest(BaseModel):
         json_schema_extra={
             "example": {
                 "actual_paid_amount": 450.00,
+                "currency": "EUR",
+                "paid_by": "664abc123def456789012345",
+                "eligible_member_ids": ["664abc123def456789012345", "664abc123def456789099999"],
+            }
+        }
+    )
+
+
+class MarkAttractionPaidRequest(BaseModel):
+    """
+    Called when a user marks an attraction ticket/entry as paid.
+    """
+    actual_paid_amount: float
+    paid_by: str
+    eligible_member_ids: list[str]
+    currency: str = "EUR"
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "actual_paid_amount": 26.00,
+                "currency": "EUR",
+                "paid_by": "664abc123def456789012345",
+                "eligible_member_ids": ["664abc123def456789012345", "664abc123def456789099999"],
+            }
+        }
+    )
+
+
+class MarkRestaurantPaidRequest(BaseModel):
+    """
+    Called when a user marks a restaurant meal as paid.
+    """
+    actual_paid_amount: float
+    paid_by: str
+    eligible_member_ids: list[str]
+    currency: str = "EUR"
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "actual_paid_amount": 85.00,
                 "currency": "EUR",
                 "paid_by": "664abc123def456789012345",
                 "eligible_member_ids": ["664abc123def456789012345", "664abc123def456789099999"],

@@ -10,18 +10,22 @@ from app.modules.flights.domain.entities import FlightLeg, FlightOffer
 from app.modules.flights.infrastructure.booking_client import FakeBookingClient, SerpApiBookingClient
 from app.modules.trips.application.booking_service import TripBookingService
 from app.modules.trips.application.services import TripService
-from app.modules.trips.domain.entities import SavedHotel
+from app.modules.trips.domain.entities import SavedAttraction, SavedHotel, SavedRestaurant
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.trips.presentation.schemas import (
     AddMemberRequest,
+    AttractionInput,
     BookingLinkResponse,
     BusJourneyInput,
     CreateTripRequest,
     FlightOfferInput,
     HotelInput,
+    MarkAttractionPaidRequest,
     MarkBusPaidRequest,
     MarkFlightPaidRequest,
     MarkHotelPaidRequest,
+    MarkRestaurantPaidRequest,
+    RestaurantInput,
     TripMemberResponse,
     TripResponse,
 )
@@ -612,6 +616,306 @@ async def unmark_hotel_paid(
         trip_id=trip_id,
         requester_id=current_user.id,
         hotel_id=hotel_id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+# ── Attraction endpoints ──────────────────────────────────────────────────────
+
+
+def _input_to_saved_attraction(inp: AttractionInput) -> SavedAttraction:
+    """Convert the client-supplied AttractionInput into a domain SavedAttraction."""
+    return SavedAttraction(
+        location_id=inp.location_id,
+        name=inp.name,
+        category=inp.category,
+        photo_url=inp.photo_url,
+        latitude=inp.latitude,
+        longitude=inp.longitude,
+        address=inp.address,
+        rating=inp.rating,
+        num_reviews=inp.num_reviews,
+        ticket_price=inp.ticket_price,
+        day_date=inp.day_date,
+        time_slot=inp.time_slot,
+    )
+
+
+@router.post("/{trip_id}/attractions", response_model=TripResponse)
+async def add_attraction_to_trip(
+    trip_id: str,
+    req: AttractionInput,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+) -> TripResponse:
+    """
+    Add an attraction to the trip.
+
+    Send the attraction data as received from `/attractions/search` or
+    `/attractions/details`, plus a `day_date` and `time_slot` for schedule
+    placement.  The attraction will appear as an auto-item in the trip schedule
+    and can later be marked as paid for expense tracking.
+
+    Returns 409 if the same location_id is already saved.
+
+    **Flutter flow:**
+    1. User views attraction detail
+    2. Taps "Add to trip" → picks day + time slot
+    3. Attraction appears in trip detail AND in the schedule
+    """
+    attraction = _input_to_saved_attraction(req)
+    trip = await service.add_attraction(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        attraction=attraction,
+    )
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/attractions/{location_id}", response_model=TripResponse)
+async def remove_attraction_from_trip(
+    trip_id: str,
+    location_id: str,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Remove a specific attraction from the trip by its TripAdvisor location_id.
+    Also removes the corresponding auto-generated expense from finances if it exists.
+    Returns 400 if the attraction is not found in this trip.
+    """
+    source_ref = f"attraction-{location_id}"
+    existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.remove_attraction(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+# ── Attraction payment endpoints ──────────────────────────────────────────────
+
+
+@router.patch("/{trip_id}/attractions/{location_id}/payment", response_model=TripResponse)
+async def mark_attraction_paid(
+    trip_id: str,
+    location_id: str,
+    req: MarkAttractionPaidRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Mark a specific attraction as paid (e.g. entrance tickets purchased).
+
+    - Records the actual price paid, who paid, and which members share the cost.
+    - Automatically creates/updates an expense in the finances module.
+    - Returns 400 if the attraction is not found in this trip.
+    """
+    trip = await service.mark_attraction_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+        actual_paid_amount=req.actual_paid_amount,
+        paid_currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+    )
+
+    attraction = trip.find_attraction(location_id)
+    label = f"Attraction: {attraction.name}"  # type: ignore[union-attr]
+    source_ref = f"attraction-{location_id}"
+
+    await finance_service.upsert_ticket_expense(
+        trip_id=trip_id,
+        name=label,
+        amount=req.actual_paid_amount,
+        currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+        source_ref=source_ref,
+    )
+
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/attractions/{location_id}/payment", response_model=TripResponse)
+async def unmark_attraction_paid(
+    trip_id: str,
+    location_id: str,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Clear the payment info from a specific attraction (mark as unpaid).
+    Also removes the corresponding auto-generated expense from finances.
+    Returns 400 if the attraction is not found in this trip.
+    """
+    source_ref = f"attraction-{location_id}"
+    existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.unmark_attraction_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+# ── Restaurant endpoints ──────────────────────────────────────────────────────
+
+
+def _input_to_saved_restaurant(inp: RestaurantInput) -> SavedRestaurant:
+    """Convert the client-supplied RestaurantInput into a domain SavedRestaurant."""
+    return SavedRestaurant(
+        location_id=inp.location_id,
+        name=inp.name,
+        cuisine=inp.cuisine,
+        photo_url=inp.photo_url,
+        latitude=inp.latitude,
+        longitude=inp.longitude,
+        address=inp.address,
+        rating=inp.rating,
+        num_reviews=inp.num_reviews,
+        price_level=inp.price_level,
+        day_date=inp.day_date,
+        time_slot=inp.time_slot,
+    )
+
+
+@router.post("/{trip_id}/restaurants", response_model=TripResponse)
+async def add_restaurant_to_trip(
+    trip_id: str,
+    req: RestaurantInput,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+) -> TripResponse:
+    """
+    Add a restaurant to the trip.
+
+    Send the restaurant data as received from `/restaurants/search` or
+    `/restaurants/details`, plus a `day_date` and `time_slot` for schedule
+    placement.  The restaurant will appear as an auto-item in the trip schedule
+    and can later be marked as paid for expense tracking.
+
+    Returns 409 if the same location_id is already saved.
+
+    **Flutter flow:**
+    1. User views restaurant detail
+    2. Taps "Add to trip" → picks day + time slot
+    3. Restaurant appears in trip detail AND in the schedule
+    """
+    restaurant = _input_to_saved_restaurant(req)
+    trip = await service.add_restaurant(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        restaurant=restaurant,
+    )
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/restaurants/{location_id}", response_model=TripResponse)
+async def remove_restaurant_from_trip(
+    trip_id: str,
+    location_id: str,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Remove a specific restaurant from the trip by its TripAdvisor location_id.
+    Also removes the corresponding auto-generated expense from finances if it exists.
+    Returns 400 if the restaurant is not found in this trip.
+    """
+    source_ref = f"restaurant-{location_id}"
+    existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.remove_restaurant(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+# ── Restaurant payment endpoints ──────────────────────────────────────────────
+
+
+@router.patch("/{trip_id}/restaurants/{location_id}/payment", response_model=TripResponse)
+async def mark_restaurant_paid(
+    trip_id: str,
+    location_id: str,
+    req: MarkRestaurantPaidRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Mark a specific restaurant as paid (e.g. meal bill settled).
+
+    - Records the actual price paid, who paid, and which members share the cost.
+    - Automatically creates/updates an expense in the finances module.
+    - Returns 400 if the restaurant is not found in this trip.
+    """
+    trip = await service.mark_restaurant_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+        actual_paid_amount=req.actual_paid_amount,
+        paid_currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+    )
+
+    restaurant = trip.find_restaurant(location_id)
+    label = f"Restaurant: {restaurant.name}"  # type: ignore[union-attr]
+    source_ref = f"restaurant-{location_id}"
+
+    await finance_service.upsert_ticket_expense(
+        trip_id=trip_id,
+        name=label,
+        amount=req.actual_paid_amount,
+        currency=req.currency,
+        paid_by=req.paid_by,
+        eligible_member_ids=req.eligible_member_ids,
+        source_ref=source_ref,
+    )
+
+    return TripResponse.from_entity(trip)
+
+
+@router.delete("/{trip_id}/restaurants/{location_id}/payment", response_model=TripResponse)
+async def unmark_restaurant_paid(
+    trip_id: str,
+    location_id: str,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+    finance_service: FinanceService = Depends(get_finance_service),
+) -> TripResponse:
+    """
+    Clear the payment info from a specific restaurant (mark as unpaid).
+    Also removes the corresponding auto-generated expense from finances.
+    Returns 400 if the restaurant is not found in this trip.
+    """
+    source_ref = f"restaurant-{location_id}"
+    existing = await finance_service._repo.get_by_source_ref(trip_id, source_ref)
+    if existing:
+        await finance_service.delete_expense(existing.id, trip_id)
+
+    trip = await service.unmark_restaurant_paid(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
     )
     return TripResponse.from_entity(trip)
 

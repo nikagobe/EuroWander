@@ -1,6 +1,12 @@
 from abc import ABC, abstractmethod
 
-from app.modules.trips.domain.entities import SavedHotel, Trip, TripMember
+from app.modules.trips.domain.entities import (
+    SavedAttraction,
+    SavedHotel,
+    SavedRestaurant,
+    Trip,
+    TripMember,
+)
 
 
 class TripRepository(ABC):
@@ -86,5 +92,57 @@ class TripRepository(ABC):
         eligible_member_ids: list[str],
     ) -> bool:
         """Persist payment info on a specific hotel. Returns False if trip/hotel not found."""
+        ...
+
+    # ── Attraction management ─────────────────────────────────────────────────
+
+    @abstractmethod
+    async def add_attraction(self, trip_id: str, attraction: SavedAttraction) -> bool:
+        """Append an attraction to the trip's attractions list. Returns False if trip not found."""
+        ...
+
+    @abstractmethod
+    async def remove_attraction(self, trip_id: str, location_id: str) -> bool:
+        """Remove a specific attraction by location_id. Returns False if not found."""
+        ...
+
+    @abstractmethod
+    async def update_attraction_payment(
+        self,
+        trip_id: str,
+        location_id: str,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        """Persist payment info on a specific attraction. Returns False if not found."""
+        ...
+
+    # ── Restaurant management ─────────────────────────────────────────────────
+
+    @abstractmethod
+    async def add_restaurant(self, trip_id: str, restaurant: SavedRestaurant) -> bool:
+        """Append a restaurant to the trip's restaurants list. Returns False if trip not found."""
+        ...
+
+    @abstractmethod
+    async def remove_restaurant(self, trip_id: str, location_id: str) -> bool:
+        """Remove a specific restaurant by location_id. Returns False if not found."""
+        ...
+
+    @abstractmethod
+    async def update_restaurant_payment(
+        self,
+        trip_id: str,
+        location_id: str,
+        is_paid: bool,
+        actual_paid_amount: float | None,
+        paid_currency: str | None,
+        paid_by: str | None,
+        eligible_member_ids: list[str],
+    ) -> bool:
+        """Persist payment info on a specific restaurant. Returns False if not found."""
         ...
 

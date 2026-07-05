@@ -149,6 +149,60 @@ class SavedHotel:
 
 
 @dataclass
+class SavedAttraction:
+    """
+    A TripAdvisor attraction snapshot embedded in a Trip.
+    Stores enough data for the Flutter trip-detail card, schedule auto-items,
+    and expense tracking.
+    """
+    location_id: str                    # TripAdvisor location ID (unique key)
+    name: str
+    category: str                       # e.g. "Amusement & Theme Parks"
+    photo_url: str
+    latitude: float
+    longitude: float
+    address: str
+    rating: float
+    num_reviews: int
+    ticket_price: str                   # e.g. "Tickets from $107 USD" or ""
+    day_date: str                       # YYYY-MM-DD — planned visit date
+    time_slot: str                      # morning | midday | evening | night
+    # Payment tracking
+    is_paid: bool = False
+    actual_paid_amount: float | None = None
+    paid_currency: str | None = None
+    paid_by: str | None = None
+    eligible_member_ids: list[str] = field(default_factory=list)
+
+
+@dataclass
+class SavedRestaurant:
+    """
+    A TripAdvisor restaurant snapshot embedded in a Trip.
+    Stores enough data for the Flutter trip-detail card, schedule auto-items,
+    and expense tracking.
+    """
+    location_id: str                    # TripAdvisor location ID (unique key)
+    name: str
+    cuisine: str                        # e.g. "$$ - $$$ • Japanese • Bar"
+    photo_url: str
+    latitude: float
+    longitude: float
+    address: str
+    rating: float
+    num_reviews: int
+    price_level: str                    # "$", "$$ - $$$", "$$$$", ""
+    day_date: str                       # YYYY-MM-DD — planned visit date
+    time_slot: str                      # morning | midday | evening | night
+    # Payment tracking
+    is_paid: bool = False
+    actual_paid_amount: float | None = None
+    paid_currency: str | None = None
+    paid_by: str | None = None
+    eligible_member_ids: list[str] = field(default_factory=list)
+
+
+@dataclass
 class Trip:
     """Pure domain model — no MongoDB or FastAPI awareness."""
     user_id: str                                 # trip master user_id
@@ -157,6 +211,8 @@ class Trip:
     name: str = ""                               # user-defined trip name
     bus_journey: SavedBusJourney | None = None   # optional inter-city bus
     hotels: list[SavedHotel] = field(default_factory=list)  # multiple hotel bookings
+    attractions: list[SavedAttraction] = field(default_factory=list)
+    restaurants: list[SavedRestaurant] = field(default_factory=list)
     members: list[TripMember] = field(default_factory=list)
     id: str = ""
     status: TripStatus = TripStatus.PLANNING
@@ -174,4 +230,12 @@ class Trip:
     def find_hotel(self, hotel_id: int) -> SavedHotel | None:
         """Find a hotel in the list by its Booking.com hotel_id."""
         return next((h for h in self.hotels if h.hotel_id == hotel_id), None)
+
+    def find_attraction(self, location_id: str) -> SavedAttraction | None:
+        """Find an attraction by its TripAdvisor location_id."""
+        return next((a for a in self.attractions if a.location_id == location_id), None)
+
+    def find_restaurant(self, location_id: str) -> SavedRestaurant | None:
+        """Find a restaurant by its TripAdvisor location_id."""
+        return next((r for r in self.restaurants if r.location_id == location_id), None)
 

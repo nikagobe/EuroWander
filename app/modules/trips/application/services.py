@@ -1,7 +1,14 @@
 from fastapi import HTTPException, status
 
 from app.modules.buses.domain.entities import BusOffer
-from app.modules.trips.domain.entities import SavedHotel, Trip, TripMember, TripRole
+from app.modules.trips.domain.entities import (
+    SavedAttraction,
+    SavedHotel,
+    SavedRestaurant,
+    Trip,
+    TripMember,
+    TripRole,
+)
 from app.modules.trips.domain.interfaces import TripRepository
 from app.modules.trips.application.flight_snapshot import snapshot_bus, snapshot_flight
 from app.modules.flights.domain.entities import FlightOffer
@@ -304,6 +311,202 @@ class TripService:
         await self._repo.update_hotel_payment(
             trip_id=trip_id,
             hotel_id=hotel_id,
+            is_paid=False,
+            actual_paid_amount=None,
+            paid_currency=None,
+            paid_by=None,
+            eligible_member_ids=[],
+        )
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    # ── Attraction management ─────────────────────────────────────────────────
+
+    async def add_attraction(
+        self,
+        trip_id: str,
+        requester_id: str,
+        attraction: SavedAttraction,
+    ) -> Trip:
+        """Add an attraction to the trip. Only members may call this."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if trip.find_attraction(attraction.location_id):
+            raise HTTPException(
+                status_code=status.HTTP_409_CONFLICT,
+                detail=f"Attraction {attraction.location_id} is already saved in this trip.",
+            )
+        updated = await self._repo.add_attraction(trip_id, attraction)
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def remove_attraction(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+    ) -> Trip:
+        """Remove a specific attraction from the trip by location_id."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_attraction(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Attraction {location_id} not found in this trip.",
+            )
+        await self._repo.remove_attraction(trip_id, location_id)
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def mark_attraction_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+        actual_paid_amount: float,
+        paid_currency: str,
+        paid_by: str,
+        eligible_member_ids: list[str],
+    ) -> Trip:
+        """Mark a specific attraction as paid and record cost-sharing info."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_attraction(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Attraction {location_id} not found in this trip.",
+            )
+        updated = await self._repo.update_attraction_payment(
+            trip_id=trip_id,
+            location_id=location_id,
+            is_paid=True,
+            actual_paid_amount=actual_paid_amount,
+            paid_currency=paid_currency,
+            paid_by=paid_by,
+            eligible_member_ids=eligible_member_ids,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def unmark_attraction_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+    ) -> Trip:
+        """Clear payment info from a specific attraction."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_attraction(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Attraction {location_id} not found in this trip.",
+            )
+        await self._repo.update_attraction_payment(
+            trip_id=trip_id,
+            location_id=location_id,
+            is_paid=False,
+            actual_paid_amount=None,
+            paid_currency=None,
+            paid_by=None,
+            eligible_member_ids=[],
+        )
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    # ── Restaurant management ─────────────────────────────────────────────────
+
+    async def add_restaurant(
+        self,
+        trip_id: str,
+        requester_id: str,
+        restaurant: SavedRestaurant,
+    ) -> Trip:
+        """Add a restaurant to the trip. Only members may call this."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if trip.find_restaurant(restaurant.location_id):
+            raise HTTPException(
+                status_code=status.HTTP_409_CONFLICT,
+                detail=f"Restaurant {restaurant.location_id} is already saved in this trip.",
+            )
+        updated = await self._repo.add_restaurant(trip_id, restaurant)
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def remove_restaurant(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+    ) -> Trip:
+        """Remove a specific restaurant from the trip by location_id."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_restaurant(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Restaurant {location_id} not found in this trip.",
+            )
+        await self._repo.remove_restaurant(trip_id, location_id)
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def mark_restaurant_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+        actual_paid_amount: float,
+        paid_currency: str,
+        paid_by: str,
+        eligible_member_ids: list[str],
+    ) -> Trip:
+        """Mark a specific restaurant as paid and record cost-sharing info."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_restaurant(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Restaurant {location_id} not found in this trip.",
+            )
+        updated = await self._repo.update_restaurant_payment(
+            trip_id=trip_id,
+            location_id=location_id,
+            is_paid=True,
+            actual_paid_amount=actual_paid_amount,
+            paid_currency=paid_currency,
+            paid_by=paid_by,
+            eligible_member_ids=eligible_member_ids,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def unmark_restaurant_paid(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+    ) -> Trip:
+        """Clear payment info from a specific restaurant."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_restaurant(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Restaurant {location_id} not found in this trip.",
+            )
+        await self._repo.update_restaurant_payment(
+            trip_id=trip_id,
+            location_id=location_id,
             is_paid=False,
             actual_paid_amount=None,
             paid_currency=None,
