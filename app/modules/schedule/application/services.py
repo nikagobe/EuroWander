@@ -331,7 +331,7 @@ def _attraction_to_items(attraction: SavedAttraction) -> list[ScheduleItem]:
         title=f"🎯 {attraction.name}",
         subtitle=attraction.address or attraction.category,
         reference_id=attraction.location_id,
-        is_auto=True,
+        is_auto=False,
     )]
 
 
@@ -352,7 +352,7 @@ def _restaurant_to_items(restaurant: SavedRestaurant) -> list[ScheduleItem]:
         title=f"🍽️ {restaurant.name}",
         subtitle=restaurant.address or restaurant.cuisine,
         reference_id=restaurant.location_id,
-        is_auto=True,
+        is_auto=False,
     )]
 
 
