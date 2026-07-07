@@ -680,3 +680,21 @@ class MarkRestaurantPaidRequest(BaseModel):
     )
 
 
+class RescheduleItemRequest(BaseModel):
+    """
+    Used by drag-and-drop to move an attraction or restaurant to a different
+    day and/or time slot in the schedule.  At least one field must be provided.
+    """
+    day_date: str | None = None          # YYYY-MM-DD
+    time_slot: str | None = None         # morning | midday | evening | night
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "day_date": "2026-07-29",
+                "time_slot": "evening",
+            }
+        }
+    )
+
+

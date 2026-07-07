@@ -417,6 +417,38 @@ class TripService:
         )
         return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
 
+    async def reschedule_attraction(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+        day_date: str | None,
+        time_slot: str | None,
+    ) -> Trip:
+        """Move an attraction to a different day/time slot (drag-and-drop reschedule)."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_attraction(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Attraction {location_id} not found in this trip.",
+            )
+        if day_date is None and time_slot is None:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="At least one of day_date or time_slot must be provided.",
+            )
+        updated = await self._repo.update_attraction_schedule(
+            trip_id=trip_id,
+            location_id=location_id,
+            day_date=day_date,
+            time_slot=time_slot,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Attraction not found.")
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
     # ── Restaurant management ─────────────────────────────────────────────────
 
     async def add_restaurant(
@@ -513,6 +545,38 @@ class TripService:
             paid_by=None,
             eligible_member_ids=[],
         )
+        return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
+
+    async def reschedule_restaurant(
+        self,
+        trip_id: str,
+        requester_id: str,
+        location_id: str,
+        day_date: str | None,
+        time_slot: str | None,
+    ) -> Trip:
+        """Move a restaurant to a different day/time slot (drag-and-drop reschedule)."""
+        trip = await self._repo.get_by_id(trip_id, requester_id)
+        if trip is None:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Trip not found.")
+        if not trip.find_restaurant(location_id):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=f"Restaurant {location_id} not found in this trip.",
+            )
+        if day_date is None and time_slot is None:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="At least one of day_date or time_slot must be provided.",
+            )
+        updated = await self._repo.update_restaurant_schedule(
+            trip_id=trip_id,
+            location_id=location_id,
+            day_date=day_date,
+            time_slot=time_slot,
+        )
+        if not updated:
+            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Restaurant not found.")
         return await self._repo.get_by_id(trip_id, requester_id)  # type: ignore[return-value]
 
 

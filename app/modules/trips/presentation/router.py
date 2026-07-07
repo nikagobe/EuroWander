@@ -25,6 +25,7 @@ from app.modules.trips.presentation.schemas import (
     MarkFlightPaidRequest,
     MarkHotelPaidRequest,
     MarkRestaurantPaidRequest,
+    RescheduleItemRequest,
     RestaurantInput,
     TripMemberResponse,
     TripResponse,
@@ -770,6 +771,38 @@ async def unmark_attraction_paid(
     return TripResponse.from_entity(trip)
 
 
+# ── Attraction schedule (drag-and-drop) ───────────────────────────────────────
+
+
+@router.patch("/{trip_id}/attractions/{location_id}", response_model=TripResponse)
+async def reschedule_attraction(
+    trip_id: str,
+    location_id: str,
+    req: RescheduleItemRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+) -> TripResponse:
+    """
+    Move an attraction to a different day and/or time slot.
+
+    Use this for drag-and-drop rescheduling in the schedule view.
+    At least one of `day_date` or `time_slot` must be provided.
+
+    - **day_date**: new date in YYYY-MM-DD format
+    - **time_slot**: `morning` | `midday` | `evening` | `night`
+
+    Returns 400 if the attraction is not found or no fields are provided.
+    """
+    trip = await service.reschedule_attraction(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+        day_date=req.day_date,
+        time_slot=req.time_slot,
+    )
+    return TripResponse.from_entity(trip)
+
+
 # ── Restaurant endpoints ──────────────────────────────────────────────────────
 
 
@@ -916,6 +949,38 @@ async def unmark_restaurant_paid(
         trip_id=trip_id,
         requester_id=current_user.id,
         location_id=location_id,
+    )
+    return TripResponse.from_entity(trip)
+
+
+# ── Restaurant schedule (drag-and-drop) ───────────────────────────────────────
+
+
+@router.patch("/{trip_id}/restaurants/{location_id}", response_model=TripResponse)
+async def reschedule_restaurant(
+    trip_id: str,
+    location_id: str,
+    req: RescheduleItemRequest,
+    current_user: User = Depends(get_current_user),
+    service: TripService = Depends(get_trip_service),
+) -> TripResponse:
+    """
+    Move a restaurant to a different day and/or time slot.
+
+    Use this for drag-and-drop rescheduling in the schedule view.
+    At least one of `day_date` or `time_slot` must be provided.
+
+    - **day_date**: new date in YYYY-MM-DD format
+    - **time_slot**: `morning` | `midday` | `evening` | `night`
+
+    Returns 400 if the restaurant is not found or no fields are provided.
+    """
+    trip = await service.reschedule_restaurant(
+        trip_id=trip_id,
+        requester_id=current_user.id,
+        location_id=location_id,
+        day_date=req.day_date,
+        time_slot=req.time_slot,
     )
     return TripResponse.from_entity(trip)
 

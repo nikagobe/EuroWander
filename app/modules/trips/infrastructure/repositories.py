@@ -263,6 +263,28 @@ class MongoTripRepository(TripRepository):
         )
         return result.modified_count == 1
 
+    async def update_attraction_schedule(
+        self,
+        trip_id: str,
+        location_id: str,
+        day_date: str | None,
+        time_slot: str | None,
+    ) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        set_fields: dict[str, object] = {"updated_at": datetime.utcnow()}
+        if day_date is not None:
+            set_fields["attractions.$.day_date"] = day_date
+        if time_slot is not None:
+            set_fields["attractions.$.time_slot"] = time_slot
+        result = await self._col.update_one(
+            {"_id": oid, "attractions.location_id": location_id},
+            {"$set": set_fields},
+        )
+        return result.modified_count == 1
+
     # ── Restaurant management ─────────────────────────────────────────────────
 
     async def add_restaurant(self, trip_id: str, restaurant: SavedRestaurant) -> bool:
@@ -317,6 +339,28 @@ class MongoTripRepository(TripRepository):
                 "restaurants.$.eligible_member_ids": eligible_member_ids,
                 "updated_at": datetime.utcnow(),
             }},
+        )
+        return result.modified_count == 1
+
+    async def update_restaurant_schedule(
+        self,
+        trip_id: str,
+        location_id: str,
+        day_date: str | None,
+        time_slot: str | None,
+    ) -> bool:
+        try:
+            oid = ObjectId(trip_id)
+        except Exception:
+            return False
+        set_fields: dict[str, object] = {"updated_at": datetime.utcnow()}
+        if day_date is not None:
+            set_fields["restaurants.$.day_date"] = day_date
+        if time_slot is not None:
+            set_fields["restaurants.$.time_slot"] = time_slot
+        result = await self._col.update_one(
+            {"_id": oid, "restaurants.location_id": location_id},
+            {"$set": set_fields},
         )
         return result.modified_count == 1
 

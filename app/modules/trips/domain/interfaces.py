@@ -107,6 +107,17 @@ class TripRepository(ABC):
         ...
 
     @abstractmethod
+    async def update_attraction_schedule(
+        self,
+        trip_id: str,
+        location_id: str,
+        day_date: str | None,
+        time_slot: str | None,
+    ) -> bool:
+        """Update day_date and/or time_slot on a specific attraction. Returns False if not found."""
+        ...
+
+    @abstractmethod
     async def update_attraction_payment(
         self,
         trip_id: str,
@@ -130,6 +141,17 @@ class TripRepository(ABC):
     @abstractmethod
     async def remove_restaurant(self, trip_id: str, location_id: str) -> bool:
         """Remove a specific restaurant by location_id. Returns False if not found."""
+        ...
+
+    @abstractmethod
+    async def update_restaurant_schedule(
+        self,
+        trip_id: str,
+        location_id: str,
+        day_date: str | None,
+        time_slot: str | None,
+    ) -> bool:
+        """Update day_date and/or time_slot on a specific restaurant. Returns False if not found."""
         ...
 
     @abstractmethod
