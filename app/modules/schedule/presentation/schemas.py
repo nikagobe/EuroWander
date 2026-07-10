@@ -16,6 +16,7 @@ class ScheduleItemResponse(BaseModel):
                 "title": "Eiffel Tower",
                 "subtitle": "Champ de Mars, Paris",
                 "reference_id": "188757",
+                "note": "⚠️ Beware of scammers near the base!",
                 "is_auto": False,
                 "order": 0,
             }
@@ -29,6 +30,7 @@ class ScheduleItemResponse(BaseModel):
     title: str
     subtitle: str
     reference_id: str
+    note: str
     is_auto: bool
     order: int
 
@@ -53,19 +55,21 @@ class ScheduleDayResponse(BaseModel):
 
 
 class FullScheduleResponse(BaseModel):
-    """Complete trip schedule — all days with their items."""
+    """Complete trip schedule — all days with their items + unscheduled overflow."""
 
     model_config = ConfigDict(
         json_schema_extra={
             "example": {
                 "trip_id": "trip_abc123",
                 "days": [],
+                "unscheduled": [],
             }
         }
     )
 
     trip_id: str
     days: list[ScheduleDayResponse]
+    unscheduled: list[ScheduleItemResponse]
 
 
 class AddScheduleItemRequest(BaseModel):
@@ -86,10 +90,11 @@ class AddScheduleItemRequest(BaseModel):
 
     day_date: str
     time_slot: str       # morning | midday | evening | night
-    item_type: str       # attraction | restaurant
+    item_type: str       # attraction | restaurant | custom
     title: str
     subtitle: str = ""
     reference_id: str = ""
+    note: str = ""
 
 
 class UpdateScheduleItemRequest(BaseModel):
@@ -109,5 +114,6 @@ class UpdateScheduleItemRequest(BaseModel):
     time_slot: str | None = None
     title: str | None = None
     subtitle: str | None = None
+    note: str | None = None
     order: int | None = None
 

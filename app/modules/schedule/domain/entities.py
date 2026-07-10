@@ -34,12 +34,14 @@ class ScheduleItemType(str, Enum):
     HOTEL_CHECK_OUT = "hotel_check_out"
     ATTRACTION = "attraction"
     RESTAURANT = "restaurant"
+    CUSTOM = "custom"
 
 
 # Types the user can manually add/edit/remove
 MANUAL_ITEM_TYPES: set[ScheduleItemType] = {
     ScheduleItemType.ATTRACTION,
     ScheduleItemType.RESTAURANT,
+    ScheduleItemType.CUSTOM,
 }
 
 
@@ -55,6 +57,7 @@ class ScheduleItem:
     title: str                      # e.g. "Eiffel Tower", "Flight TBS→CDG"
     subtitle: str = ""              # e.g. "12:30 – 14:45", "French cuisine"
     reference_id: str = ""          # Location ID for attractions/restaurants, flight_id, etc.
+    note: str = ""                  # User/creator note (e.g. tips, warnings)
     is_auto: bool = False           # True = derived from trip data, cannot be edited
     id: str = ""                    # Unique item ID (for manual items)
     order: int = 0                  # Sort order within the same time slot
@@ -72,7 +75,9 @@ class TripSchedule:
     """
     Complete schedule for a trip — list of days, each with time-slot items.
     Computed on-the-fly: auto items from trip data + manual items from DB.
+    Items whose dates fall outside the trip range go into `unscheduled`.
     """
     trip_id: str
     days: list[ScheduleDay] = field(default_factory=list)
+    unscheduled: list[ScheduleItem] = field(default_factory=list)
 

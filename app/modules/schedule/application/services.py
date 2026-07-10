@@ -82,6 +82,7 @@ class ScheduleService:
         title: str,
         subtitle: str = "",
         reference_id: str = "",
+        note: str = "",
     ) -> ScheduleItem:
         """Add a manual item (attraction/restaurant) to the schedule."""
         trip = await self._trip_repo.get_by_id(trip_id, user_id)
@@ -104,6 +105,7 @@ class ScheduleService:
             title=title,
             subtitle=subtitle,
             reference_id=reference_id,
+            note=note,
             is_auto=False,
         )
 
@@ -120,6 +122,7 @@ class ScheduleService:
         time_slot: str | None = None,
         title: str | None = None,
         subtitle: str | None = None,
+        note: str | None = None,
         order: int | None = None,
     ) -> ScheduleItem:
         """Update a manual schedule item (move to different slot, rename, reorder)."""
@@ -141,6 +144,7 @@ class ScheduleService:
             time_slot=time_slot,
             title=title,
             subtitle=subtitle,
+            note=note,
             order=order,
         )
         if not result:
@@ -362,7 +366,8 @@ def _build_schedule(
     end_date: date,
     items: list[ScheduleItem],
 ) -> TripSchedule:
-    """Organize items into days, sorted by time slot and order."""
+    """Organize items into days, sorted by time slot and order.
+    Items outside the trip date range go into 'unscheduled'."""
     # Build day map
     day_map: dict[str, list[ScheduleItem]] = {}
     current = start_date
@@ -370,10 +375,13 @@ def _build_schedule(
         day_map[current.isoformat()] = []
         current += timedelta(days=1)
 
-    # Assign items to days
+    # Assign items to days or unscheduled
+    unscheduled: list[ScheduleItem] = []
     for item in items:
         if item.day_date in day_map:
             day_map[item.day_date].append(item)
+        else:
+            unscheduled.append(item)
 
     # Sort within each day by time slot order then by item order
     slot_order = {TimeSlot.MORNING: 0, TimeSlot.MIDDAY: 1, TimeSlot.EVENING: 2, TimeSlot.NIGHT: 3}
@@ -386,7 +394,7 @@ def _build_schedule(
         )
         days.append(ScheduleDay(date=day_str, items=day_items))
 
-    return TripSchedule(trip_id=trip_id, days=days)
+    return TripSchedule(trip_id=trip_id, days=days, unscheduled=unscheduled)
 
 
 

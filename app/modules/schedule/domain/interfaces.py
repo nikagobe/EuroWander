@@ -24,6 +24,7 @@ class ScheduleRepository(ABC):
         time_slot: str | None = None,
         title: str | None = None,
         subtitle: str | None = None,
+        note: str | None = None,
         order: int | None = None,
     ) -> ScheduleItem | None: ...
 

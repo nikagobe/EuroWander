@@ -41,6 +41,7 @@ class MongoScheduleRepository(ScheduleRepository):
             "title": item.title,
             "subtitle": item.subtitle,
             "reference_id": item.reference_id,
+            "note": item.note,
             "is_auto": False,
             "order": item.order,
         }
@@ -56,6 +57,7 @@ class MongoScheduleRepository(ScheduleRepository):
         time_slot: str | None = None,
         title: str | None = None,
         subtitle: str | None = None,
+        note: str | None = None,
         order: int | None = None,
     ) -> ScheduleItem | None:
         """Update a manual schedule item. Returns None if not found."""
@@ -68,6 +70,8 @@ class MongoScheduleRepository(ScheduleRepository):
             update_fields["title"] = title
         if subtitle is not None:
             update_fields["subtitle"] = subtitle
+        if note is not None:
+            update_fields["note"] = note
         if order is not None:
             update_fields["order"] = order
 
@@ -101,6 +105,7 @@ def _doc_to_entity(doc: dict) -> ScheduleItem:
         title=doc["title"],
         subtitle=doc.get("subtitle", ""),
         reference_id=doc.get("reference_id", ""),
+        note=doc.get("note", ""),
         is_auto=doc.get("is_auto", False),
         order=doc.get("order", 0),
     )

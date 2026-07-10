@@ -65,6 +65,7 @@ async def get_trip_schedule(
             )
             for day in schedule.days
         ],
+        unscheduled=[_item_to_response(item) for item in schedule.unscheduled],
     )
 
 
@@ -102,7 +103,7 @@ async def add_schedule_item(
     except ValueError:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail=f"Invalid item_type: '{body.item_type}'. Must be: attraction, restaurant.",
+            detail=f"Invalid item_type: '{body.item_type}'. Must be: attraction, restaurant, custom.",
         )
 
     try:
@@ -115,6 +116,7 @@ async def add_schedule_item(
             title=body.title,
             subtitle=body.subtitle,
             reference_id=body.reference_id,
+            note=body.note,
         )
     except ValueError as e:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
@@ -146,6 +148,7 @@ async def update_schedule_item(
             time_slot=body.time_slot,
             title=body.title,
             subtitle=body.subtitle,
+            note=body.note,
             order=body.order,
         )
     except ValueError as e:
@@ -186,6 +189,7 @@ def _item_to_response(item) -> ScheduleItemResponse:
         title=item.title,
         subtitle=item.subtitle,
         reference_id=item.reference_id,
+        note=getattr(item, "note", ""),
         is_auto=item.is_auto,
         order=item.order,
     )
