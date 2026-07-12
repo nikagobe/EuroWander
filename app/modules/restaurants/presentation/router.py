@@ -39,6 +39,7 @@ async def search_restaurants(
     currency: str = Query("EUR", description="Currency code (EUR, USD, GBP…)"),
     sort: str = Query("POPULARITY", description="Sort: POPULARITY or RELEVANCE"),
     update_token: str | None = Query(None, description="Pagination token from previous response (for page > 1)"),
+    query: str | None = Query(None, min_length=2, description="Optional keyword to filter restaurants by name (e.g. 'Sushi', 'Pizza')"),
     service: RestaurantService = Depends(get_restaurant_service),
 ) -> PaginatedRestaurantResponse:
     """
@@ -61,6 +62,7 @@ async def search_restaurants(
         currency=currency,
         sort=sort,
         update_token=update_token,
+        query=query,
     )
     return PaginatedRestaurantResponse(
         data=[RestaurantResponse.from_entity(r) for r in result.items],

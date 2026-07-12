@@ -44,9 +44,11 @@ class AttractionService:
         page: int = 1,
         currency: str = "EUR",
         sort: str = "TRAVELER_FAVORITE_V2",
+        query: str | None = None,
     ) -> PaginatedAttractions:
         """
         Search for attractions in a city by geo ID.
+        Optional `query` filters results by name/keyword.
         Returns a paginated list — Flutter handles page navigation.
         """
         return await self._search_provider.search_attractions(
@@ -57,6 +59,7 @@ class AttractionService:
             page=page,
             currency=currency,
             sort=sort,
+            query=query,
         )
 
     async def get_attraction_details(

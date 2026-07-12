@@ -32,6 +32,7 @@ class AttractionSearchProvider(ABC):
         page: int,
         currency: str,
         sort: str,
+        query: str | None = None,
     ) -> PaginatedAttractions: ...
 
 

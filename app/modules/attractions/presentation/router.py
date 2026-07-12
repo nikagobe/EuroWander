@@ -66,6 +66,7 @@ async def search_attractions(
     page: int = Query(1, ge=1, description="Page number (1-based)"),
     currency: str = Query("EUR", description="Currency code (EUR, USD, GBP…)"),
     sort: str = Query("TRAVELER_FAVORITE_V2", description="Sort: TRAVELER_FAVORITE_V2 or TRAVELER_RANKED"),
+    query: str | None = Query(None, min_length=2, description="Optional keyword to filter attractions by name (e.g. 'Eiffel', 'Colosseum')"),
     service: AttractionService = Depends(get_attraction_service),
 ) -> PaginatedAttractionResponse:
     """
@@ -90,6 +91,7 @@ async def search_attractions(
         page=page,
         currency=currency,
         sort=sort,
+        query=query,
     )
     return PaginatedAttractionResponse(
         data=[AttractionResponse.from_entity(a) for a in result.items],

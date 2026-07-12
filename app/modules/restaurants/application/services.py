@@ -26,9 +26,11 @@ class RestaurantService:
         currency: str = "EUR",
         sort: str = "POPULARITY",
         update_token: str | None = None,
+        query: str | None = None,
     ) -> PaginatedRestaurants:
         """
         Search for restaurants in a city by geo ID.
+        Optional `query` filters results by name/keyword.
         Returns a paginated list — Flutter handles page navigation.
         For page > 1, pass the `update_token` from the previous response.
         """
@@ -38,6 +40,7 @@ class RestaurantService:
             currency=currency,
             sort=sort,
             update_token=update_token,
+            query=query,
         )
 
     async def get_restaurant_details(

@@ -49,6 +49,7 @@ class TripAdvisorRestaurantClient(RestaurantSearchProvider, RestaurantDetailProv
         currency: str,
         sort: str,
         update_token: str | None,
+        query: str | None = None,
     ) -> PaginatedRestaurants:
         """
         Search restaurants by geo ID. Returns paginated results.

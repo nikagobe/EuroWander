@@ -85,6 +85,7 @@ class TripAdvisorScraperClient(
         page: int,
         currency: str,
         sort: str,
+        query: str | None = None,
     ) -> PaginatedAttractions:
         """
         Search attractions by geo ID. Returns paginated results sorted by traveler favorites.
@@ -100,6 +101,9 @@ class TripAdvisorScraperClient(
             "sortType": "desc",
             "units": "kilometers",
         }
+
+        if query:
+            params["query"] = query
 
         async with httpx.AsyncClient(verify=False) as client:
             response = await client.get(

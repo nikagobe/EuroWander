@@ -17,6 +17,7 @@ class RestaurantSearchProvider(ABC):
         currency: str,
         sort: str,
         update_token: str | None,
+        query: str | None = None,
     ) -> PaginatedRestaurants: ...
 
 
