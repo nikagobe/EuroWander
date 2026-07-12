@@ -20,6 +20,8 @@ from app.modules.playlists.presentation.schemas import (
     ReviewResponse,
     UpdatePlaylistRequest,
 )
+from app.modules.cities.application.services import CityService
+from app.modules.cities.infrastructure.repositories import MongoCityRepository
 from app.modules.schedule.infrastructure.repositories import MongoScheduleRepository
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.users.domain.entities import User
@@ -97,11 +99,25 @@ async def search_playlists(
     return [_to_summary(p) for p in playlists]
 
 
-@router.get("/cities", response_model=list[str])
-async def list_playlist_cities(
+@router.get("/cities")
+async def search_playlist_cities(
+    q: str = Query("", description="City name prefix to search"),
+    limit: int = Query(10, ge=1, le=50),
+    db: AsyncIOMotorDatabase = Depends(get_db),
     service: PlaylistService = Depends(get_playlist_service),
 ) -> list[str]:
-    """List cities that have public playlists (for autocomplete)."""
+    """
+    Search cities for playlist filtering.
+
+    If `q` is provided, searches all known cities (not just those with playlists).
+    If `q` is empty, returns cities that have existing public playlists.
+
+    **Flutter flow:** Autocomplete in playlist discovery search bar.
+    """
+    if q:
+        city_service = CityService(MongoCityRepository(db["cities"]))
+        cities = await city_service.search(q, limit)
+        return [c.name for c in cities]
     return await service.list_cities()
 
 
@@ -293,7 +309,7 @@ def _to_response(p) -> PlaylistResponse:
         title=p.title,
         description=p.description,
         cover_photo_url=p.cover_photo_url,
-        vibe=p.vibe.value if hasattr(p.vibe, "value") else p.vibe,
+        vibe=[v.value if hasattr(v, "value") else v for v in p.vibe] if isinstance(p.vibe, list) else [p.vibe.value if hasattr(p.vibe, "value") else p.vibe],
         budget_tier=p.budget_tier.value if hasattr(p.budget_tier, "value") else p.budget_tier,
         items=[
             PlaylistItemSchema(
@@ -337,7 +353,7 @@ def _to_summary(p) -> PlaylistSummaryResponse:
         title=p.title,
         description=p.description,
         cover_photo_url=p.cover_photo_url,
-        vibe=p.vibe.value if hasattr(p.vibe, "value") else p.vibe,
+        vibe=[v.value if hasattr(v, "value") else v for v in p.vibe] if isinstance(p.vibe, list) else [p.vibe.value if hasattr(p.vibe, "value") else p.vibe],
         budget_tier=p.budget_tier.value if hasattr(p.budget_tier, "value") else p.budget_tier,
         total_days=p.total_days,
         item_count=len(p.items),

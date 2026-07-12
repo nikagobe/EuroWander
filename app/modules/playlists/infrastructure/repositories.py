@@ -84,7 +84,7 @@ class MongoPlaylistRepository(PlaylistRepository):
         if country:
             query["country"] = {"$regex": country, "$options": "i"}
         if vibe:
-            query["vibe"] = vibe
+            query["vibe"] = {"$in": [v.strip() for v in vibe.split(",")]}
         if budget_tier:
             query["budget_tier"] = budget_tier
         if keyword:
@@ -184,7 +184,7 @@ def _playlist_to_doc(p: Playlist) -> dict:
         "title": p.title,
         "description": p.description,
         "cover_photo_url": p.cover_photo_url,
-        "vibe": p.vibe.value,
+        "vibe": [v.value for v in p.vibe],
         "budget_tier": p.budget_tier.value,
         "items": [_item_to_doc(i) for i in p.items],
         "tags": p.tags,
@@ -230,7 +230,7 @@ def _doc_to_playlist(doc: dict) -> Playlist:
         title=doc["title"],
         description=doc.get("description", ""),
         cover_photo_url=doc.get("cover_photo_url", ""),
-        vibe=PlaylistVibe(doc.get("vibe", "chill")),
+        vibe=_parse_vibe_from_doc(doc.get("vibe", ["chill"])),
         budget_tier=BudgetTier(doc.get("budget_tier", "mid_range")),
         items=[_doc_to_item(i) for i in doc.get("items", [])],
         tags=doc.get("tags", []),
@@ -278,4 +278,11 @@ def _doc_to_review(d: dict) -> PlaylistReview:
         comment=d.get("comment", ""),
         created_at=d.get("created_at", datetime.utcnow()),
     )
+
+
+def _parse_vibe_from_doc(raw: str | list) -> list[PlaylistVibe]:
+    """Handle both legacy single-string and new list format from MongoDB."""
+    if isinstance(raw, list):
+        return [PlaylistVibe(v) for v in raw]
+    return [PlaylistVibe(raw)]
 

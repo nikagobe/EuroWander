@@ -115,7 +115,7 @@ class Playlist:
     description: str = ""
     cover_photo_url: str = ""
 
-    vibe: PlaylistVibe = PlaylistVibe.CHILL
+    vibe: list[PlaylistVibe] = field(default_factory=lambda: [PlaylistVibe.CHILL])
     budget_tier: BudgetTier = BudgetTier.MID_RANGE
 
     items: list[PlaylistItem] = field(default_factory=list)

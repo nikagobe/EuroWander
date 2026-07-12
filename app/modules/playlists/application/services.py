@@ -50,7 +50,7 @@ class PlaylistService:
         title: str,
         description: str = "",
         cover_photo_url: str = "",
-        vibe: str = "chill",
+        vibe: str | list[str] = "chill",
         budget_tier: str = "mid_range",
         tags: list[str] | None = None,
         total_days: int = 1,
@@ -65,7 +65,7 @@ class PlaylistService:
             title=title,
             description=description,
             cover_photo_url=cover_photo_url,
-            vibe=PlaylistVibe(vibe),
+            vibe=_parse_vibes(vibe),
             budget_tier=BudgetTier(budget_tier),
             tags=tags or [],
             total_days=total_days,
@@ -101,7 +101,7 @@ class PlaylistService:
                 setattr(playlist, key, updates[key])
 
         if "vibe" in updates and updates["vibe"] is not None:
-            playlist.vibe = PlaylistVibe(str(updates["vibe"]))
+            playlist.vibe = _parse_vibes(updates["vibe"])
         if "budget_tier" in updates and updates["budget_tier"] is not None:
             playlist.budget_tier = BudgetTier(str(updates["budget_tier"]))
         if "tags" in updates and updates["tags"] is not None:
@@ -298,6 +298,13 @@ class PlaylistService:
 
 
 # ── Helpers ──────────────────────────────────────────────────────────────────────
+
+
+def _parse_vibes(raw: str | list[str]) -> list[PlaylistVibe]:
+    """Parse vibe input — accepts a single string, comma-separated string, or list."""
+    if isinstance(raw, list):
+        return [PlaylistVibe(v.strip()) for v in raw if v.strip()]
+    return [PlaylistVibe(v.strip()) for v in raw.split(",") if v.strip()]
 
 
 def _dict_to_playlist_item(d: dict) -> PlaylistItem:

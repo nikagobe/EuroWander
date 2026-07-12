@@ -1,6 +1,6 @@
 """Pydantic schemas for the Playlist module — optimized for Flutter."""
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 
 # ── Playlist Item ────────────────────────────────────────────────────────────────
@@ -77,12 +77,19 @@ class CreatePlaylistRequest(BaseModel):
     title: str
     description: str = ""
     cover_photo_url: str = ""
-    vibe: str = "chill"
+    vibe: list[str] | str = Field(default_factory=lambda: ["chill"])
     budget_tier: str = "mid_range"
     tags: list[str] = Field(default_factory=list)
     total_days: int = 1
     is_public: bool = True
     items: list[PlaylistItemSchema] = Field(default_factory=list)
+
+    @field_validator("vibe", mode="before")
+    @classmethod
+    def _parse_vibe(cls, v: object) -> list[str]:
+        if isinstance(v, str):
+            return [s.strip() for s in v.split(",") if s.strip()]
+        return v  # type: ignore[return-value]
 
 
 class UpdatePlaylistRequest(BaseModel):
@@ -93,12 +100,21 @@ class UpdatePlaylistRequest(BaseModel):
     cover_photo_url: str | None = None
     city: str | None = None
     country: str | None = None
-    vibe: str | None = None
+    vibe: list[str] | str | None = None
     budget_tier: str | None = None
     tags: list[str] | None = None
     total_days: int | None = None
     is_public: bool | None = None
     items: list[PlaylistItemSchema] | None = None
+
+    @field_validator("vibe", mode="before")
+    @classmethod
+    def _parse_vibe(cls, v: object) -> list[str] | None:
+        if v is None:
+            return None
+        if isinstance(v, str):
+            return [s.strip() for s in v.split(",") if s.strip()]
+        return v  # type: ignore[return-value]
 
 
 # ── Responses ────────────────────────────────────────────────────────────────────
@@ -133,7 +149,7 @@ class PlaylistResponse(BaseModel):
     title: str
     description: str
     cover_photo_url: str
-    vibe: str
+    vibe: list[str]
     budget_tier: str
     items: list[PlaylistItemSchema]
     tags: list[str]
@@ -157,7 +173,7 @@ class PlaylistSummaryResponse(BaseModel):
     title: str
     description: str
     cover_photo_url: str
-    vibe: str
+    vibe: list[str]
     budget_tier: str
     total_days: int
     item_count: int
