@@ -531,6 +531,7 @@ class MongoTripRepository(TripRepository):
             "attractions": [MongoTripRepository._attraction_doc(a) for a in trip.attractions],
             "restaurants": [MongoTripRepository._restaurant_doc(r) for r in trip.restaurants],
             "status": trip.status.value,
+            "forked_from_template_id": trip.forked_from_template_id,
             "created_at": trip.created_at,
             "updated_at": trip.updated_at,
         }
@@ -711,6 +712,7 @@ class MongoTripRepository(TripRepository):
             attractions=attractions,
             restaurants=restaurants,
             status=TripStatus(doc.get("status", "planning")),
+            forked_from_template_id=doc.get("forked_from_template_id", ""),
             created_at=doc.get("created_at", datetime.utcnow()),
             updated_at=doc.get("updated_at", datetime.utcnow()),
         )

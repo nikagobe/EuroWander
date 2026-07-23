@@ -22,8 +22,9 @@ router = APIRouter(prefix="/attractions", tags=["attractions"])
 def get_attraction_service() -> AttractionService:
     """
     Returns an AttractionService wired with:
-    - RapidAPI scraper for search/destinations (works well for listing)
+    - RapidAPI scraper for search/destinations (works well for geo-based listing)
     - Terra API for details (fast, reliable, official)
+    - Terra API for name search (free-text, no geo_id required)
     """
     scraper_client = TripAdvisorScraperClient(api_key=settings.rapidapi_key)
     terra_client = TerraAttractionDetailClient(api_key=settings.tripadvisor_key)
@@ -31,6 +32,7 @@ def get_attraction_service() -> AttractionService:
         destination_provider=scraper_client,
         search_provider=scraper_client,
         detail_provider=terra_client,
+        name_search_provider=terra_client,
     )
 
 
@@ -55,6 +57,55 @@ async def search_destinations(
     """
     destinations = await service.search_destinations(query)
     return [AttractionDestinationResponse.from_entity(d) for d in destinations]
+
+
+@router.get("/search-by-name", response_model=PaginatedAttractionResponse)
+async def search_by_name(
+    query: str = Query(..., min_length=2, description="Free-text name search (e.g. 'Bastille', 'Eiffel Tower')"),
+    category: str | None = Query(None, description="Filter: ATTRACTION, RESTAURANT, or HOTEL"),
+    geo_name: str | None = Query(None, description="Optional city/country name to narrow results (e.g. 'Paris', 'France')"),
+    page: int = Query(1, ge=1, description="Page number (1-based)"),
+    size: int = Query(20, ge=1, le=20, description="Results per page (max 20)"),
+    service: AttractionService = Depends(get_attraction_service),
+) -> PaginatedAttractionResponse:
+    """
+    Search attractions/restaurants by name — NO geo_id required (Terra API).
+
+    **Use cases:**
+    - User types "Bastille" → gets results from all cities worldwide
+    - User types "Bastille" + geo_name="Paris" → scoped to Paris only
+    - User types "Pizza" + category="RESTAURANT" → only restaurants
+
+    **Category options:** ATTRACTION, RESTAURANT, HOTEL
+
+    **Flutter flow:**
+    1. User types a name in the search bar
+    2. Call this endpoint with the text
+    3. Optionally pass `geo_name` if user has a city context
+    4. Show paginated results — user taps one → `/attractions/details/{id}`
+    """
+    try:
+        result = await service.search_by_name(
+            query=query,
+            category=category,
+            geo_name=geo_name,
+            page=page,
+            size=size,
+        )
+    except httpx.HTTPStatusError as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Upstream API error: {exc.response.status_code}",
+        )
+    return PaginatedAttractionResponse(
+        data=[AttractionResponse.from_entity(a) for a in result.items],
+        pagination=PaginationMeta(
+            current_page=result.current_page,
+            total_pages=result.total_pages,
+            total_results=result.total_results,
+            page_size=result.page_size,
+        ),
+    )
 
 
 @router.get("/search", response_model=PaginatedAttractionResponse)

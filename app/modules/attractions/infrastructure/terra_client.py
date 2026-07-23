@@ -11,22 +11,27 @@ from datetime import datetime
 import httpx
 
 from app.modules.attractions.domain.entities import (
+    Attraction,
     AttractionDetail,
     AttractionPhoto,
     AttractionReview,
+    PaginatedAttractions,
 )
-from app.modules.attractions.domain.interfaces import AttractionDetailProvider
+from app.modules.attractions.domain.interfaces import (
+    AttractionDetailProvider,
+    AttractionNameSearchProvider,
+)
 
 logger = logging.getLogger(__name__)
 
 _BASE_URL = "https://terra.tripadvisor.com/api"
 
 
-class TerraAttractionDetailClient(AttractionDetailProvider):
+class TerraAttractionDetailClient(AttractionDetailProvider, AttractionNameSearchProvider):
     """
     Fetches attraction details from the official TripAdvisor Terra API.
     Calls /locations/{id} + /locations/{id}/photos in parallel for speed.
-    Reviews and nearby are handled by separate endpoints.
+    Also supports free-text name search via /locations/search.
     """
 
     def __init__(self, api_key: str) -> None:
@@ -148,6 +153,48 @@ class TerraAttractionDetailClient(AttractionDetailProvider):
         logger.info("Terra nearby [200]: id=%s, category=%s, %.2fs", location_id, category, resp.elapsed.total_seconds())
         payload: dict = resp.json()
         return payload.get("data", [])
+
+    async def search_by_name(
+        self,
+        query: str,
+        category: str | None = None,
+        geo_name: str | None = None,
+        page: int = 1,
+        size: int = 20,
+    ) -> PaginatedAttractions:
+        """
+        Search locations by free-text name using Terra /locations/search.
+        Does NOT require a geo_id — works globally or scoped by geo_name.
+        """
+        params: dict[str, str | int] = {
+            "query": query,
+            "search_type": "NAME",
+            "page": page,
+            "size": min(size, 20),
+            "locale": "en-US",
+        }
+        if category:
+            params["category"] = category.upper()
+        if geo_name:
+            params["geo_name"] = geo_name
+
+        async with httpx.AsyncClient(verify=False, timeout=15.0) as client:
+            resp = await client.get(
+                f"{_BASE_URL}/locations/search",
+                headers=self._headers(),
+                params=params,
+            )
+
+        logger.info(
+            "Terra locations/search [%s]: query=%r, category=%s, %.2fs",
+            resp.status_code,
+            query,
+            category,
+            resp.elapsed.total_seconds(),
+        )
+        resp.raise_for_status()
+        payload: dict = resp.json()
+        return _parse_terra_search_results(payload)
 
 
 # ── Mappers ─────────────────────────────────────────────────────────────────────
@@ -328,3 +375,82 @@ def _format_date(iso_ts: str) -> str:
         return iso_ts
 
 
+def _parse_terra_search_results(payload: dict) -> PaginatedAttractions:
+    """Parse Terra /locations/search response into PaginatedAttractions."""
+    data: list[dict] = payload.get("data", [])
+    pagination: dict = payload.get("pagination", {})
+
+    items: list[Attraction] = []
+    for entry in data:
+        location: dict = entry.get("location", {})
+        if not location:
+            continue
+
+        loc_id: str = str(location.get("id", ""))
+        if not loc_id:
+            continue
+
+        # Name
+        names: list[dict] = location.get("names", [])
+        name: str = ""
+        for n in names:
+            if n.get("primary"):
+                name = n.get("value", "")
+                break
+        if not name and names:
+            name = names[0].get("value", "")
+        if not name:
+            continue
+
+        # Category
+        categories: list[dict] = location.get("categories", [])
+        category: str = categories[0].get("display_name", "") if categories else ""
+
+        # Rating
+        traveler_ratings: dict = location.get("traveler_ratings", {})
+        overall: dict = traveler_ratings.get("overall", {})
+        rating: float = float(overall.get("rating", 0) or 0)
+        num_reviews: int = int(overall.get("count", 0) or 0)
+
+        # Coordinates
+        coords: dict = location.get("coordinates", {})
+        latitude: float = float(coords.get("latitude", 0) or 0)
+        longitude: float = float(coords.get("longitude", 0) or 0)
+
+        # Address as neighborhood
+        addresses: list[dict] = location.get("addresses", [])
+        neighborhood: str = ""
+        if addresses:
+            city: str = addresses[0].get("city", "")
+            country: str = addresses[0].get("country_name", "")
+            neighborhood = f"{city}, {country}" if city and country else city or country
+
+        # Photo — not available in search results
+        photo_url: str = ""
+
+        # Status
+        status: dict = location.get("status", {})
+        is_open: bool = status.get("value", "") == "OPEN"
+
+        items.append(Attraction(
+            location_id=loc_id,
+            name=name,
+            category=category,
+            neighborhood=neighborhood,
+            rating=rating,
+            num_reviews=num_reviews,
+            photo_url=photo_url,
+            latitude=latitude,
+            longitude=longitude,
+            badge="",
+            ticket_price="",
+            is_open_now=is_open,
+        ))
+
+    return PaginatedAttractions(
+        items=items,
+        current_page=pagination.get("page", 1),
+        total_pages=pagination.get("total_pages", 1),
+        total_results=pagination.get("total_elements", len(items)),
+        page_size=pagination.get("size", 20),
+    )

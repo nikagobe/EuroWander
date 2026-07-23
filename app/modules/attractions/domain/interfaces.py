@@ -36,6 +36,23 @@ class AttractionSearchProvider(ABC):
     ) -> PaginatedAttractions: ...
 
 
+class AttractionNameSearchProvider(ABC):
+    """
+    Abstract interface for searching attractions/restaurants by free-text name.
+    Uses TripAdvisor Terra API — does NOT require a geo_id.
+    """
+
+    @abstractmethod
+    async def search_by_name(
+        self,
+        query: str,
+        category: str | None = None,
+        geo_name: str | None = None,
+        page: int = 1,
+        size: int = 20,
+    ) -> PaginatedAttractions: ...
+
+
 class AttractionDetailProvider(ABC):
     """
     Abstract interface for fetching attraction details by content ID.

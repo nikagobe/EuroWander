@@ -248,6 +248,7 @@ class CreateTripRequest(BaseModel):
     return_flight: FlightOfferInput
     name: str = ""
     bus_journey: BusJourneyInput | None = None
+    forked_from_template_id: str = ""
 
 
 # ── Response schemas ─────────────────────────────────────────────────────────
@@ -539,6 +540,7 @@ class TripResponse(BaseModel):
     user_id: str
     name: str
     status: TripStatus
+    forked_from_template_id: str
     members: list[TripMemberResponse]
     outbound_flight: SavedFlightResponse
     return_flight: SavedFlightResponse
@@ -556,6 +558,7 @@ class TripResponse(BaseModel):
             user_id=trip.user_id,
             name=trip.name,
             status=trip.status,
+            forked_from_template_id=trip.forked_from_template_id,
             members=[TripMemberResponse.from_entity(m) for m in trip.members],
             outbound_flight=SavedFlightResponse.from_entity(trip.outbound_flight),
             return_flight=SavedFlightResponse.from_entity(trip.return_flight),

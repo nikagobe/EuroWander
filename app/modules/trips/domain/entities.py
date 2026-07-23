@@ -216,6 +216,7 @@ class Trip:
     members: list[TripMember] = field(default_factory=list)
     id: str = ""
     status: TripStatus = TripStatus.PLANNING
+    forked_from_template_id: str = ""    # links to source template if forked
     created_at: datetime = field(default_factory=datetime.utcnow)
     updated_at: datetime = field(default_factory=datetime.utcnow)
 

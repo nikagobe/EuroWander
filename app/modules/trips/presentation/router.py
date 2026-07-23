@@ -149,6 +149,7 @@ async def create_trip(
         bus_offer=_input_to_bus_offer(req.bus_journey) if req.bus_journey else None,
         creator_first_name=current_user.first_name,
         creator_last_name=current_user.last_name,
+        forked_from_template_id=req.forked_from_template_id,
     )
     return TripResponse.from_entity(trip)
 

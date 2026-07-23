@@ -27,6 +27,7 @@ class TripService:
         bus_offer: BusOffer | None = None,
         creator_first_name: str = "",
         creator_last_name: str = "",
+        forked_from_template_id: str = "",
     ) -> Trip:
         """Snapshot flight (and optional bus) offers and persist a new Trip.
         The creator is automatically added as MASTER member."""
@@ -43,6 +44,7 @@ class TripService:
             return_flight=snapshot_flight(return_offer),
             bus_journey=snapshot_bus(bus_offer) if bus_offer is not None else None,
             members=[master],
+            forked_from_template_id=forked_from_template_id,
         )
         return await self._repo.create(trip)
 
