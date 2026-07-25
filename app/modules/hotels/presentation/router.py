@@ -79,6 +79,39 @@ async def search_hotels(
     return [HotelOfferResponse.from_entity(h) for h in hotels]
 
 
+@router.get("/search-by-name", response_model=list[HotelDetailsResponse])
+async def search_hotels_by_name(
+    query: str = Query(..., min_length=2, description="Hotel name search (e.g. 'Hotel Arts', 'Hilton')"),
+    arrival_date: str = Query(..., description="Check-in date (YYYY-MM-DD)"),
+    departure_date: str = Query(..., description="Check-out date (YYYY-MM-DD)"),
+    adults: int = Query(1, ge=1, description="Number of adults"),
+    room_qty: int = Query(1, ge=1, description="Number of rooms"),
+    currency_code: str = Query("EUR", description="Currency code"),
+    service: HotelService = Depends(get_hotel_service),
+) -> list[HotelDetailsResponse]:
+    """
+    Search hotels by name using Booking.com autocomplete.
+
+    - `query`: Hotel name (min 2 chars). Booking.com searches natively by name.
+    - Returns full hotel details with pricing for matching hotels.
+    - Use this for the search bar on the hotel browsing page.
+
+    **Flutter flow:**
+    1. User types hotel name in search bar (debounced)
+    2. Call this endpoint with the text + dates
+    3. Show results with full details and pricing
+    """
+    results = await service.search_hotels_by_name(
+        query=query,
+        arrival_date=arrival_date,
+        departure_date=departure_date,
+        adults=adults,
+        room_qty=room_qty,
+        currency_code=currency_code,
+    )
+    return [HotelDetailsResponse.from_entity(h) for h in results]
+
+
 @router.get("/details/{hotel_id}", response_model=HotelDetailsResponse)
 async def get_hotel_details(
     hotel_id: int,
@@ -110,5 +143,3 @@ async def get_hotel_details(
             detail=f"Hotel with id {hotel_id} not found.",
         )
     return HotelDetailsResponse.from_entity(details)
-
-

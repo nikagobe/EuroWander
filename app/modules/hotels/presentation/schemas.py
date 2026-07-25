@@ -60,6 +60,8 @@ class HotelDestinationResponse(BaseModel):
                 "dest_id": "-2602512",
                 "city_name": "Manchester",
                 "label": "Manchester, Greater Manchester, United Kingdom",
+                "search_type": "city",
+                "hotel_id": None,
             }
         }
     )
@@ -67,6 +69,8 @@ class HotelDestinationResponse(BaseModel):
     dest_id: str
     city_name: str
     label: str
+    search_type: str        # "city", "district", "hotel", "landmark"
+    hotel_id: int | None    # only set when search_type == "hotel"
 
     @classmethod
     def from_entity(cls, entity: HotelDestination) -> "HotelDestinationResponse":
@@ -74,6 +78,8 @@ class HotelDestinationResponse(BaseModel):
             dest_id=entity.dest_id,
             city_name=entity.city_name,
             label=entity.label,
+            search_type=entity.search_type,
+            hotel_id=entity.hotel_id,
         )
 
 

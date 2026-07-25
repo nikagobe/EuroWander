@@ -385,6 +385,7 @@ class FakeBookingClient(HotelDestinationProvider, HotelSearchProvider, HotelDeta
                 dest_id=item["dest_id"],
                 city_name=item["city_name"],
                 label=item["label"],
+                search_type="city",
             )
             for item in _FAKE_DESTINATIONS
             if query_lower in item["city_name"].lower()
@@ -397,6 +398,7 @@ class FakeBookingClient(HotelDestinationProvider, HotelSearchProvider, HotelDeta
                     dest_id=item["dest_id"],
                     city_name=item["city_name"],
                     label=item["label"],
+                    search_type="city",
                 )
                 for item in _FAKE_DESTINATIONS
             ]

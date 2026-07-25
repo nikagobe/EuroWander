@@ -5,12 +5,15 @@ from dataclasses import dataclass, field
 class HotelDestination:
     """
     A Booking.com destination result from the autocomplete API.
+    Can be a city, district, or individual hotel.
     Pure domain model — no MongoDB or FastAPI awareness.
     """
 
     dest_id: str            # Booking.com internal destination ID (e.g. "-2602512")
     city_name: str          # City name (e.g. "Manchester")
     label: str              # Full label (e.g. "Manchester, Greater Manchester, United Kingdom")
+    search_type: str = ""   # "city", "district", "hotel", "landmark", etc.
+    hotel_id: int | None = None  # Booking.com hotel ID (only if search_type == "hotel")
 
 
 @dataclass

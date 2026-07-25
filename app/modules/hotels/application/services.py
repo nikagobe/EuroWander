@@ -88,3 +88,41 @@ class HotelService:
             price_max=price_max,
         )
 
+    async def search_hotels_by_name(
+        self,
+        query: str,
+        arrival_date: str,
+        departure_date: str,
+        adults: int = 1,
+        room_qty: int = 1,
+        currency_code: str = "EUR",
+    ) -> list[HotelDetails]:
+        """
+        Search hotels by name using Booking.com's autocomplete, then fetch
+        details (with pricing) for each hotel result.
+        This is reliable because autocomplete natively searches by hotel name.
+        """
+        if not query or not query.strip():
+            return []
+
+        destinations = await self._destination_provider.search_destinations(query.strip())
+
+        # Filter to hotel-type results only
+        hotel_dests = [d for d in destinations if d.search_type == "hotel" and d.hotel_id]
+
+        # Fetch details (with pricing) for each hotel
+        results: list[HotelDetails] = []
+        for dest in hotel_dests:
+            detail = await self._details_provider.get_hotel_details(
+                hotel_id=dest.hotel_id,
+                arrival_date=arrival_date,
+                departure_date=departure_date,
+                adults=adults,
+                room_qty=room_qty,
+                currency_code=currency_code,
+            )
+            if detail is not None:
+                results.append(detail)
+
+        return results
+

@@ -169,6 +169,8 @@ def _parse_destinations(payload: dict) -> list[HotelDestination]:
         dest_id = item.get("dest_id", "")
         city_name = item.get("city_name", "")
         label = item.get("label", "")
+        search_type = item.get("search_type", item.get("dest_type", ""))
+        hotel_id = item.get("hotel_id") or item.get("hotels")
 
         if dest_id and label:
             results.append(
@@ -176,6 +178,8 @@ def _parse_destinations(payload: dict) -> list[HotelDestination]:
                     dest_id=str(dest_id),
                     city_name=city_name,
                     label=label,
+                    search_type=str(search_type).lower(),
+                    hotel_id=int(hotel_id) if hotel_id else None,
                 )
             )
 
