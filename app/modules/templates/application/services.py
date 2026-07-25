@@ -123,7 +123,8 @@ class TemplateService:
         template_id: str,
         start_date: str,
     ) -> dict | None:
-        """Generate a fork guide with concrete dates calculated from start_date."""
+        """Generate a fork guide with concrete dates. Transportation is left
+        entirely to the user — the guide only provides cities, dates, and hotels."""
         template = await self.repo.get_by_id(template_id)
         if template is None or not template.is_published():
             return None
@@ -148,31 +149,6 @@ class TemplateService:
                 "playlist_id": leg.playlist_id,
                 "restaurant_ids": leg.restaurant_ids,
             }
-
-            if leg.flight_recommendation:
-                fr = leg.flight_recommendation
-                guide["flight_search"] = {
-                    "origin_iata": fr.origin_iata,
-                    "destination_iata": fr.destination_iata,
-                    "origin_city": fr.origin_city,
-                    "destination_city": fr.destination_city,
-                    "date": leg_start.strftime("%Y-%m-%d"),
-                    "preferred_airlines": fr.preferred_airlines,
-                    "preferred_flight_numbers": fr.preferred_flight_numbers,
-                    "preferred_departure_window": fr.preferred_departure_window,
-                    "author_tip": fr.tip,
-                }
-
-            if leg.transport_recommendation:
-                tr = leg.transport_recommendation
-                guide["transport_search"] = {
-                    "from_city": tr.from_city,
-                    "to_city": tr.to_city,
-                    "date": leg_start.strftime("%Y-%m-%d"),
-                    "mode": tr.mode,
-                    "preferred_providers": tr.preferred_providers,
-                    "author_tip": tr.tip,
-                }
 
             if leg.hotel_recommendations:
                 hr = leg.hotel_recommendations

@@ -14,7 +14,6 @@ from app.modules.flights.infrastructure.serpapi_client import SerpApiFlightClien
 from app.modules.flights.presentation.schemas import (
     FlightOfferResponse,
     FlightSearchRequest,
-    IataFlightSearchRequest,
     RegionalFlightSearchRequest,
 )
 
@@ -99,27 +98,3 @@ async def regional_search_flights(
     offers = await enrich_offers_with_coords(offers, airport_repo, country_repo)
     return [FlightOfferResponse.from_entity(offer) for offer in offers]
 
-
-@router.post("/search-by-iata", response_model=list[FlightOfferResponse])
-async def search_flights_by_iata(
-    req: IataFlightSearchRequest,
-    service: FlightService = Depends(get_flight_service),
-    db: AsyncIOMotorDatabase = Depends(get_db),
-) -> list[FlightOfferResponse]:
-    """
-    Search for flights using IATA airport codes (e.g. "LHR", "BCN").
-    Used by the template fork wizard where routes are defined by IATA pairs.
-    SerpApi accepts IATA codes directly as departure_id/arrival_id.
-    """
-    offers = await service.search_flights(
-        origin=req.origin_iata,
-        destination=req.destination_iata,
-        outbound_date=req.outbound_date,
-        return_date=req.return_date,
-        adults=req.adults,
-        limit=req.limit,
-    )
-    airport_repo = MongoAirportRepository(db["airports"])
-    country_repo = MongoCountryRepository(db["countries"])
-    offers = await enrich_offers_with_coords(offers, airport_repo, country_repo)
-    return [FlightOfferResponse.from_entity(offer) for offer in offers]

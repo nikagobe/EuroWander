@@ -1,9 +1,11 @@
 """
 Trip Template domain entities.
 
-A TripTemplate is a reusable travel blueprint published by a user.
-It stores specific recommendations (airlines, hotels) as primary picks,
-with fallback search parameters for when those aren't available.
+A TripTemplate is a reusable travel blueprint: an ordered list of cities
+to visit, with recommended hotels, attractions playlists, and restaurants.
+
+Transportation (flights, buses) is NOT part of the template — every user
+departs from a different city, so transport is chosen at fork time.
 
 Templates are date-agnostic — concrete dates are chosen at fork time.
 """
@@ -17,22 +19,6 @@ class TemplateStatus(str, Enum):
     DRAFT = "draft"
     PUBLISHED = "published"
     ARCHIVED = "archived"
-
-
-@dataclass
-class FlightRecommendation:
-    """Author's specific flight recommendation for a leg."""
-    origin_iata: str
-    destination_iata: str
-    origin_city: str
-    destination_city: str
-    preferred_airlines: list[str] = field(default_factory=list)
-    preferred_flight_numbers: list[str] = field(default_factory=list)
-    preferred_departure_window: str = "any"  # morning | afternoon | evening | any
-    typical_price_min: float | None = None
-    typical_price_max: float | None = None
-    typical_duration_minutes: int | None = None
-    tip: str = ""
 
 
 @dataclass
@@ -64,27 +50,12 @@ class HotelRecommendations:
 
 
 @dataclass
-class TransportRecommendation:
-    """Inter-city transport recommendation with provider preferences."""
-    from_city: str
-    to_city: str
-    mode: str  # bus | train | ferry
-    preferred_providers: list[str] = field(default_factory=list)
-    typical_duration_minutes: int | None = None
-    typical_price: float | None = None
-    currency: str = "EUR"
-    tip: str = ""
-
-
-@dataclass
 class TemplateLeg:
-    """One segment of the template itinerary."""
+    """One city/stop in the template itinerary."""
     order: int
     city: str
     country: str
     days: int
-    flight_recommendation: FlightRecommendation | None = None
-    transport_recommendation: TransportRecommendation | None = None
     hotel_recommendations: HotelRecommendations | None = None
     playlist_id: str = ""
     restaurant_ids: list[str] = field(default_factory=list)
@@ -113,11 +84,9 @@ class TripTemplate:
     updated_at: datetime = field(default_factory=datetime.utcnow)
 
     def is_author(self, user_id: str) -> bool:
-        """Return True if user_id is the template author."""
         return self.author_id == user_id
 
     def can_be_published(self) -> bool:
-        """A template needs at least one leg and a title to be published."""
         return bool(self.title) and len(self.legs) > 0
 
     def is_published(self) -> bool:

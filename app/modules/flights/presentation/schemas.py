@@ -62,34 +62,6 @@ class RegionalFlightSearchRequest(BaseModel):
         return v.strip()
 
 
-class IataFlightSearchRequest(BaseModel):
-    """Search flights using IATA airport codes directly (for template fork wizard)."""
-    model_config = ConfigDict(
-        json_schema_extra={
-            "example": {
-                "origin_iata": "LHR",
-                "destination_iata": "BCN",
-                "outbound_date": "2026-08-01",
-                "return_date": None,
-                "adults": 1,
-                "limit": 10,
-            }
-        }
-    )
-
-    origin_iata: str            # e.g. "LHR"
-    destination_iata: str       # e.g. "BCN"
-    outbound_date: str          # YYYY-MM-DD
-    return_date: str | None = None
-    adults: int = Field(default=1, ge=1, le=9)
-    limit: int = 10
-
-    @field_validator("origin_iata", "destination_iata")
-    @classmethod
-    def uppercase_iata(cls, v: str) -> str:
-        return v.strip().upper()
-
-
 # ── Response ─────────────────────────────────────────────────────────────────
 
 class FlightLegResponse(BaseModel):

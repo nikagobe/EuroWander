@@ -8,11 +8,9 @@ from motor.motor_asyncio import AsyncIOMotorDatabase
 from app.database.client import get_db
 from app.modules.templates.application.services import TemplateService
 from app.modules.templates.domain.entities import (
-    FlightRecommendation,
     HotelPick,
     HotelRecommendations,
     TemplateLeg,
-    TransportRecommendation,
 )
 from app.modules.templates.infrastructure.repositories import MongoTemplateRepository
 from app.modules.templates.presentation.schemas import (
@@ -34,14 +32,6 @@ def get_template_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> Template
 
 def _schema_leg_to_domain(leg_input) -> TemplateLeg:
     """Convert a TemplateLegInput schema to domain entity."""
-    fr = None
-    if leg_input.flight_recommendation:
-        fr = FlightRecommendation(**leg_input.flight_recommendation.model_dump())
-
-    tr = None
-    if leg_input.transport_recommendation:
-        tr = TransportRecommendation(**leg_input.transport_recommendation.model_dump())
-
     hr = None
     if leg_input.hotel_recommendations:
         hr_in = leg_input.hotel_recommendations
@@ -62,8 +52,6 @@ def _schema_leg_to_domain(leg_input) -> TemplateLeg:
         city=leg_input.city,
         country=leg_input.country,
         days=leg_input.days,
-        flight_recommendation=fr,
-        transport_recommendation=tr,
         hotel_recommendations=hr,
         playlist_id=leg_input.playlist_id,
         restaurant_ids=leg_input.restaurant_ids,
@@ -75,12 +63,6 @@ def _template_to_response(t) -> TemplateResponse:
     """Map domain TripTemplate to TemplateResponse."""
     legs = []
     for leg in t.legs:
-        fr_resp = None
-        if leg.flight_recommendation:
-            fr_resp = asdict(leg.flight_recommendation)
-        tr_resp = None
-        if leg.transport_recommendation:
-            tr_resp = asdict(leg.transport_recommendation)
         hr_resp = None
         if leg.hotel_recommendations:
             hr = leg.hotel_recommendations
@@ -99,8 +81,6 @@ def _template_to_response(t) -> TemplateResponse:
             "city": leg.city,
             "country": leg.country,
             "days": leg.days,
-            "flight_recommendation": fr_resp,
-            "transport_recommendation": tr_resp,
             "hotel_recommendations": hr_resp,
             "playlist_id": leg.playlist_id,
             "restaurant_ids": leg.restaurant_ids,
@@ -305,5 +285,3 @@ async def fork_template(
     if result is None:
         raise HTTPException(status_code=404, detail="Template not found or not published")
     return {"template_id": result, "message": "Fork registered. Use fork-guide to build your trip."}
-
-

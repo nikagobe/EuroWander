@@ -1,23 +1,9 @@
 """Pydantic schemas for Trip Templates — optimized for Flutter frontend."""
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict
 
 
-# ─── Nested input schemas ─────────────────────────────────────────────
-
-class FlightRecommendationInput(BaseModel):
-    origin_iata: str
-    destination_iata: str
-    origin_city: str
-    destination_city: str
-    preferred_airlines: list[str] = []
-    preferred_flight_numbers: list[str] = []
-    preferred_departure_window: str = "any"
-    typical_price_min: float | None = None
-    typical_price_max: float | None = None
-    typical_duration_minutes: int | None = None
-    tip: str = ""
-
+# ─── Hotel pick schemas ──────────────────────────────────────────────
 
 class HotelPickInput(BaseModel):
     booking_hotel_id: int
@@ -43,24 +29,13 @@ class HotelRecommendationsInput(BaseModel):
     fallback_budget_per_night_max: float | None = None
 
 
-class TransportRecommendationInput(BaseModel):
-    from_city: str
-    to_city: str
-    mode: str
-    preferred_providers: list[str] = []
-    typical_duration_minutes: int | None = None
-    typical_price: float | None = None
-    currency: str = "EUR"
-    tip: str = ""
-
+# ─── Leg input ────────────────────────────────────────────────────────
 
 class TemplateLegInput(BaseModel):
     order: int
     city: str
     country: str
     days: int
-    flight_recommendation: FlightRecommendationInput | None = None
-    transport_recommendation: TransportRecommendationInput | None = None
     hotel_recommendations: HotelRecommendationsInput | None = None
     playlist_id: str = ""
     restaurant_ids: list[str] = []
@@ -75,7 +50,10 @@ class CreateTemplateRequest(BaseModel):
             "author_id": "user_123",
             "title": "7 Days in Spain",
             "description": "Budget backpacking route through Barcelona and Madrid",
-            "legs": [],
+            "legs": [
+                {"order": 1, "city": "Barcelona", "country": "Spain", "days": 4},
+                {"order": 2, "city": "Madrid", "country": "Spain", "days": 3},
+            ],
             "tags": ["spain", "budget"],
         }
     })
@@ -101,25 +79,7 @@ class UpdateTemplateRequest(BaseModel):
     currency: str | None = None
 
 
-class ForkGuideRequest(BaseModel):
-    start_date: str = Field(..., description="YYYY-MM-DD start date for the trip")
-
-
 # ─── Response schemas ─────────────────────────────────────────────────
-
-class FlightRecommendationResponse(BaseModel):
-    origin_iata: str
-    destination_iata: str
-    origin_city: str
-    destination_city: str
-    preferred_airlines: list[str]
-    preferred_flight_numbers: list[str]
-    preferred_departure_window: str
-    typical_price_min: float | None
-    typical_price_max: float | None
-    typical_duration_minutes: int | None
-    tip: str
-
 
 class HotelPickResponse(BaseModel):
     booking_hotel_id: int
@@ -145,24 +105,11 @@ class HotelRecommendationsResponse(BaseModel):
     fallback_budget_per_night_max: float | None
 
 
-class TransportRecommendationResponse(BaseModel):
-    from_city: str
-    to_city: str
-    mode: str
-    preferred_providers: list[str]
-    typical_duration_minutes: int | None
-    typical_price: float | None
-    currency: str
-    tip: str
-
-
 class TemplateLegResponse(BaseModel):
     order: int
     city: str
     country: str
     days: int
-    flight_recommendation: FlightRecommendationResponse | None
-    transport_recommendation: TransportRecommendationResponse | None
     hotel_recommendations: HotelRecommendationsResponse | None
     playlist_id: str
     restaurant_ids: list[str]
@@ -204,5 +151,4 @@ class TemplateListItem(BaseModel):
     fork_count: int
     like_count: int
     status: str
-    leg_cities: list[str]  # quick preview of cities in route
-
+    leg_cities: list[str]

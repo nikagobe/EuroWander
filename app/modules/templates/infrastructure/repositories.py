@@ -6,12 +6,10 @@ from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorCollection
 
 from app.modules.templates.domain.entities import (
-    FlightRecommendation,
     HotelPick,
     HotelRecommendations,
     TemplateLeg,
     TemplateStatus,
-    TransportRecommendation,
     TripTemplate,
 )
 from app.modules.templates.domain.interfaces import TemplateRepository
@@ -137,10 +135,6 @@ class MongoTemplateRepository(TemplateRepository):
             "restaurant_ids": leg.restaurant_ids,
             "author_notes": leg.author_notes,
         }
-        if leg.flight_recommendation:
-            d["flight_recommendation"] = asdict(leg.flight_recommendation)
-        if leg.transport_recommendation:
-            d["transport_recommendation"] = asdict(leg.transport_recommendation)
         if leg.hotel_recommendations:
             hr = leg.hotel_recommendations
             d["hotel_recommendations"] = {
@@ -159,14 +153,6 @@ class MongoTemplateRepository(TemplateRepository):
     def _from_doc(doc: dict) -> TripTemplate:
         legs: list[TemplateLeg] = []
         for leg_doc in doc.get("legs", []):
-            fr = None
-            if "flight_recommendation" in leg_doc:
-                fr = FlightRecommendation(**leg_doc["flight_recommendation"])
-
-            tr = None
-            if "transport_recommendation" in leg_doc:
-                tr = TransportRecommendation(**leg_doc["transport_recommendation"])
-
             hr = None
             if "hotel_recommendations" in leg_doc:
                 hr_doc = leg_doc["hotel_recommendations"]
@@ -187,8 +173,6 @@ class MongoTemplateRepository(TemplateRepository):
                 city=leg_doc["city"],
                 country=leg_doc["country"],
                 days=leg_doc["days"],
-                flight_recommendation=fr,
-                transport_recommendation=tr,
                 hotel_recommendations=hr,
                 playlist_id=leg_doc.get("playlist_id", ""),
                 restaurant_ids=leg_doc.get("restaurant_ids", []),
@@ -214,4 +198,3 @@ class MongoTemplateRepository(TemplateRepository):
             created_at=doc.get("created_at"),
             updated_at=doc.get("updated_at"),
         )
-
