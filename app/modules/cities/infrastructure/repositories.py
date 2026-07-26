@@ -27,5 +27,7 @@ class MongoCityRepository(CityRepository):
             freebase_id=doc.get("freebase_id", ""),
             lat=doc.get("lat"),
             lng=doc.get("lng"),
+            image_filename=doc.get("image_filename"),
+            banner_filename=doc.get("banner_filename"),
         )
 

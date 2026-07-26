@@ -34,6 +34,8 @@ from app.modules.photos.infrastructure.repositories import MongoPhotoRepository
 from app.modules.photos.presentation.router import router as photos_router
 from app.modules.playlists.infrastructure.repositories import MongoPlaylistRepository, MongoPlaylistReviewRepository
 from app.modules.playlists.presentation.router import router as playlists_router
+from app.modules.profiles.infrastructure.repositories import MongoProfileRepository
+from app.modules.profiles.presentation.router import router as profiles_router
 from app.modules.schedule.infrastructure.repositories import MongoScheduleRepository
 from app.modules.schedule.presentation.router import router as schedule_router
 from app.modules.templates.infrastructure.repositories import MongoTemplateRepository
@@ -68,6 +70,7 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
         await MongoPlaylistRepository(db["playlists"]).ensure_indexes()
         await MongoPlaylistReviewRepository(db["playlist_reviews"]).ensure_indexes()
         await MongoTemplateRepository(db["trip_templates"]).ensure_indexes()
+        await MongoProfileRepository(db["user_profiles"]).ensure_indexes()
         logger.info("Indexes ensured")
     except Exception as e:
         logger.error(f"Startup failed: {e}", exc_info=True)
@@ -111,6 +114,7 @@ app.include_router(finances_router, prefix="/api/v1")
 app.include_router(schedule_router, prefix="/api/v1")
 app.include_router(playlists_router, prefix="/api/v1")
 app.include_router(templates_router, prefix="/api/v1")
+app.include_router(profiles_router, prefix="/api/v1")
 
 
 

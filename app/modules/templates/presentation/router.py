@@ -211,7 +211,7 @@ async def update_template(
 
     template = await service.update_template(template_id, user_id, **fields)
     if template is None:
-        raise HTTPException(status_code=400, detail="Cannot update template (not found, not author, or published)")
+        raise HTTPException(status_code=400, detail="Cannot update template (not found or not author)")
     return _template_to_response(template)
 
 
@@ -227,15 +227,15 @@ async def publish_template(
     return _template_to_response(template)
 
 
-@router.patch("/{template_id}/archive")
-async def archive_template(
+@router.patch("/{template_id}/unpublish")
+async def unpublish_template(
     template_id: str,
     user_id: str = Query(...),
     service: TemplateService = Depends(get_template_service),
 ) -> TemplateResponse:
-    template = await service.archive(template_id, user_id)
+    template = await service.unpublish(template_id, user_id)
     if template is None:
-        raise HTTPException(status_code=400, detail="Cannot archive")
+        raise HTTPException(status_code=400, detail="Cannot unpublish (not found or not author)")
     return _template_to_response(template)
 
 
@@ -247,7 +247,7 @@ async def delete_template(
 ) -> None:
     deleted = await service.delete_template(template_id, user_id)
     if not deleted:
-        raise HTTPException(status_code=400, detail="Cannot delete (not found, not author, or published)")
+        raise HTTPException(status_code=400, detail="Cannot delete (not found or not author)")
 
 
 @router.post("/{template_id}/like")
@@ -285,3 +285,5 @@ async def fork_template(
     if result is None:
         raise HTTPException(status_code=404, detail="Template not found or not published")
     return {"template_id": result, "message": "Fork registered. Use fork-guide to build your trip."}
+
+

@@ -6,6 +6,7 @@ from app.modules.trips.domain.entities import (
     SavedRestaurant,
     Trip,
     TripMember,
+    TripStatus,
 )
 
 
@@ -26,6 +27,16 @@ class TripRepository(ABC):
     @abstractmethod
     async def list_by_user(self, user_id: str) -> list[Trip]:
         """Return all trips where *user_id* is the owner or a member."""
+        ...
+
+    @abstractmethod
+    async def list_by_user_status(self, user_id: str, status: TripStatus) -> list[Trip]:
+        """Return trips where *user_id* is owner/member filtered by status."""
+        ...
+
+    @abstractmethod
+    async def count_created_by_user(self, user_id: str) -> int:
+        """Return the number of trips where *user_id* is the master (creator)."""
         ...
 
     @abstractmethod

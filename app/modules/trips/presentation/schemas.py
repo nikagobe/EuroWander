@@ -1,4 +1,6 @@
 from datetime import datetime
+import hashlib
+import urllib.parse
 
 from pydantic import BaseModel, ConfigDict
 
@@ -249,6 +251,7 @@ class CreateTripRequest(BaseModel):
     name: str = ""
     bus_journey: BusJourneyInput | None = None
     forked_from_template_id: str = ""
+    destination_city_wikidata_id: str = ""  # For resolving destination thumbnail photo
 
 
 # ── Response schemas ─────────────────────────────────────────────────────────
@@ -541,6 +544,7 @@ class TripResponse(BaseModel):
     name: str
     status: TripStatus
     forked_from_template_id: str
+    destination_photo_url: str | None = None
     members: list[TripMemberResponse]
     outbound_flight: SavedFlightResponse
     return_flight: SavedFlightResponse
@@ -553,12 +557,22 @@ class TripResponse(BaseModel):
 
     @classmethod
     def from_entity(cls, trip: Trip) -> "TripResponse":
+        photo_url = None
+        if trip.destination_image_filename:
+            fn = trip.destination_image_filename.replace(" ", "_")
+            md5 = hashlib.md5(fn.encode()).hexdigest()
+            encoded = urllib.parse.quote(fn)
+            photo_url = (
+                f"https://upload.wikimedia.org/wikipedia/commons/thumb/"
+                f"{md5[0]}/{md5[0:2]}/{encoded}/800px-{encoded}"
+            )
         return cls(
             id=trip.id,
             user_id=trip.user_id,
             name=trip.name,
             status=trip.status,
             forked_from_template_id=trip.forked_from_template_id,
+            destination_photo_url=photo_url,
             members=[TripMemberResponse.from_entity(m) for m in trip.members],
             outbound_flight=SavedFlightResponse.from_entity(trip.outbound_flight),
             return_flight=SavedFlightResponse.from_entity(trip.return_flight),

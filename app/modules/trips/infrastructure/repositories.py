@@ -69,6 +69,17 @@ class MongoTripRepository(TripRepository):
         docs = await cursor.to_list(length=None)
         return [self._to_entity(d) for d in docs]
 
+    async def list_by_user_status(self, user_id: str, status: TripStatus) -> list[Trip]:
+        cursor = self._col.find({
+            "$or": [{"user_id": user_id}, {"members.user_id": user_id}],
+            "status": status.value,
+        }).sort("created_at", -1)
+        docs = await cursor.to_list(length=None)
+        return [self._to_entity(d) for d in docs]
+
+    async def count_created_by_user(self, user_id: str) -> int:
+        return await self._col.count_documents({"user_id": user_id})
+
     async def add_member(self, trip_id: str, member: TripMember) -> bool:
         try:
             oid = ObjectId(trip_id)
@@ -532,6 +543,7 @@ class MongoTripRepository(TripRepository):
             "restaurants": [MongoTripRepository._restaurant_doc(r) for r in trip.restaurants],
             "status": trip.status.value,
             "forked_from_template_id": trip.forked_from_template_id,
+            "destination_image_filename": trip.destination_image_filename,
             "created_at": trip.created_at,
             "updated_at": trip.updated_at,
         }
@@ -713,6 +725,7 @@ class MongoTripRepository(TripRepository):
             restaurants=restaurants,
             status=TripStatus(doc.get("status", "planning")),
             forked_from_template_id=doc.get("forked_from_template_id", ""),
+            destination_image_filename=doc.get("destination_image_filename", ""),
             created_at=doc.get("created_at", datetime.utcnow()),
             updated_at=doc.get("updated_at", datetime.utcnow()),
         )

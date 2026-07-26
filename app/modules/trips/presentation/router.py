@@ -135,21 +135,34 @@ async def create_trip(
     req: CreateTripRequest,
     current_user: User = Depends(get_current_user),
     service: TripService = Depends(get_trip_service),
+    db: AsyncIOMotorDatabase = Depends(get_db),
 ) -> TripResponse:
     """
     Create a new trip by selecting an outbound and a return flight,
     plus an optional inter-city bus journey.
     Send `bus_journey: null` (or omit it) if no bus was chosen.
     """
+    # Resolve destination city photo from wikidata_id sent by frontend
+    destination_image_filename = ""
+    outbound_offer = _input_to_offer(req.outbound_flight)
+    if req.destination_city_wikidata_id:
+        city_doc = await db["cities"].find_one(
+            {"wikidata_id": req.destination_city_wikidata_id},
+            {"image_filename": 1},
+        )
+        if city_doc and city_doc.get("image_filename"):
+            destination_image_filename = city_doc["image_filename"]
+
     trip = await service.create_trip(
         user_id=current_user.id,
-        outbound_offer=_input_to_offer(req.outbound_flight),
+        outbound_offer=outbound_offer,
         return_offer=_input_to_offer(req.return_flight),
         name=req.name,
         bus_offer=_input_to_bus_offer(req.bus_journey) if req.bus_journey else None,
         creator_first_name=current_user.first_name,
         creator_last_name=current_user.last_name,
         forked_from_template_id=req.forked_from_template_id,
+        destination_image_filename=destination_image_filename,
     )
     return TripResponse.from_entity(trip)
 

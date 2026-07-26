@@ -18,7 +18,6 @@ from enum import Enum
 class TemplateStatus(str, Enum):
     DRAFT = "draft"
     PUBLISHED = "published"
-    ARCHIVED = "archived"
 
 
 @dataclass
@@ -91,4 +90,5 @@ class TripTemplate:
 
     def is_published(self) -> bool:
         return self.status == TemplateStatus.PUBLISHED
+
 

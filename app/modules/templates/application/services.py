@@ -53,8 +53,6 @@ class TemplateService:
         template = await self.repo.get_by_id(template_id)
         if template is None or not template.is_author(user_id):
             return None
-        if template.status == TemplateStatus.PUBLISHED:
-            return None  # cannot edit published templates directly
 
         for key, value in fields.items():
             if hasattr(template, key) and value is not None:
@@ -77,11 +75,12 @@ class TemplateService:
         template.updated_at = datetime.utcnow()
         return await self.repo.update(template)
 
-    async def archive(self, template_id: str, user_id: str) -> TripTemplate | None:
+    async def unpublish(self, template_id: str, user_id: str) -> TripTemplate | None:
+        """Move a published template back to draft so it can be edited."""
         template = await self.repo.get_by_id(template_id)
         if template is None or not template.is_author(user_id):
             return None
-        template.status = TemplateStatus.ARCHIVED
+        template.status = TemplateStatus.DRAFT
         template.updated_at = datetime.utcnow()
         return await self.repo.update(template)
 
@@ -89,8 +88,6 @@ class TemplateService:
         template = await self.repo.get_by_id(template_id)
         if template is None or not template.is_author(user_id):
             return False
-        if template.status == TemplateStatus.PUBLISHED:
-            return False  # must archive first
         return await self.repo.delete(template_id)
 
     async def toggle_like(self, template_id: str, user_id: str) -> TripTemplate | None:
@@ -200,4 +197,5 @@ class TemplateService:
             return None
         await self.repo.increment_fork_count(template_id)
         return template_id
+
 
