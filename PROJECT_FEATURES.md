@@ -23,3 +23,10 @@
 ## Phase 5: Budgeting & Costing
 - [ ] **Budget Tracker:** Track expenses per trip category.
 - [ ] **Cost Aggregator:** Total estimated vs. actual spend.
+
+## Phase 6: Enhanced User Profiles ← CURRENT
+- [ ] **Travel Statistics:** Trips completed count, cities visited, total distance traveled (km), favorite destination (most-visited city).
+- [ ] **Profile Personalization:** Profile photo (S3), cover/banner image (S3), bio text, home city, base airport, preferred languages, travel style tags (e.g. "Budget", "Backpacker", "Foodie", "Adventure", "Luxury").
+- [ ] **Frequent Collaborators:** Top 5 users they've shared the most trips with (derived from TripMember data).
+- [ ] **Badges / Achievements:** Milestone badges — "First Trip", country milestones (5/10/20+), "Frequent Flyer" (10+ flights), "Bus Explorer" (5+ buses), "Planner Pro" (10+ trips created), "Collaborator" (5+ shared trips).
+- [ ] **Activity Feed:** Recent completed trips timeline, upcoming trips preview.

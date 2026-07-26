@@ -8,6 +8,7 @@ Orchestrates building the full trip schedule by:
 """
 
 from datetime import date, datetime, timedelta
+import logging
 
 from app.modules.schedule.domain.entities import (
     MANUAL_ITEM_TYPES,
@@ -162,6 +163,75 @@ class ScheduleService:
         removed = await self._schedule_repo.remove_item(trip_id, item_id)
         if not removed:
             raise ValueError("Schedule item not found or is an auto-item")
+
+    # ── Map URL ─────────────────────────────────────────────────────────────
+
+    async def get_day_map_url(self, trip_id: str, user_id: str, day_date: str) -> str:
+        """
+        Build a Google Maps directions URL for all attractions/restaurants
+        scheduled on a given day, ordered by time slot.
+
+        Returns a URL that opens Google Maps with waypoints for the day's plan.
+        Works on mobile (opens native Google Maps app) and web.
+        """
+        trip = await self._trip_repo.get_by_id(trip_id, user_id)
+        if not trip:
+            raise ValueError("Trip not found or access denied")
+
+        # Collect coordinates from attractions and restaurants for this day
+        waypoints: list[tuple[float, float, str]] = []  # (lat, lng, name)
+
+        slot_order = {"morning": 0, "midday": 1, "evening": 2, "night": 3}
+
+        logger = logging.getLogger(__name__)
+        logger.info(
+            "map-url: trip has %d attractions, %d restaurants. Looking for day_date=%r",
+            len(trip.attractions), len(trip.restaurants), day_date,
+        )
+        for a in trip.attractions:
+            logger.info("  attraction: name=%r, day_date=%r, lat=%s, lng=%s", a.name, a.day_date, a.latitude, a.longitude)
+        for r in trip.restaurants:
+            logger.info("  restaurant: name=%r, day_date=%r, lat=%s, lng=%s", r.name, r.day_date, r.latitude, r.longitude)
+
+        for attraction in trip.attractions:
+            if attraction.day_date == day_date and attraction.latitude and attraction.longitude:
+                waypoints.append((
+                    attraction.latitude,
+                    attraction.longitude,
+                    attraction.name,
+                ))
+
+        for restaurant in trip.restaurants:
+            if restaurant.day_date == day_date and restaurant.latitude and restaurant.longitude:
+                waypoints.append((
+                    restaurant.latitude,
+                    restaurant.longitude,
+                    restaurant.name,
+                ))
+
+        if not waypoints:
+            raise ValueError(f"No attractions or restaurants with coordinates found for {day_date}")
+
+        # Sort by time slot order
+        # We need to re-fetch slot info, so let's build a sortable list
+        slot_items: list[tuple[int, float, float, str]] = []
+        for attraction in trip.attractions:
+            if attraction.day_date == day_date and attraction.latitude and attraction.longitude:
+                order = slot_order.get(attraction.time_slot, 9)
+                slot_items.append((order, attraction.latitude, attraction.longitude, attraction.name))
+        for restaurant in trip.restaurants:
+            if restaurant.day_date == day_date and restaurant.latitude and restaurant.longitude:
+                order = slot_order.get(restaurant.time_slot, 9)
+                slot_items.append((order, restaurant.latitude, restaurant.longitude, restaurant.name))
+
+        slot_items.sort(key=lambda x: x[0])
+
+        # Build Google Maps directions URL
+        # Format: https://www.google.com/maps/dir/lat1,lng1/lat2,lng2/...
+        coords = "/".join(f"{lat},{lng}" for _, lat, lng, _ in slot_items)
+        maps_url = f"https://www.google.com/maps/dir/{coords}/"
+
+        return maps_url
 
 
 # ── Private helpers ─────────────────────────────────────────────────────────────

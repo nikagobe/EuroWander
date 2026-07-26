@@ -1,3 +1,5 @@
+from datetime import date, timedelta
+
 import httpx
 from fastapi import APIRouter, Depends, HTTPException, Query
 
@@ -26,7 +28,7 @@ def get_attraction_service() -> AttractionService:
     - Terra API for details (fast, reliable, official)
     - Terra API for name search (free-text, no geo_id required)
     """
-    scraper_client = TripAdvisorScraperClient(api_key=settings.rapidapi_key)
+    scraper_client = TripAdvisorScraperClient(api_key=settings.tripadvisor_rapidapi_key)
     terra_client = TerraAttractionDetailClient(api_key=settings.tripadvisor_key)
     return AttractionService(
         destination_provider=scraper_client,
@@ -39,6 +41,25 @@ def get_attraction_service() -> AttractionService:
 def get_terra_client() -> TerraAttractionDetailClient:
     """Direct access to Terra client for reviews/nearby endpoints."""
     return TerraAttractionDetailClient(api_key=settings.tripadvisor_key)
+
+
+def _clamp_dates(start_date: str, end_date: str) -> tuple[str, str]:
+    """Ensure start_date and end_date are never in the past. Adjusts to today/tomorrow if needed."""
+    today = date.today()
+    try:
+        sd = date.fromisoformat(start_date)
+    except ValueError:
+        sd = today
+    try:
+        ed = date.fromisoformat(end_date)
+    except ValueError:
+        ed = today + timedelta(days=1)
+
+    if sd < today:
+        sd = today
+    if ed <= sd:
+        ed = sd + timedelta(days=1)
+    return sd.isoformat(), ed.isoformat()
 
 
 @router.get("/destinations", response_model=list[AttractionDestinationResponse])
@@ -134,10 +155,11 @@ async def search_attractions(
 
     Returns name, category, rating, reviews, photo, coordinates, badge, and ticket price.
     """
+    clamped_start, clamped_end = _clamp_dates(start_date, end_date)
     result = await service.search_attractions(
         geo_id=geo_id,
-        start_date=start_date,
-        end_date=end_date,
+        start_date=clamped_start,
+        end_date=clamped_end,
         adults=adults,
         page=page,
         currency=currency,
@@ -179,10 +201,11 @@ async def get_attraction_details(
     5. Lazy-load nearby via `/attractions/details/{id}/nearby`
     """
     try:
+        clamped_start, clamped_end = _clamp_dates(start_date, end_date)
         detail = await service.get_attraction_details(
             content_id=content_id,
-            start_date=start_date,
-            end_date=end_date,
+            start_date=clamped_start,
+            end_date=clamped_end,
             currency=currency,
             adults=adults,
         )

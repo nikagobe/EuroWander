@@ -57,17 +57,27 @@ class TripAdvisorScraperClient(
         params: dict[str, str] = {"query": query}
 
         async with httpx.AsyncClient(verify=False) as client:
-            response = await client.get(
-                _AUTOCOMPLETE_URL,
-                params=params,
-                headers=self._headers(),
-                timeout=15.0,
+            headers = self._headers()
+            request = client.build_request(
+                "GET", _AUTOCOMPLETE_URL, params=params, headers=headers
             )
             logger.info(
-                "TripAdvisor autocomplete [%s]: query=%r, results=%d chars",
+                "TripAdvisor autocomplete CURL equivalent:\n"
+                "curl --request GET \\\n"
+                "\t--url '%s' \\\n"
+                "\t--header 'Content-Type: %s' \\\n"
+                "\t--header 'x-rapidapi-host: %s' \\\n"
+                "\t--header 'x-rapidapi-key: %s'",
+                request.url,
+                headers.get("Content-Type", ""),
+                headers.get("x-rapidapi-host", ""),
+                headers.get("x-rapidapi-key", ""),
+            )
+            response = await client.send(request, follow_redirects=True)
+            logger.info(
+                "TripAdvisor autocomplete RESPONSE [%s]: body=%s",
                 response.status_code,
-                query,
-                len(response.text),
+                response.text[:500],
             )
             response.raise_for_status()
             payload: dict = response.json()

@@ -22,7 +22,7 @@ def get_restaurant_service() -> RestaurantService:
     - RapidAPI scraper for search (pagination with updateToken)
     - Terra API for details (fast, reliable, official)
     """
-    scraper_client = TripAdvisorRestaurantClient(api_key=settings.rapidapi_key)
+    scraper_client = TripAdvisorRestaurantClient(api_key=settings.tripadvisor_rapidapi_key)
     terra_client = TerraRestaurantDetailClient(api_key=settings.tripadvisor_key)
     return RestaurantService(search_provider=scraper_client, detail_provider=terra_client)
 

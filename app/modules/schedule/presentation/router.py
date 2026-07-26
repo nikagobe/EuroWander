@@ -9,6 +9,7 @@ from app.modules.schedule.domain.entities import ScheduleItemType, TimeSlot
 from app.modules.schedule.infrastructure.repositories import MongoScheduleRepository
 from app.modules.schedule.presentation.schemas import (
     AddScheduleItemRequest,
+    DayMapUrlResponse,
     FullScheduleResponse,
     ScheduleDayResponse,
     ScheduleItemResponse,
@@ -174,7 +175,44 @@ async def remove_schedule_item(
     try:
         await service.remove_item(trip_id=trip_id, item_id=item_id, user_id=current_user.id)
     except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=str(e))
+
+
+@router.get("/day/{day_date}/map-url", response_model=DayMapUrlResponse)
+async def get_day_map_url(
+    trip_id: str,
+    day_date: str,
+    current_user: User = Depends(get_current_user),
+    service: ScheduleService = Depends(get_schedule_service),
+) -> DayMapUrlResponse:
+    """
+    Get a Google Maps directions URL for all attractions/restaurants on a specific day.
+
+    Opens Google Maps with waypoints ordered by time slot (morning → night).
+    On mobile, this deep-links into the native Google Maps app.
+
+    **Flutter flow:**
+    1. User views a day in the schedule
+    2. Taps "Show on Map" button
+    3. Flutter calls this endpoint → receives `map_url`
+    4. Flutter opens URL with `url_launcher` → Google Maps opens with all stops marked
+    """
+    try:
+        map_url = await service.get_day_map_url(
+            trip_id=trip_id, user_id=current_user.id, day_date=day_date
+        )
+    except ValueError as e:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+
+    # Count stops: everything after /dir/ split by /
+    path_part = map_url.split("/maps/dir/")[1].rstrip("/")
+    stop_count = len(path_part.split("/")) if path_part else 0
+
+    return DayMapUrlResponse(
+        day_date=day_date,
+        map_url=map_url,
+        stop_count=stop_count,
+    )
 
 
 # ── Helpers ─────────────────────────────────────────────────────────────────────

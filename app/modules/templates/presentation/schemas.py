@@ -152,3 +152,110 @@ class TemplateListItem(BaseModel):
     like_count: int
     status: str
     leg_cities: list[str]
+
+
+# ─── Fork Create Trip schemas ─────────────────────────────────────────
+
+
+class ForkFlightLegInput(BaseModel):
+    airline: str = ""
+    airline_logo: str = ""
+    departure_airport: str
+    departure_airport_name: str = ""
+    arrival_airport: str
+    arrival_airport_name: str = ""
+    departure_time: str
+    arrival_time: str
+    duration_minutes: int
+    flight_number: str = ""
+
+
+class ForkFlightInput(BaseModel):
+    airline_logo: str = ""
+    booking_token: str = ""
+    currency: str = "EUR"
+    price: float
+    stops: int = 0
+    total_duration_minutes: int
+    legs: list[ForkFlightLegInput]
+
+
+class ForkHotelInput(BaseModel):
+    leg_order: int
+    hotel_id: int
+    name: str
+    city: str = ""
+    checkin_date: str
+    checkout_date: str
+    price_per_night: float
+    price_total: float
+    currency: str = "EUR"
+    stars: int = 0
+    review_score: float = 0.0
+    review_score_word: str = ""
+    address: str = ""
+    latitude: float = 0.0
+    longitude: float = 0.0
+    photo_url: str = ""
+    booking_url: str = ""
+
+
+class ForkBusSegmentInput(BaseModel):
+    dep_name: str
+    arr_name: str
+    dep_time: str
+    arr_time: str
+    product_type: str = "bus"
+    product: str = "FlixBus"
+
+
+class ForkBusInput(BaseModel):
+    segment_index: int
+    dep_name: str
+    arr_name: str
+    dep_time: str
+    arr_time: str
+    duration_minutes: int
+    price: float
+    currency: str = "EUR"
+    changeovers: int = 0
+    deeplink: str = ""
+    segments: list[ForkBusSegmentInput] = []
+
+
+class ForkCreateTripRequest(BaseModel):
+    """Request body for POST /templates/{template_id}/fork/create-trip."""
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "name": "My Barcelona & Paris Trip",
+                "start_date": "2026-08-10",
+                "origin_city": "Tbilisi",
+                "outbound_flight": {
+                    "price": 145.0,
+                    "currency": "EUR",
+                    "stops": 1,
+                    "total_duration_minutes": 320,
+                    "legs": [
+                        {
+                            "airline": "Wizz Air",
+                            "departure_airport": "TBS",
+                            "arrival_airport": "BCN",
+                            "departure_time": "2026-08-10T06:30:00",
+                            "arrival_time": "2026-08-10T11:50:00",
+                            "duration_minutes": 320,
+                            "flight_number": "W6 3412",
+                        }
+                    ],
+                },
+            }
+        }
+    )
+
+    name: str
+    start_date: str  # YYYY-MM-DD
+    origin_city: str = ""
+    outbound_flight: ForkFlightInput
+    return_flight: ForkFlightInput | None = None
+    hotels: list[ForkHotelInput] = []
+    buses: list[ForkBusInput] = []

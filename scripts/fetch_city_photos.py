@@ -81,8 +81,8 @@ async def main() -> None:
 
     print(f"Major cities to process: {len(all_major_names)}")
 
-    client = AsyncIOMotorClient(settings.MONGO_URI)
-    db = client[settings.MONGO_DB]
+    client = AsyncIOMotorClient(settings.mongodb_uri)
+    db = client[settings.database_name]
     collection = db["cities"]
 
     # Find major cities in DB that don't have an image_filename yet
@@ -105,7 +105,10 @@ async def main() -> None:
     batch_size = 50
     updated = 0
 
-    async with httpx.AsyncClient() as session:
+    async with httpx.AsyncClient(
+        verify=False,
+        headers={"User-Agent": "EuroWander/1.0 (travel app; contact@eurowander.dev)"},
+    ) as session:
         for i in range(0, len(cities), batch_size):
             batch = cities[i : i + batch_size]
             qid_map = {doc["wikidata_id"]: doc["_id"] for doc in batch}
@@ -132,3 +135,6 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+
+

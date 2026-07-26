@@ -117,3 +117,22 @@ class UpdateScheduleItemRequest(BaseModel):
     note: str | None = None
     order: int | None = None
 
+
+class DayMapUrlResponse(BaseModel):
+    """Google Maps URL for a day's schedule — opens directions with all stops."""
+
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "day_date": "2026-07-27",
+                "map_url": "https://www.google.com/maps/dir/48.8584,2.2945/48.8606,2.3376/48.8530,2.3499/",
+                "stop_count": 3,
+            }
+        }
+    )
+
+    day_date: str
+    map_url: str
+    stop_count: int
+
+
