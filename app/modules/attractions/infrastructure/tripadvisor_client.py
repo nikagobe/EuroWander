@@ -79,6 +79,12 @@ class TripAdvisorScraperClient(
                 response.status_code,
                 response.text[:500],
             )
+            if response.status_code >= 400:
+                logger.error(
+                    "TripAdvisor autocomplete ERROR [%s]: query=%s\n"
+                    "  Response body: %s",
+                    response.status_code, query, response.text[:2000],
+                )
             response.raise_for_status()
             payload: dict = response.json()
 
@@ -129,6 +135,15 @@ class TripAdvisorScraperClient(
                 page,
                 len(response.text),
             )
+            if response.status_code >= 400:
+                logger.error(
+                    "TripAdvisor attractions/search ERROR [%s]: geoId=%s\n"
+                    "  Request URL: %s\n"
+                    "  Response body: %s",
+                    response.status_code, geo_id,
+                    response.url,
+                    response.text[:2000],
+                )
             response.raise_for_status()
             payload: dict = response.json()
 
@@ -176,6 +191,12 @@ class TripAdvisorScraperClient(
                         content_id,
                         len(response.text),
                     )
+                    if response.status_code >= 400:
+                        logger.error(
+                            "TripAdvisor attractions/details ERROR [%s]: contentId=%s\n"
+                            "  Response body: %s",
+                            response.status_code, content_id, response.text[:2000],
+                        )
                     response.raise_for_status()
                     payload: dict = response.json()
                 return _parse_attraction_detail(payload, content_id)

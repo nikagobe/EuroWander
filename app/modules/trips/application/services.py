@@ -29,6 +29,7 @@ class TripService:
         creator_last_name: str = "",
         forked_from_template_id: str = "",
         destination_image_filename: str = "",
+        destination_image_url: str = "",
     ) -> Trip:
         """Snapshot flight (and optional bus) offers and persist a new Trip.
         The creator is automatically added as MASTER member."""
@@ -47,6 +48,7 @@ class TripService:
             members=[master],
             forked_from_template_id=forked_from_template_id,
             destination_image_filename=destination_image_filename,
+            destination_image_url=destination_image_url,
         )
         return await self._repo.create(trip)
 

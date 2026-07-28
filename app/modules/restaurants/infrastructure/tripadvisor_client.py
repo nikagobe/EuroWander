@@ -84,6 +84,15 @@ class TripAdvisorRestaurantClient(RestaurantSearchProvider, RestaurantDetailProv
                 page,
                 len(response.text),
             )
+            if response.status_code >= 400:
+                logger.error(
+                    "TripAdvisor restaurants/search ERROR [%s]: geoId=%s\n"
+                    "  Request URL: %s\n"
+                    "  Response body: %s",
+                    response.status_code, geo_id,
+                    response.url,
+                    response.text[:2000],
+                )
             response.raise_for_status()
             payload: dict = response.json()
 
@@ -117,6 +126,12 @@ class TripAdvisorRestaurantClient(RestaurantSearchProvider, RestaurantDetailProv
                 content_id,
                 len(response.text),
             )
+            if response.status_code >= 400:
+                logger.error(
+                    "TripAdvisor restaurants/details ERROR [%s]: contentId=%s\n"
+                    "  Response body: %s",
+                    response.status_code, content_id, response.text[:2000],
+                )
             response.raise_for_status()
             payload: dict = response.json()
 

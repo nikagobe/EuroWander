@@ -28,6 +28,7 @@ class MongoCityRepository(CityRepository):
             lat=doc.get("lat"),
             lng=doc.get("lng"),
             image_filename=doc.get("image_filename"),
+            image_url=doc.get("image_url"),
             banner_filename=doc.get("banner_filename"),
         )
 

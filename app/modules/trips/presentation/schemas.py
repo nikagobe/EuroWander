@@ -1,6 +1,4 @@
 from datetime import datetime
-import hashlib
-import urllib.parse
 
 from pydantic import BaseModel, ConfigDict
 
@@ -557,15 +555,7 @@ class TripResponse(BaseModel):
 
     @classmethod
     def from_entity(cls, trip: Trip) -> "TripResponse":
-        photo_url = None
-        if trip.destination_image_filename:
-            fn = trip.destination_image_filename.replace(" ", "_")
-            md5 = hashlib.md5(fn.encode()).hexdigest()
-            encoded = urllib.parse.quote(fn)
-            photo_url = (
-                f"https://upload.wikimedia.org/wikipedia/commons/thumb/"
-                f"{md5[0]}/{md5[0:2]}/{encoded}/800px-{encoded}"
-            )
+        photo_url = trip.destination_image_url or None
         return cls(
             id=trip.id,
             user_id=trip.user_id,

@@ -56,6 +56,12 @@ class BookingComClient(HotelDestinationProvider, HotelSearchProvider, HotelDetai
                 headers=self._headers(),
                 timeout=15.0,
             )
+            if response.status_code >= 400:
+                logger.error(
+                    "Booking.com searchDestination ERROR [%s]: query=%s\n"
+                    "  Response body: %s",
+                    response.status_code, query, response.text[:2000],
+                )
             response.raise_for_status()
             payload: dict = response.json()
 
@@ -104,6 +110,13 @@ class BookingComClient(HotelDestinationProvider, HotelSearchProvider, HotelDetai
                 headers=self._headers(),
                 timeout=20.0,
             )
+            if response.status_code >= 400:
+                logger.error(
+                    "Booking.com searchHotels ERROR [%s]: dest_id=%s\n"
+                    "  Request URL: %s\n"
+                    "  Response body: %s",
+                    response.status_code, dest_id, response.url, response.text[:2000],
+                )
             response.raise_for_status()
             payload: dict = response.json()
 

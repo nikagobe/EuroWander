@@ -544,6 +544,7 @@ class MongoTripRepository(TripRepository):
             "status": trip.status.value,
             "forked_from_template_id": trip.forked_from_template_id,
             "destination_image_filename": trip.destination_image_filename,
+            "destination_image_url": trip.destination_image_url,
             "created_at": trip.created_at,
             "updated_at": trip.updated_at,
         }
@@ -726,6 +727,7 @@ class MongoTripRepository(TripRepository):
             status=TripStatus(doc.get("status", "planning")),
             forked_from_template_id=doc.get("forked_from_template_id", ""),
             destination_image_filename=doc.get("destination_image_filename", ""),
+            destination_image_url=doc.get("destination_image_url", ""),
             created_at=doc.get("created_at", datetime.utcnow()),
             updated_at=doc.get("updated_at", datetime.utcnow()),
         )

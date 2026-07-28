@@ -1,11 +1,14 @@
 import logging
 import os
 import sys
+import time
+import traceback
 from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 
 # Force logging to work both locally and in Lambda containers.
 # Lambda's runtime may pre-configure the root logger, making basicConfig() a no-op.
@@ -97,6 +100,49 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+# ── Global exception handler — catches unhandled errors and logs full context ──
+
+@app.middleware("http")
+async def log_requests_and_catch_errors(request: Request, call_next):
+    """
+    Middleware that:
+    1. Logs every incoming request (method, path, query)
+    2. Times the request
+    3. Catches unhandled exceptions, logs the full traceback, and returns 500
+    """
+    start = time.time()
+    method = request.method
+    path = request.url.path
+    query = str(request.url.query) if request.url.query else ""
+    log_path = f"{path}?{query}" if query else path
+
+    try:
+        response = await call_next(request)
+        elapsed = (time.time() - start) * 1000
+        # Log slow requests (>2s) or errors
+        if response.status_code >= 400 or elapsed > 2000:
+            logger.warning(
+                "⚠️  %s %s → %d (%.0fms)",
+                method, log_path, response.status_code, elapsed,
+            )
+        return response
+    except Exception as exc:
+        elapsed = (time.time() - start) * 1000
+        # Log the full exception with traceback
+        logger.error(
+            "🔥  UNHANDLED EXCEPTION in %s %s (%.0fms)\n"
+            "    Exception: %s: %s\n"
+            "    Traceback:\n%s",
+            method, log_path, elapsed,
+            type(exc).__name__, str(exc),
+            traceback.format_exc(),
+        )
+        return JSONResponse(
+            status_code=500,
+            content={"detail": f"Internal server error: {type(exc).__name__}: {exc}"},
+        )
 
 app.include_router(airports_router, prefix="/api/v1")
 app.include_router(cities_router, prefix="/api/v1")

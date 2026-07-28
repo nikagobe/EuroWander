@@ -160,7 +160,8 @@ class ForkService:
             restaurants=restaurants,
             members=[master],
             forked_from_template_id=template_id,
-            destination_image_filename=destination_image,
+            destination_image_filename="",
+            destination_image_url=destination_image,
         )
 
         created_trip = await self._trip_repo.create(trip)
@@ -169,5 +170,6 @@ class ForkService:
         await self._template_repo.increment_fork_count(template_id)
 
         return created_trip
+
 
 

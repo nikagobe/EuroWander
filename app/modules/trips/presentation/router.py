@@ -144,14 +144,16 @@ async def create_trip(
     """
     # Resolve destination city photo from wikidata_id sent by frontend
     destination_image_filename = ""
+    destination_image_url = ""
     outbound_offer = _input_to_offer(req.outbound_flight)
     if req.destination_city_wikidata_id:
         city_doc = await db["cities"].find_one(
             {"wikidata_id": req.destination_city_wikidata_id},
-            {"image_filename": 1},
+            {"image_filename": 1, "image_url": 1},
         )
-        if city_doc and city_doc.get("image_filename"):
-            destination_image_filename = city_doc["image_filename"]
+        if city_doc:
+            destination_image_filename = city_doc.get("image_filename", "")
+            destination_image_url = city_doc.get("image_url", "")
 
     trip = await service.create_trip(
         user_id=current_user.id,
@@ -163,6 +165,7 @@ async def create_trip(
         creator_last_name=current_user.last_name,
         forked_from_template_id=req.forked_from_template_id,
         destination_image_filename=destination_image_filename,
+        destination_image_url=destination_image_url,
     )
     return TripResponse.from_entity(trip)
 

@@ -217,7 +217,8 @@ class Trip:
     id: str = ""
     status: TripStatus = TripStatus.PLANNING
     forked_from_template_id: str = ""    # links to source template if forked
-    destination_image_filename: str = ""  # Wikimedia Commons filename for thumbnail
+    destination_image_filename: str = ""  # Wikimedia Commons filename (legacy)
+    destination_image_url: str = ""       # Pre-resolved Wikimedia thumbnail URL
     created_at: datetime = field(default_factory=datetime.utcnow)
     updated_at: datetime = field(default_factory=datetime.utcnow)
 
