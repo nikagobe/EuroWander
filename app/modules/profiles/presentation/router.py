@@ -1,9 +1,12 @@
+import logging
 
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, HTTPException, status
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
+from app.config import settings
 from app.database.client import get_db
 from app.modules.airports.infrastructure.repositories import MongoAirportRepository
+from app.modules.documents.infrastructure.clients import S3StorageClient
 from app.modules.profiles.application.services import ProfileService
 from app.modules.profiles.infrastructure.repositories import MongoProfileRepository
 from app.modules.profiles.presentation.schemas import (
@@ -12,6 +15,10 @@ from app.modules.profiles.presentation.schemas import (
     BadgeResponse,
     CollaboratorResponse,
     FullProfileResponse,
+    PhotoConfirmRequest,
+    PhotoDownloadUrlResponse,
+    PhotoUploadUrlRequest,
+    PhotoUploadUrlResponse,
     ProfileResponse,
     ProfileUpdateRequest,
     TravelStatsResponse,
@@ -20,6 +27,8 @@ from app.modules.trips.domain.entities import Trip
 from app.modules.trips.infrastructure.repositories import MongoTripRepository
 from app.modules.users.domain.entities import User
 from app.modules.users.presentation.router import get_current_user
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/profiles", tags=["profiles"])
 
@@ -43,10 +52,21 @@ _BADGE_LABELS: dict[str, str] = {
 def get_profile_service(
     db: AsyncIOMotorDatabase = Depends(get_db),
 ) -> ProfileService:
+    # Build optional S3 storage provider (reuse the documents S3 client)
+    storage: S3StorageClient | None = None
+    if settings.aws_s3_bucket_name and settings.aws_access_key_id:
+        storage = S3StorageClient(
+            access_key_id=settings.aws_access_key_id,
+            secret_access_key=settings.aws_secret_access_key,
+            bucket_name=settings.aws_s3_bucket_name,
+            region=settings.aws_s3_region,
+            url_expiration_seconds=settings.s3_url_expiration_seconds,
+        )
     return ProfileService(
         profile_repo=MongoProfileRepository(db["user_profiles"]),
         trip_repo=MongoTripRepository(db["trips"]),
         airport_repo=MongoAirportRepository(db["airports"]),
+        storage=storage,
     )
 
 
@@ -174,3 +194,104 @@ async def get_user_profile(
         ],
     )
 
+
+# ── Photo Upload Endpoints ────────────────────────────────────────────────────
+
+@router.post("/me/{photo_type}/upload-url", response_model=PhotoUploadUrlResponse)
+async def request_photo_upload_url(
+    photo_type: str,
+    req: PhotoUploadUrlRequest,
+    current_user: User = Depends(get_current_user),
+    service: ProfileService = Depends(get_profile_service),
+) -> PhotoUploadUrlResponse:
+    """
+    Request a presigned PUT URL for uploading a profile or cover photo.
+
+    **photo_type** must be `profile` or `cover`.
+
+    Flutter flow:
+    1. Call this endpoint with file metadata.
+    2. PUT image bytes to the returned `upload_url`.
+    3. Call `POST /profiles/me/{photo_type}/confirm` with the `file_key`.
+    """
+    try:
+        upload_url, file_key, expires_at = await service.request_photo_upload_url(
+            user_id=current_user.id,
+            photo_type=photo_type,
+            file_name=req.file_name,
+            content_type=req.content_type,
+            size_bytes=req.size_bytes,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+    except Exception:
+        logger.exception("[Profiles] upload-url failed for user=%s type=%s", current_user.id, photo_type)
+        raise HTTPException(status_code=500, detail="Internal error generating upload URL.")
+
+    return PhotoUploadUrlResponse(upload_url=upload_url, file_key=file_key, expires_at=expires_at)
+
+
+@router.post("/me/{photo_type}/confirm", response_model=ProfileResponse)
+async def confirm_photo_upload(
+    photo_type: str,
+    req: PhotoConfirmRequest,
+    current_user: User = Depends(get_current_user),
+    service: ProfileService = Depends(get_profile_service),
+) -> ProfileResponse:
+    """
+    Confirm that the photo was uploaded to S3 and save the key to the profile.
+
+    **photo_type** must be `profile` or `cover`.
+    """
+    try:
+        profile = await service.confirm_photo_upload(
+            user_id=current_user.id,
+            photo_type=photo_type,
+            file_key=req.file_key,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+    except Exception:
+        logger.exception("[Profiles] confirm failed for user=%s type=%s", current_user.id, photo_type)
+        raise HTTPException(status_code=500, detail="Internal error confirming upload.")
+
+    return ProfileResponse.from_entity(profile)
+
+
+@router.get("/me/{photo_type}/download-url", response_model=PhotoDownloadUrlResponse)
+async def get_photo_download_url(
+    photo_type: str,
+    current_user: User = Depends(get_current_user),
+    service: ProfileService = Depends(get_profile_service),
+) -> PhotoDownloadUrlResponse:
+    """
+    Get a presigned GET URL for the current user's profile or cover photo.
+
+    **photo_type** must be `profile` or `cover`.
+    """
+    try:
+        download_url, expires_at = await service.get_photo_download_url(
+            user_id=current_user.id,
+            photo_type=photo_type,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+
+    return PhotoDownloadUrlResponse(download_url=download_url, expires_at=expires_at)
+
+
+@router.delete("/me/{photo_type}/photo", status_code=status.HTTP_204_NO_CONTENT)
+async def delete_photo(
+    photo_type: str,
+    current_user: User = Depends(get_current_user),
+    service: ProfileService = Depends(get_profile_service),
+) -> None:
+    """
+    Delete the current user's profile or cover photo from S3 and clear the URL.
+
+    **photo_type** must be `profile` or `cover`.
+    """
+    try:
+        await service.delete_photo(user_id=current_user.id, photo_type=photo_type)
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))

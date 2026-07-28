@@ -3,6 +3,7 @@ Profile application service — orchestrates domain logic and repositories.
 No FastAPI or Pydantic imports here.
 """
 
+import uuid
 from collections import Counter
 from datetime import datetime
 
@@ -15,9 +16,12 @@ from app.modules.profiles.domain.entities import (
     TravelStats,
     UserProfile,
 )
-from app.modules.profiles.domain.interfaces import ProfileRepository
+from app.modules.profiles.domain.interfaces import ProfileRepository, ProfileStorageProvider
 from app.modules.trips.domain.entities import Trip, TripStatus
 from app.modules.trips.domain.interfaces import TripRepository
+
+_ALLOWED_IMAGE_TYPES: set[str] = {"image/jpeg", "image/png", "image/webp"}
+_MAX_PHOTO_SIZE_BYTES: int = 5_242_880  # 5 MB
 
 
 class ProfileService:
@@ -26,10 +30,12 @@ class ProfileService:
         profile_repo: ProfileRepository,
         trip_repo: TripRepository,
         airport_repo: AirportRepository,
+        storage: ProfileStorageProvider | None = None,
     ) -> None:
         self._profile_repo = profile_repo
         self._trip_repo = trip_repo
         self._airport_repo = airport_repo
+        self._storage = storage
 
     # ── Profile CRUD ──────────────────────────────────────────────────────────
 
@@ -207,3 +213,113 @@ class ProfileService:
             "upcoming": upcoming[:limit],
         }
 
+    # ── Profile Photo Upload ─────────────────────────────────────────────────
+
+    async def request_photo_upload_url(
+        self,
+        user_id: str,
+        photo_type: str,
+        file_name: str,
+        content_type: str,
+        size_bytes: int,
+    ) -> tuple[str, str, datetime]:
+        """Generate a presigned S3 upload URL for a profile or cover photo.
+
+        Returns (upload_url, file_key, expires_at).
+        """
+        if self._storage is None:
+            raise ValueError("Storage provider is not configured.")
+        if photo_type not in ("profile", "cover"):
+            raise ValueError("photo_type must be 'profile' or 'cover'.")
+        if content_type not in _ALLOWED_IMAGE_TYPES:
+            raise ValueError(f"Unsupported image type '{content_type}'. Allowed: {_ALLOWED_IMAGE_TYPES}")
+        if size_bytes > _MAX_PHOTO_SIZE_BYTES:
+            raise ValueError(f"File too large ({size_bytes} bytes). Max: {_MAX_PHOTO_SIZE_BYTES} bytes.")
+        if size_bytes <= 0:
+            raise ValueError("File size must be positive.")
+
+        ext = file_name.rsplit(".", 1)[-1] if "." in file_name else "jpg"
+        unique_id = uuid.uuid4().hex[:12]
+        file_key = f"profiles/{user_id}/{photo_type}_{unique_id}.{ext}"
+
+        upload_url, expires_at = await self._storage.generate_upload_url(
+            file_key, content_type, size_bytes
+        )
+        return upload_url, file_key, expires_at
+
+    async def confirm_photo_upload(
+        self,
+        user_id: str,
+        photo_type: str,
+        file_key: str,
+    ) -> UserProfile:
+        """Confirm upload and update the profile with the new photo S3 key.
+
+        Deletes the old photo from S3 if one existed.
+        """
+        if self._storage is None:
+            raise ValueError("Storage provider is not configured.")
+        if photo_type not in ("profile", "cover"):
+            raise ValueError("photo_type must be 'profile' or 'cover'.")
+
+        profile = await self.get_profile(user_id)
+
+        # Delete old photo from S3 if it exists
+        old_key = profile.profile_photo_url if photo_type == "profile" else profile.cover_photo_url
+        if old_key and old_key.startswith("profiles/"):
+            try:
+                await self._storage.delete_file(old_key)
+            except Exception:
+                pass  # Best-effort cleanup
+
+        # Update profile with new file key
+        if photo_type == "profile":
+            profile.profile_photo_url = file_key
+        else:
+            profile.cover_photo_url = file_key
+        profile.updated_at = datetime.utcnow()
+        return await self._profile_repo.upsert(profile)
+
+    async def get_photo_download_url(
+        self,
+        user_id: str,
+        photo_type: str,
+    ) -> tuple[str, datetime]:
+        """Get a presigned download URL for a profile or cover photo."""
+        if self._storage is None:
+            raise ValueError("Storage provider is not configured.")
+        if photo_type not in ("profile", "cover"):
+            raise ValueError("photo_type must be 'profile' or 'cover'.")
+
+        profile = await self.get_profile(user_id)
+        file_key = profile.profile_photo_url if photo_type == "profile" else profile.cover_photo_url
+        if not file_key:
+            raise ValueError(f"No {photo_type} photo set for this user.")
+
+        return await self._storage.generate_download_url(file_key)
+
+    async def delete_photo(
+        self,
+        user_id: str,
+        photo_type: str,
+    ) -> UserProfile:
+        """Delete a profile or cover photo from S3 and clear the URL."""
+        if self._storage is None:
+            raise ValueError("Storage provider is not configured.")
+        if photo_type not in ("profile", "cover"):
+            raise ValueError("photo_type must be 'profile' or 'cover'.")
+
+        profile = await self.get_profile(user_id)
+        file_key = profile.profile_photo_url if photo_type == "profile" else profile.cover_photo_url
+        if not file_key:
+            raise ValueError(f"No {photo_type} photo to delete.")
+
+        if file_key.startswith("profiles/"):
+            await self._storage.delete_file(file_key)
+
+        if photo_type == "profile":
+            profile.profile_photo_url = ""
+        else:
+            profile.cover_photo_url = ""
+        profile.updated_at = datetime.utcnow()
+        return await self._profile_repo.upsert(profile)

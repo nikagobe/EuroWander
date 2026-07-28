@@ -155,4 +155,65 @@ class FullProfileResponse(BaseModel):
     collaborators: list[CollaboratorResponse]
 
 
+# ── Photo Upload Schemas ──────────────────────────────────────────────────────
 
+class PhotoUploadUrlRequest(BaseModel):
+    """Request a presigned upload URL for profile or cover photo."""
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "file_name": "avatar.jpg",
+                "content_type": "image/jpeg",
+                "size_bytes": 245000,
+            }
+        }
+    )
+
+    file_name: str
+    content_type: str
+    size_bytes: int
+
+
+class PhotoUploadUrlResponse(BaseModel):
+    """Presigned S3 PUT URL for the Flutter client to upload directly."""
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "upload_url": "https://s3.eu-central-1.amazonaws.com/eurowander/profiles/...",
+                "file_key": "profiles/664abc/profile_a1b2c3d4e5f6.jpg",
+                "expires_at": "2026-07-28T14:00:00",
+            }
+        }
+    )
+
+    upload_url: str
+    file_key: str
+    expires_at: datetime
+
+
+class PhotoConfirmRequest(BaseModel):
+    """Confirm that the photo was uploaded to S3 successfully."""
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "file_key": "profiles/664abc/profile_a1b2c3d4e5f6.jpg",
+            }
+        }
+    )
+
+    file_key: str
+
+
+class PhotoDownloadUrlResponse(BaseModel):
+    """Presigned GET URL to view the photo."""
+    model_config = ConfigDict(
+        json_schema_extra={
+            "example": {
+                "download_url": "https://s3.eu-central-1.amazonaws.com/eurowander/profiles/...",
+                "expires_at": "2026-07-28T14:00:00",
+            }
+        }
+    )
+
+    download_url: str
+    expires_at: datetime

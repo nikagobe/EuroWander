@@ -6,7 +6,6 @@ from fastapi import APIRouter, Depends, HTTPException, Query, status
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
 from app.database.client import get_db
-from app.modules.templates.application.fork_service import ForkService
 from app.modules.templates.application.services import TemplateService
 from app.modules.templates.domain.entities import (
     HotelPick,
@@ -16,23 +15,10 @@ from app.modules.templates.domain.entities import (
 from app.modules.templates.infrastructure.repositories import MongoTemplateRepository
 from app.modules.templates.presentation.schemas import (
     CreateTemplateRequest,
-    ForkCreateTripRequest,
     TemplateListItem,
     TemplateResponse,
     UpdateTemplateRequest,
 )
-from app.modules.playlists.infrastructure.repositories import MongoPlaylistRepository
-from app.modules.trips.infrastructure.repositories import MongoTripRepository
-from app.modules.trips.domain.entities import (
-    SavedBusJourney,
-    SavedBusSegment,
-    SavedFlight,
-    SavedFlightLeg,
-    SavedHotel,
-)
-from app.modules.trips.presentation.schemas import TripResponse
-from app.modules.users.domain.entities import User
-from app.modules.users.presentation.router import get_current_user
 
 router = APIRouter(prefix="/templates", tags=["templates"])
 
@@ -40,13 +26,6 @@ router = APIRouter(prefix="/templates", tags=["templates"])
 def get_template_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> TemplateService:
     repo = MongoTemplateRepository(db["trip_templates"])
     return TemplateService(repo)
-
-
-def get_fork_service(db: AsyncIOMotorDatabase = Depends(get_db)) -> ForkService:
-    template_repo = MongoTemplateRepository(db["trip_templates"])
-    trip_repo = MongoTripRepository(db["trips"])
-    playlist_repo = MongoPlaylistRepository(db["playlists"])
-    return ForkService(template_repo, trip_repo, playlist_repo)
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────
@@ -308,173 +287,3 @@ async def fork_template(
     return {"template_id": result, "message": "Fork registered. Use fork-guide to build your trip."}
 
 
-@router.post(
-    "/{template_id}/fork/create-trip",
-    response_model=TripResponse,
-    status_code=status.HTTP_201_CREATED,
-)
-async def create_trip_from_template(
-    template_id: str,
-    req: ForkCreateTripRequest,
-    current_user: User = Depends(get_current_user),
-    fork_service: ForkService = Depends(get_fork_service),
-) -> TripResponse:
-    """
-    Create a full Trip from a published template.
-
-    Copies attractions & restaurants from template playlists,
-    assigns concrete dates based on start_date, saves the selected
-    flights/hotels/buses, and increments the template's fork count.
-    """
-    # Validate start_date format
-    try:
-        from datetime import datetime
-        datetime.strptime(req.start_date, "%Y-%m-%d")
-    except ValueError:
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST,
-            detail="start_date must be in YYYY-MM-DD format.",
-        )
-
-    # Convert outbound flight input to SavedFlight
-    outbound_flight = _fork_flight_to_saved(req.outbound_flight)
-
-    # Convert return flight
-    return_flight: SavedFlight | None = None
-    if req.return_flight:
-        return_flight = _fork_flight_to_saved(req.return_flight)
-
-    # Convert hotels
-    hotels = [
-        SavedHotel(
-            hotel_id=h.hotel_id,
-            name=h.name,
-            city=h.city,
-            address=h.address,
-            latitude=h.latitude,
-            longitude=h.longitude,
-            photo_url=h.photo_url,
-            stars=h.stars,
-            review_score=h.review_score,
-            review_score_word=h.review_score_word,
-            checkin_date=h.checkin_date,
-            checkout_date=h.checkout_date,
-            price_per_night=h.price_per_night,
-            price_total=h.price_total,
-            currency=h.currency,
-            booking_url=h.booking_url,
-        )
-        for h in req.hotels
-    ]
-
-    # Convert buses
-    buses = [_fork_bus_to_saved(b) for b in req.buses]
-
-    trip = await fork_service.create_trip_from_template(
-        template_id=template_id,
-        user_id=current_user.id,
-        user_first_name=current_user.first_name,
-        user_last_name=current_user.last_name,
-        name=req.name,
-        start_date=req.start_date,
-        outbound_flight=outbound_flight,
-        return_flight=return_flight,
-        hotels=hotels,
-        buses=buses,
-    )
-
-    if trip is None:
-        raise HTTPException(
-            status_code=status.HTTP_404_NOT_FOUND,
-            detail="Template not found, not published, or has no content to fork.",
-        )
-
-    return TripResponse.from_entity(trip)
-
-
-def _fork_flight_to_saved(inp) -> SavedFlight:
-    """Convert a ForkFlightInput into a SavedFlight domain entity."""
-    import re
-
-    legs = [
-        SavedFlightLeg(
-            flight_number=leg.flight_number,
-            airline=leg.airline,
-            airline_logo=leg.airline_logo,
-            airplane="",
-            departure_airport=leg.departure_airport,
-            departure_airport_name=leg.departure_airport_name,
-            arrival_airport=leg.arrival_airport,
-            arrival_airport_name=leg.arrival_airport_name,
-            departure_time=leg.departure_time,
-            arrival_time=leg.arrival_time,
-            duration_minutes=leg.duration_minutes,
-            travel_class="Economy",
-            legroom="",
-            is_overnight=False,
-        )
-        for leg in inp.legs
-    ]
-
-    # Build flight_id
-    flight_id = ""
-    if inp.legs:
-        first = inp.legs[0]
-        last = inp.legs[-1]
-        date_slug = re.sub(r"\D", "", first.departure_time.split("T")[0])[:8]
-        fn_slug = re.sub(r"\s+", "", first.flight_number).upper()
-        flight_id = f"{first.departure_airport}-{last.arrival_airport}-{date_slug}-{fn_slug}"
-
-    return SavedFlight(
-        flight_id=flight_id,
-        price=inp.price,
-        currency=inp.currency,
-        total_duration_minutes=inp.total_duration_minutes,
-        stops=inp.stops,
-        airline_logo=inp.airline_logo,
-        booking_token=inp.booking_token,
-        legs=legs,
-    )
-
-
-def _fork_bus_to_saved(inp) -> SavedBusJourney:
-    """Convert a ForkBusInput into a SavedBusJourney domain entity."""
-    import re
-
-    segments = [
-        SavedBusSegment(
-            dep_name=s.dep_name,
-            arr_name=s.arr_name,
-            dep_time=s.dep_time,
-            arr_time=s.arr_time,
-            product_type=s.product_type,
-            product=s.product,
-        )
-        for s in inp.segments
-    ]
-
-    dep_slug = re.sub(r"\s+", "_", inp.dep_name.lower())[:20]
-    arr_slug = re.sub(r"\s+", "_", inp.arr_name.lower())[:20]
-    date_slug = re.sub(r"\D", "", inp.dep_time.split("T")[0])[:8]
-    journey_id = f"{dep_slug}-{arr_slug}-{date_slug}"
-
-    # Calculate duration string from minutes
-    hours = inp.duration_minutes // 60
-    minutes = inp.duration_minutes % 60
-    duration_str = f"{hours:02d}:{minutes:02d}"
-
-    return SavedBusJourney(
-        journey_id=journey_id,
-        dep_name=inp.dep_name,
-        arr_name=inp.arr_name,
-        dep_time=inp.dep_time,
-        arr_time=inp.arr_time,
-        duration=duration_str,
-        duration_minutes=inp.duration_minutes,
-        changeovers=inp.changeovers,
-        price=inp.price,
-        currency=inp.currency,
-        deeplink=inp.deeplink,
-        additional_info="",
-        segments=segments,
-    )
