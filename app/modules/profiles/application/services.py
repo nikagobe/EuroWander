@@ -88,16 +88,15 @@ class ProfileService:
         total_distance = 0.0
 
         for trip in completed:
-            # Collect destination cities from flight arrival airports
-            for flight in (trip.outbound_flight, trip.return_flight):
+            flights = [f for f in (trip.outbound_flight, trip.return_flight) if f is not None]
+            for flight in flights:
                 for leg in flight.legs:
+                    # Collect destination cities
                     arr_name = leg.arrival_airport_name
                     if arr_name:
                         city_counter[arr_name] += 1
 
-            # Compute distance from flight leg airports
-            for flight in (trip.outbound_flight, trip.return_flight):
-                for leg in flight.legs:
+                    # Compute distance between departure and arrival airports
                     dep = await self._airport_repo.get_by_iata(leg.departure_airport)
                     arr = await self._airport_repo.get_by_iata(leg.arrival_airport)
                     if dep and arr and dep.lat and dep.lng and arr.lat and arr.lng:
@@ -126,7 +125,8 @@ class ProfileService:
         bus_count = 0
 
         for trip in completed:
-            for flight in (trip.outbound_flight, trip.return_flight):
+            flights = [f for f in (trip.outbound_flight, trip.return_flight) if f is not None]
+            for flight in flights:
                 flight_count += 1
                 for leg in flight.legs:
                     apt = await self._airport_repo.get_by_iata(leg.arrival_airport)
