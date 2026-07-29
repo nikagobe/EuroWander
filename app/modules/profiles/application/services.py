@@ -17,7 +17,7 @@ from app.modules.profiles.domain.entities import (
     UserProfile,
 )
 from app.modules.profiles.domain.interfaces import ProfileRepository, ProfileStorageProvider
-from app.modules.trips.domain.entities import Trip, TripStatus
+from app.modules.trips.domain.entities import Trip
 from app.modules.trips.domain.interfaces import TripRepository
 
 _ALLOWED_IMAGE_TYPES: set[str] = {"image/jpeg", "image/png", "image/webp"}
@@ -81,13 +81,13 @@ class ProfileService:
     # ── Travel Statistics ─────────────────────────────────────────────────────
 
     async def get_stats(self, user_id: str) -> TravelStats:
-        """Compute travel statistics from completed trips."""
-        completed = await self._trip_repo.list_by_user_status(user_id, TripStatus.COMPLETED)
+        """Compute travel statistics from all trips (status is deprecated)."""
+        all_trips = await self._trip_repo.list_by_user(user_id)
 
         city_counter: Counter[str] = Counter()
         total_distance = 0.0
 
-        for trip in completed:
+        for trip in all_trips:
             flights = [f for f in (trip.outbound_flight, trip.return_flight) if f is not None]
             for flight in flights:
                 for leg in flight.legs:
@@ -106,7 +106,7 @@ class ProfileService:
         favorite = city_counter.most_common(1)[0][0] if city_counter else ""
 
         return TravelStats(
-            trips_completed=len(completed),
+            trips_completed=len(all_trips),
             cities_visited=cities,
             total_distance_km=round(total_distance, 1),
             favorite_destination=favorite,
@@ -115,16 +115,15 @@ class ProfileService:
     # ── Badges ────────────────────────────────────────────────────────────────
 
     async def get_badges(self, user_id: str) -> list[Badge]:
-        """Compute earned badges from trip data."""
+        """Compute earned badges from trip data (all trips count — status is deprecated)."""
         all_trips = await self._trip_repo.list_by_user(user_id)
-        completed = [t for t in all_trips if t.status == TripStatus.COMPLETED]
 
         # Count unique countries via airport country codes
         country_codes: set[str] = set()
         flight_count = 0
         bus_count = 0
 
-        for trip in completed:
+        for trip in all_trips:
             flights = [f for f in (trip.outbound_flight, trip.return_flight) if f is not None]
             for flight in flights:
                 flight_count += 1
@@ -140,7 +139,7 @@ class ProfileService:
         shared_trips = sum(1 for t in all_trips if len(t.members) > 0)
 
         return compute_badges(
-            trips_completed=len(completed),
+            trips_completed=len(all_trips),
             trips_created=trips_created,
             countries_visited_count=len(country_codes),
             flight_count=flight_count,
@@ -201,16 +200,12 @@ class ProfileService:
     async def get_activity_feed(
         self, user_id: str, limit: int = 10
     ) -> dict[str, list[Trip]]:
-        """Return recent completed trips and upcoming (planning/booked) trips."""
-        completed = await self._trip_repo.list_by_user_status(user_id, TripStatus.COMPLETED)
-        planning = await self._trip_repo.list_by_user_status(user_id, TripStatus.PLANNING)
-        booked = await self._trip_repo.list_by_user_status(user_id, TripStatus.BOOKED)
-
-        upcoming = sorted(planning + booked, key=lambda t: t.created_at, reverse=True)
+        """Return all trips as recent activity (status is deprecated)."""
+        all_trips = await self._trip_repo.list_by_user(user_id)
 
         return {
-            "recent_completed": completed[:limit],
-            "upcoming": upcoming[:limit],
+            "recent_completed": all_trips[:limit],
+            "upcoming": [],
         }
 
     # ── Profile Photo Upload ─────────────────────────────────────────────────
