@@ -9,6 +9,9 @@ class AirportRepository(ABC):
     async def get_by_iata(self, iata_code: str) -> Airport | None: ...
 
     @abstractmethod
+    async def get_many_by_iata(self, iata_codes: list[str]) -> dict[str, Airport]: ...
+
+    @abstractmethod
     async def get_by_country(self, country_code: str) -> list[Airport]: ...
 
     @abstractmethod

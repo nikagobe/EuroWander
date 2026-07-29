@@ -30,6 +30,14 @@ class MongoAirportRepository(AirportRepository):
         doc = await self._col.find_one({"iata_code": iata_code.upper()})
         return self._to_entity(doc) if doc else None
 
+    async def get_many_by_iata(self, iata_codes: list[str]) -> dict[str, Airport]:
+        if not iata_codes:
+            return {}
+        upper_codes = list({c.upper() for c in iata_codes})
+        cursor = self._col.find({"iata_code": {"$in": upper_codes}})
+        docs = await cursor.to_list(length=None)
+        return {doc["iata_code"]: self._to_entity(doc) for doc in docs}
+
     async def get_by_country(self, country_code: str) -> list[Airport]:
         cursor = self._col.find(
             {"country_code": country_code.upper()},

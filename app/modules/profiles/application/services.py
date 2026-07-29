@@ -3,10 +3,12 @@ Profile application service — orchestrates domain logic and repositories.
 No FastAPI or Pydantic imports here.
 """
 
+import asyncio
 import uuid
 from collections import Counter
 from datetime import datetime
 
+from app.modules.airports.domain.entities import Airport
 from app.modules.airports.domain.interfaces import AirportRepository
 from app.modules.profiles.domain.badge_rules import compute_badges
 from app.modules.profiles.domain.distance import haversine_km
@@ -78,27 +80,67 @@ class ProfileService:
         profile.updated_at = datetime.utcnow()
         return await self._profile_repo.upsert(profile)
 
+    # ── Full Profile (optimized) ──────────────────────────────────────────────
+
+    async def get_full_profile(
+        self, user_id: str
+    ) -> tuple[UserProfile, TravelStats, list[Badge], list[FrequentCollaborator]]:
+        """Fetch full profile data in one optimized call.
+
+        - Fetches trips ONCE and reuses across stats/badges/collaborators.
+        - Batches airport lookups instead of N+1 queries.
+        - Runs independent work concurrently.
+        """
+        # Fetch profile and trips concurrently
+        profile_coro = self.get_profile(user_id)
+        trips_coro = self._trip_repo.list_by_user(user_id)
+        trips_created_coro = self._trip_repo.count_created_by_user(user_id)
+
+        profile, all_trips, trips_created = await asyncio.gather(
+            profile_coro, trips_coro, trips_created_coro
+        )
+
+        # Collect all IATA codes needed across stats + badges in one pass
+        iata_codes: set[str] = set()
+        for trip in all_trips:
+            for flight in (trip.outbound_flight, trip.return_flight):
+                if flight:
+                    for leg in flight.legs:
+                        iata_codes.add(leg.departure_airport)
+                        iata_codes.add(leg.arrival_airport)
+
+        # Single batch query for all airports
+        airport_map: dict[str, Airport] = await self._airport_repo.get_many_by_iata(
+            list(iata_codes)
+        )
+
+        # Compute stats and badges using pre-fetched data (no more DB calls)
+        stats = self._compute_stats(all_trips, airport_map)
+        badges = self._compute_badges(all_trips, airport_map, trips_created)
+        collaborators = await self._compute_collaborators(user_id, all_trips)
+
+        return profile, stats, badges, collaborators
+
     # ── Travel Statistics ─────────────────────────────────────────────────────
 
-    async def get_stats(self, user_id: str) -> TravelStats:
-        """Compute travel statistics from all trips (status is deprecated)."""
-        all_trips = await self._trip_repo.list_by_user(user_id)
-
+    def _compute_stats(
+        self, all_trips: list[Trip], airport_map: dict[str, Airport]
+    ) -> TravelStats:
+        """Compute travel statistics from pre-fetched trips and airports."""
         city_counter: Counter[str] = Counter()
         total_distance = 0.0
 
         for trip in all_trips:
-            flights = [f for f in (trip.outbound_flight, trip.return_flight) if f is not None]
-            for flight in flights:
+            for flight in (trip.outbound_flight, trip.return_flight):
+                if not flight:
+                    continue
                 for leg in flight.legs:
-                    # Collect destination cities
                     arr_name = leg.arrival_airport_name
                     if arr_name:
                         city_counter[arr_name] += 1
 
-                    # Compute distance between departure and arrival airports
-                    dep = await self._airport_repo.get_by_iata(leg.departure_airport)
-                    arr = await self._airport_repo.get_by_iata(leg.arrival_airport)
+                    dep = airport_map.get(leg.departure_airport.upper())
+                    arr = airport_map.get(leg.arrival_airport.upper())
                     if dep and arr and dep.lat and dep.lng and arr.lat and arr.lng:
                         total_distance += haversine_km(dep.lat, dep.lng, arr.lat, arr.lng)
 
@@ -112,30 +154,45 @@ class ProfileService:
             favorite_destination=favorite,
         )
 
+    async def get_stats(self, user_id: str) -> TravelStats:
+        """Compute travel statistics (standalone, less optimal)."""
+        all_trips = await self._trip_repo.list_by_user(user_id)
+        iata_codes: set[str] = set()
+        for trip in all_trips:
+            for flight in (trip.outbound_flight, trip.return_flight):
+                if flight:
+                    for leg in flight.legs:
+                        iata_codes.add(leg.departure_airport)
+                        iata_codes.add(leg.arrival_airport)
+        airport_map = await self._airport_repo.get_many_by_iata(list(iata_codes))
+        return self._compute_stats(all_trips, airport_map)
+
     # ── Badges ────────────────────────────────────────────────────────────────
 
-    async def get_badges(self, user_id: str) -> list[Badge]:
-        """Compute earned badges from trip data (all trips count — status is deprecated)."""
-        all_trips = await self._trip_repo.list_by_user(user_id)
-
-        # Count unique countries via airport country codes
+    def _compute_badges(
+        self,
+        all_trips: list[Trip],
+        airport_map: dict[str, Airport],
+        trips_created: int,
+    ) -> list[Badge]:
+        """Compute badges from pre-fetched data."""
         country_codes: set[str] = set()
         flight_count = 0
         bus_count = 0
 
         for trip in all_trips:
-            flights = [f for f in (trip.outbound_flight, trip.return_flight) if f is not None]
-            for flight in flights:
+            for flight in (trip.outbound_flight, trip.return_flight):
+                if not flight:
+                    continue
                 flight_count += 1
                 for leg in flight.legs:
-                    apt = await self._airport_repo.get_by_iata(leg.arrival_airport)
+                    apt = airport_map.get(leg.arrival_airport.upper())
                     if apt:
                         country_codes.add(apt.country_code)
 
             if trip.bus_journey is not None:
                 bus_count += 1
 
-        trips_created = await self._trip_repo.count_created_by_user(user_id)
         shared_trips = sum(1 for t in all_trips if len(t.members) > 0)
 
         return compute_badges(
@@ -147,40 +204,43 @@ class ProfileService:
             shared_trip_count=shared_trips,
         )
 
+    async def get_badges(self, user_id: str) -> list[Badge]:
+        """Compute earned badges (standalone, less optimal)."""
+        all_trips = await self._trip_repo.list_by_user(user_id)
+        iata_codes: set[str] = set()
+        for trip in all_trips:
+            for flight in (trip.outbound_flight, trip.return_flight):
+                if flight:
+                    for leg in flight.legs:
+                        iata_codes.add(leg.arrival_airport)
+        airport_map = await self._airport_repo.get_many_by_iata(list(iata_codes))
+        trips_created = await self._trip_repo.count_created_by_user(user_id)
+        return self._compute_badges(all_trips, airport_map, trips_created)
+
     # ── Frequent Collaborators ────────────────────────────────────────────────
 
-    async def get_collaborators(
-        self, user_id: str, limit: int = 5
+    async def _compute_collaborators(
+        self, user_id: str, all_trips: list[Trip], limit: int = 5
     ) -> list[FrequentCollaborator]:
         """Top N users this person has shared the most trips with."""
-        all_trips = await self._trip_repo.list_by_user(user_id)
-
         co_traveller_counter: Counter[str] = Counter()
-        member_info: dict[str, tuple[str, str]] = {}  # user_id -> (first, last)
+        member_info: dict[str, tuple[str, str]] = {}
 
         for trip in all_trips:
-            # Collect all participant IDs (owner + members) excluding self
             participant_ids: set[str] = {trip.user_id}
             for m in trip.members:
                 participant_ids.add(m.user_id)
                 if m.user_id != user_id:
                     member_info[m.user_id] = (m.first_name, m.last_name)
 
-            # If trip owner is someone else, record them too
-            if trip.user_id != user_id:
-                # We don't have owner names in trip doc directly — stored as member_info if they appear
-                pass
-
             participant_ids.discard(user_id)
             for pid in participant_ids:
                 co_traveller_counter[pid] += 1
 
-        # Get profile photos for top collaborators
         top = co_traveller_counter.most_common(limit)
         collaborators: list[FrequentCollaborator] = []
         for collab_id, count in top:
             first, last = member_info.get(collab_id, ("", ""))
-            # Look up their profile photo
             collab_profile = await self._profile_repo.get_by_user_id(collab_id)
             photo = collab_profile.profile_photo_url if collab_profile else ""
             collaborators.append(
@@ -194,6 +254,13 @@ class ProfileService:
             )
 
         return collaborators
+
+    async def get_collaborators(
+        self, user_id: str, limit: int = 5
+    ) -> list[FrequentCollaborator]:
+        """Top N users this person has shared the most trips with (standalone)."""
+        all_trips = await self._trip_repo.list_by_user(user_id)
+        return await self._compute_collaborators(user_id, all_trips, limit)
 
     # ── Activity Feed ─────────────────────────────────────────────────────────
 

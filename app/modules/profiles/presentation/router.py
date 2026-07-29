@@ -95,10 +95,7 @@ async def get_my_profile(
     service: ProfileService = Depends(get_profile_service),
 ) -> FullProfileResponse:
     """Full profile overview: personalization + stats + badges + collaborators."""
-    profile = await service.get_profile(current_user.id)
-    stats = await service.get_stats(current_user.id)
-    badges = await service.get_badges(current_user.id)
-    collaborators = await service.get_collaborators(current_user.id)
+    profile, stats, badges, collaborators = await service.get_full_profile(current_user.id)
 
     return FullProfileResponse(
         profile=ProfileResponse.from_entity(profile),
@@ -165,10 +162,7 @@ async def get_user_profile(
     service: ProfileService = Depends(get_profile_service),
 ) -> FullProfileResponse:
     """View another user's public profile."""
-    profile = await service.get_profile(user_id)
-    stats = await service.get_stats(user_id)
-    badges = await service.get_badges(user_id)
-    collaborators = await service.get_collaborators(user_id)
+    profile, stats, badges, collaborators = await service.get_full_profile(user_id)
 
     return FullProfileResponse(
         profile=ProfileResponse.from_entity(profile),
